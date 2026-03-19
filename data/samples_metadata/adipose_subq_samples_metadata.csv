@@ -1,0 +1,979 @@
+Tissue Sample ID,Tissue,Subject ID,Sex,Age Bracket,Hardy Scale,Pathology Categories,Pathology Notes,Tissue ID
+GTEX-1117F-0226,Adipose - Subcutaneous,GTEX-1117F,female,60-69,Slow death,,"2 pieces, ~15% vessel stroma, rep delineated",adipose_subq
+GTEX-111CU-1826,Adipose - Subcutaneous,GTEX-111CU,male,50-59,Ventilator case,,"2 pieces, small portion of nerve (<10% of one piece)",adipose_subq
+GTEX-111FC-0226,Adipose - Subcutaneous,GTEX-111FC,male,60-69,Fast death - violent,,"2 pieces, larger piece is 30% fibrovascular tissue and nerve, smaller piece ~10%",adipose_subq
+GTEX-111FC-1426,Adipose - Subcutaneous,GTEX-111FC,male,60-69,Fast death - violent,,"2 pieces, adipose tissue (not pancreas as initially designated)",adipose_subq
+GTEX-111VG-2326,Adipose - Subcutaneous,GTEX-111VG,male,60-69,Intermediate death,,2 pieces,adipose_subq
+GTEX-111YS-2426,Adipose - Subcutaneous,GTEX-111YS,male,60-69,Ventilator case,,3 small irregular pieces,adipose_subq
+GTEX-1122O-2026,Adipose - Subcutaneous,GTEX-1122O,female,60-69,Ventilator case,,2 pieces,adipose_subq
+GTEX-1128S-2126,Adipose - Subcutaneous,GTEX-1128S,female,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-113IC-0226,Adipose - Subcutaneous,GTEX-113IC,male,60-69,Fast death - natural causes,,"2 pieces, 40-50% adipose tissue (delineated), rest is fibroconnective tissue",adipose_subq
+GTEX-113JC-2526,Adipose - Subcutaneous,GTEX-113JC,female,50-59,Fast death - natural causes,,2 pieces; smaller piece has 20% fibrous tissue,adipose_subq
+GTEX-117XS-2426,Adipose - Subcutaneous,GTEX-117XS,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-117YW-2326,Adipose - Subcutaneous,GTEX-117YW,male,50-59,Intermediate death,,2 pieces (fragmented),adipose_subq
+GTEX-117YX-2226,Adipose - Subcutaneous,GTEX-117YX,male,50-59,Ventilator case,,"2 pieces, 1 with 20% fibrous tissue",adipose_subq
+GTEX-1192W-2426,Adipose - Subcutaneous,GTEX-1192W,male,60-69,Fast death - natural causes,,"2 pieces, ~15% fascia/fibrous tissue, rep delineated",adipose_subq
+GTEX-1192X-0126,Adipose - Subcutaneous,GTEX-1192X,male,50-59,Slow death,,"2 pieces, ~10% fascia/connective tissue",adipose_subq
+GTEX-11DXW-0326,Adipose - Subcutaneous,GTEX-11DXW,male,40-49,Fast death - natural causes,,"2 pieces, ~20 and 30% fibrous with few larger vessels",adipose_subq
+GTEX-11DXX-2326,Adipose - Subcutaneous,GTEX-11DXX,female,60-69,Ventilator case,,"2 pieces, few large vessels and nerve, central holes",adipose_subq
+GTEX-11DXY-2526,Adipose - Subcutaneous,GTEX-11DXY,male,60-69,Fast death - natural causes,,"2 pieces, 20-30% is fibrous tissue, vessels, and nerve",adipose_subq
+GTEX-11DXZ-2226,Adipose - Subcutaneous,GTEX-11DXZ,male,50-59,Ventilator case,,2 pieces,adipose_subq
+GTEX-11DYG-0226,Adipose - Subcutaneous,GTEX-11DYG,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-11DZ1-0226,Adipose - Subcutaneous,GTEX-11DZ1,male,50-59,Slow death,,2 pieces; 10% fibrovascular content,adipose_subq
+GTEX-11EI6-0226,Adipose - Subcutaneous,GTEX-11EI6,male,60-69,Slow death,,"2 pieces, ~10-15% fascia/fibrous tissue, rep. delineated",adipose_subq
+GTEX-11EM3-2326,Adipose - Subcutaneous,GTEX-11EM3,female,20-29,Ventilator case,sweat_glands,"2 pieces, one is ~10% fibrous with few sweat glands",adipose_subq
+GTEX-11EMC-2826,Adipose - Subcutaneous,GTEX-11EMC,female,60-69,Fast death - natural causes,fibrosis,"2 pieces, ~20% fascia/fibrous tissue, rep delineated",adipose_subq
+GTEX-11EQ8-0226,Adipose - Subcutaneous,GTEX-11EQ8,male,60-69,Slow death,,2 pieces,adipose_subq
+GTEX-11EQ9-2526,Adipose - Subcutaneous,GTEX-11EQ9,male,30-39,Fast death - natural causes,,2 pieces~10% fibrous tissue/fascia,adipose_subq
+GTEX-11GS4-2626,Adipose - Subcutaneous,GTEX-11GS4,male,60-69,Fast death - natural causes,,"2 pieces, includes small portion of nerve, detached fragment of skeletal muscle abuts one piece of fat",adipose_subq
+GTEX-11GSO-2326,Adipose - Subcutaneous,GTEX-11GSO,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-11GSP-2626,Adipose - Subcutaneous,GTEX-11GSP,female,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-11H98-0226,Adipose - Subcutaneous,GTEX-11H98,male,50-59,Fast death - natural causes,,3 pieces; 20% fibrous component,adipose_subq
+GTEX-11I78-2626,Adipose - Subcutaneous,GTEX-11I78,female,50-59,Ventilator case,,"2 pieces, ~5% fascia/vascular tissue, delineated",adipose_subq
+GTEX-11ILO-0226,Adipose - Subcutaneous,GTEX-11ILO,female,40-49,Ventilator case,,2 pieces,adipose_subq
+GTEX-11LCK-1126,Adipose - Subcutaneous,GTEX-11LCK,male,30-39,Ventilator case,,"2 pieces ~5% fibrous/fascial tissue, delineated",adipose_subq
+GTEX-11NSD-2126,Adipose - Subcutaneous,GTEX-11NSD,male,20-29,Ventilator case,no_abnormalities,"2 pieces, no abnormalities, ~15% fascia/fibrous tissue",adipose_subq
+GTEX-11NUK-0326,Adipose - Subcutaneous,GTEX-11NUK,male,50-59,Fast death - natural causes,,"2 pieces, includes portion of nerve and small fragment of skeletal muscle",adipose_subq
+GTEX-11NV4-0226,Adipose - Subcutaneous,GTEX-11NV4,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-11O72-0226,Adipose - Subcutaneous,GTEX-11O72,male,40-49,Fast death - natural causes,sweat_glands,"2 pieces; 1 piece is 60% fibrous, also  contains a sweat gland (annotated); other has 10% fibrous tissue",adipose_subq
+GTEX-11OC5-0226,Adipose - Subcutaneous,GTEX-11OC5,male,60-69,Fast death - natural causes,,"2pieces, ~30% fibrous connective/fascia; peripheral nerves/vessels entrapped, ensquared/delineated",adipose_subq
+GTEX-11OF3-2426,Adipose - Subcutaneous,GTEX-11OF3,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-11ONC-2526,Adipose - Subcutaneous,GTEX-11ONC,male,60-69,Fast death - natural causes,,2 pieces; 20% fibrous tissue in 1 piece,adipose_subq
+GTEX-11P7K-2026,Adipose - Subcutaneous,GTEX-11P7K,male,30-39,Ventilator case,,2 pieces; 20% fibrous content,adipose_subq
+GTEX-11P81-2426,Adipose - Subcutaneous,GTEX-11P81,female,30-39,Ventilator case,,2 pieces,adipose_subq
+GTEX-11P82-1726,Adipose - Subcutaneous,GTEX-11P82,male,20-29,Fast death - violent,,"2 pieces, ~30% fibrous/fascial tissue, delineated",adipose_subq
+GTEX-11PRG-0626,Adipose - Subcutaneous,GTEX-11PRG,male,50-59,Fast death - natural causes,,"2 pieces, ~40% fibrous/fascial tissue, delineated",adipose_subq
+GTEX-11TT1-2426,Adipose - Subcutaneous,GTEX-11TT1,male,20-29,Ventilator case,,"2 pieces, small component of fibrous tissue/vessels",adipose_subq
+GTEX-11TTK-0226,Adipose - Subcutaneous,GTEX-11TTK,female,60-69,Slow death,,2 pieces,adipose_subq
+GTEX-11TUW-2626,Adipose - Subcutaneous,GTEX-11TUW,male,60-69,Fast death - natural causes,,"2 pieces, one piece is ~20% tendon/fibrous tissue",adipose_subq
+GTEX-11UD1-0226,Adipose - Subcutaneous,GTEX-11UD1,female,40-49,Intermediate death,necrosis,"2 pieces, one is ~5-10% fibrovascular tissue, atypical cells ? fat necrosis",adipose_subq
+GTEX-11UD2-0126,Adipose - Subcutaneous,GTEX-11UD2,male,50-59,Fast death - natural causes,,"2 pieces, ~10% fibrovacular tissue, rep. dlineated",adipose_subq
+GTEX-11VI4-1826,Adipose - Subcutaneous,GTEX-11VI4,female,40-49,Ventilator case,,2 pieces; large blood vessels and fibrous stroma occupy 60%,adipose_subq
+GTEX-11WQC-2426,Adipose - Subcutaneous,GTEX-11WQC,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-11WQK-0626,Adipose - Subcutaneous,GTEX-11WQK,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces, scant fibrous tissue, good specimens",adipose_subq
+GTEX-11XUK-2126,Adipose - Subcutaneous,GTEX-11XUK,female,40-49,Ventilator case,,2 pieces,adipose_subq
+GTEX-11ZTS-0226,Adipose - Subcutaneous,GTEX-11ZTS,female,60-69,Fast death - natural causes,,"2 pieces, ~10% fibrovascular tissue, delineated",adipose_subq
+GTEX-11ZTT-2526,Adipose - Subcutaneous,GTEX-11ZTT,female,60-69,Ventilator case,,"2 pieces, <10% is fibrous/vascular",adipose_subq
+GTEX-11ZU8-2426,Adipose - Subcutaneous,GTEX-11ZU8,male,60-69,Slow death,,"2 pieces, ~5% fibrovascular tissue, rep delineated",adipose_subq
+GTEX-11ZUS-0726,Adipose - Subcutaneous,GTEX-11ZUS,male,30-39,Fast death - violent,,"2 pieces, one is ~20% nerve and vessels",adipose_subq
+GTEX-11ZVC-2626,Adipose - Subcutaneous,GTEX-11ZVC,female,50-59,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-1211K-2226,Adipose - Subcutaneous,GTEX-1211K,female,60-69,Ventilator case,,"2 pieces, ~40% intermingled fascia/fibrous tissue, delineated",adipose_subq
+GTEX-12126-0426,Adipose - Subcutaneous,GTEX-12126,male,20-29,Fast death - violent,,2 pieces; scattered tissue holes,adipose_subq
+GTEX-1212Z-2426,Adipose - Subcutaneous,GTEX-1212Z,male,60-69,Fast death - natural causes,,"2 pieces, several large central defects (poor fixation), ~10% fibrous",adipose_subq
+GTEX-12584-0226,Adipose - Subcutaneous,GTEX-12584,male,40-49,Intermediate death,,"2 pieces: 1 50% fibrous content, other 20% fibrous",adipose_subq
+GTEX-12696-2526,Adipose - Subcutaneous,GTEX-12696,male,60-69,Intermediate death,,"2 pieces; 10-20% fibro/fascial tissue, rep. delineated",adipose_subq
+GTEX-1269C-2726,Adipose - Subcutaneous,GTEX-1269C,female,60-69,Fast death - natural causes,,"2 pieces, 30-40% fibrovascular tissue",adipose_subq
+GTEX-1269W-0426,Adipose - Subcutaneous,GTEX-1269W,male,60-69,Slow death,,,adipose_subq
+GTEX-12BJ1-2326,Adipose - Subcutaneous,GTEX-12BJ1,male,60-69,Ventilator case,,"2 pieces, ~10-20% fibrovascular/fascial tissue, rep. delineated",adipose_subq
+GTEX-12C56-1626,Adipose - Subcutaneous,GTEX-12C56,male,20-29,Ventilator case,"hemorrhage, sweat_glands","2 pieces, one includes ~20% stroma and sweat glands, second has region of hemorrhage",adipose_subq
+GTEX-12KS4-0426,Adipose - Subcutaneous,GTEX-12KS4,male,30-39,Ventilator case,,"2 pieces, ~15% fibrovascular/fascial tissue, rep delineated",adipose_subq
+GTEX-12WS9-0226,Adipose - Subcutaneous,GTEX-12WS9,female,50-59,Intermediate death,,"2 pieces, ~10% fibrovascular elements, rep. delineated",adipose_subq
+GTEX-12WSA-0326,Adipose - Subcutaneous,GTEX-12WSA,male,60-69,Slow death,,"2 pieces, ~10-15% fibro-fascial elements, rep. delineated",adipose_subq
+GTEX-12WSB-0226,Adipose - Subcutaneous,GTEX-12WSB,female,60-69,Slow death,,2 pieces,adipose_subq
+GTEX-12WSC-0226,Adipose - Subcutaneous,GTEX-12WSC,male,50-59,Fast death - natural causes,,"2 pieces, one includes several large vessels",adipose_subq
+GTEX-12WSD-0226,Adipose - Subcutaneous,GTEX-12WSD,female,60-69,Fast death - natural causes,,"3 pieces; ~1--15% fibrofascial tissue or vascular elements, rep. delineated",adipose_subq
+GTEX-12WSE-0626,Adipose - Subcutaneous,GTEX-12WSE,male,20-29,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-12WSF-0226,Adipose - Subcutaneous,GTEX-12WSF,male,70-79,Slow death,,"2 pieces, ~10-15% fibro-fascial tisssue, rep. delineated",adipose_subq
+GTEX-12WSG-2926,Adipose - Subcutaneous,GTEX-12WSG,female,50-59,Ventilator case,,"2 pieces, scattered giant cell reaction with asteroid bodies within fibrous component",adipose_subq
+GTEX-12WSH-2626,Adipose - Subcutaneous,GTEX-12WSH,male,50-59,Fast death - natural causes,,4 pieces,adipose_subq
+GTEX-12WSI-2426,Adipose - Subcutaneous,GTEX-12WSI,male,50-59,Fast death - natural causes,,"2 pieces, ~30-40% fibro-fascial elements, rep foci delineated",adipose_subq
+GTEX-12WSJ-2126,Adipose - Subcutaneous,GTEX-12WSJ,female,40-49,Ventilator case,,2 pieces (fragmented),adipose_subq
+GTEX-12WSK-2526,Adipose - Subcutaneous,GTEX-12WSK,female,40-49,Ventilator case,,"2 pieces, focal fascia, delineated",adipose_subq
+GTEX-12WSL-2426,Adipose - Subcutaneous,GTEX-12WSL,male,50-59,Ventilator case,,2 pieces; 1 piece has 40% fibrous component; other has a large central defect (40%),adipose_subq
+GTEX-12WSM-0226,Adipose - Subcutaneous,GTEX-12WSM,male,60-69,Fast death - natural causes,,2 pieces fascia/fibrous tissue is ~10-15% total,adipose_subq
+GTEX-12WSN-2426,Adipose - Subcutaneous,GTEX-12WSN,male,40-49,Ventilator case,,"2 pieces, fibroadipose tissue",adipose_subq
+GTEX-12ZZW-0226,Adipose - Subcutaneous,GTEX-12ZZW,male,50-59,Slow death,,"2 pieces, ~10% fascisa/fibrous tissue, delineated (rep)",adipose_subq
+GTEX-12ZZX-0226,Adipose - Subcutaneous,GTEX-12ZZX,female,40-49,Fast death - violent,,"2 pieces, ~10% fascial/vasuclar tissue; rep delineated",adipose_subq
+GTEX-12ZZY-0326,Adipose - Subcutaneous,GTEX-12ZZY,male,60-69,Fast death - natural causes,,"2 pieces,j ~10% fibrofascial tissue, delineated",adipose_subq
+GTEX-12ZZZ-0526,Adipose - Subcutaneous,GTEX-12ZZZ,male,60-69,Fast death - natural causes,,2 pieces; several central empty spaces,adipose_subq
+GTEX-13111-1726,Adipose - Subcutaneous,GTEX-13111,male,50-59,Ventilator case,sweat_glands,"2 pieces, adipose and fibrovascular tissue with small focus of sweat glands",adipose_subq
+GTEX-13112-2726,Adipose - Subcutaneous,GTEX-13112,male,50-59,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-13113-1826,Adipose - Subcutaneous,GTEX-13113,female,60-69,Ventilator case,,"2 pieces, ~5-10% fascial tissue, rep delinated",adipose_subq
+GTEX-1313W-0226,Adipose - Subcutaneous,GTEX-1313W,female,50-59,Fast death - natural causes,,"2 pieces, <10% is fibrous",adipose_subq
+GTEX-1314G-1626,Adipose - Subcutaneous,GTEX-1314G,male,30-39,Ventilator case,,2 pieces; neural & vascular elements make up 5% of 1 piece,adipose_subq
+GTEX-131XE-2426,Adipose - Subcutaneous,GTEX-131XE,male,50-59,Ventilator case,,2 pieces,adipose_subq
+GTEX-131XF-2226,Adipose - Subcutaneous,GTEX-131XF,male,60-69,Ventilator case,,2 pieces,adipose_subq
+GTEX-131XG-2426,Adipose - Subcutaneous,GTEX-131XG,female,50-59,Ventilator case,,"2 pieces, ~5-10% fibro-fascial/vascular tissue, rep delineated",adipose_subq
+GTEX-131XH-2326,Adipose - Subcutaneous,GTEX-131XH,male,50-59,Fast death - natural causes,,"2 pieces, ~10% fibrofascial tissue, rep delineated",adipose_subq
+GTEX-131XW-0526,Adipose - Subcutaneous,GTEX-131XW,female,50-59,Slow death,,"2 pieces, 20-30% fibrous",adipose_subq
+GTEX-131YS-0226,Adipose - Subcutaneous,GTEX-131YS,female,60-69,Fast death - natural causes,,2 pieces; one contains 50% fibrous tissue,adipose_subq
+GTEX-132AR-0226,Adipose - Subcutaneous,GTEX-132AR,female,50-59,Ventilator case,,"2 pieces; 1 pure fat, 1 has 20% fibrous tissue",adipose_subq
+GTEX-132NY-0426,Adipose - Subcutaneous,GTEX-132NY,male,60-69,Fast death - violent,,"2 pieces, ~50% fascia, rep. delineated",adipose_subq
+GTEX-132Q8-0326,Adipose - Subcutaneous,GTEX-132Q8,male,60-69,Slow death,,2 pieces; 5-10% fibrous and vascular tissue,adipose_subq
+GTEX-132QS-2526,Adipose - Subcutaneous,GTEX-132QS,male,60-69,Ventilator case,clean_specimens,"2 pieces, minimal fascia/fibrous tissue, good specimens",adipose_subq
+GTEX-1339X-2526,Adipose - Subcutaneous,GTEX-1339X,male,40-49,Ventilator case,,2 pieces; 20% fibrovascular content,adipose_subq
+GTEX-133LE-1926,Adipose - Subcutaneous,GTEX-133LE,female,20-29,Ventilator case,,"2 pieces; 20% fibrous content in 1, 5% in other",adipose_subq
+GTEX-1399Q-0626,Adipose - Subcutaneous,GTEX-1399Q,male,40-49,Ventilator case,,2 pieces; fat with 20% and 10% fibrous tissue/tendon,adipose_subq
+GTEX-1399R-2626,Adipose - Subcutaneous,GTEX-1399R,male,30-39,Ventilator case,,2 pieces,adipose_subq
+GTEX-1399S-2526,Adipose - Subcutaneous,GTEX-1399S,female,30-39,Ventilator case,,"2 pieces ~10-15% fascial/fibrous tissue, rep. delineated",adipose_subq
+GTEX-1399T-2726,Adipose - Subcutaneous,GTEX-1399T,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-1399U-2426,Adipose - Subcutaneous,GTEX-1399U,female,50-59,Ventilator case,,2 pieces ~10% fibrofascial tissue,adipose_subq
+GTEX-139D8-0326,Adipose - Subcutaneous,GTEX-139D8,female,30-39,Ventilator case,,2 pieces,adipose_subq
+GTEX-139T4-0126,Adipose - Subcutaneous,GTEX-139T4,female,50-59,Intermediate death,fibrosis,2 pieces; 1 piece has 10% fibrous tissue,adipose_subq
+GTEX-139T6-2126,Adipose - Subcutaneous,GTEX-139T6,male,50-59,Ventilator case,,"2 pieces, minimal fascia",adipose_subq
+GTEX-139T8-0226,Adipose - Subcutaneous,GTEX-139T8,male,60-69,Slow death,,"2 pieces, ~10% fibro-fascial tissue",adipose_subq
+GTEX-139TS-2726,Adipose - Subcutaneous,GTEX-139TS,male,60-69,Fast death - natural causes,,2 pieces; one piece is ~25% fibrous/vascular tissue,adipose_subq
+GTEX-139TT-0226,Adipose - Subcutaneous,GTEX-139TT,male,60-69,Fast death - natural causes,,2 pieces; 50% of 1 is fibrous tissue; 1mm nerve in other,adipose_subq
+GTEX-139TU-0226,Adipose - Subcutaneous,GTEX-139TU,male,60-69,Intermediate death,,2 pieces,adipose_subq
+GTEX-139UC-2626,Adipose - Subcutaneous,GTEX-139UC,male,60-69,Fast death - natural causes,,"2 pieces, 5-10%  fibrous/vascular tissue",adipose_subq
+GTEX-139UW-2726,Adipose - Subcutaneous,GTEX-139UW,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-139YR-2426,Adipose - Subcutaneous,GTEX-139YR,male,50-59,Ventilator case,,"2 pieces; ~10% is stroma, nerve, and vessels",adipose_subq
+GTEX-13CF2-2626,Adipose - Subcutaneous,GTEX-13CF2,male,60-69,Fast death - natural causes,,"2 pieces, ~10-20% fibrovascular tissue intermingled, rep delineated",adipose_subq
+GTEX-13CF3-2326,Adipose - Subcutaneous,GTEX-13CF3,female,60-69,Ventilator case,,2 pieces; small squamous carry-over artifact [annotated],adipose_subq
+GTEX-13CIG-0126,Adipose - Subcutaneous,GTEX-13CIG,male,50-59,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-13CZU-1826,Adipose - Subcutaneous,GTEX-13CZU,male,20-29,Ventilator case,,several fragmented pieces,adipose_subq
+GTEX-13CZV-0126,Adipose - Subcutaneous,GTEX-13CZV,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-13D11-2326,Adipose - Subcutaneous,GTEX-13D11,female,50-59,Ventilator case,,"2 pieces~5% fibrofascial tissue, delineated,",adipose_subq
+GTEX-13FH7-2226,Adipose - Subcutaneous,GTEX-13FH7,female,50-59,Ventilator case,,"2 pieces; ~10% is fibrous, few foci of skeletal muscle",adipose_subq
+GTEX-13FHO-0326,Adipose - Subcutaneous,GTEX-13FHO,male,60-69,Ventilator case,sweat_glands,2 pieces; 20% of one and 50% of second is fibrous and vascular tissue with some sweat glands,adipose_subq
+GTEX-13FHP-0226,Adipose - Subcutaneous,GTEX-13FHP,male,50-59,Slow death,,2 pieces; 5 and 20% fibrous stroma,adipose_subq
+GTEX-13FLV-2726,Adipose - Subcutaneous,GTEX-13FLV,male,50-59,Fast death - natural causes,sweat_glands,"2 pieces; ~15% of one and 5% of the second is fibrovascular tissue, few sweat glands",adipose_subq
+GTEX-13FLW-2526,Adipose - Subcutaneous,GTEX-13FLW,male,50-59,Fast death - natural causes,,"2 pieces; fat admixed with 30% and 50% fibrovascular tissue and in one piece, nerve",adipose_subq
+GTEX-13FTW-2526,Adipose - Subcutaneous,GTEX-13FTW,male,40-49,Ventilator case,,"2 pieces; incomplete sections (?poor fixation), tissue present is oversized at 20mm",adipose_subq
+GTEX-13FTX-1926,Adipose - Subcutaneous,GTEX-13FTX,female,20-29,Ventilator case,sweat_glands,2 pieces; fat with <10% fibrovascular tissue/collagen with focus of sweat glands,adipose_subq
+GTEX-13FTY-0626,Adipose - Subcutaneous,GTEX-13FTY,female,40-49,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-13FTZ-1926,Adipose - Subcutaneous,GTEX-13FTZ,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-13FXS-0126,Adipose - Subcutaneous,GTEX-13FXS,male,50-59,Fast death - natural causes,,2 pieces (fragmented); oversized with central defects in one piece,adipose_subq
+GTEX-13G51-2626,Adipose - Subcutaneous,GTEX-13G51,male,60-69,Fast death - natural causes,,2 pieces; ~15% fibrovascular tissue,adipose_subq
+GTEX-13IVO-0226,Adipose - Subcutaneous,GTEX-13IVO,male,70-79,Slow death,,2 pieces; fat with 10% to 20% of fibrovascular tissue,adipose_subq
+GTEX-13JUV-2826,Adipose - Subcutaneous,GTEX-13JUV,female,40-49,Ventilator case,,2 pieces; some central defects in tissue (? poor fixation),adipose_subq
+GTEX-13JVG-0226,Adipose - Subcutaneous,GTEX-13JVG,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-13N11-2626,Adipose - Subcutaneous,GTEX-13N11,female,50-59,Ventilator case,,2 pieces; 30-40% is fibrovascular tissue and nerve,adipose_subq
+GTEX-13N1W-0226,Adipose - Subcutaneous,GTEX-13N1W,male,70-79,Ventilator case,,2 pieces; 10% fibrovascular component,adipose_subq
+GTEX-13N2G-2726,Adipose - Subcutaneous,GTEX-13N2G,male,60-69,Fast death - natural causes,,2 pieces; 5% and 15% fibrovascular component,adipose_subq
+GTEX-13NYB-2626,Adipose - Subcutaneous,GTEX-13NYB,male,40-49,Fast death - natural causes,,"2 pieces, ~20% fascia/fibrous tissue, delineated",adipose_subq
+GTEX-13NYC-0426,Adipose - Subcutaneous,GTEX-13NYC,male,60-69,Fast death - natural causes,,3 pieces; 10% to 50% fibrovascular component,adipose_subq
+GTEX-13NYS-0226,Adipose - Subcutaneous,GTEX-13NYS,male,60-69,Slow death,,2 pieces;  <10% fibrous component,adipose_subq
+GTEX-13NZ8-0926,Adipose - Subcutaneous,GTEX-13NZ8,female,60-69,Slow death,,2 pieces; 2% fibrous content,adipose_subq
+GTEX-13NZ9-0526,Adipose - Subcutaneous,GTEX-13NZ9,male,50-59,Ventilator case,,"2 pieces, ~5-10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-13NZA-0126,Adipose - Subcutaneous,GTEX-13NZA,male,60-69,Fast death - natural causes,,2 pieces; 1 includes portion of nerve,adipose_subq
+GTEX-13NZB-2426,Adipose - Subcutaneous,GTEX-13NZB,male,30-39,Ventilator case,,2 pieces; includes small portion of fibrovascular tissue and nerve,adipose_subq
+GTEX-13O1R-0226,Adipose - Subcutaneous,GTEX-13O1R,male,60-69,Fast death - natural causes,,2 pieces; large blood vessel along one edge,adipose_subq
+GTEX-13O21-1526,Adipose - Subcutaneous,GTEX-13O21,male,50-59,Ventilator case,,"2 pieces, 10-15% fascia, delineated (rep)",adipose_subq
+GTEX-13O3O-0226,Adipose - Subcutaneous,GTEX-13O3O,female,60-69,Intermediate death,,2 pieces: 4 x 2mm of dermis present,adipose_subq
+GTEX-13O3P-0226,Adipose - Subcutaneous,GTEX-13O3P,male,50-59,Slow death,,2 pieces;,adipose_subq
+GTEX-13O3Q-2326,Adipose - Subcutaneous,GTEX-13O3Q,male,50-59,Fast death - natural causes,,2 pieces; several internal holes,adipose_subq
+GTEX-13O61-2426,Adipose - Subcutaneous,GTEX-13O61,male,60-69,Ventilator case,,2 pieces; 1 mm focus of skeletal muscle on 1 piece,adipose_subq
+GTEX-13OVG-2026,Adipose - Subcutaneous,GTEX-13OVG,male,60-69,Ventilator case,,"2 pieces, ~10-15% vascular/fascial tissues; rep delineated",adipose_subq
+GTEX-13OVH-0226,Adipose - Subcutaneous,GTEX-13OVH,male,70-79,Fast death - natural causes,,"2 pieces, <5% fascia, rep delineated",adipose_subq
+GTEX-13OVI-1326,Adipose - Subcutaneous,GTEX-13OVI,female,60-69,Ventilator case,fibrosis,"2 pieces prominent fibrosis surrounds islets of uninvovled adipose tissue (delineated), ~50% of specimen",adipose_subq
+GTEX-13OVJ-0326,Adipose - Subcutaneous,GTEX-13OVJ,female,50-59,Fast death - natural causes,,2 pieces; fat with ~10% fibrous/vessels,adipose_subq
+GTEX-13OVK-2126,Adipose - Subcutaneous,GTEX-13OVK,male,40-49,Ventilator case,,2 pieces; virtually pure adipose tissue,adipose_subq
+GTEX-13OVL-0326,Adipose - Subcutaneous,GTEX-13OVL,male,50-59,Fast death - natural causes,,2 pieces; 10 & 20% fibrovascular content,adipose_subq
+GTEX-13OW5-0226,Adipose - Subcutaneous,GTEX-13OW5,male,60-69,Intermediate death,,"2 pieces, ~5% fascia. rep. delineated",adipose_subq
+GTEX-13OW6-0526,Adipose - Subcutaneous,GTEX-13OW6,male,50-59,Fast death - natural causes,necrosis,"2 pieces; 1 piece includes 30% fibrovascular tissue, 2nd includes 20% connective tissue, vessels, and nerves; focus of fibrinoid necrosis of vessel walls surrounded by lymphohistiocytic infiltrate",adipose_subq
+GTEX-13OW7-0226,Adipose - Subcutaneous,GTEX-13OW7,male,50-59,Fast death - natural causes,,"2 pieces, fibro-fascial tissue is ~15-20% total, rep delineated",adipose_subq
+GTEX-13OW8-1226,Adipose - Subcutaneous,GTEX-13OW8,male,60-69,Fast death - natural causes,,2 pieces; fat with some vessels/fibrous tissue (~10%),adipose_subq
+GTEX-13PDP-0226,Adipose - Subcutaneous,GTEX-13PDP,male,60-69,Slow death,,2 pieces; fat with minimal fibrous/vascular tissue (<10%),adipose_subq
+GTEX-13PL6-0226,Adipose - Subcutaneous,GTEX-13PL6,female,40-49,Intermediate death,,"2 pieces, ~10% fibro-fascial tissue, rep. delineated",adipose_subq
+GTEX-13PL7-0926,Adipose - Subcutaneous,GTEX-13PL7,female,60-69,Ventilator case,,"2 pieces, minimal fibrous  tissue",adipose_subq
+GTEX-13PLJ-0126,Adipose - Subcutaneous,GTEX-13PLJ,female,60-69,Fast death - natural causes,,3 pieces; large blood vessels and fibrous stroma comprise 30% of overall area,adipose_subq
+GTEX-13PVQ-0226,Adipose - Subcutaneous,GTEX-13PVQ,male,50-59,Fast death - natural causes,,2 pieces; 10% fibrovascular content,adipose_subq
+GTEX-13PVR-2426,Adipose - Subcutaneous,GTEX-13PVR,female,60-69,Ventilator case,,"2 pieces, minimal fibrous/fascial tissue",adipose_subq
+GTEX-13QBU-2526,Adipose - Subcutaneous,GTEX-13QBU,female,40-49,Ventilator case,,"2 pieces, minimal fibrous tissue (~10%); rep delineated",adipose_subq
+GTEX-13QIC-2426,Adipose - Subcutaneous,GTEX-13QIC,female,60-69,Fast death - natural causes,,2 pieces; fat with 10 and 20% fibrovascular tissue,adipose_subq
+GTEX-13QJ3-0426,Adipose - Subcutaneous,GTEX-13QJ3,male,50-59,Ventilator case,,"2 pieces, ~25% fibrous/fascial tissue, rep. delineated",adipose_subq
+GTEX-13QJC-2826,Adipose - Subcutaneous,GTEX-13QJC,female,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-13RTJ-2526,Adipose - Subcutaneous,GTEX-13RTJ,male,60-69,Slow death,,"2 pieces, ~10% prominent vessel/fascia, delineated",adipose_subq
+GTEX-13RTK-1526,Adipose - Subcutaneous,GTEX-13RTK,male,20-29,Ventilator case,,"2 pieces, ~20% fascial/vascular elements, rep delineated",adipose_subq
+GTEX-13RTL-0226,Adipose - Subcutaneous,GTEX-13RTL,male,40-49,Slow death,,2 pieces; one piece includes large vessel,adipose_subq
+GTEX-13S7M-0226,Adipose - Subcutaneous,GTEX-13S7M,female,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-13S86-2126,Adipose - Subcutaneous,GTEX-13S86,male,40-49,Ventilator case,,2 pieces; 10% fibrovascular content,adipose_subq
+GTEX-13SLW-0226,Adipose - Subcutaneous,GTEX-13SLW,male,70-79,Fast death - natural causes,,"2 pieces, <10% fascia",adipose_subq
+GTEX-13SLX-0426,Adipose - Subcutaneous,GTEX-13SLX,female,50-59,Fast death - natural causes,,2 pieces; small amounts of interstitial fibrovascular tissue,adipose_subq
+GTEX-13U4I-0226,Adipose - Subcutaneous,GTEX-13U4I,female,40-49,Ventilator case,,"2 pieces, fascia/vascular elements are 5-10% of tissue; rep delineated",adipose_subq
+GTEX-13VXT-0226,Adipose - Subcutaneous,GTEX-13VXT,female,20-29,Ventilator case,,2 fragmented pieces,adipose_subq
+GTEX-13VXU-0226,Adipose - Subcutaneous,GTEX-13VXU,male,50-59,Fast death - natural causes,,2 pieces; 5% fibrous content,adipose_subq
+GTEX-13W3W-2526,Adipose - Subcutaneous,GTEX-13W3W,female,60-69,Ventilator case,,"2 pieces, minimal fascial tissue",adipose_subq
+GTEX-13W46-0326,Adipose - Subcutaneous,GTEX-13W46,male,50-59,Ventilator case,,2 pieces; fat with up to 20% connective tissue/vessels,adipose_subq
+GTEX-13X6H-2226,Adipose - Subcutaneous,GTEX-13X6H,female,50-59,Ventilator case,,2 pieces,adipose_subq
+GTEX-13X6I-0726,Adipose - Subcutaneous,GTEX-13X6I,male,60-69,Slow death,,2 pieces; fat with 10 and 20% fibrous tissue and vessels,adipose_subq
+GTEX-13X6J-0226,Adipose - Subcutaneous,GTEX-13X6J,male,50-59,Fast death - natural causes,,2 pieces; 5-10% fibrovascular tissue,adipose_subq
+GTEX-13X6K-0226,Adipose - Subcutaneous,GTEX-13X6K,female,60-69,Slow death,,"2 pieces, minimal fascia",adipose_subq
+GTEX-13YAN-0426,Adipose - Subcutaneous,GTEX-13YAN,male,60-69,Ventilator case,,"2 pieces. Fascia is ~10 %, rep delineated",adipose_subq
+GTEX-1445S-0426,Adipose - Subcutaneous,GTEX-1445S,male,60-69,Intermediate death,,"2 pieces, 5-10% fascia, delineated (rep)",adipose_subq
+GTEX-144FL-0226,Adipose - Subcutaneous,GTEX-144FL,male,50-59,Fast death - natural causes,,"2 pieces, fascia is 10-15% total, rep delineated",adipose_subq
+GTEX-144GL-0226,Adipose - Subcutaneous,GTEX-144GL,male,50-59,Fast death - natural causes,,2 pieces; 5% fibrous content,adipose_subq
+GTEX-144GM-1926,Adipose - Subcutaneous,GTEX-144GM,male,20-29,Ventilator case,,"2 pieces, ~10% vascular/connective tissue, delineated",adipose_subq
+GTEX-144GN-2226,Adipose - Subcutaneous,GTEX-144GN,male,50-59,Ventilator case,,2 pieces; 20% admixed fibrous tissue,adipose_subq
+GTEX-144GO-1626,Adipose - Subcutaneous,GTEX-144GO,male,60-69,Slow death,,2 pieces; ~10-20% fibrovascular tissue and nerve,adipose_subq
+GTEX-145LS-0226,Adipose - Subcutaneous,GTEX-145LS,female,60-69,Slow death,,2 pieces; 5% fibrous content,adipose_subq
+GTEX-145LT-1826,Adipose - Subcutaneous,GTEX-145LT,male,40-49,Ventilator case,,"2 pieces, ~5% fascia/vascular tissue, rep delineated",adipose_subq
+GTEX-145LU-0226,Adipose - Subcutaneous,GTEX-145LU,male,50-59,Fast death - natural causes,,2 pieces; <5% fibrous content,adipose_subq
+GTEX-145LV-2226,Adipose - Subcutaneous,GTEX-145LV,male,50-59,Ventilator case,,2 pieces; up to 5% fibrous content,adipose_subq
+GTEX-145ME-1926,Adipose - Subcutaneous,GTEX-145ME,female,40-49,Ventilator case,,2 pieces; ~5-10%  interstitial fascia/fibrous tissue; rep delineated,adipose_subq
+GTEX-145MF-0526,Adipose - Subcutaneous,GTEX-145MF,male,50-59,Fast death - natural causes,,"2 pieces, ~10% interstitial fascial/fibrous tissue",adipose_subq
+GTEX-145MG-0126,Adipose - Subcutaneous,GTEX-145MG,male,50-59,Fast death - natural causes,,2 pieces; 1 piece has 20% fibrous content,adipose_subq
+GTEX-145MH-0226,Adipose - Subcutaneous,GTEX-145MH,male,50-59,Fast death - violent,,2 pieces; fat with minimal fibrous tissue,adipose_subq
+GTEX-145MI-0426,Adipose - Subcutaneous,GTEX-145MI,female,60-69,Fast death - natural causes,,2 pieces; 50 & 40% fibrous tissue content,adipose_subq
+GTEX-145MN-2626,Adipose - Subcutaneous,GTEX-145MN,male,30-39,Ventilator case,,2 pieces; 1mm smooth muscle carry-over [annotated],adipose_subq
+GTEX-145MO-0426,Adipose - Subcutaneous,GTEX-145MO,male,60-69,Intermediate death,,"2 pieces, ~5-10% fascia/vascular tissue, rep. delineated",adipose_subq
+GTEX-146FH-0226,Adipose - Subcutaneous,GTEX-146FH,female,50-59,Ventilator case,,2 pieces; 5% fibrous content,adipose_subq
+GTEX-146FQ-0226,Adipose - Subcutaneous,GTEX-146FQ,male,30-39,Ventilator case,,2 fragmented pieces; ~10% fibrovascular component,adipose_subq
+GTEX-146FR-1826,Adipose - Subcutaneous,GTEX-146FR,female,60-69,Ventilator case,,"2 pieces, no fascia/vascular tissue",adipose_subq
+GTEX-14753-0326,Adipose - Subcutaneous,GTEX-14753,male,60-69,Slow death,,2 pieces,adipose_subq
+GTEX-1477Z-1926,Adipose - Subcutaneous,GTEX-1477Z,male,60-69,Slow death,,"2 pieces, ~10% fascia, rep delineated",adipose_subq
+GTEX-147F3-0626,Adipose - Subcutaneous,GTEX-147F3,female,50-59,Ventilator case,,"2 pieces, fragmented; less than 10% fibrovascular component",adipose_subq
+GTEX-147F4-0526,Adipose - Subcutaneous,GTEX-147F4,male,50-59,Fast death - natural causes,,"2 pieces, fascia is ~10-20%, rep delineated",adipose_subq
+GTEX-147GR-0426,Adipose - Subcutaneous,GTEX-147GR,male,60-69,Fast death - natural causes,,2 pieces; <5% fibrous content,adipose_subq
+GTEX-147JS-0426,Adipose - Subcutaneous,GTEX-147JS,male,60-69,Fast death - natural causes,,"2 pieces fascia is ~10-15% , rep delineated",adipose_subq
+GTEX-148VI-1726,Adipose - Subcutaneous,GTEX-148VI,female,60-69,Ventilator case,,"2 pieces; large central defects (?poor fixation), portion of large vessel in 1 piece",adipose_subq
+GTEX-148VJ-0226,Adipose - Subcutaneous,GTEX-148VJ,male,70-79,Fast death - natural causes,,"2 pieces, 30-40% fascia, rep delineated",adipose_subq
+GTEX-1497J-2326,Adipose - Subcutaneous,GTEX-1497J,male,60-69,Ventilator case,,"2 pieces, ~10-15% interstital fascia/fibrous tissue, rep delineated",adipose_subq
+GTEX-14A5H-0526,Adipose - Subcutaneous,GTEX-14A5H,male,60-69,Fast death - natural causes,,"2 pieces, ~15% interstitial fascia/vascular elements",adipose_subq
+GTEX-14A5I-0226,Adipose - Subcutaneous,GTEX-14A5I,female,50-59,Slow death,,"2 pieces, ~15% fascia/vascular tissue, rep delineated",adipose_subq
+GTEX-14A6H-2526,Adipose - Subcutaneous,GTEX-14A6H,male,30-39,Ventilator case,,"2 pieces; some central defects, small fragment of skeletal muscle",adipose_subq
+GTEX-14ABY-0326,Adipose - Subcutaneous,GTEX-14ABY,male,50-59,Fast death - natural causes,,2 pieces; ~10% of fibrovascular component,adipose_subq
+GTEX-14AS3-2026,Adipose - Subcutaneous,GTEX-14AS3,female,40-49,Ventilator case,,"2 pieces; includes significant portion of nerve, larger vessels and tendon",adipose_subq
+GTEX-14ASI-0226,Adipose - Subcutaneous,GTEX-14ASI,male,60-69,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-14B4R-1626,Adipose - Subcutaneous,GTEX-14B4R,male,30-39,Ventilator case,,2 pieces,adipose_subq
+GTEX-14BIL-0226,Adipose - Subcutaneous,GTEX-14BIL,male,50-59,Fast death - natural causes,,2 pieces; overly large specimen with compression artifacts,adipose_subq
+GTEX-14BIM-0126,Adipose - Subcutaneous,GTEX-14BIM,female,60-69,Intermediate death,,"2 pieces, ~10% interstitlal fascia, rep delineated",adipose_subq
+GTEX-14BIN-0726,Adipose - Subcutaneous,GTEX-14BIN,female,50-59,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-14BMU-2126,Adipose - Subcutaneous,GTEX-14BMU,female,20-29,Ventilator case,,"2 pieces, ~5-10% fascia, rep delineated",adipose_subq
+GTEX-14BMV-0226,Adipose - Subcutaneous,GTEX-14BMV,male,50-59,Fast death - natural causes,,2 pieces; 1 with 20% stromal vascular content,adipose_subq
+GTEX-14C38-0326,Adipose - Subcutaneous,GTEX-14C38,male,50-59,Ventilator case,,"2 pieces, ~15-20% fascia, rep delineated",adipose_subq
+GTEX-14C39-2526,Adipose - Subcutaneous,GTEX-14C39,male,40-49,Fast death - natural causes,clean_specimens,"2 pieces, minimal vascular elements/fascia, good specimen",adipose_subq
+GTEX-14C5O-0226,Adipose - Subcutaneous,GTEX-14C5O,male,60-69,Slow death,,2 pieces,adipose_subq
+GTEX-14DAQ-0226,Adipose - Subcutaneous,GTEX-14DAQ,female,60-69,Slow death,,"2 pieces, ~20% fascia/vascular elements, delineated",adipose_subq
+GTEX-14DAR-1926,Adipose - Subcutaneous,GTEX-14DAR,male,50-59,Ventilator case,,"2 pieces, ~10% fascia/vascular tissue",adipose_subq
+GTEX-14E1K-2126,Adipose - Subcutaneous,GTEX-14E1K,male,50-59,Ventilator case,,"2 pieces, ~60% fascia, rep delineated",adipose_subq
+GTEX-14E6C-0226,Adipose - Subcutaneous,GTEX-14E6C,male,40-49,Slow death,,2 pieces; 5% fibrous content,adipose_subq
+GTEX-14E6D-0226,Adipose - Subcutaneous,GTEX-14E6D,male,50-59,Fast death - natural causes,,2 pieces; no more than 10% fibrovasular component,adipose_subq
+GTEX-14E6E-1926,Adipose - Subcutaneous,GTEX-14E6E,male,30-39,Ventilator case,,2 pieces,adipose_subq
+GTEX-14E7W-0226,Adipose - Subcutaneous,GTEX-14E7W,male,70-79,Fast death - natural causes,,2 pieces; 10 - 15% fibrovascular component and nerves,adipose_subq
+GTEX-14H4A-1026,Adipose - Subcutaneous,GTEX-14H4A,female,40-49,Ventilator case,,2 pieces; small attachment of nerve,adipose_subq
+GTEX-14ICK-0326,Adipose - Subcutaneous,GTEX-14ICK,male,40-49,Ventilator case,,2 pieces; 20 & 10% fibrous content,adipose_subq
+GTEX-14ICL-2026,Adipose - Subcutaneous,GTEX-14ICL,male,30-39,Ventilator case,clean_specimens,"2 pieces, minimal fascia/vascular elements, good specimen",adipose_subq
+GTEX-14JFF-0226,Adipose - Subcutaneous,GTEX-14JFF,male,60-69,Slow death,necrosis,"2 pieces, ~40-50% fascia, rep delineated, evidence of old fat necrosis",adipose_subq
+GTEX-14JG1-0526,Adipose - Subcutaneous,GTEX-14JG1,male,40-49,Fast death - natural causes,,4 fragmented pieces; 10% fibrous content,adipose_subq
+GTEX-14JG6-2326,Adipose - Subcutaneous,GTEX-14JG6,female,30-39,Ventilator case,,2 pieces; fat with small portion of nerve and vessel wall,adipose_subq
+GTEX-14JIY-0526,Adipose - Subcutaneous,GTEX-14JIY,male,60-69,Fast death - natural causes,,"2 pieces, trace fascia/vascular elements, rep delineated",adipose_subq
+GTEX-14LLW-0226,Adipose - Subcutaneous,GTEX-14LLW,female,70-79,Slow death,,2 pieces; minimal fibrous content,adipose_subq
+GTEX-14LZ3-0326,Adipose - Subcutaneous,GTEX-14LZ3,female,60-69,Intermediate death,,2 pieces,adipose_subq
+GTEX-14PHW-0226,Adipose - Subcutaneous,GTEX-14PHW,female,60-69,Slow death,,"2 pieces, ~20% fascia/vascular tissue",adipose_subq
+GTEX-14PHX-2426,Adipose - Subcutaneous,GTEX-14PHX,male,50-59,Ventilator case,,2 pieces,adipose_subq
+GTEX-14PHY-2426,Adipose - Subcutaneous,GTEX-14PHY,female,60-69,Ventilator case,,2 pieces; numerous internal holes,adipose_subq
+GTEX-14PII-0326,Adipose - Subcutaneous,GTEX-14PII,male,60-69,Slow death,,"2 pieces, fascia/vascular tissue is ~20%, rep delineated",adipose_subq
+GTEX-14PJ2-0226,Adipose - Subcutaneous,GTEX-14PJ2,male,50-59,Ventilator case,,2 pieces; one piece fragmented and contains ~10% of fibrovascular component and a few adnexal ducts (outlined),adipose_subq
+GTEX-14PJ3-1926,Adipose - Subcutaneous,GTEX-14PJ3,male,50-59,Ventilator case,,2 pieces; predominantly fat with small portion of fibrous and vascular tissue,adipose_subq
+GTEX-14PJ4-2226,Adipose - Subcutaneous,GTEX-14PJ4,male,60-69,Ventilator case,,"2 pieces; ~10% fibrovascular component, over-sized specimens with central defects (?poor fixation)",adipose_subq
+GTEX-14PJ5-1726,Adipose - Subcutaneous,GTEX-14PJ5,female,60-69,Ventilator case,,"2 pieces, ~10% fascia,vascular elements, rep delineated",adipose_subq
+GTEX-14PJ6-2226,Adipose - Subcutaneous,GTEX-14PJ6,female,60-69,Ventilator case,,"2 pieces, minimal fascia/vascular elements",adipose_subq
+GTEX-14PJM-0326,Adipose - Subcutaneous,GTEX-14PJM,female,50-59,Fast death - natural causes,,2 pieces;,adipose_subq
+GTEX-14PJN-2026,Adipose - Subcutaneous,GTEX-14PJN,male,30-39,Ventilator case,,"2 pieces, ~15% fascia/peripheral nerve/vascular elements, rep. delineated",adipose_subq
+GTEX-14PJO-0226,Adipose - Subcutaneous,GTEX-14PJO,male,60-69,Slow death,,2 pieces; 20% fibrous component,adipose_subq
+GTEX-14PJP-0226,Adipose - Subcutaneous,GTEX-14PJP,male,20-29,Ventilator case,sweat_glands,"2 pieces; over-sized and with central defects (?poor fixation), few sweat glands",adipose_subq
+GTEX-14PK6-2026,Adipose - Subcutaneous,GTEX-14PK6,female,70-79,Ventilator case,,"2 pieces, ~10-15% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-14PKU-2126,Adipose - Subcutaneous,GTEX-14PKU,female,40-49,Ventilator case,,"2 pieces, adipose tissue, fascia/ vasular elements are ~40%, rep delineated.  Switched with 2225",adipose_subq
+GTEX-14PKV-0426,Adipose - Subcutaneous,GTEX-14PKV,female,20-29,Ventilator case,,"2 pieces, ~10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-14PN3-2526,Adipose - Subcutaneous,GTEX-14PN3,female,60-69,Ventilator case,,3 pieces; <10% fibrous content,adipose_subq
+GTEX-14PN4-0226,Adipose - Subcutaneous,GTEX-14PN4,male,50-59,Fast death - natural causes,,2 pieces; mature adipose tissue with central defect (?poor fixation),adipose_subq
+GTEX-14PQA-0126,Adipose - Subcutaneous,GTEX-14PQA,female,50-59,Slow death,,2 pieces; ~5% of fibrovascular component on one piece,adipose_subq
+GTEX-14XAO-2126,Adipose - Subcutaneous,GTEX-14XAO,female,60-69,Ventilator case,,"2 pieces, trace fascia",adipose_subq
+GTEX-15CHC-2226,Adipose - Subcutaneous,GTEX-15CHC,female,60-69,Ventilator case,,2 pieces;,adipose_subq
+GTEX-15CHQ-0226,Adipose - Subcutaneous,GTEX-15CHQ,male,60-69,Slow death,,2 pieces; 1 mm sq nerve in 1 piece [circled]; 20% fibrous tissue in other piece,adipose_subq
+GTEX-15CHR-2326,Adipose - Subcutaneous,GTEX-15CHR,male,50-59,Ventilator case,,2 pieces; includes few small vessels and nerve,adipose_subq
+GTEX-15CHS-0226,Adipose - Subcutaneous,GTEX-15CHS,male,50-59,Fast death - natural causes,,"2 pieces, ~20% vascular, fascia, peripheral nerve elements, rep. delineated",adipose_subq
+GTEX-15D1Q-0226,Adipose - Subcutaneous,GTEX-15D1Q,male,40-49,Fast death - natural causes,,"2 pieces, ~15-20% fascia/vascular elements",adipose_subq
+GTEX-15D79-0226,Adipose - Subcutaneous,GTEX-15D79,male,50-59,Fast death - natural causes,sweat_glands,2 pieces; 10 & 5% fibroneurovascular content; small (0.5mm) focus of sweat glands [circled],adipose_subq
+GTEX-15DCD-0226,Adipose - Subcutaneous,GTEX-15DCD,female,70-79,Fast death - natural causes,,2 pieces; ~10% fascia and vascular component (outlined),adipose_subq
+GTEX-15DCE-0326,Adipose - Subcutaneous,GTEX-15DCE,male,20-29,Ventilator case,,2 pieces;,adipose_subq
+GTEX-15DCZ-0226,Adipose - Subcutaneous,GTEX-15DCZ,female,20-29,Ventilator case,,"2 pieces, ~5%  fascia/vasular elements, rep delineated",adipose_subq
+GTEX-15DDE-0226,Adipose - Subcutaneous,GTEX-15DDE,female,50-59,Intermediate death,,"2 pieces, minimal fascia/vascular elements",adipose_subq
+GTEX-15DYW-0226,Adipose - Subcutaneous,GTEX-15DYW,female,60-69,Fast death - natural causes,,"2 pieces; stroma 10% in 1, none in other",adipose_subq
+GTEX-15DZA-1926,Adipose - Subcutaneous,GTEX-15DZA,female,30-39,Ventilator case,,2 pieces peripheral nerve twigs/vascular elements are ~10% of tissue,adipose_subq
+GTEX-15EO6-0626,Adipose - Subcutaneous,GTEX-15EO6,male,50-59,Slow death,,"2 pieces, ~10% fascia/vascular elements",adipose_subq
+GTEX-15EOM-0226,Adipose - Subcutaneous,GTEX-15EOM,female,20-29,Ventilator case,,2 pieces,adipose_subq
+GTEX-15ER7-0426,Adipose - Subcutaneous,GTEX-15ER7,female,20-29,Fast death - violent,,2 pieces,adipose_subq
+GTEX-15ETS-0426,Adipose - Subcutaneous,GTEX-15ETS,female,40-49,Ventilator case,,"2 pieces, ~10% fascia, rep delineated",adipose_subq
+GTEX-15EU6-0826,Adipose - Subcutaneous,GTEX-15EU6,male,50-59,Ventilator case,,"2 pieces, 10-20% fascia/vascular elements",adipose_subq
+GTEX-15F5U-1726,Adipose - Subcutaneous,GTEX-15F5U,male,40-49,Ventilator case,,2 pieces,adipose_subq
+GTEX-15FZZ-2226,Adipose - Subcutaneous,GTEX-15FZZ,female,30-39,Ventilator case,,2 pieces; 10% fibrous content in 1 piece,adipose_subq
+GTEX-15G19-0226,Adipose - Subcutaneous,GTEX-15G19,male,60-69,Fast death - natural causes,,2 pieces; ~10%fascia/vascular elements and nerves (outlined),adipose_subq
+GTEX-15G1A-2226,Adipose - Subcutaneous,GTEX-15G1A,male,30-39,Ventilator case,,"2 pieces, ~15-20% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-15RIE-2326,Adipose - Subcutaneous,GTEX-15RIE,male,60-69,Ventilator case,,"2 pieces, ~5-10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-15RIF-2026,Adipose - Subcutaneous,GTEX-15RIF,male,20-29,Ventilator case,,"2 pieces, fascia/vascular elements are ~10-15%, rep delineated",adipose_subq
+GTEX-15RIG-0326,Adipose - Subcutaneous,GTEX-15RIG,male,40-49,Ventilator case,,"2 pieces, <10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-15RJ7-2326,Adipose - Subcutaneous,GTEX-15RJ7,male,40-49,Ventilator case,,2 pieces; mature adipose tissue and ~25% fibrovascular component,adipose_subq
+GTEX-15RJE-0226,Adipose - Subcutaneous,GTEX-15RJE,male,40-49,Slow death,fibrosis,2 pieces; 5 & 10% fibrous stroma content,adipose_subq
+GTEX-15SB6-1626,Adipose - Subcutaneous,GTEX-15SB6,female,50-59,Ventilator case,fibrosis,"2 pieces; central defects (?poor fixation), minimal fibrous tissue and small nerve",adipose_subq
+GTEX-15SDE-2426,Adipose - Subcutaneous,GTEX-15SDE,female,50-59,Ventilator case,,2 pieces: both contain small foci of nerves at edge (labeled); central  holes,adipose_subq
+GTEX-15SHU-0226,Adipose - Subcutaneous,GTEX-15SHU,female,40-49,Fast death - natural causes,fibrosis,2 pieces; 1 with 30% fibrous content,adipose_subq
+GTEX-15SHV-2326,Adipose - Subcutaneous,GTEX-15SHV,male,60-69,Ventilator case,fibrosis,2 pieces; 30% & 40% fibrous content,adipose_subq
+GTEX-15SHW-0426,Adipose - Subcutaneous,GTEX-15SHW,male,60-69,Ventilator case,fibrosis,2 pieces; 1 piece includes few glands within fibrous tissue (~15%),adipose_subq
+GTEX-15SKB-0226,Adipose - Subcutaneous,GTEX-15SKB,male,60-69,Ventilator case,,"2 pieces, ~30% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-15SZO-0226,Adipose - Subcutaneous,GTEX-15SZO,male,50-59,Fast death - natural causes,,"2 pieces, fascia/vascular elements (including muscular arteriole, ~1mm) are ~15-20% tissue",adipose_subq
+GTEX-15TU5-0326,Adipose - Subcutaneous,GTEX-15TU5,male,60-69,Slow death,fibrosis,2 pieces; 10% fibrous content,adipose_subq
+GTEX-15UF6-0926,Adipose - Subcutaneous,GTEX-15UF6,female,70-79,Slow death,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-15UF7-2126,Adipose - Subcutaneous,GTEX-15UF7,male,40-49,Ventilator case,,2 pieces; includes some vessels and nerves centrally,adipose_subq
+GTEX-15UKP-0526,Adipose - Subcutaneous,GTEX-15UKP,male,20-29,Ventilator case,,"2 pieces; mature fat with minimal fibrovascular component, 1 has multiple central defects (?poor fixation)",adipose_subq
+GTEX-169BO-1426,Adipose - Subcutaneous,GTEX-169BO,male,50-59,Ventilator case,,"2 pieces, ~10% fascia, rep delineated",adipose_subq
+GTEX-16A39-1926,Adipose - Subcutaneous,GTEX-16A39,female,30-39,Ventilator case,,2 pieces; mature adiose tissue with  40% and 10% fibrovascular component,adipose_subq
+GTEX-16AAH-2026,Adipose - Subcutaneous,GTEX-16AAH,male,50-59,Ventilator case,,"2 pieces, ~incidental peripheral nerve embedded, delineated",adipose_subq
+GTEX-16BQI-0526,Adipose - Subcutaneous,GTEX-16BQI,female,30-39,Ventilator case,,2 pieces; prominent artery and nerves at edge of one piece; internal holes,adipose_subq
+GTEX-16GPK-0226,Adipose - Subcutaneous,GTEX-16GPK,male,60-69,Fast death - natural causes,fibrosis,2 pieces; one piece contains ~5% fibrous tissue and vessels,adipose_subq
+GTEX-16MT8-0526,Adipose - Subcutaneous,GTEX-16MT8,female,60-69,Slow death,,"2 pieces, <10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-16MT9-0526,Adipose - Subcutaneous,GTEX-16MT9,female,60-69,Ventilator case,,2 pieces; mature adipose tissue,adipose_subq
+GTEX-16MTA-2126,Adipose - Subcutaneous,GTEX-16MTA,male,50-59,Ventilator case,,"2 pieces, central defects in both (?poor fixation)",adipose_subq
+GTEX-16NFA-2226,Adipose - Subcutaneous,GTEX-16NFA,male,50-59,Ventilator case,,2 pieces; small fragments of muscle on edge of 1 piece,adipose_subq
+GTEX-16NGA-1826,Adipose - Subcutaneous,GTEX-16NGA,female,40-49,Ventilator case,,2 pieces; lobulated mature adipose tissue with thin fibrovascular septa,adipose_subq
+GTEX-16NPV-0226,Adipose - Subcutaneous,GTEX-16NPV,female,50-59,Slow death,fibrosis,2 pieces; minimal fibrous content,adipose_subq
+GTEX-16NPX-0326,Adipose - Subcutaneous,GTEX-16NPX,male,50-59,Ventilator case,,"2 pieces, !0-15% fascia, rep delineated",adipose_subq
+GTEX-16XZY-2526,Adipose - Subcutaneous,GTEX-16XZY,male,70-79,Ventilator case,,2 pieces; 30% and 15% facia/vessels/glands,adipose_subq
+GTEX-16XZZ-0226,Adipose - Subcutaneous,GTEX-16XZZ,male,60-69,Ventilator case,fibrosis,2 pieces; 5% fibrous content,adipose_subq
+GTEX-16YQH-0226,Adipose - Subcutaneous,GTEX-16YQH,male,30-39,Fast death - violent,,"2 pieces, trace fascia, ~10%, rep. delineated",adipose_subq
+GTEX-16Z82-0326,Adipose - Subcutaneous,GTEX-16Z82,male,60-69,Fast death - natural causes,fibrosis,2 pieces; 5% fibrous content,adipose_subq
+GTEX-178AV-2126,Adipose - Subcutaneous,GTEX-178AV,male,40-49,Ventilator case,,"2 pieces, trace fascia",adipose_subq
+GTEX-17EUY-0526,Adipose - Subcutaneous,GTEX-17EUY,male,20-29,Ventilator case,fibrosis,2 pieces;  mature fat with ~30% (1st) and up to 10% (2nd) is fibrous/vascular/nerve tissue,adipose_subq
+GTEX-17EVP-0426,Adipose - Subcutaneous,GTEX-17EVP,male,40-49,Fast death - natural causes,,2 pieces; adipose tissue and one 0.9 mm squamous epithelium floater (outlined),adipose_subq
+GTEX-17EVQ-0326,Adipose - Subcutaneous,GTEX-17EVQ,male,70-79,Fast death - violent,,"2 pieces, ~20 % fascia/vascular elements, rep delineated",adipose_subq
+GTEX-17F96-1726,Adipose - Subcutaneous,GTEX-17F96,male,70-79,Ventilator case,,2 pieces; low stromal content,adipose_subq
+GTEX-17F97-0426,Adipose - Subcutaneous,GTEX-17F97,male,50-59,Slow death,"calcification, fibrosis",2 pieces; focus of dystrophic calcification [labeled]; 10% fibrous content,adipose_subq
+GTEX-17F98-1126,Adipose - Subcutaneous,GTEX-17F98,female,40-49,Ventilator case,fibrosis,"2 pieces; 30% fibrous & neural content in 1 piece, other has 5% same",adipose_subq
+GTEX-17F9E-0126,Adipose - Subcutaneous,GTEX-17F9E,male,50-59,Ventilator case,,"2 pieces, ~20% fascia, rep delineated",adipose_subq
+GTEX-17F9Y-0326,Adipose - Subcutaneous,GTEX-17F9Y,female,70-79,Ventilator case,,"2 pieces, trace fascia",adipose_subq
+GTEX-17GQL-2426,Adipose - Subcutaneous,GTEX-17GQL,male,60-69,Ventilator case,,"2 pieces, ~10 % fascia, rep delineated",adipose_subq
+GTEX-17HG3-2326,Adipose - Subcutaneous,GTEX-17HG3,female,30-39,Fast death - natural causes,fibrosis,2 pieces; one includes small amount of fibrous tissue and portion of large vessel,adipose_subq
+GTEX-17HGU-0326,Adipose - Subcutaneous,GTEX-17HGU,male,50-59,Ventilator case,fibrosis,2 pieces; 5 & 10% fibrous content,adipose_subq
+GTEX-17HHE-1926,Adipose - Subcutaneous,GTEX-17HHE,male,50-59,Ventilator case,,"2 pieces, fascia/vascular elements are ~15% tissue",adipose_subq
+GTEX-17HHY-0226,Adipose - Subcutaneous,GTEX-17HHY,male,50-59,Fast death - natural causes,fibrosis,2 pieces; minimal fibrous content,adipose_subq
+GTEX-17HII-0326,Adipose - Subcutaneous,GTEX-17HII,male,50-59,Fast death - natural causes,,"2 pieces, ~15% fascia/vascular elements, rep. delineated",adipose_subq
+GTEX-17JCI-0226,Adipose - Subcutaneous,GTEX-17JCI,female,60-69,Ventilator case,fibrosis,2 pieces; 5% fibrous content mainly on the edges,adipose_subq
+GTEX-17KNJ-2226,Adipose - Subcutaneous,GTEX-17KNJ,male,50-59,Ventilator case,,"2 pieces, ~10% fascia/vascular elements",adipose_subq
+GTEX-17MF6-0226,Adipose - Subcutaneous,GTEX-17MF6,male,40-49,Fast death - natural causes,,2 pieces; one contains ~50% dense connective tissue and other ~10% fibrovascular component (outlined),adipose_subq
+GTEX-17MFQ-1826,Adipose - Subcutaneous,GTEX-17MFQ,male,20-29,Ventilator case,,"2 pieces, ~10% fascia, delineated",adipose_subq
+GTEX-183FY-0326,Adipose - Subcutaneous,GTEX-183FY,male,20-29,Ventilator case,,2 pieces; fascia/vascular elements are ~10% rep delineated,adipose_subq
+GTEX-183WM-0226,Adipose - Subcutaneous,GTEX-183WM,female,70-79,Slow death,,"2 pieces, ~10% fascia",adipose_subq
+GTEX-18464-0226,Adipose - Subcutaneous,GTEX-18464,male,50-59,Slow death,fibrosis,2 pieces; only ~15 and 30% fat with significant fibrous/vascular/nerve tissue,adipose_subq
+GTEX-18465-0226,Adipose - Subcutaneous,GTEX-18465,male,50-59,Fast death - natural causes,fibrosis,2 pieces; 20% fibrous content; deep cassette indentations on 1 piece,adipose_subq
+GTEX-18A66-0326,Adipose - Subcutaneous,GTEX-18A66,male,60-69,Slow death,,"2 pieces, fascia/skeletal muscle is ~30 % of specimen, delineated (rep)",adipose_subq
+GTEX-18A67-0226,Adipose - Subcutaneous,GTEX-18A67,male,50-59,Ventilator case,,2 pieces; mature adipose tissue with scant fibrovascular component and nerves,adipose_subq
+GTEX-18A6Q-0226,Adipose - Subcutaneous,GTEX-18A6Q,male,60-69,Fast death - natural causes,,"2 pieces, ~5% fascia/vascular elements, rep. delineated",adipose_subq
+GTEX-18A7A-0326,Adipose - Subcutaneous,GTEX-18A7A,female,50-59,Fast death - natural causes,fibrosis,2 pieces; <2% fibrous content,adipose_subq
+GTEX-18A7B-0226,Adipose - Subcutaneous,GTEX-18A7B,male,70-79,Intermediate death,sweat_glands,2 pieces; 0.6 sq mm sweat gland and dermal  collagen complex (labelled),adipose_subq
+GTEX-18D9A-2026,Adipose - Subcutaneous,GTEX-18D9A,female,30-39,Ventilator case,fibrosis,2 pieces; 10% fibrous content,adipose_subq
+GTEX-18D9B-0626,Adipose - Subcutaneous,GTEX-18D9B,male,60-69,Ventilator case,,2 pieces; adipose tissue with 1 mm artery in 1 piece,adipose_subq
+GTEX-18D9U-0726,Adipose - Subcutaneous,GTEX-18D9U,male,40-49,Ventilator case,,"1 piece + small fragment; ~10% fascia, rep delineated",adipose_subq
+GTEX-18QFQ-0226,Adipose - Subcutaneous,GTEX-18QFQ,male,30-39,Ventilator case,fibrosis,2 pieces; mature fat with small contribution of fibrous/nerve/vascular tissue,adipose_subq
+GTEX-19HZE-0226,Adipose - Subcutaneous,GTEX-19HZE,female,70-79,Intermediate death,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1A32A-0226,Adipose - Subcutaneous,GTEX-1A32A,female,50-59,Fast death - natural causes,,2 pieces; 5% fibrovascular content,adipose_subq
+GTEX-1A3MV-2126,Adipose - Subcutaneous,GTEX-1A3MV,male,30-39,Ventilator case,fibrosis,2 pieces; mature fat with ~5-10% fibrous tissue,adipose_subq
+GTEX-1A3MW-0226,Adipose - Subcutaneous,GTEX-1A3MW,female,60-69,Slow death,,2 pieces; 5% fibrovascular content,adipose_subq
+GTEX-1A3MX-0226,Adipose - Subcutaneous,GTEX-1A3MX,male,60-69,Slow death,,"2 pieces, fascia/vascular elements are ~15% tissue, rep delineated",adipose_subq
+GTEX-1A8FM-0126,Adipose - Subcutaneous,GTEX-1A8FM,female,50-59,Fast death - natural causes,,2 pieces; large central defects,adipose_subq
+GTEX-1A8G6-0526,Adipose - Subcutaneous,GTEX-1A8G6,male,60-69,Fast death - natural causes,,"2 pieces, ~5-10% fascia; rep. delineated",adipose_subq
+GTEX-1A8G7-0226,Adipose - Subcutaneous,GTEX-1A8G7,male,60-69,Fast death - natural causes,fibrosis,"2 pieces; some defects in section (oversized), up to 10% fibrous/vascular tissue",adipose_subq
+GTEX-1AMEY-1426,Adipose - Subcutaneous,GTEX-1AMEY,female,30-39,Ventilator case,,2 pieces; <5% fibrovascular content,adipose_subq
+GTEX-1AMFI-2126,Adipose - Subcutaneous,GTEX-1AMFI,female,50-59,Ventilator case,,"2 pieces, ~5-10 % fascia; rep delineated",adipose_subq
+GTEX-1AX8Y-2126,Adipose - Subcutaneous,GTEX-1AX8Y,male,40-49,Ventilator case,,2 pieces; adipose tissue with ~40% large vessels/nerve,adipose_subq
+GTEX-1AX8Z-0226,Adipose - Subcutaneous,GTEX-1AX8Z,male,60-69,Ventilator case,,2 pieces; fibrovascular structures comprise 5% & 10%; internal 'holes',adipose_subq
+GTEX-1AX9I-0226,Adipose - Subcutaneous,GTEX-1AX9I,male,60-69,Fast death - natural causes,,"2 pieces: 1 is 98% fat, other contains 15% fibrovascular & neural tissue",adipose_subq
+GTEX-1AX9J-0326,Adipose - Subcutaneous,GTEX-1AX9J,male,60-69,Ventilator case,,"2 pieces, ~15-20% fascia/vascular elements, rep. delineated",adipose_subq
+GTEX-1AX9K-2426,Adipose - Subcutaneous,GTEX-1AX9K,male,50-59,Ventilator case,sweat_glands,2 pieces; 1 piece contains  hair and sweat glands (labeled),adipose_subq
+GTEX-1AYCT-2226,Adipose - Subcutaneous,GTEX-1AYCT,male,50-59,Ventilator case,,2 pieces; adipose tissue with 30-50% vessels/nerve/connective tissue,adipose_subq
+GTEX-1AYD5-2326,Adipose - Subcutaneous,GTEX-1AYD5,male,50-59,Ventilator case,,2 pieces;  mature adipose tissue and ~5 and 20% fibrovascular component and nerves (arrow); small fragment of skeletal muscle (outlined),adipose_subq
+GTEX-1B8KE-2526,Adipose - Subcutaneous,GTEX-1B8KE,male,50-59,Ventilator case,,"2 pieces, trace fascia <5% tissue.",adipose_subq
+GTEX-1B8KZ-1926,Adipose - Subcutaneous,GTEX-1B8KZ,male,50-59,Ventilator case,,"2 pieces; mature adipose tissue with ~20and 30% dense fibroconnective tissue, nerve, and vessels",adipose_subq
+GTEX-1B8L1-2626,Adipose - Subcutaneous,GTEX-1B8L1,male,60-69,Fast death - natural causes,,"2 pieces, ~20% fascia/ vascular elements; rep delineated",adipose_subq
+GTEX-1B8SF-0526,Adipose - Subcutaneous,GTEX-1B8SF,male,60-69,Fast death - natural causes,,2 pieces; mature adipose tissue with large vessel at one edge,adipose_subq
+GTEX-1B8SG-0226,Adipose - Subcutaneous,GTEX-1B8SG,male,50-59,Fast death - natural causes,,"2 pieces; mature adipose tissue, 5--10% fascia, few tissue defects (?poor fixation)",adipose_subq
+GTEX-1B932-0226,Adipose - Subcutaneous,GTEX-1B932,female,40-49,Ventilator case,,"2 pieces; ~15 to 20% fibrovascular component with small nerves, central defects (?poor fixation)",adipose_subq
+GTEX-1B933-0526,Adipose - Subcutaneous,GTEX-1B933,female,50-59,Fast death - natural causes,,"2 pieces, ~25% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1B97I-1726,Adipose - Subcutaneous,GTEX-1B97I,male,40-49,Ventilator case,,"2 pieces, < 5% fascia",adipose_subq
+GTEX-1B97J-1626,Adipose - Subcutaneous,GTEX-1B97J,female,50-59,Ventilator case,,"2 pieces, fascia/vascular elements, 5-10% tissue",adipose_subq
+GTEX-1B98T-0226,Adipose - Subcutaneous,GTEX-1B98T,male,60-69,Fast death - natural causes,,"2 pieces.  Fascia/vasuclar elements are <10% of tissue, rep delineated",adipose_subq
+GTEX-1B996-0126,Adipose - Subcutaneous,GTEX-1B996,male,60-69,Fast death - natural causes,,2 pieces; ~10% fibrovascular component,adipose_subq
+GTEX-1BAJH-0426,Adipose - Subcutaneous,GTEX-1BAJH,male,70-79,Fast death - natural causes,,2 pieces; ~10 to 15% fibrovascular component,adipose_subq
+GTEX-1C2JI-2226,Adipose - Subcutaneous,GTEX-1C2JI,male,50-59,Ventilator case,,2 pieces; mature adipose tissue with small portion of fibroconnective tissue and vessels,adipose_subq
+GTEX-1C475-1926,Adipose - Subcutaneous,GTEX-1C475,female,40-49,Ventilator case,,"2 pieces; mature adipose tissue, few holes (? poor fixation)",adipose_subq
+GTEX-1C4CL-0426,Adipose - Subcutaneous,GTEX-1C4CL,male,30-39,Ventilator case,,"2 pieces, ~!5% fascia/vascular elements",adipose_subq
+GTEX-1C64N-0226,Adipose - Subcutaneous,GTEX-1C64N,male,50-59,Fast death - natural causes,,2 pieces; mature adipose tissue and 5% and 15% fibrovascular component,adipose_subq
+GTEX-1C64O-0226,Adipose - Subcutaneous,GTEX-1C64O,male,60-69,Ventilator case,,"2 pieces, fascia/vascular elements are ~10-15% of tissue",adipose_subq
+GTEX-1C6VQ-0226,Adipose - Subcutaneous,GTEX-1C6VQ,male,50-59,Fast death - natural causes,fibrosis,2 pieces; mature fat with up to 20% loose fibrous tissue,adipose_subq
+GTEX-1C6VR-2626,Adipose - Subcutaneous,GTEX-1C6VR,male,60-69,Fast death - natural causes,,"2 pieces, ~10% fascia/tendon, rep delineated",adipose_subq
+GTEX-1C6VS-0426,Adipose - Subcutaneous,GTEX-1C6VS,male,60-69,Fast death - natural causes,,2 pieces; 5% and 10% fibrovascular component and nerves (arrows),adipose_subq
+GTEX-1C6WA-0226,Adipose - Subcutaneous,GTEX-1C6WA,male,60-69,Fast death - natural causes,fibrosis,2 pieces; 10 & 40% fibrous content,adipose_subq
+GTEX-1CAMQ-0126,Adipose - Subcutaneous,GTEX-1CAMQ,male,40-49,Fast death - natural causes,,2 pieces; 10% and 25% fibrovascular component; one sample with numerous empty spaces (arrows),adipose_subq
+GTEX-1CAMR-1826,Adipose - Subcutaneous,GTEX-1CAMR,male,20-29,Ventilator case,,"2 pieces, ~10% fascia/vascular elements; rep delineated",adipose_subq
+GTEX-1CAMS-0326,Adipose - Subcutaneous,GTEX-1CAMS,female,40-49,Ventilator case,,2 fragmented pieces; mature adipose tissue and 5% and 10% fibrovascular component,adipose_subq
+GTEX-1CAV2-2326,Adipose - Subcutaneous,GTEX-1CAV2,female,40-49,Fast death - natural causes,fibrosis,2 pieces; fat with minimal fibrous stroma,adipose_subq
+GTEX-1CB4E-1826,Adipose - Subcutaneous,GTEX-1CB4E,male,60-69,Ventilator case,fibrosis,2 pieces; minimal fibrous content,adipose_subq
+GTEX-1CB4F-0526,Adipose - Subcutaneous,GTEX-1CB4F,male,60-69,Ventilator case,"fibrosis, sweat_glands","2 pieces; from 10-30% is fibrous tissue/tendon, hair follicles/sweat glands, vessels",adipose_subq
+GTEX-1CB4G-0326,Adipose - Subcutaneous,GTEX-1CB4G,male,60-69,Fast death - natural causes,,"2 pieces, ~10% fascia, rep delineated",adipose_subq
+GTEX-1CB4H-0326,Adipose - Subcutaneous,GTEX-1CB4H,female,60-69,Slow death,fibrosis,2 pieces; 10% fibrous content in 1 piece,adipose_subq
+GTEX-1CB4I-0426,Adipose - Subcutaneous,GTEX-1CB4I,male,50-59,Ventilator case,,2 pieces; <5% fibrovascular content,adipose_subq
+GTEX-1CB4J-1126,Adipose - Subcutaneous,GTEX-1CB4J,male,60-69,Intermediate death,,"2 pieces, vascular elements/fascia are ~5% tissue, rep delineated",adipose_subq
+GTEX-1E1VI-0226,Adipose - Subcutaneous,GTEX-1E1VI,male,50-59,Fast death - natural causes,fibrosis,"2 pieces; mature adipose tissue, 1 piece includes ~10% fibrous tissue",adipose_subq
+GTEX-1E2YA-0226,Adipose - Subcutaneous,GTEX-1E2YA,male,50-59,Fast death - natural causes,,"2 pieces, ~10% fascia/vascular elements; rep delineated",adipose_subq
+GTEX-1EH9U-0226,Adipose - Subcutaneous,GTEX-1EH9U,male,60-69,Slow death,,2 pieces; 5 & 10% fibrovascular content,adipose_subq
+GTEX-1EKGG-0126,Adipose - Subcutaneous,GTEX-1EKGG,male,60-69,Fast death - natural causes,fibrosis,"1 piece; not skin, adipose tissue with small portion of fibrous tissue",adipose_subq
+GTEX-1EMGI-0226,Adipose - Subcutaneous,GTEX-1EMGI,male,60-69,Fast death - natural causes,,"2 pieces, ~10% fascia/peripheral nerve elements, rep delineated",adipose_subq
+GTEX-1EN7A-0226,Adipose - Subcutaneous,GTEX-1EN7A,male,40-49,Fast death - natural causes,fibrosis,2 pieces; several tissue holes; 5 & 10% fibrous content,adipose_subq
+GTEX-1EU9M-0326,Adipose - Subcutaneous,GTEX-1EU9M,male,60-69,Fast death - natural causes,,"2 pieces, ~40%  fascia/peripheral nerve, rep delineated",adipose_subq
+GTEX-1EWIQ-0226,Adipose - Subcutaneous,GTEX-1EWIQ,female,70-79,Fast death - natural causes,fibrosis,2 pieces; 1 piece is ~20% fibrous/vascular,adipose_subq
+GTEX-1EX96-1426,Adipose - Subcutaneous,GTEX-1EX96,male,50-59,Fast death - natural causes,,"2 pieces, ~20% fascia; rep delineated",adipose_subq
+GTEX-1F48J-0226,Adipose - Subcutaneous,GTEX-1F48J,female,50-59,Slow death,fibrosis,2 pieces; minimal fibrous content,adipose_subq
+GTEX-1F52S-0226,Adipose - Subcutaneous,GTEX-1F52S,female,60-69,Slow death,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1F5PK-2526,Adipose - Subcutaneous,GTEX-1F5PK,male,50-59,Ventilator case,,2 pieces; 10% vascular content,adipose_subq
+GTEX-1F5PL-0126,Adipose - Subcutaneous,GTEX-1F5PL,female,40-49,Ventilator case,,"2 pieces, ~40% fascia/vacular elements",adipose_subq
+GTEX-1F6I4-0226,Adipose - Subcutaneous,GTEX-1F6I4,male,60-69,Fast death - natural causes,,2 pieces; one has large central defect (?fixation),adipose_subq
+GTEX-1F6IF-0626,Adipose - Subcutaneous,GTEX-1F6IF,male,60-69,Fast death - natural causes,fibrosis,"2 pieces, 70% fibrous tissue, insufficient adipose for target GTEx tissue",adipose_subq
+GTEX-1F6RS-0226,Adipose - Subcutaneous,GTEX-1F6RS,female,60-69,Slow death,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1F75A-0226,Adipose - Subcutaneous,GTEX-1F75A,male,50-59,Fast death - natural causes,,"2 pieces, ~5-10% fascia, rep delineated",adipose_subq
+GTEX-1F75B-0226,Adipose - Subcutaneous,GTEX-1F75B,male,50-59,Slow death,fibrosis,2 pieces; mature adipose tissue with 5-10% fibrous tissue/large vessel,adipose_subq
+GTEX-1F75I-0426,Adipose - Subcutaneous,GTEX-1F75I,male,40-49,Ventilator case,,5 pieces; two larger pieces consist of fibrovascular component and 5% and 60% mature adipose tissue; 2 of 3 smaller pieces represent  fibrovascular tissue; the remaining one consists of adipose tissue with small fibrovascular component and adnexal ducts (outlined),adipose_subq
+GTEX-1F75W-0226,Adipose - Subcutaneous,GTEX-1F75W,male,60-69,Fast death - natural causes,fibrosis,2 pieces; 10 & 30% fibrous content,adipose_subq
+GTEX-1F7RK-0226,Adipose - Subcutaneous,GTEX-1F7RK,female,20-29,Fast death - violent,fibrosis,2 pieces; mature adipose tissue with small portion of fibrous tissue/vessel,adipose_subq
+GTEX-1F88E-0526,Adipose - Subcutaneous,GTEX-1F88E,female,60-69,Slow death,,"2 pieces, ~5-10% fascia/vascular elements; rep. delineated",adipose_subq
+GTEX-1F88F-2626,Adipose - Subcutaneous,GTEX-1F88F,female,60-69,Fast death - natural causes,fibrosis,2 pieces; minimal fibrous content,adipose_subq
+GTEX-1FIGZ-1626,Adipose - Subcutaneous,GTEX-1FIGZ,male,40-49,Ventilator case,fibrosis,"2 pieces; 1 piece is ~90% fat/10% fibrous, 2nd is ~50% fat/50% fibrous and vessels",adipose_subq
+GTEX-1GF9U-2226,Adipose - Subcutaneous,GTEX-1GF9U,female,40-49,Ventilator case,fibrosis,2 pieces; adipose tissue with ~5-10% fibrous tissue,adipose_subq
+GTEX-1GF9V-0226,Adipose - Subcutaneous,GTEX-1GF9V,male,60-69,Fast death - natural causes,,"pieces, ~5-10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1GF9W-0426,Adipose - Subcutaneous,GTEX-1GF9W,male,60-69,Intermediate death,sweat_glands,2 pieces; mature adipose tissue with from 5-20% fibrovascular tissue and sweat glands (arrows),adipose_subq
+GTEX-1GF9X-1926,Adipose - Subcutaneous,GTEX-1GF9X,female,40-49,Ventilator case,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1GMR2-2526,Adipose - Subcutaneous,GTEX-1GMR2,male,50-59,Ventilator case,fibrosis,2 pieces; 20% internal fibrous content in 1 piece; 5% in other,adipose_subq
+GTEX-1GMR3-2026,Adipose - Subcutaneous,GTEX-1GMR3,male,40-49,Ventilator case,,"2 pieces, fascia/vascular elements are ~10-20% of tissue (rep delineated)",adipose_subq
+GTEX-1GMR8-0226,Adipose - Subcutaneous,GTEX-1GMR8,female,50-59,Intermediate death,fibrosis,2 pieces; 5% fibrous content,adipose_subq
+GTEX-1GMRU-0226,Adipose - Subcutaneous,GTEX-1GMRU,male,50-59,Fast death - natural causes,,"2 pieces, ~10% fascia, rep. delineated",adipose_subq
+GTEX-1GN1U-0226,Adipose - Subcutaneous,GTEX-1GN1U,female,50-59,Slow death,,"2 pieces, vascular/fascia elements are <5% of tissue; rep delineated",adipose_subq
+GTEX-1GN1V-0226,Adipose - Subcutaneous,GTEX-1GN1V,male,60-69,Fast death - natural causes,fibrosis,"2 pieces; mature adipose tissue, up to ~10% fibrous tissue/vessels",adipose_subq
+GTEX-1GN1W-0626,Adipose - Subcutaneous,GTEX-1GN1W,female,50-59,Ventilator case,fibrosis,2 pieces; 5 & 10% fibrous content,adipose_subq
+GTEX-1GN2E-0326,Adipose - Subcutaneous,GTEX-1GN2E,male,60-69,Fast death - natural causes,,"2 pieces, ~10-20% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1GN73-0326,Adipose - Subcutaneous,GTEX-1GN73,male,60-69,Fast death - natural causes,,2 pieces; 20% & 60% fibrovascular & neural content,adipose_subq
+GTEX-1GPI6-0226,Adipose - Subcutaneous,GTEX-1GPI6,male,60-69,Fast death - natural causes,,"2 pieces, ~5% fascia; rep delineated",adipose_subq
+GTEX-1GPI7-0226,Adipose - Subcutaneous,GTEX-1GPI7,male,20-29,Ventilator case,fibrosis,"2 pieces; mature fat, one piece includes about 10% fibrous tissue/vessels",adipose_subq
+GTEX-1GTWX-0226,Adipose - Subcutaneous,GTEX-1GTWX,male,60-69,Fast death - natural causes,,"2 pieces, fascia elements are ~40%, rep delineated",adipose_subq
+GTEX-1GZ2Q-0326,Adipose - Subcutaneous,GTEX-1GZ2Q,male,40-49,Fast death - natural causes,,2 pieces; mature adipose tissue with fibrovascular component and one piece with vessel wall (outlined) up to ~3mm in thickness,adipose_subq
+GTEX-1GZ4H-1826,Adipose - Subcutaneous,GTEX-1GZ4H,female,50-59,Ventilator case,,2 pieces; contains 30% blood vessels & nerves,adipose_subq
+GTEX-1GZ4I-0226,Adipose - Subcutaneous,GTEX-1GZ4I,male,50-59,Fast death - natural causes,fibrosis,2 pieces; 5% fibrous content,adipose_subq
+GTEX-1GZHY-0426,Adipose - Subcutaneous,GTEX-1GZHY,female,50-59,Fast death - violent,,"2 pieces, only trace fascia",adipose_subq
+GTEX-1H11D-0126,Adipose - Subcutaneous,GTEX-1H11D,male,40-49,Ventilator case,fibrosis,"2 pieces; large central defect in one (?poor fixation), <10% fibrous tissue",adipose_subq
+GTEX-1H1CY-2626,Adipose - Subcutaneous,GTEX-1H1CY,female,60-69,Fast death - natural causes,,2 pieces: 1 with 5% neural tissue,adipose_subq
+GTEX-1H1DE-2026,Adipose - Subcutaneous,GTEX-1H1DE,male,20-29,Ventilator case,,"2 pieces, barely trace fascia",adipose_subq
+GTEX-1H1DF-0226,Adipose - Subcutaneous,GTEX-1H1DF,female,40-49,Fast death - natural causes,fibrosis,2 pieces; 1 with 10% fibrous content,adipose_subq
+GTEX-1H1DG-0226,Adipose - Subcutaneous,GTEX-1H1DG,male,70-79,Ventilator case,,"2 pieces, fascia elements up to ~10% of tissue, rep delineated",adipose_subq
+GTEX-1H1E6-2026,Adipose - Subcutaneous,GTEX-1H1E6,male,30-39,Ventilator case,fibrosis,2 pieces; fat with 5-10% dense fibrous tissue/vessels/nerve,adipose_subq
+GTEX-1H1ZS-0526,Adipose - Subcutaneous,GTEX-1H1ZS,male,70-79,Slow death,,"2 pieces, trace fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1H23P-0226,Adipose - Subcutaneous,GTEX-1H23P,male,60-69,Slow death,fibrosis,2 pieces: 1 with large blood vessel and fibrous tissue comprising 10%,adipose_subq
+GTEX-1H2FU-0226,Adipose - Subcutaneous,GTEX-1H2FU,female,60-69,Slow death,"calcification, fibrosis",2 pieces; dystrophic calcification within fibrous component,adipose_subq
+GTEX-1H3NZ-0226,Adipose - Subcutaneous,GTEX-1H3NZ,male,60-69,Slow death,"atrophy, fibrosis",2 pieces; atrophic with 30% diffuse fibrous content; 3mm of skin (labeled),adipose_subq
+GTEX-1H3O1-0526,Adipose - Subcutaneous,GTEX-1H3O1,male,60-69,Fast death - natural causes,,"2 pieces, ~30% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1H3VE-0226,Adipose - Subcutaneous,GTEX-1H3VE,male,40-49,Slow death,,2 pieces; mature adipose tissue <10% fibrovascular tissue,adipose_subq
+GTEX-1H3VY-0226,Adipose - Subcutaneous,GTEX-1H3VY,male,50-59,Ventilator case,fibrosis,"2 pieces; one piece is incomplete section (? fixation), up to ~30% fibrous/nerve tissue",adipose_subq
+GTEX-1H4P4-0226,Adipose - Subcutaneous,GTEX-1H4P4,male,50-59,Fast death - natural causes,fibrosis,"2 pieces; large central defects (? poor fixation), smaller piece includes ~10-20% fibrous tissue",adipose_subq
+GTEX-1HB9E-0426,Adipose - Subcutaneous,GTEX-1HB9E,male,50-59,Fast death - natural causes,,"2 pieces, fascia/vascular elements are ~10-15% of tissue",adipose_subq
+GTEX-1HBPH-0526,Adipose - Subcutaneous,GTEX-1HBPH,female,40-49,Slow death,,2 pieces; 15% nerve and vascular content,adipose_subq
+GTEX-1HBPI-1426,Adipose - Subcutaneous,GTEX-1HBPI,male,50-59,Fast death - natural causes,fibrosis,2 pieces; <5% fibrous content; refixed at VARI,adipose_subq
+GTEX-1HBPM-0326,Adipose - Subcutaneous,GTEX-1HBPM,female,60-69,Slow death,,2 pieces; mature fat,adipose_subq
+GTEX-1HBPN-0726,Adipose - Subcutaneous,GTEX-1HBPN,male,50-59,Ventilator case,,2 pieces; ~20% fascia; rep delineated.,adipose_subq
+GTEX-1HC8U-2526,Adipose - Subcutaneous,GTEX-1HC8U,female,40-49,Ventilator case,fibrosis,2 pieces; 1 has 10% fibrous content,adipose_subq
+GTEX-1HCU6-0226,Adipose - Subcutaneous,GTEX-1HCU6,female,60-69,Fast death - natural causes,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1HCU7-0326,Adipose - Subcutaneous,GTEX-1HCU7,male,50-59,Ventilator case,fibrosis,2 pieces; 10 & 20% fibrous content,adipose_subq
+GTEX-1HCU8-0726,Adipose - Subcutaneous,GTEX-1HCU8,female,60-69,Fast death - natural causes,,"2 pieces, fascia is ~10%, rep delineated",adipose_subq
+GTEX-1HCU9-1626,Adipose - Subcutaneous,GTEX-1HCU9,male,20-29,Ventilator case,fibrosis,2 pieces; <5% fibrous content; several holes in tissue,adipose_subq
+GTEX-1HCUA-2226,Adipose - Subcutaneous,GTEX-1HCUA,female,50-59,Ventilator case,fibrosis,2 pieces; 1 piece includes central defects (?poor fixation); 2nd is ~30% fibrous,adipose_subq
+GTEX-1HCVE-0226,Adipose - Subcutaneous,GTEX-1HCVE,male,50-59,Slow death,,2 pieces; fascia/vascular elements (rep delineated) are ~5-10% tissue,adipose_subq
+GTEX-1HFI6-0326,Adipose - Subcutaneous,GTEX-1HFI6,male,40-49,Fast death - natural causes,,"2 pieces; fascia/vascular elements are ~20% of tissue, rep delineated",adipose_subq
+GTEX-1HFI7-2026,Adipose - Subcutaneous,GTEX-1HFI7,female,50-59,Ventilator case,fibrosis,2 pieces; up to 10% fibrous tissue,adipose_subq
+GTEX-1HGF4-2526,Adipose - Subcutaneous,GTEX-1HGF4,male,60-69,Fast death - natural causes,fibrosis,2 pieces; 10% fibrous content,adipose_subq
+GTEX-1HKZK-0426,Adipose - Subcutaneous,GTEX-1HKZK,male,40-49,Ventilator case,"fibrosis, sweat_glands","2 pieces; predominantly fat with ~10% fibrous tissue, scattered sweat glands and portion of hair follicle",adipose_subq
+GTEX-1HR98-0226,Adipose - Subcutaneous,GTEX-1HR98,male,60-69,Slow death,,2 pieces; 10% fibrovascular content,adipose_subq
+GTEX-1HR9M-0226,Adipose - Subcutaneous,GTEX-1HR9M,male,60-69,Slow death,"fibrosis, sweat_glands",2 pieces: 1 with 60% fibrous content & a focus of sweat glands [labeled],adipose_subq
+GTEX-1HSEH-0226,Adipose - Subcutaneous,GTEX-1HSEH,male,60-69,Ventilator case,,"2 pieces, fascia/vascular elements up to ~40% of tissue, rep delineated",adipose_subq
+GTEX-1HSGN-0126,Adipose - Subcutaneous,GTEX-1HSGN,female,40-49,Ventilator case,,"2 pieces, ~5-10% non adipose elements, peripheral nerve, vascular elements (rep delineated)",adipose_subq
+GTEX-1HSKV-0326,Adipose - Subcutaneous,GTEX-1HSKV,male,60-69,Fast death - natural causes,fibrosis,2 pieces; 1 piece is ~30% vessels/some fibrous tissue,adipose_subq
+GTEX-1HSMO-0226,Adipose - Subcutaneous,GTEX-1HSMO,male,60-69,Intermediate death,fibrosis,2 pieces; minimal  fibrous content,adipose_subq
+GTEX-1HSMP-0226,Adipose - Subcutaneous,GTEX-1HSMP,male,70-79,Ventilator case,,2 pieces; 10% vascular/fascia elements,adipose_subq
+GTEX-1HSMQ-1426,Adipose - Subcutaneous,GTEX-1HSMQ,male,50-59,Ventilator case,fibrosis,2 pieces; fat with 10-20% fibrous tissue,adipose_subq
+GTEX-1HT8W-0226,Adipose - Subcutaneous,GTEX-1HT8W,male,30-39,Fast death - natural causes,,"2 pieces, ~30% fascia, rep delineated",adipose_subq
+GTEX-1HUB1-0326,Adipose - Subcutaneous,GTEX-1HUB1,male,60-69,Ventilator case,,2 pieces; 10% fibrovascular content,adipose_subq
+GTEX-1I19N-0426,Adipose - Subcutaneous,GTEX-1I19N,male,70-79,Slow death,,3 pieces; mature adipose tissue with trace of fibrovascular component and nerves (arrows),adipose_subq
+GTEX-1I1CD-0226,Adipose - Subcutaneous,GTEX-1I1CD,female,60-69,Slow death,,2 pieces,adipose_subq
+GTEX-1I1GP-2326,Adipose - Subcutaneous,GTEX-1I1GP,male,50-59,Fast death - natural causes,,"2 pieces, fascia up to ~10% of specimen",adipose_subq
+GTEX-1I1GQ-0226,Adipose - Subcutaneous,GTEX-1I1GQ,male,50-59,Fast death - natural causes,,2 pieces; mature adipose tissue and fibrovascular component (~5%),adipose_subq
+GTEX-1I1GR-0226,Adipose - Subcutaneous,GTEX-1I1GR,male,60-69,Fast death - natural causes,,"2 pieces, ~10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1I1GS-0226,Adipose - Subcutaneous,GTEX-1I1GS,male,60-69,Slow death,,"2 pieces, fascia/vascular elements are ~30% of tissue, rep. delineated",adipose_subq
+GTEX-1I1GT-0526,Adipose - Subcutaneous,GTEX-1I1GT,female,60-69,Ventilator case,fibrosis,2 pieces; fat with trivial fibrous/vascular component,adipose_subq
+GTEX-1I1GU-2326,Adipose - Subcutaneous,GTEX-1I1GU,male,40-49,Ventilator case,,2 pieces;  10% fibrovascular content,adipose_subq
+GTEX-1I1GV-0426,Adipose - Subcutaneous,GTEX-1I1GV,male,60-69,Fast death - natural causes,,"2 pieces, ~10% fascia, peripheral nerve, or vascular elements; rep. delineated",adipose_subq
+GTEX-1I1HK-0226,Adipose - Subcutaneous,GTEX-1I1HK,male,60-69,Intermediate death,fibrosis,"2 pieces; 25 and 70% fat, remainder is fibrous/vascular/nerve",adipose_subq
+GTEX-1I4MK-2026,Adipose - Subcutaneous,GTEX-1I4MK,female,50-59,Ventilator case,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1I6K6-0226,Adipose - Subcutaneous,GTEX-1I6K6,male,30-39,Ventilator case,fibrosis,"2 pieces; 80 and 60% fat, remainder is fibrous/nerve/vessel/tendon",adipose_subq
+GTEX-1I6K7-0226,Adipose - Subcutaneous,GTEX-1I6K7,male,40-49,Ventilator case,fibrosis,2 pieces; 10% fibrous content,adipose_subq
+GTEX-1ICG6-2626,Adipose - Subcutaneous,GTEX-1ICG6,female,70-79,Ventilator case,,"2 pieces; high (50%) collagen (fascia) content, especially in 1 piece",adipose_subq
+GTEX-1ICLY-0226,Adipose - Subcutaneous,GTEX-1ICLY,male,50-59,Ventilator case,,"2 pieces, ~15-20% vascular/fascia elements, rep. delineated",adipose_subq
+GTEX-1ICLZ-0226,Adipose - Subcutaneous,GTEX-1ICLZ,male,60-69,Intermediate death,,2 pieces; 5% stromal content; portion of large blood vessel occupies 20%,adipose_subq
+GTEX-1IDFM-0226,Adipose - Subcutaneous,GTEX-1IDFM,male,60-69,Slow death,fibrosis,2 pieces; fat with <10% fibrous component,adipose_subq
+GTEX-1IDJC-2126,Adipose - Subcutaneous,GTEX-1IDJC,male,50-59,Ventilator case,,"2 pieces, 60% fat (rep delineated); rest is fascia/connective elements; sample carefully",adipose_subq
+GTEX-1IDJD-1226,Adipose - Subcutaneous,GTEX-1IDJD,male,30-39,Ventilator case,,"2 pieces; mature adipose tissue with fibrovascular component; one contains hair bulb, adnexa, nerves and vessels (outlined)",adipose_subq
+GTEX-1IDJE-2526,Adipose - Subcutaneous,GTEX-1IDJE,female,50-59,Ventilator case,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1IDJF-0226,Adipose - Subcutaneous,GTEX-1IDJF,male,20-29,Ventilator case,fibrosis,"2 pieces; 30% fibrous content in 1, blood vessel at center of other piece {10%)",adipose_subq
+GTEX-1IDJH-0426,Adipose - Subcutaneous,GTEX-1IDJH,male,70-79,Fast death - violent,,"2 pieces, ~5-10% fascia, rep delineated",adipose_subq
+GTEX-1IDJI-0326,Adipose - Subcutaneous,GTEX-1IDJI,female,50-59,Ventilator case,fibrosis,"2 pieces; central defects (?poor fixation), ~15% of 1 piece is fibrous/vessel/nerve",adipose_subq
+GTEX-1IDJU-2526,Adipose - Subcutaneous,GTEX-1IDJU,female,60-69,Ventilator case,,2 pieces; 5 & 10% fibrovascular content,adipose_subq
+GTEX-1IDJV-0326,Adipose - Subcutaneous,GTEX-1IDJV,male,60-69,Intermediate death,,"2 pieces, ~10% fascia/vascular elments",adipose_subq
+GTEX-1IE54-0226,Adipose - Subcutaneous,GTEX-1IE54,female,40-49,Ventilator case,fibrosis,2 pieces; mature fat with 10-15% fibrous component,adipose_subq
+GTEX-1IGQW-0226,Adipose - Subcutaneous,GTEX-1IGQW,male,60-69,Slow death,,"2 pieces, fascial elements are ~5-10% of tissue, rep delineated",adipose_subq
+GTEX-1IKJJ-0226,Adipose - Subcutaneous,GTEX-1IKJJ,male,60-69,Fast death - natural causes,,"2 pieces, 10-15% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1IKK5-0526,Adipose - Subcutaneous,GTEX-1IKK5,male,60-69,Fast death - natural causes,,2 pieces; 5% vascular content,adipose_subq
+GTEX-1IKOE-0226,Adipose - Subcutaneous,GTEX-1IKOE,female,30-39,Ventilator case,,"2 pieces; mature adipose tissue, ~10% is vessels/nerve/connective tissue",adipose_subq
+GTEX-1IKOH-0326,Adipose - Subcutaneous,GTEX-1IKOH,female,60-69,Fast death - natural causes,,"2 pieces, trace fascia; rep delineated",adipose_subq
+GTEX-1IL2U-0326,Adipose - Subcutaneous,GTEX-1IL2U,male,60-69,Fast death - natural causes,,2 pieces; mature adipose tissue ~50% with fibrovascular component ~50%,adipose_subq
+GTEX-1IL2V-0226,Adipose - Subcutaneous,GTEX-1IL2V,male,70-79,Fast death - natural causes,,"2 pieces, ~10-15% fascia, vascular, peripheral nerve elements, rep delineated",adipose_subq
+GTEX-1IOXB-0226,Adipose - Subcutaneous,GTEX-1IOXB,male,50-59,Fast death - natural causes,fibrosis,2 pieces; 5% fibrous content,adipose_subq
+GTEX-1IY9M-0226,Adipose - Subcutaneous,GTEX-1IY9M,male,60-69,Fast death - violent,,2 pieces; mature adipose tissue and ~15% fibrovascular component,adipose_subq
+GTEX-1J1OQ-0326,Adipose - Subcutaneous,GTEX-1J1OQ,female,40-49,Slow death,,"2 pieces, 15-20% fascia/vascular elements, rep. delineated",adipose_subq
+GTEX-1J1R8-2226,Adipose - Subcutaneous,GTEX-1J1R8,male,40-49,Ventilator case,,"2 pieces, ~10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1J8EW-0226,Adipose - Subcutaneous,GTEX-1J8EW,female,60-69,Fast death - natural causes,,2 pieces; 1 has 10% fibrovascular content,adipose_subq
+GTEX-1J8JJ-0326,Adipose - Subcutaneous,GTEX-1J8JJ,female,60-69,Fast death - natural causes,,"2 pieces, ~30-40% fascia/vascular elements, rep delineated-sample with caution",adipose_subq
+GTEX-1J8Q2-0426,Adipose - Subcutaneous,GTEX-1J8Q2,male,60-69,Intermediate death,,"2 pieces; central defects, mature fat with 5 and 40% fibrocollagenous tissue/tendon/vessels/nerve",adipose_subq
+GTEX-1J8Q3-1526,Adipose - Subcutaneous,GTEX-1J8Q3,male,60-69,Ventilator case,fibrosis,2 pieces; <10% fibrous content,adipose_subq
+GTEX-1J8QM-2326,Adipose - Subcutaneous,GTEX-1J8QM,female,60-69,Ventilator case,,2 pieces; mature adipose tissue with trace of fibrovascular component,adipose_subq
+GTEX-1JJ6O-0226,Adipose - Subcutaneous,GTEX-1JJ6O,male,60-69,Slow death,"fibrosis, sweat_glands","2 pieces; includes ~10% fibrous tissue/sweat glands/nerve etc, 1 piece has large defect (?poor fixation)",adipose_subq
+GTEX-1JJE9-1226,Adipose - Subcutaneous,GTEX-1JJE9,male,70-79,Intermediate death,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1JJEA-0226,Adipose - Subcutaneous,GTEX-1JJEA,male,60-69,Fast death - natural causes,,"2 pieces, ~20% fascia/vascular elements",adipose_subq
+GTEX-1JK1U-2126,Adipose - Subcutaneous,GTEX-1JK1U,male,60-69,Ventilator case,,"2 pieces, ~30% fascia/vascular elements",adipose_subq
+GTEX-1JKYN-1226,Adipose - Subcutaneous,GTEX-1JKYN,male,30-39,Ventilator case,fibrosis,"2 pieces; adipose tissue with ~10% fibrous component, some tissue defects",adipose_subq
+GTEX-1JKYR-0226,Adipose - Subcutaneous,GTEX-1JKYR,male,20-29,Ventilator case,fibrosis,2 pieces; 20% fibrous content; 5% nerve,adipose_subq
+GTEX-1JMI6-0226,Adipose - Subcutaneous,GTEX-1JMI6,female,50-59,Intermediate death,,,adipose_subq
+GTEX-1JMLX-0126,Adipose - Subcutaneous,GTEX-1JMLX,male,50-59,Fast death - natural causes,fibrosis,2 pieces; 5% fibrous content; central holes in 1 piece,adipose_subq
+GTEX-1JMOU-1226,Adipose - Subcutaneous,GTEX-1JMOU,female,60-69,Slow death,,"2 piece, <5% vascular elements; rep delineated",adipose_subq
+GTEX-1JMPY-1426,Adipose - Subcutaneous,GTEX-1JMPY,male,30-39,Ventilator case,fibrosis,2 pieces; fat with 10-15% fibrous tissue/vessels/nerve,adipose_subq
+GTEX-1JMPZ-0326,Adipose - Subcutaneous,GTEX-1JMPZ,male,30-39,Slow death,,2 pieces; fat comprises only 30%; remainder is largely fibrovascular,adipose_subq
+GTEX-1JMQI-2026,Adipose - Subcutaneous,GTEX-1JMQI,male,50-59,Ventilator case,fibrosis,"2 pieces; predominantly fat, 5 and 10-15% fibrous tissue/larger vessels",adipose_subq
+GTEX-1JMQJ-0426,Adipose - Subcutaneous,GTEX-1JMQJ,male,50-59,Fast death - natural causes,fibrosis,"2 pieces; mature fat with some central defect, lesser component of nerve, fibrous tissue",adipose_subq
+GTEX-1JMQK-0126,Adipose - Subcutaneous,GTEX-1JMQK,male,60-69,Ventilator case,,2 pieces; 5% vascular content,adipose_subq
+GTEX-1JMQL-0326,Adipose - Subcutaneous,GTEX-1JMQL,female,50-59,Ventilator case,,"2 pieces, ~15% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1JN1M-0126,Adipose - Subcutaneous,GTEX-1JN1M,female,60-69,Ventilator case,necrosis,"2 pieces, fascia/vascular elements are ~10% of tissue, rep delineated; focal fat necrosis, encircled",adipose_subq
+GTEX-1JN6P-0226,Adipose - Subcutaneous,GTEX-1JN6P,male,60-69,Ventilator case,fibrosis,2 pieces; 10% & 20% fibrous content,adipose_subq
+GTEX-1JN76-0226,Adipose - Subcutaneous,GTEX-1JN76,female,20-29,Ventilator case,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1K2DA-2126,Adipose - Subcutaneous,GTEX-1K2DA,male,50-59,Ventilator case,,2 pieces; mature fat,adipose_subq
+GTEX-1K2DU-2426,Adipose - Subcutaneous,GTEX-1K2DU,male,20-29,Ventilator case,,2 pieces; fascia is ~5% tissue; rep delineated,adipose_subq
+GTEX-1K9T9-0226,Adipose - Subcutaneous,GTEX-1K9T9,female,50-59,Ventilator case,,"2 pieces, fascia/vascular elements are ~10% of tissue, rep delineated",adipose_subq
+GTEX-1KAFJ-2426,Adipose - Subcutaneous,GTEX-1KAFJ,male,50-59,Intermediate death,fibrosis,"2 pieces. 1 all fat, other with 50% vascular and fibrous content",adipose_subq
+GTEX-1KANA-0826,Adipose - Subcutaneous,GTEX-1KANA,male,20-29,Ventilator case,,2 pieces; mature fat,adipose_subq
+GTEX-1KANB-0426,Adipose - Subcutaneous,GTEX-1KANB,male,50-59,Fast death - natural causes,,"2 pieces, ~20$ fascia, rep delineated",adipose_subq
+GTEX-1KANC-1926,Adipose - Subcutaneous,GTEX-1KANC,female,50-59,Ventilator case,fibrosis,2 pieces; 10% fibrous content,adipose_subq
+GTEX-1KD4Q-0126,Adipose - Subcutaneous,GTEX-1KD4Q,male,40-49,Fast death - natural causes,fibrosis,2 pieces; 20% fibrous content,adipose_subq
+GTEX-1KD5A-0326,Adipose - Subcutaneous,GTEX-1KD5A,male,50-59,Fast death - natural causes,,"2 pieces; 20 and 50% fat, remainder is loose connective tissue, vessels, nerve",adipose_subq
+GTEX-1KWVE-1326,Adipose - Subcutaneous,GTEX-1KWVE,male,30-39,Fast death - violent,,2 pieces; 20 & 40% fibrovascular content; small [0.3mm] focus of glandular carry-over [labeled],adipose_subq
+GTEX-1KXAM-2326,Adipose - Subcutaneous,GTEX-1KXAM,male,60-69,Ventilator case,,"2 pieces, fascia is ~20% tissue, rep delineated",adipose_subq
+GTEX-1L5NE-2626,Adipose - Subcutaneous,GTEX-1L5NE,male,50-59,Ventilator case,,"2 pieces, fascia/vascular elements are ~20% of tissue, rep delineated",adipose_subq
+GTEX-1LB8K-0326,Adipose - Subcutaneous,GTEX-1LB8K,male,50-59,Fast death - natural causes,"fibrosis, sweat_glands","2 pieces; 1 piece has 70% fat, 30% fibrous content; other piece has 40% fat, 60% fibrous dermis with sweat glands [arrowed]",adipose_subq
+GTEX-1LBAC-0226,Adipose - Subcutaneous,GTEX-1LBAC,male,20-29,Ventilator case,fibrosis,2 pieces; ~10% fibrous component,adipose_subq
+GTEX-1LC46-2126,Adipose - Subcutaneous,GTEX-1LC46,male,30-39,Ventilator case,,2 pieces; mature fat with small component of nerve/vessels,adipose_subq
+GTEX-1LC47-0226,Adipose - Subcutaneous,GTEX-1LC47,male,60-69,Intermediate death,,"2 pieces; vascular elements and fascia are ~10% of tissue, rep delineated",adipose_subq
+GTEX-1LG7Y-0426,Adipose - Subcutaneous,GTEX-1LG7Y,male,50-59,Fast death - natural causes,,"2 pieces, ~10% fascia/vascular elements",adipose_subq
+GTEX-1LG7Z-2026,Adipose - Subcutaneous,GTEX-1LG7Z,male,30-39,Ventilator case,fibrosis,2 pieces; 1 contains 25% fibrous tissue;,adipose_subq
+GTEX-1LGOU-2226,Adipose - Subcutaneous,GTEX-1LGOU,female,20-29,Ventilator case,,,adipose_subq
+GTEX-1LGRB-2426,Adipose - Subcutaneous,GTEX-1LGRB,female,50-59,Ventilator case,,"2 pieces; mature fat, 1 piece has large central defect",adipose_subq
+GTEX-1LH75-2526,Adipose - Subcutaneous,GTEX-1LH75,female,50-59,Slow death,,"3 pieces (fragemented), ~10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1LKK1-0126,Adipose - Subcutaneous,GTEX-1LKK1,female,50-59,Slow death,,"2 pieces, ~25% fascia/vascular elements, rep. delineated",adipose_subq
+GTEX-1LNCM-1326,Adipose - Subcutaneous,GTEX-1LNCM,female,50-59,Ventilator case,fibrosis,"2 pieces; mature adipose tissue, small component of fibrous tissue and larger vessels",adipose_subq
+GTEX-1LSNL-0526,Adipose - Subcutaneous,GTEX-1LSNL,male,50-59,Fast death - natural causes,,"2 pieces, fascia/vascular elements up to ~20% of tissue, rep delineated",adipose_subq
+GTEX-1LSNM-2026,Adipose - Subcutaneous,GTEX-1LSNM,male,50-59,Ventilator case,,2 pieces; mature fat,adipose_subq
+GTEX-1LSVX-0126,Adipose - Subcutaneous,GTEX-1LSVX,male,60-69,Slow death,fibrosis,2 pieces; multiple 'empty' defects ; 10% fibrous content,adipose_subq
+GTEX-1LVA9-0226,Adipose - Subcutaneous,GTEX-1LVA9,male,50-59,Fast death - natural causes,fibrosis,"2 pieces; mature fat, <10% fibrous tissue and nerve",adipose_subq
+GTEX-1LVAM-0226,Adipose - Subcutaneous,GTEX-1LVAM,female,50-59,Ventilator case,,"2 pieces, ~5-10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1LVAN-0126,Adipose - Subcutaneous,GTEX-1LVAN,female,50-59,Ventilator case,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1LVAO-0226,Adipose - Subcutaneous,GTEX-1LVAO,male,60-69,Slow death,fibrosis,2 pieces; 5 & 10% fibrous content,adipose_subq
+GTEX-1M4P7-0326,Adipose - Subcutaneous,GTEX-1M4P7,male,60-69,Fast death - natural causes,,"3 pieces, ~25-30% fat, mainly fascia/vascular elements",adipose_subq
+GTEX-1M5QR-2126,Adipose - Subcutaneous,GTEX-1M5QR,male,40-49,Ventilator case,,"2 pieces; fragmented, mature fat with <10% stroma/small vessels",adipose_subq
+GTEX-1MA7W-1926,Adipose - Subcutaneous,GTEX-1MA7W,female,20-29,Ventilator case,,"2 pieces, ~5% fascia/vascular elements",adipose_subq
+GTEX-1MA7X-2126,Adipose - Subcutaneous,GTEX-1MA7X,male,60-69,Fast death - natural causes,fibrosis,2 pieces; 5% fibrous content,adipose_subq
+GTEX-1MCC2-2326,Adipose - Subcutaneous,GTEX-1MCC2,female,30-39,Ventilator case,,2 pieces; mature adipose tissue with fibrovascular septa,adipose_subq
+GTEX-1MCQQ-0326,Adipose - Subcutaneous,GTEX-1MCQQ,male,60-69,Intermediate death,fibrosis,"2 pieces; 5% & 10% fibrous, vascular & neural content",adipose_subq
+GTEX-1MCYP-1826,Adipose - Subcutaneous,GTEX-1MCYP,female,20-29,Ventilator case,,"2 pieces; central defects, mature fat",adipose_subq
+GTEX-1MGNQ-0226,Adipose - Subcutaneous,GTEX-1MGNQ,male,40-49,Ventilator case,,"2 pieces, fascia/vascular elements ~10% of tissue, rep. delineated",adipose_subq
+GTEX-1MJIX-2326,Adipose - Subcutaneous,GTEX-1MJIX,male,40-49,Ventilator case,"fibrosis, necrosis","2 pieces; mature fat with scant fibrous component, focal fat necrosis",adipose_subq
+GTEX-1MJK2-0526,Adipose - Subcutaneous,GTEX-1MJK2,male,50-59,Fast death - natural causes,,3 pieces; two pieces of mature adipose tissue with ~15% fibrovascular component and nerves (arrow); the third piece represents deep dermis and fat (outlined),adipose_subq
+GTEX-1MJK3-0226,Adipose - Subcutaneous,GTEX-1MJK3,male,20-29,Ventilator case,fibrosis,2 pieces; <2% fibrous content,adipose_subq
+GTEX-1MUQO-0526,Adipose - Subcutaneous,GTEX-1MUQO,male,60-69,Ventilator case,,"2 pieces, ~5-10% fascia/vascular elements; rep delineated",adipose_subq
+GTEX-1N2DV-0126,Adipose - Subcutaneous,GTEX-1N2DV,male,40-49,Ventilator case,,"2 pieces, ~50% fascia/vascular elements, rep delineated.  Sample with caution",adipose_subq
+GTEX-1N2DW-0326,Adipose - Subcutaneous,GTEX-1N2DW,male,50-59,Fast death - natural causes,fibrosis,4 pieces; mature adipose tissue with wide fibrous septa (dialysis related nephrogenic fibrosis); prominent vessels; one  vessel with recanalization and calcium deposits (outlined),adipose_subq
+GTEX-1N2EE-0526,Adipose - Subcutaneous,GTEX-1N2EE,male,60-69,Fast death - violent,,"2 pieces; fascia/vascular elements are ~10% of tissue, rep. delineated",adipose_subq
+GTEX-1N2EF-0626,Adipose - Subcutaneous,GTEX-1N2EF,male,60-69,Intermediate death,,2 pieces; 1 has 10% stromal content,adipose_subq
+GTEX-1N5O9-0226,Adipose - Subcutaneous,GTEX-1N5O9,male,60-69,Fast death - natural causes,fibrosis,2 pieces; mature adipose tissue with 5% and ~20% fibrous component,adipose_subq
+GTEX-1N7R6-0326,Adipose - Subcutaneous,GTEX-1N7R6,female,20-29,Slow death,,2 pieces; mature fat,adipose_subq
+GTEX-1NHNU-1126,Adipose - Subcutaneous,GTEX-1NHNU,male,50-59,Ventilator case,,2 pieces; 5 & 10% fibrovascular & neural content,adipose_subq
+GTEX-1NSGN-0226,Adipose - Subcutaneous,GTEX-1NSGN,male,50-59,Ventilator case,,2 pieces; mature adipose tissue; 30% and 70% fascia and vascular elements,adipose_subq
+GTEX-1NT2E-0226,Adipose - Subcutaneous,GTEX-1NT2E,female,40-49,Ventilator case,,,adipose_subq
+GTEX-1NUQO-0126,Adipose - Subcutaneous,GTEX-1NUQO,female,20-29,Ventilator case,,2 pieces; mature adipose tissue,adipose_subq
+GTEX-1NV5F-0126,Adipose - Subcutaneous,GTEX-1NV5F,female,60-69,Slow death,,2 pieces; adipose with 20% fibrovascular content,adipose_subq
+GTEX-1NV88-0626,Adipose - Subcutaneous,GTEX-1NV88,male,50-59,Slow death,,,adipose_subq
+GTEX-1NV8Z-0226,Adipose - Subcutaneous,GTEX-1NV8Z,male,60-69,Fast death - natural causes,,"2 pieces, ~30% fascia/vascular elements, rep. delineated",adipose_subq
+GTEX-1O97I-0226,Adipose - Subcutaneous,GTEX-1O97I,male,60-69,Intermediate death,,2 pieces; 5% fibrovascular content,adipose_subq
+GTEX-1O9I2-0626,Adipose - Subcutaneous,GTEX-1O9I2,male,50-59,Ventilator case,pigment,"2 pieces, ~60% fascia/vascular elements, rep delineated;foreign pigmented material, unknown provenance, rep encircled (?tattoo?)",adipose_subq
+GTEX-1OFPY-2326,Adipose - Subcutaneous,GTEX-1OFPY,male,60-69,Ventilator case,fibrosis,2 pieces; 10% fibrous content,adipose_subq
+GTEX-1OJC3-0226,Adipose - Subcutaneous,GTEX-1OJC3,male,20-29,Ventilator case,fibrosis,2 pieces; lobulated mature adipose tissue; ~30% fibrous septa with vessels and nerves,adipose_subq
+GTEX-1OJC4-1726,Adipose - Subcutaneous,GTEX-1OJC4,female,50-59,Fast death - natural causes,,2 pieces; 20-40% fibrovascular component,adipose_subq
+GTEX-1OKEX-2226,Adipose - Subcutaneous,GTEX-1OKEX,male,60-69,Ventilator case,,"2 pieces, ~20% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1OZHM-0326,Adipose - Subcutaneous,GTEX-1OZHM,male,40-49,Slow death,,2 pieces; ~10% fascia/vascular elements,adipose_subq
+GTEX-1P4AB-0226,Adipose - Subcutaneous,GTEX-1P4AB,male,50-59,Slow death,fibrosis,2 pieces; 5 & 20% fibrous content,adipose_subq
+GTEX-1PAR6-2026,Adipose - Subcutaneous,GTEX-1PAR6,female,30-39,Ventilator case,,,adipose_subq
+GTEX-1PBJI-0426,Adipose - Subcutaneous,GTEX-1PBJI,female,20-29,Fast death - violent,,"2 pieces, ~10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1PBJJ-0226,Adipose - Subcutaneous,GTEX-1PBJJ,male,30-39,Ventilator case,,2 pieces; mature adipose tissue; septa contains vessels and nerves (rep outlined),adipose_subq
+GTEX-1PDJ9-0426,Adipose - Subcutaneous,GTEX-1PDJ9,male,20-29,Ventilator case,fibrosis,2 pieces; 5 & 20% fibrous content,adipose_subq
+GTEX-1PFEY-1626,Adipose - Subcutaneous,GTEX-1PFEY,male,30-39,Ventilator case,,"2 pieces, fascia/vascular elements ~5-10% of tissue, rep delineated.",adipose_subq
+GTEX-1PIEJ-0226,Adipose - Subcutaneous,GTEX-1PIEJ,female,20-29,Ventilator case,,"3 pieces, fascia/vascular elements ~10% of tissue",adipose_subq
+GTEX-1PIGE-0526,Adipose - Subcutaneous,GTEX-1PIGE,male,20-29,Ventilator case,fibrosis,"2 pieces; 20% fibrous content in 1 piece, 5% in other",adipose_subq
+GTEX-1PIIG-0326,Adipose - Subcutaneous,GTEX-1PIIG,male,30-39,Ventilator case,fibrosis,2 pieces; mature adipose tissue and  septal fibrous component (arrows),adipose_subq
+GTEX-1POEN-0226,Adipose - Subcutaneous,GTEX-1POEN,female,30-39,Fast death - violent,,"2 pieces, trace fascia",adipose_subq
+GTEX-1PPGY-0326,Adipose - Subcutaneous,GTEX-1PPGY,male,60-69,Fast death - natural causes,,2 pieces; mature adipose tissue and fibrovascular component,adipose_subq
+GTEX-1PPH6-0326,Adipose - Subcutaneous,GTEX-1PPH6,female,60-69,Fast death - natural causes,fibrosis,2 pieces; <5% fibrous content,adipose_subq
+GTEX-1PPH7-2426,Adipose - Subcutaneous,GTEX-1PPH7,male,40-49,Ventilator case,fibrosis,2 pieces; <2% fibrous stroma,adipose_subq
+GTEX-1PPH8-0626,Adipose - Subcutaneous,GTEX-1PPH8,male,20-29,Ventilator case,,"2 pieces, ~15-20% fascia/vascular elements; rep delineated",adipose_subq
+GTEX-1PWST-0326,Adipose - Subcutaneous,GTEX-1PWST,male,70-79,Slow death,,"2 pieces, trace fascia/vascular elements",adipose_subq
+GTEX-1QAET-1126,Adipose - Subcutaneous,GTEX-1QAET,male,50-59,Ventilator case,fibrosis,2 pieces; 10% fibrous content in one,adipose_subq
+GTEX-1QCLY-0526,Adipose - Subcutaneous,GTEX-1QCLY,male,30-39,Ventilator case,,"2 pieces, ~5-10% adherent fascia/peripheral nerve elements, rep delineated.",adipose_subq
+GTEX-1QCLZ-0226,Adipose - Subcutaneous,GTEX-1QCLZ,female,60-69,Ventilator case,,2 pieces; mature adipose tissue and fibrovascular component,adipose_subq
+GTEX-1QEPI-0226,Adipose - Subcutaneous,GTEX-1QEPI,female,60-69,Intermediate death,fibrosis,"2 pieces; 1 with 25% fibrous content; other with 30% fascia, 30% fibrous stroma; calcium deposits in both",adipose_subq
+GTEX-1QL29-0226,Adipose - Subcutaneous,GTEX-1QL29,male,40-49,Ventilator case,,"2 pieces, ~5-10% fascia/vascular elements, rep delineated",adipose_subq
+GTEX-1QMI2-0126,Adipose - Subcutaneous,GTEX-1QMI2,male,60-69,Fast death - natural causes,,"2 pieces, ~30-40% peripheral nerve, fascia, and vascular elements, rep delineated",adipose_subq
+GTEX-1QP28-0226,Adipose - Subcutaneous,GTEX-1QP28,female,50-59,Ventilator case,,"2 pieces, 10-15% fascia, rep delineated",adipose_subq
+GTEX-1QP29-0726,Adipose - Subcutaneous,GTEX-1QP29,male,50-59,Ventilator case,,"2 pieces; mature adipose tissue,  fibrovascular component and nerves (outlined)",adipose_subq
+GTEX-1QP2A-0226,Adipose - Subcutaneous,GTEX-1QP2A,male,50-59,Ventilator case,fibrosis,2 partly fragmented pieces; 20% fibrous content in 1,adipose_subq
+GTEX-1QP66-1326,Adipose - Subcutaneous,GTEX-1QP66,male,50-59,Ventilator case,,2 pieces; mature adipose with ~25% fibrovascular component and nerves,adipose_subq
+GTEX-1QP67-1726,Adipose - Subcutaneous,GTEX-1QP67,female,40-49,Ventilator case,,"2 pieces, trace vascular elements, rep delineated",adipose_subq
+GTEX-1QP6S-0126,Adipose - Subcutaneous,GTEX-1QP6S,male,40-49,Fast death - natural causes,,2 pieces (fragmented); mature adipose tissue and fibrovascular component,adipose_subq
+GTEX-1QP9N-1526,Adipose - Subcutaneous,GTEX-1QP9N,male,30-39,Ventilator case,"fibrosis, sweat_glands",2 pieces; sweat glands and ducts  embedded in fibrous stroma comprise 10%,adipose_subq
+GTEX-1QPFJ-0126,Adipose - Subcutaneous,GTEX-1QPFJ,female,30-39,Ventilator case,fibrosis,2 pieces; 10% fibrous content,adipose_subq
+GTEX-1QW4Y-1626,Adipose - Subcutaneous,GTEX-1QW4Y,male,30-39,Ventilator case,,"2 pieces, trace fascia",adipose_subq
+GTEX-1R46S-0526,Adipose - Subcutaneous,GTEX-1R46S,female,60-69,Slow death,,"2 pieces, ~10% fascia/ vascular elements; rep delineated",adipose_subq
+GTEX-1R7EU-0326,Adipose - Subcutaneous,GTEX-1R7EU,male,60-69,Ventilator case,,2 pieces; mature adipose tissue and fibrovascular component,adipose_subq
+GTEX-1R7EV-1926,Adipose - Subcutaneous,GTEX-1R7EV,male,40-49,Ventilator case,,2 piece; mature adipose tissue and fibrovascular components,adipose_subq
+GTEX-1R9JW-2526,Adipose - Subcutaneous,GTEX-1R9JW,female,30-39,Ventilator case,,"2 pieces, trace fascia/vascular elements",adipose_subq
+GTEX-1R9K4-0226,Adipose - Subcutaneous,GTEX-1R9K4,male,60-69,Ventilator case,fibrosis,2 pieces; septal fibrosis compromising significantly fat lobules,adipose_subq
+GTEX-1R9K5-0226,Adipose - Subcutaneous,GTEX-1R9K5,male,50-59,Ventilator case,,"2 pieces, ~5-10% fascia/vascular elements; rep delineated",adipose_subq
+GTEX-1R9PM-2126,Adipose - Subcutaneous,GTEX-1R9PM,male,20-29,Ventilator case,,"2 pieces, interstitial fascia is ~10%",adipose_subq
+GTEX-1R9PN-1726,Adipose - Subcutaneous,GTEX-1R9PN,female,40-49,Ventilator case,fibrosis,2 pieces; 5% fibrous content,adipose_subq
+GTEX-1R9PO-2226,Adipose - Subcutaneous,GTEX-1R9PO,female,60-69,Intermediate death,,"2 pieces; mature adipose tissue, fibrovascular component and fragment of skeletal muscle (outlined)",adipose_subq
+GTEX-1RAZA-0226,Adipose - Subcutaneous,GTEX-1RAZA,male,20-29,Ventilator case,,2 pieces; mature adipose tissue with fibrovascular component and larger vessel (arrow),adipose_subq
+GTEX-1RAZQ-0626,Adipose - Subcutaneous,GTEX-1RAZQ,male,30-39,Ventilator case,,"2 pieces, ~15%  fascia, rep delineated",adipose_subq
+GTEX-1RAZR-0226,Adipose - Subcutaneous,GTEX-1RAZR,male,40-49,Ventilator case,fibrosis,2 pieces; 1 with 5% other with 20% fibrous content,adipose_subq
+GTEX-1RAZS-0226,Adipose - Subcutaneous,GTEX-1RAZS,male,50-59,Intermediate death,,2 pieces; mature adipose tissue with fibrovascular component and larger vessel (outlined),adipose_subq
+GTEX-1RB15-2026,Adipose - Subcutaneous,GTEX-1RB15,male,60-69,Ventilator case,,"2 pieces, ~10% fascia, rep delineated",adipose_subq
+GTEX-1RDX4-0226,Adipose - Subcutaneous,GTEX-1RDX4,female,50-59,Intermediate death,"fibrosis, sweat_glands",2 pieces; high fibrous content: 80% in 1 piece 40% in other; focus of sweat glands in 1 [arrowed],adipose_subq
+GTEX-1RLM8-2426,Adipose - Subcutaneous,GTEX-1RLM8,male,50-59,Slow death,,,adipose_subq
+GTEX-1RMOY-2226,Adipose - Subcutaneous,GTEX-1RMOY,male,50-59,Ventilator case,,2 pieces; mature adipose tissue and fibrovascular component with nerves (arrows),adipose_subq
+GTEX-1RNSC-0226,Adipose - Subcutaneous,GTEX-1RNSC,male,60-69,Slow death,,"2 pieces, ~10-15% fascia, rep delineated",adipose_subq
+GTEX-1RNTQ-0226,Adipose - Subcutaneous,GTEX-1RNTQ,female,20-29,Ventilator case,,2 pieces; mature adipose tissue and fibrovascular component,adipose_subq
+GTEX-1RQEC-0526,Adipose - Subcutaneous,GTEX-1RQEC,male,60-69,Fast death - natural causes,,,adipose_subq
+GTEX-1RQED-0326,Adipose - Subcutaneous,GTEX-1RQED,male,60-69,Intermediate death,,"2 pieces, 10-15% fascia/peripheral nerve elements, rep delineated",adipose_subq
+GTEX-1S3DN-2326,Adipose - Subcutaneous,GTEX-1S3DN,male,50-59,Ventilator case,calcification,"2 pieces, ~10% fascia (rep delineated)/dystrophic calcification(ensquared), focal chronic lymphoid aggregate (encircled)",adipose_subq
+GTEX-1S5VW-0226,Adipose - Subcutaneous,GTEX-1S5VW,male,60-69,Intermediate death,,"2 pieces, ~25% fascia/vascular elements; rep delineated",adipose_subq
+GTEX-1S5ZA-0226,Adipose - Subcutaneous,GTEX-1S5ZA,male,20-29,Ventilator case,,"2 pieces, ~40% fascia, sample carefully, rep delineated",adipose_subq
+GTEX-1S5ZU-0226,Adipose - Subcutaneous,GTEX-1S5ZU,female,20-29,Ventilator case,fibrosis,2 pieces; 10% fibrous content,adipose_subq
+GTEX-1S82P-0226,Adipose - Subcutaneous,GTEX-1S82P,female,60-69,Ventilator case,,2 pieces; mature adipose tissue with 60% and 15% dense connective tissue component,adipose_subq
+GTEX-1S82U-1626,Adipose - Subcutaneous,GTEX-1S82U,female,30-39,Ventilator case,,"2 pieces, adipose and glandular elements, consistent with deep dermal eccrine ducts, reviewed by PRC",adipose_subq
+GTEX-1S82Y-2126,Adipose - Subcutaneous,GTEX-1S82Y,male,40-49,Ventilator case,,,adipose_subq
+GTEX-1S82Z-1026,Adipose - Subcutaneous,GTEX-1S82Z,female,30-39,Ventilator case,,"2 pieces, ~20% commingled fascia, rep delineated",adipose_subq
+GTEX-1S831-0326,Adipose - Subcutaneous,GTEX-1S831,male,20-29,Ventilator case,,2 fragmented pieces; mature adipose tissue,adipose_subq
+GTEX-1S83E-0226,Adipose - Subcutaneous,GTEX-1S83E,male,40-49,Ventilator case,,2 pieces; mature adipose tissue with 10% and 30% fibrovascular component; adnexa and hair bulb  present (outlined); deep subcutaneous fat likely,adipose_subq
+GTEX-N7MS-0326,Adipose - Subcutaneous,GTEX-N7MS,male,60-69,Fast death - natural causes,,OK for analysis,adipose_subq
+GTEX-NFK9-0326,Adipose - Subcutaneous,GTEX-NFK9,male,40-49,Ventilator case,,OK for analysis,adipose_subq
+GTEX-NL3G-0226,Adipose - Subcutaneous,GTEX-NL3G,female,60-69,Fast death - natural causes,,Artifactual holes,adipose_subq
+GTEX-NL3H-0226,Adipose - Subcutaneous,GTEX-NL3H,male,60-69,Intermediate death,,"90% adipose, 10% stroma",adipose_subq
+GTEX-NL4W-0226,Adipose - Subcutaneous,GTEX-NL4W,male,50-59,Slow death,,A number of peripheral nerves @ periphery.  Large central ‘hole’,adipose_subq
+GTEX-NPJ7-0526,Adipose - Subcutaneous,GTEX-NPJ7,female,60-69,Slow death,,Central 95% of specimen missing--?poor fixation? (See Request),adipose_subq
+GTEX-NPJ8-0226,Adipose - Subcutaneous,GTEX-NPJ8,male,40-49,Slow death,,Central 95% of specimen drop-out probably due to poor fixation.  Recommend re-fix/embed/cut (See Note below),adipose_subq
+GTEX-O5YT-0226,Adipose - Subcutaneous,GTEX-O5YT,male,20-29,Ventilator case,,(80% centrally unfixed); 12x13.6mm aliquot: too large;  Refixed: still has smaller central holes,adipose_subq
+GTEX-O5YU-0226,Adipose - Subcutaneous,GTEX-O5YU,male,60-69,Slow death,,center is unfixed,adipose_subq
+GTEX-O5YV-0226,Adipose - Subcutaneous,GTEX-O5YV,female,60-69,Intermediate death,,"26740: 0; central 40% hollow, unfixed. See Request below. 26794: 0; 15% hollow space’",adipose_subq
+GTEX-OHPJ-0326,Adipose - Subcutaneous,GTEX-OHPJ,male,60-69,Ventilator case,,Specimen appears underfixed; central holes/tears,adipose_subq
+GTEX-OHPK-0226,Adipose - Subcutaneous,GTEX-OHPK,female,50-59,Ventilator case,,section is ragged and has large holes. Most of the nuclei have fallen out of the section. Evaluation limited by poor technical quality of section. Aliquot is oversized (17.7x13mm). Central 90% is unfixed; REFIX,adipose_subq
+GTEX-OHPL-0226,Adipose - Subcutaneous,GTEX-OHPL,female,60-69,Ventilator case,,>99% aliquot lost; needs refix; oversized aliquot; Recut- 264741/ 26940,adipose_subq
+GTEX-OHPM-0226,Adipose - Subcutaneous,GTEX-OHPM,male,50-59,Ventilator case,,slight underfixation centrally,adipose_subq
+GTEX-OHPN-0226,Adipose - Subcutaneous,GTEX-OHPN,female,60-69,Ventilator case,,Poor fixation centrally.  Specimen averages 10mm x 5-7mm,adipose_subq
+GTEX-OIZF-0226,Adipose - Subcutaneous,GTEX-OIZF,male,60-69,Ventilator case,,Oversized (17mm) aliquot with central portion unfixed. Thin outer rim preserved,adipose_subq
+GTEX-OIZG-0826,Adipose - Subcutaneous,GTEX-OIZG,male,50-59,Ventilator case,,7x9 mm. well fixed tissue,adipose_subq
+GTEX-OIZH-0226,Adipose - Subcutaneous,GTEX-OIZH,male,50-59,Ventilator case,,Central 85% of specimen is unfixed and dropped out,adipose_subq
+GTEX-OIZI-0226,Adipose - Subcutaneous,GTEX-OIZI,male,40-49,Ventilator case,,About 25% unfixed,adipose_subq
+GTEX-OOBJ-0226,Adipose - Subcutaneous,GTEX-OOBJ,male,60-69,Ventilator case,,18x11mm.  Central 80% is unfixed,adipose_subq
+GTEX-OOBK-0226,Adipose - Subcutaneous,GTEX-OOBK,male,40-49,Ventilator case,,1.  5.7x5.4mm.  Small central area (~15-20%)poorly fixed,adipose_subq
+GTEX-OXRK-0326,Adipose - Subcutaneous,GTEX-OXRK,female,50-59,Ventilator case,,About 8% unfixed centrally. 8.5x6.5mm,adipose_subq
+GTEX-OXRL-0226,Adipose - Subcutaneous,GTEX-OXRL,male,50-59,Ventilator case,,Central 10% hollow. 12 x 9mm,adipose_subq
+GTEX-OXRN-0226,Adipose - Subcutaneous,GTEX-OXRN,male,50-59,Ventilator case,,Central 30% unfixed zone,adipose_subq
+GTEX-OXRO-0226,Adipose - Subcutaneous,GTEX-OXRO,female,60-69,Slow death,,Large 16x12.8 aliquot. Most appears empty with central unfixed spaces,adipose_subq
+GTEX-OXRP-0226,Adipose - Subcutaneous,GTEX-OXRP,female,60-69,Intermediate death,,10x7mm aliquot.  Small central area is under-fixed.,adipose_subq
+GTEX-P44G-2326,Adipose - Subcutaneous,GTEX-P44G,male,30-39,Ventilator case,,6.7x5.4.  Well-fixed.,adipose_subq
+GTEX-P44H-0326,Adipose - Subcutaneous,GTEX-P44H,male,40-49,Slow death,,Well-fixed. 8.5x7mm,adipose_subq
+GTEX-P4PP-0226,Adipose - Subcutaneous,GTEX-P4PP,female,30-39,Ventilator case,,~10x10mm.  Central 60% unfixed with large hole/tear,adipose_subq
+GTEX-P4PQ-0226,Adipose - Subcutaneous,GTEX-P4PQ,male,60-69,Ventilator case,,19x5mm with 6x1mm central hole tear of under-fixation,adipose_subq
+GTEX-P4QR-0426,Adipose - Subcutaneous,GTEX-P4QR,male,60-69,Ventilator case,,"2  ~7x7mm pieces, well-fixed",adipose_subq
+GTEX-P4QS-0226,Adipose - Subcutaneous,GTEX-P4QS,male,60-69,Ventilator case,,2  ~9x8mm pieces.  Central ~75% of both is unfixed with large holes,adipose_subq
+GTEX-P4QT-0226,Adipose - Subcutaneous,GTEX-P4QT,female,50-59,Ventilator case,,"2 pieces, ~8x8mm. One with focal central under-fixation",adipose_subq
+GTEX-P78B-0226,Adipose - Subcutaneous,GTEX-P78B,female,40-49,Ventilator case,,"2 overly large pieces, 12x11 and 12.6x7 mm. Both with focal central under-fixation. Staining debris.",adipose_subq
+GTEX-PLZ4-0226,Adipose - Subcutaneous,GTEX-PLZ4,female,50-59,Ventilator case,,"2   ~9x9mm pieces, well-fixed",adipose_subq
+GTEX-PLZ5-1826,Adipose - Subcutaneous,GTEX-PLZ5,male,50-59,Ventilator case,,2  ~13x9mm pieces.  Well fixed,adipose_subq
+GTEX-PLZ6-1326,Adipose - Subcutaneous,GTEX-PLZ6,male,30-39,Ventilator case,,"2 pieces, 10.5x8 & 11.5x7 mm. No fixation artifacts. Adherent vessel, 1 x 3 mm",adipose_subq
+GTEX-POMQ-2326,Adipose - Subcutaneous,GTEX-POMQ,female,20-29,Ventilator case,,"2 large pieces, 9x11 and 10x11 mm. Both with large empty central areas of under-fixation.",adipose_subq
+GTEX-POYW-0726,Adipose - Subcutaneous,GTEX-POYW,male,60-69,Ventilator case,,"2 ~ 10x5.5mm pieces, well-fixed.",adipose_subq
+GTEX-PSDG-0326,Adipose - Subcutaneous,GTEX-PSDG,male,50-59,Ventilator case,,"2 pieces, 9x7 and 9x6 mm.",adipose_subq
+GTEX-PVOW-0226,Adipose - Subcutaneous,GTEX-PVOW,male,40-49,Fast death - natural causes,sweat_glands,"2 pieces~10x4mm,9x6mm; small sweat gland",adipose_subq
+GTEX-PW2O-1626,Adipose - Subcutaneous,GTEX-PW2O,male,20-29,Ventilator case,,"2  ~ 10x11 mm aliquots,  areas of central under-fixation",adipose_subq
+GTEX-PWCY-1926,Adipose - Subcutaneous,GTEX-PWCY,female,20-29,Ventilator case,,"2 pieces, large aliquots 17x11 mm,15x15 mm; central, probably unfixed, defects",adipose_subq
+GTEX-PWN1-0226,Adipose - Subcutaneous,GTEX-PWN1,female,40-49,Ventilator case,,2 pieces up to 11x9mm; central defects from poor fixation,adipose_subq
+GTEX-PWO3-1626,Adipose - Subcutaneous,GTEX-PWO3,female,60-69,Slow death,,"2    ~ 9x7mm aliquots, areas of poor/under-fixation centrally",adipose_subq
+GTEX-PWOO-2226,Adipose - Subcutaneous,GTEX-PWOO,female,40-49,Ventilator case,,2   ~11x9mm aliquots.  Large areas of central under-fixation with holes/tears,adipose_subq
+GTEX-PX3G-0226,Adipose - Subcutaneous,GTEX-PX3G,female,20-29,Ventilator case,,"3 pieces, up to 10x7 mm; some central defects",adipose_subq
+GTEX-Q2AG-0226,Adipose - Subcutaneous,GTEX-Q2AG,female,40-49,Fast death - natural causes,,"2   ~9x6mm aliquots, fragmented",adipose_subq
+GTEX-Q2AH-1726,Adipose - Subcutaneous,GTEX-Q2AH,male,40-49,Ventilator case,,"2 pieces, 14x10 & 16x8mm; largest with central hollow defect; 2 large veins in one aliquot",adipose_subq
+GTEX-Q2AI-1426,Adipose - Subcutaneous,GTEX-Q2AI,male,40-49,Ventilator case,,2 pieces 10x8 & 13x10 with large central hollow fixation defects,adipose_subq
+GTEX-Q734-1826,Adipose - Subcutaneous,GTEX-Q734,female,40-49,Ventilator case,,2    ~8.5x6mm aliquots.  Areas of under/poor fixation centrally,adipose_subq
+GTEX-QCQG-1826,Adipose - Subcutaneous,GTEX-QCQG,female,50-59,Ventilator case,,"2 pieces, ~10x10 mm; large central defects, probably fixation artifacts",adipose_subq
+GTEX-QDT8-0226,Adipose - Subcutaneous,GTEX-QDT8,female,30-39,Slow death,,"2   ~8x7mm aliquots, focal areas centrally are under-fixed",adipose_subq
+GTEX-QDVJ-1826,Adipose - Subcutaneous,GTEX-QDVJ,male,50-59,Ventilator case,,2 pieces 10x6 & 7x6 mm; well fixed; no hollow core,adipose_subq
+GTEX-QDVN-2126,Adipose - Subcutaneous,GTEX-QDVN,male,50-59,Ventilator case,,"2   ~9x6mm aliquots, one with ~40% fibrous (?scar) tissue",adipose_subq
+GTEX-QEG4-0326,Adipose - Subcutaneous,GTEX-QEG4,male,30-39,Fast death - violent,,2 ~8.5x8mm aliquots,adipose_subq
+GTEX-QEG5-0326,Adipose - Subcutaneous,GTEX-QEG5,male,20-29,Ventilator case,clean_specimens,2 pieces 8x7 & 7.5x6.5 mm; good fixation,adipose_subq
+GTEX-QEL4-0326,Adipose - Subcutaneous,GTEX-QEL4,male,50-59,Intermediate death,,2   ~9x9mm aliquots,adipose_subq
+GTEX-QESD-1526,Adipose - Subcutaneous,GTEX-QESD,male,20-29,Ventilator case,,"2 pieces, 13x9 & 13x8 mm; large central defects, probably poorly fixed in these large aliquots",adipose_subq
+GTEX-QLQ7-1526,Adipose - Subcutaneous,GTEX-QLQ7,male,60-69,Ventilator case,,2   ~11x8m aliquots,adipose_subq
+GTEX-QLQW-1226,Adipose - Subcutaneous,GTEX-QLQW,male,30-39,Ventilator case,,2 pieces ~12x7 & 9x9 mm; up to 10% centrally empty (unfixed or fractured),adipose_subq
+GTEX-QMR6-0126,Adipose - Subcutaneous,GTEX-QMR6,male,50-59,Slow death,,"2   ~14x12mm aliquots, central separation/under fixation.",adipose_subq
+GTEX-QMRM-1726,Adipose - Subcutaneous,GTEX-QMRM,male,50-59,Ventilator case,,2 pieces 14.6x11 &9x6 mm; central (probable fixation) defects,adipose_subq
+GTEX-QV31-1326,Adipose - Subcutaneous,GTEX-QV31,male,30-39,Ventilator case,,"2  ~14x10mm aliquots,  centrally under-fixed with tears/holes",adipose_subq
+GTEX-QV44-1825,Adipose - Subcutaneous,GTEX-QV44,male,50-59,Ventilator case,,2 pieces 14x11 & 13x13 mm; large central holes; only outer 1-2 mm rim appears fixed; should have been  labeled 1825,adipose_subq
+GTEX-QVJO-0226,Adipose - Subcutaneous,GTEX-QVJO,female,60-69,Slow death,,"2   ~8x7mm aliquots, extreme separation falsely implies larger dimensions",adipose_subq
+GTEX-QVUS-0126,Adipose - Subcutaneous,GTEX-QVUS,female,60-69,Slow death,,2  ~ 11x8mm  aliquots,adipose_subq
+GTEX-QXCU-2426,Adipose - Subcutaneous,GTEX-QXCU,male,50-59,Fast death - violent,,2   ~8x8mm aliquots,adipose_subq
+GTEX-R3RS-0226,Adipose - Subcutaneous,GTEX-R3RS,female,40-49,Slow death,,"2 pieces, 9x7 & 11x 6mm",adipose_subq
+GTEX-R45C-0226,Adipose - Subcutaneous,GTEX-R45C,female,60-69,Ventilator case,,"2 pieces, 12x9 & 11x9 mm, one with large central unfixed hole",adipose_subq
+GTEX-R53T-1626,Adipose - Subcutaneous,GTEX-R53T,female,50-59,Ventilator case,,"2 aliquots,  ~9x6mm",adipose_subq
+GTEX-R55C-1626,Adipose - Subcutaneous,GTEX-R55C,male,40-49,Ventilator case,,"2 pieces, 16.7x9 & 10.7x8.6 mm; large central holes in both (inadequate fixation); only outer ~1.5 mm preserved for molecular studies",adipose_subq
+GTEX-R55D-0326,Adipose - Subcutaneous,GTEX-R55D,male,50-59,Ventilator case,,2 aliquots,adipose_subq
+GTEX-R55E-0226,Adipose - Subcutaneous,GTEX-R55E,male,20-29,Fast death - violent,,"2 pieces, 9x8 & 8x7 mm; small focal hole of unfixed tissue, 2.6x2 mm",adipose_subq
+GTEX-R55F-1426,Adipose - Subcutaneous,GTEX-R55F,male,50-59,Slow death,,"2 pieces, 9x8 &&7x6 mm; larger piece has adjacent veins on one side [~10%]",adipose_subq
+GTEX-R55G-2426,Adipose - Subcutaneous,GTEX-R55G,female,40-49,Ventilator case,,"2 aliquots,  ~9x7mm",adipose_subq
+GTEX-REY6-0326,Adipose - Subcutaneous,GTEX-REY6,male,60-69,Ventilator case,,"2 pieces, 9x4 & 8x5 mm",adipose_subq
+GTEX-RM2N-1726,Adipose - Subcutaneous,GTEX-RM2N,male,50-59,Ventilator case,,"2 aliquots,  ~9x7mm.",adipose_subq
+GTEX-RN5K-0126,Adipose - Subcutaneous,GTEX-RN5K,female,50-59,Slow death,,"2 aliquots,  ~15x10mm",adipose_subq
+GTEX-RN64-0226,Adipose - Subcutaneous,GTEX-RN64,male,50-59,Fast death - violent,,"2 aliquots,  ~10x8mm",adipose_subq
+GTEX-RNOR-0226,Adipose - Subcutaneous,GTEX-RNOR,female,50-59,Fast death - violent,,"2 pieces, 8x7 & 8x7 mm; well fixed",adipose_subq
+GTEX-RTLS-0226,Adipose - Subcutaneous,GTEX-RTLS,female,60-69,Slow death,,"2 pieces, 8x7 mm each; well fixed",adipose_subq
+GTEX-RU1J-1626,Adipose - Subcutaneous,GTEX-RU1J,female,20-29,Ventilator case,,"2 pieces, 15x12 & 10x8 mm; large central defects especially in larger piece",adipose_subq
+GTEX-RU72-1026,Adipose - Subcutaneous,GTEX-RU72,female,50-59,Fast death - natural causes,,"2 aliquots,   ~9x8mm",adipose_subq
+GTEX-RUSQ-1626,Adipose - Subcutaneous,GTEX-RUSQ,male,50-59,Ventilator case,,"2 aliquots,  ~13x10mm",adipose_subq
+GTEX-RVPU-2326,Adipose - Subcutaneous,GTEX-RVPU,male,50-59,Fast death - natural causes,,"2 aliquots,  ~7x5mm. NOTE: ~50% of one is vessel and fibrous tissue",adipose_subq
+GTEX-RVPV-1526,Adipose - Subcutaneous,GTEX-RVPV,male,60-69,Intermediate death,,"2 pieces, 13x10 & 11x10 mm; well fixed",adipose_subq
+GTEX-RWS6-2226,Adipose - Subcutaneous,GTEX-RWS6,female,60-69,Ventilator case,,"2 pieces, 14x7 & 13x7 mm; central unfixed holes",adipose_subq
+GTEX-RWSA-0226,Adipose - Subcutaneous,GTEX-RWSA,male,40-49,Fast death - violent,,"2 aliquots,  ~9x5mm",adipose_subq
+GTEX-S32W-2226,Adipose - Subcutaneous,GTEX-S32W,female,50-59,Ventilator case,,2 pieces 15x14 & 13x11 mm; central holes of unfixed tissue up to 5.7 mm; aliquots too large,adipose_subq
+GTEX-S33H-1126,Adipose - Subcutaneous,GTEX-S33H,male,30-39,Fast death - natural causes,,2 pieces 7x5 & 7x6 mm: well fixed;,adipose_subq
+GTEX-S341-1626,Adipose - Subcutaneous,GTEX-S341,female,40-49,Ventilator case,,"2 aliquots,  ~9x8mm",adipose_subq
+GTEX-S3LF-0226,Adipose - Subcutaneous,GTEX-S3LF,male,70-79,Fast death - natural causes,,"2 aliquots,  ~8x6mm",adipose_subq
+GTEX-S3XE-1626,Adipose - Subcutaneous,GTEX-S3XE,male,50-59,Ventilator case,,2 pieces 13x7 & 12x5 mm; 20-30% loose fibrous component,adipose_subq
+GTEX-S4P3-1526,Adipose - Subcutaneous,GTEX-S4P3,female,50-59,Ventilator case,,2 pieces 15x13 & 13x10 mm; excessively large aliquots with large central unfixed holes,adipose_subq
+GTEX-S4Q7-1626,Adipose - Subcutaneous,GTEX-S4Q7,male,20-29,Ventilator case,,"2 aliquots,   ~10x9mm.",adipose_subq
+GTEX-S4UY-0226,Adipose - Subcutaneous,GTEX-S4UY,female,40-49,Ventilator case,,"2 aliquots, 8x6mm",adipose_subq
+GTEX-S4Z8-1726,Adipose - Subcutaneous,GTEX-S4Z8,male,60-69,Ventilator case,clean_specimens,2 pieces 10x7 & 8x6 mm; good specimen,adipose_subq
+GTEX-S7PM-0226,Adipose - Subcutaneous,GTEX-S7PM,male,60-69,Ventilator case,,"2 aliquots, ~9x9mm",adipose_subq
+GTEX-S7SE-0226,Adipose - Subcutaneous,GTEX-S7SE,male,50-59,Fast death - natural causes,,"2 aliquots,  ~8x6mm.",adipose_subq
+GTEX-S7SF-1826,Adipose - Subcutaneous,GTEX-S7SF,female,20-29,Ventilator case,,2 pieces 16x14 & 14x12 mm; aliquots are too large and have central unfixed areas. Each contains 1.5 mm blood vessels,adipose_subq
+GTEX-S95S-1326,Adipose - Subcutaneous,GTEX-S95S,male,60-69,Ventilator case,,"2 aliquots,  ~9x6mm",adipose_subq
+GTEX-SE5C-1726,Adipose - Subcutaneous,GTEX-SE5C,female,40-49,Ventilator case,,2 pieces 9x7 & 9x5 mm,adipose_subq
+GTEX-SIU7-1926,Adipose - Subcutaneous,GTEX-SIU7,male,50-59,Ventilator case,,2 pieces 13x6 & 7x7 mm; fibroadipose tissue with large fatty vacuoles,adipose_subq
+GTEX-SIU8-0226,Adipose - Subcutaneous,GTEX-SIU8,male,50-59,Fast death - natural causes,,"2 pieces,  ~8x6mm",adipose_subq
+GTEX-SJXC-0226,Adipose - Subcutaneous,GTEX-SJXC,male,60-69,Fast death - natural causes,,2 pieces  ~8x7mm,adipose_subq
+GTEX-SN8G-0226,Adipose - Subcutaneous,GTEX-SN8G,female,50-59,Fast death - natural causes,,"2 pieces, ~7x6mm",adipose_subq
+GTEX-SNMC-1326,Adipose - Subcutaneous,GTEX-SNMC,male,20-29,Ventilator case,,2 pieces 9x8 & 9x7 mm; central holes (unfixed); ~10% fibrous stroma,adipose_subq
+GTEX-SNOS-1426,Adipose - Subcutaneous,GTEX-SNOS,male,40-49,Ventilator case,,2 pieces 12x9 & 11x10 mm; large central unfixed empty zones 40-50% of aliquots,adipose_subq
+GTEX-SSA3-0226,Adipose - Subcutaneous,GTEX-SSA3,male,60-69,Ventilator case,,2 pieces ~10 x 10mm.  One with extreme separation but seems well preserved.,adipose_subq
+GTEX-SUCS-1826,Adipose - Subcutaneous,GTEX-SUCS,male,70-79,Ventilator case,,pieces 10x5 & 11x9 mm; adipose tissue and an embedded 3x1 mm nerve,adipose_subq
+GTEX-T2IS-0226,Adipose - Subcutaneous,GTEX-T2IS,female,20-29,Fast death - violent,,2  ~8x7 mm pieces,adipose_subq
+GTEX-T2YK-0626,Adipose - Subcutaneous,GTEX-T2YK,male,50-59,Slow death,,2 pieces 9x8 & 8x7 mm; holes in central 20%,adipose_subq
+GTEX-T5JC-0526,Adipose - Subcutaneous,GTEX-T5JC,male,20-29,Fast death - natural causes,,pieces 8x7 & 7x5 mm;,adipose_subq
+GTEX-T5JW-1726,Adipose - Subcutaneous,GTEX-T5JW,female,20-29,Ventilator case,,"2 pieces, ~ 10x7mm",adipose_subq
+GTEX-T6MN-0226,Adipose - Subcutaneous,GTEX-T6MN,male,50-59,Fast death - natural causes,,2 pieces 9x6 & 9x8 mm; few central artifacts,adipose_subq
+GTEX-T6MO-1726,Adipose - Subcutaneous,GTEX-T6MO,female,40-49,Ventilator case,,"2 pieces,  ~15x9mm",adipose_subq
+GTEX-T8EM-1126,Adipose - Subcutaneous,GTEX-T8EM,male,40-49,Ventilator case,,,adipose_subq
+GTEX-TKQ1-1126,Adipose - Subcutaneous,GTEX-TKQ1,male,30-39,Ventilator case,,2 pieces  ~10x5mm,adipose_subq
+GTEX-TKQ2-0726,Adipose - Subcutaneous,GTEX-TKQ2,male,50-59,Ventilator case,,"2 pieces,  ~8x5mm, NOTE: one with adherent skin",adipose_subq
+GTEX-TMKS-0226,Adipose - Subcutaneous,GTEX-TMKS,male,50-59,Ventilator case,,"2pieces,  ~7x6mm.  Mixed fibrous-adipose tissues.",adipose_subq
+GTEX-TML8-2026,Adipose - Subcutaneous,GTEX-TML8,female,40-49,Ventilator case,,"2 pieces 16x9 & 9x8 mm; large central hollow defects in each piece, probably poorly fixed",adipose_subq
+GTEX-TMMY-0326,Adipose - Subcutaneous,GTEX-TMMY,female,40-49,Ventilator case,,2 pieces  ~7x6mm,adipose_subq
+GTEX-TMZS-0226,Adipose - Subcutaneous,GTEX-TMZS,male,60-69,Ventilator case,,2 pieces 13x6 & 11x8 mm; central holes in large aliquots,adipose_subq
+GTEX-TSE9-0226,Adipose - Subcutaneous,GTEX-TSE9,female,60-69,Ventilator case,,2 pieces 9x5 & 7x6 mm; ~30% fibrous tissue in 1 and ~10% nerves & artery in other; no artifacts,adipose_subq
+GTEX-U3ZG-0226,Adipose - Subcutaneous,GTEX-U3ZG,male,50-59,Ventilator case,,2 pieces   ~10x8mm.,adipose_subq
+GTEX-U3ZH-1826,Adipose - Subcutaneous,GTEX-U3ZH,male,30-39,Ventilator case,,2 pieces  ~10x10mm,adipose_subq
+GTEX-U3ZM-1026,Adipose - Subcutaneous,GTEX-U3ZM,male,40-49,Ventilator case,,2 pieces  ~9x8mm,adipose_subq
+GTEX-U3ZN-2626,Adipose - Subcutaneous,GTEX-U3ZN,female,30-39,Ventilator case,,2 pieces 15x5 & 14x4mm; minimal artifacts,adipose_subq
+GTEX-U412-0526,Adipose - Subcutaneous,GTEX-U412,male,60-69,Intermediate death,,2 pieces  ~8x7mm,adipose_subq
+GTEX-U4B1-1726,Adipose - Subcutaneous,GTEX-U4B1,male,40-49,Ventilator case,,"2 pieces, 9.5x16.9 & 15.2x9.7 mm; 1 piece has a ~40% fibrous component",adipose_subq
+GTEX-U8T8-0226,Adipose - Subcutaneous,GTEX-U8T8,male,60-69,Ventilator case,hemorrhage,"2 pieces, 6x7 & 6x7.5mm ;focal acute hemorrhages, possibly due to trauma",adipose_subq
+GTEX-U8XE-0426,Adipose - Subcutaneous,GTEX-U8XE,male,30-39,Slow death,,2 pieces  ~7x6mm,adipose_subq
+GTEX-UJHI-1626,Adipose - Subcutaneous,GTEX-UJHI,female,50-59,Ventilator case,,"2 pieces, 8x6 & 12x6mm; ~20% fibrous stroma separates adipose into lobules",adipose_subq
+GTEX-UJMC-1726,Adipose - Subcutaneous,GTEX-UJMC,male,50-59,Ventilator case,,"2 pieces,  ~10x9mm",adipose_subq
+GTEX-UPIC-1326,Adipose - Subcutaneous,GTEX-UPIC,female,20-29,Ventilator case,,"2 pieces, 11x9.5 & 10x7mm; larger piece has central hollow defect >50% of aliquot",adipose_subq
+GTEX-UPJH-0426,Adipose - Subcutaneous,GTEX-UPJH,male,50-59,Fast death - natural causes,,2 pieces  ~9x6mm,adipose_subq
+GTEX-UPK5-0826,Adipose - Subcutaneous,GTEX-UPK5,male,40-49,Ventilator case,,"2 pieces, 6.5x5.5 & 8x6mm; cassette indentations",adipose_subq
+GTEX-UTHO-0426,Adipose - Subcutaneous,GTEX-UTHO,male,60-69,Intermediate death,,"2 pieces, 7.5x5 & 10x9.5mm;",adipose_subq
+GTEX-V1D1-2326,Adipose - Subcutaneous,GTEX-V1D1,male,50-59,Ventilator case,,2 pieces  ~7x6mm,adipose_subq
+GTEX-V955-2326,Adipose - Subcutaneous,GTEX-V955,male,60-69,Ventilator case,,2 pieces  ~15x10mm.,adipose_subq
+GTEX-VJWN-0226,Adipose - Subcutaneous,GTEX-VJWN,female,50-59,Fast death - natural causes,,"2 pieces, 8x4 & 7x6.5mm; smaller piece has more fibrous stroma than larger",adipose_subq
+GTEX-VJYA-1326,Adipose - Subcutaneous,GTEX-VJYA,male,60-69,Ventilator case,,2 pieces  ~15x7mm,adipose_subq
+GTEX-VUSG-2426,Adipose - Subcutaneous,GTEX-VUSG,male,50-59,Ventilator case,,"2 pieces  ~9x7mm.  Contaminant fragements of skin present, encircled",adipose_subq
+GTEX-VUSH-0226,Adipose - Subcutaneous,GTEX-VUSH,male,30-39,Ventilator case,,"2 pieces, 11x10 & 12x9mm; ~30% central defect in one; 10% in other",adipose_subq
+GTEX-W5WG-2526,Adipose - Subcutaneous,GTEX-W5WG,female,50-59,Ventilator case,,2 pieces  ~10x9mm.,adipose_subq
+GTEX-W5X1-2626,Adipose - Subcutaneous,GTEX-W5X1,female,40-49,Ventilator case,,"2 pieces, 16x9 & 11x9mm; 20% fibroadipose, rest is adipose",adipose_subq
+GTEX-WCDI-0226,Adipose - Subcutaneous,GTEX-WCDI,male,50-59,Ventilator case,,2 pieces  ~12x10mm,adipose_subq
+GTEX-WEY5-1926,Adipose - Subcutaneous,GTEX-WEY5,female,40-49,Ventilator case,,"2 pieces, 8x8 & 8x7.5mm; small hollow artifacts, not centrally unfixed",adipose_subq
+GTEX-WFG7-2526,Adipose - Subcutaneous,GTEX-WFG7,male,20-29,Ventilator case,,2 pieces  ~13x11mm,adipose_subq
+GTEX-WFG8-2326,Adipose - Subcutaneous,GTEX-WFG8,male,20-29,Ventilator case,,2 pieces  ~13x8mm,adipose_subq
+GTEX-WFJO-1926,Adipose - Subcutaneous,GTEX-WFJO,male,30-39,Ventilator case,,"2 pieces, 13x9 & 15x10mm; central hollow unfixed areas up to 6x4mm",adipose_subq
+GTEX-WFON-2226,Adipose - Subcutaneous,GTEX-WFON,male,40-49,Ventilator case,,2 pieces  ~11x8 mm.,adipose_subq
+GTEX-WH7G-2226,Adipose - Subcutaneous,GTEX-WH7G,male,40-49,Ventilator case,clean_specimens,"2 pieces, 9x8 & 10x8mm; Only small central 'unfixed' holes. Otherwise good specimen.",adipose_subq
+GTEX-WHPG-2126,Adipose - Subcutaneous,GTEX-WHPG,male,50-59,Ventilator case,,"2 pieces, 8x8 & 8x6mm; Fibroadipose tissue (~30% fibrous stroma admixed); no fixation or traumatic artifacts",adipose_subq
+GTEX-WHSB-1726,Adipose - Subcutaneous,GTEX-WHSB,male,50-59,Ventilator case,,"2 pieces,  ~8x8mm, fibrous component, rep area delineated",adipose_subq
+GTEX-WHSE-0326,Adipose - Subcutaneous,GTEX-WHSE,male,20-29,Intermediate death,,2 pieces ~8x6mm,adipose_subq
+GTEX-WHWD-2126,Adipose - Subcutaneous,GTEX-WHWD,male,50-59,Ventilator case,,"2 pieces, 6x6 & 9x7mm; well fixed, no artifacts",adipose_subq
+GTEX-WI4N-1126,Adipose - Subcutaneous,GTEX-WI4N,female,40-49,Ventilator case,,2 pieces ~8x6mm,adipose_subq
+GTEX-WK11-0226,Adipose - Subcutaneous,GTEX-WK11,male,50-59,Fast death - violent,,"2 pieces, 8x7 & 7x7mm; small internal defects",adipose_subq
+GTEX-WL46-0326,Adipose - Subcutaneous,GTEX-WL46,male,50-59,Fast death - natural causes,,2 pieces ~9x7mm,adipose_subq
+GTEX-WOFL-0226,Adipose - Subcutaneous,GTEX-WOFL,male,60-69,Ventilator case,,"2 pieces, 11x8 & 9x9mm; well fixed",adipose_subq
+GTEX-WOFM-1526,Adipose - Subcutaneous,GTEX-WOFM,male,20-29,Ventilator case,,"2 pieces  ~12x5mm.  ""Contaminant' nerve vascular tissue in one up to  ~2x1mm, delineated",adipose_subq
+GTEX-WQUQ-0526,Adipose - Subcutaneous,GTEX-WQUQ,male,60-69,Ventilator case,,"2 pieces  ~10x7mm. Fibrous areas in both  ~15% total area, delineated",adipose_subq
+GTEX-WRHK-1526,Adipose - Subcutaneous,GTEX-WRHK,female,20-29,Ventilator case,,"2 pieces, 15x11 & 9x4mm; large piece has 10x5mm central fixation defect",adipose_subq
+GTEX-WRHU-2626,Adipose - Subcutaneous,GTEX-WRHU,female,50-59,Fast death - violent,,2 pieces ~8x6mm,adipose_subq
+GTEX-WVJS-0226,Adipose - Subcutaneous,GTEX-WVJS,male,50-59,Ventilator case,,"2 pieces, 9x7 & 9x7mm; 1 with 50% fibrous tissue (tendon)",adipose_subq
+GTEX-WVLH-0226,Adipose - Subcutaneous,GTEX-WVLH,male,50-59,Fast death - natural causes,fibrosis,"2 pieces `7x7mm ~10 fibrous tissue, delineated",adipose_subq
+GTEX-WWTW-0226,Adipose - Subcutaneous,GTEX-WWTW,male,50-59,Ventilator case,,2 pieces~7x7mm,adipose_subq
+GTEX-WWYW-0226,Adipose - Subcutaneous,GTEX-WWYW,female,50-59,Intermediate death,,2 pieces ~10x8mm,adipose_subq
+GTEX-WXYG-2426,Adipose - Subcutaneous,GTEX-WXYG,female,50-59,Ventilator case,,"2 pieces, 13x10 & 10x8mm;",adipose_subq
+GTEX-WY7C-2426,Adipose - Subcutaneous,GTEX-WY7C,male,50-59,Ventilator case,,1 pieces  ~8x7mm,adipose_subq
+GTEX-WYBS-0226,Adipose - Subcutaneous,GTEX-WYBS,female,60-69,Ventilator case,,"3 pieces, up to 8x4mm;",adipose_subq
+GTEX-WYJK-0226,Adipose - Subcutaneous,GTEX-WYJK,male,50-59,Ventilator case,,"2 pieces, 10x9 & 9x8mm;",adipose_subq
+GTEX-WYVS-2226,Adipose - Subcutaneous,GTEX-WYVS,female,40-49,Ventilator case,,"2 pieces, 14x13 & 13x11mm;",adipose_subq
+GTEX-WZTO-0226,Adipose - Subcutaneous,GTEX-WZTO,male,40-49,Fast death - violent,,"2 pieces, 9x8 & 8x7mm;",adipose_subq
+GTEX-X15G-2326,Adipose - Subcutaneous,GTEX-X15G,female,50-59,Ventilator case,,"2 pieces, 12x8.5 & 12x9mm;",adipose_subq
+GTEX-X261-0226,Adipose - Subcutaneous,GTEX-X261,male,50-59,Slow death,,"2 pieces, 8x5 & 8x5mm; no artifacts",adipose_subq
+GTEX-X3Y1-2226,Adipose - Subcutaneous,GTEX-X3Y1,male,40-49,Ventilator case,,"2 pieces, 9x9 & 7x7mm; minimal artifacts",adipose_subq
+GTEX-X4EO-0426,Adipose - Subcutaneous,GTEX-X4EO,female,60-69,Intermediate death,,"2 pieces, 8x7 & 10x5.5mm; 10% central hole in one piece",adipose_subq
+GTEX-X4EP-0226,Adipose - Subcutaneous,GTEX-X4EP,female,60-69,Slow death,,"2 pieces, 7x5 & 8x7mm;",adipose_subq
+GTEX-X4LF-1726,Adipose - Subcutaneous,GTEX-X4LF,male,50-59,Ventilator case,,"2 pieces, 15x10 & 16x11mm;",adipose_subq
+GTEX-X4XX-0226,Adipose - Subcutaneous,GTEX-X4XX,male,60-69,Slow death,,"2 pieces, 8x7 & 9x7mm;  No artifacts.",adipose_subq
+GTEX-X4XY-0326,Adipose - Subcutaneous,GTEX-X4XY,male,60-69,Ventilator case,,"2 pieces, 10x8 & 10x7mm; 1 is all adipose, other contains 40% fibrovascular tissue",adipose_subq
+GTEX-X585-0326,Adipose - Subcutaneous,GTEX-X585,male,50-59,Slow death,,"2 pieces, 8x7 & 6x6mm;  Large vessel (5x1.5mm) runs through 1 piece.",adipose_subq
+GTEX-X5EB-2426,Adipose - Subcutaneous,GTEX-X5EB,male,40-49,Ventilator case,,"2 pieces, 10x9 & 10x8mm;",adipose_subq
+GTEX-X62O-0226,Adipose - Subcutaneous,GTEX-X62O,male,50-59,Ventilator case,,"2 pieces, 8x6 & 9x8mm; 50% fibirous tissue, rep areas delineated.  Contaminant squamous epithelium, encircled",adipose_subq
+GTEX-X638-0226,Adipose - Subcutaneous,GTEX-X638,female,70-79,Ventilator case,,"2 pieces, 11x8 & 12x8mm; Small artefactual holes",adipose_subq
+GTEX-X88G-0226,Adipose - Subcutaneous,GTEX-X88G,male,30-39,Ventilator case,,2 pieces  ~11x9mm,adipose_subq
+GTEX-X8HC-0226,Adipose - Subcutaneous,GTEX-X8HC,female,50-59,Ventilator case,,"2 pieces, 11x7 & 8x7mm; No defects",adipose_subq
+GTEX-XAJ8-0926,Adipose - Subcutaneous,GTEX-XAJ8,male,40-49,Ventilator case,,"2 pieces ~10x6mm, fibrous bands noted",adipose_subq
+GTEX-XBEC-0326,Adipose - Subcutaneous,GTEX-XBEC,male,50-59,Fast death - natural causes,,2 pieces 9x7 & 8.5x7mm;,adipose_subq
+GTEX-XBED-2326,Adipose - Subcutaneous,GTEX-XBED,male,60-69,Ventilator case,,"2 pieces, 7x6 & 14x9mm; Larger piece is adipose tissue, smaller piece is skin",adipose_subq
+GTEX-XBEW-0726,Adipose - Subcutaneous,GTEX-XBEW,male,40-49,Ventilator case,,"2 pieces, 11x9 & 8x6mm;",adipose_subq
+GTEX-XGQ4-2226,Adipose - Subcutaneous,GTEX-XGQ4,male,50-59,Ventilator case,,"2 pieces 11x7 & 15x7mm;  ~20-30% fibrous bands, rep. areas delineated",adipose_subq
+GTEX-XK95-0426,Adipose - Subcutaneous,GTEX-XK95,male,40-49,Ventilator case,,2 pieces. 9x5 & 8x7mm; Well fixed. 5-10% fibrous content.,adipose_subq
+GTEX-XLM4-0226,Adipose - Subcutaneous,GTEX-XLM4,male,60-69,Intermediate death,,"2 pieces, 9x9 & 9x8mm;",adipose_subq
+GTEX-XMD1-0326,Adipose - Subcutaneous,GTEX-XMD1,male,60-69,Slow death,,"2 pieces 9x8 & 9x8mm; ~30% fibrostic, rep. areas delineated",adipose_subq
+GTEX-XMD2-0226,Adipose - Subcutaneous,GTEX-XMD2,female,60-69,Ventilator case,calcification,"2 pieces, 8.5x8 & 10x7.5mm; 1 piece has focal calcification and possible ossification; other has 50% blood vessels",adipose_subq
+GTEX-XMD3-0226,Adipose - Subcutaneous,GTEX-XMD3,female,50-59,Ventilator case,,2 pieces. 11x8 & 9x8mm; well preserved,adipose_subq
+GTEX-XMK1-2226,Adipose - Subcutaneous,GTEX-XMK1,male,40-49,Ventilator case,,2 pieces. 10x7 & 12x6.5mm;,adipose_subq
+GTEX-XOT4-0226,Adipose - Subcutaneous,GTEX-XOT4,female,60-69,Fast death - natural causes,,2 pieces. 9x8 & 9.5x6mm. well fixed; 10% stroma in one,adipose_subq
+GTEX-XOTO-0226,Adipose - Subcutaneous,GTEX-XOTO,male,50-59,Fast death - natural causes,,"2 pieces. 9x7 & 9x8mm; ~10% fibrous components, delineated",adipose_subq
+GTEX-XPT6-1926,Adipose - Subcutaneous,GTEX-XPT6,male,20-29,Ventilator case,,2 pieces ~8x2mm,adipose_subq
+GTEX-XPVG-2726,Adipose - Subcutaneous,GTEX-XPVG,male,50-59,Ventilator case,,2 pieces. 10x8 & 12x5mm; 1 with 20% fibrous tissue,adipose_subq
+GTEX-XQ3S-1626,Adipose - Subcutaneous,GTEX-XQ3S,male,20-29,Fast death - violent,,"2 pieces, 9.5x8 & 8x7mm;",adipose_subq
+GTEX-XQ8I-0526,Adipose - Subcutaneous,GTEX-XQ8I,male,50-59,Ventilator case,,"2 pieces, 9x8 & 9x8mm; no unfixed center; 1 piece has 20% loose  fibrous stroma centrally",adipose_subq
+GTEX-XUJ4-2526,Adipose - Subcutaneous,GTEX-XUJ4,female,60-69,Ventilator case,,"2 pieces, 15x10 & 13x8mm;",adipose_subq
+GTEX-XUW1-0526,Adipose - Subcutaneous,GTEX-XUW1,female,50-59,Ventilator case,,"2 pieces, 10x7 & 7x6mm; no fixation artifacts",adipose_subq
+GTEX-XUYS-0226,Adipose - Subcutaneous,GTEX-XUYS,male,50-59,Ventilator case,,"2 pieces, 11.5x9 & 9x8.5mm.  Well fixed, no artifacts",adipose_subq
+GTEX-XUZC-1826,Adipose - Subcutaneous,GTEX-XUZC,female,30-39,Ventilator case,,"2 pieces, 17x12 & 17x16mm;",adipose_subq
+GTEX-XV7Q-2626,Adipose - Subcutaneous,GTEX-XV7Q,female,40-49,Ventilator case,,"2 pieces, 13x9.5 & 17x9mm;",adipose_subq
+GTEX-XXEK-2426,Adipose - Subcutaneous,GTEX-XXEK,male,50-59,Ventilator case,,"2 pieces, 9x8 & 11x8mm; embedded ~0.5mm vessel, foci of fibrous tissue",adipose_subq
+GTEX-XYKS-2726,Adipose - Subcutaneous,GTEX-XYKS,female,60-69,Ventilator case,,"2 pieces, 12x11 & 11x8mm; 1 has ~15% nerve and blood vessels",adipose_subq
+GTEX-Y111-0226,Adipose - Subcutaneous,GTEX-Y111,male,50-59,Fast death - violent,,"2 pieces, 11x7 & 12x8mm;",adipose_subq
+GTEX-Y114-2326,Adipose - Subcutaneous,GTEX-Y114,female,50-59,Ventilator case,,"2 pieces, 11x7.5 & 9.5x8mm;",adipose_subq
+GTEX-Y3I4-2226,Adipose - Subcutaneous,GTEX-Y3I4,male,50-59,Ventilator case,,"2 pieces, 12x9 & 9x8mm; ~10-15% fibrous tissue, delineated (rep areas )",adipose_subq
+GTEX-Y3IK-2526,Adipose - Subcutaneous,GTEX-Y3IK,female,50-59,Ventilator case,,"2 pieces, 15x12 & 12x11mm. 2525 composed of adipose tissue, centrally unfixed. Apparently switched with 2625",adipose_subq
+GTEX-Y5LM-2026,Adipose - Subcutaneous,GTEX-Y5LM,female,40-49,Ventilator case,,2 pieces. 12x9.5 & 12.5x11mm;,adipose_subq
+GTEX-Y5V5-2426,Adipose - Subcutaneous,GTEX-Y5V5,female,60-69,Ventilator case,,"2 pieces, 12x11 & 15x7.5mm;  ~19% fibrous tissue, delineated",adipose_subq
+GTEX-Y5V6-2526,Adipose - Subcutaneous,GTEX-Y5V6,male,60-69,Ventilator case,,"2 pieces, 9x9 & 9x7mm; several centrall holes",adipose_subq
+GTEX-Y8DK-0226,Adipose - Subcutaneous,GTEX-Y8DK,male,60-69,Fast death - natural causes,,2 pieces 10 x 5 and 11 x 9 mm.  No fixation artifacts.,adipose_subq
+GTEX-Y8E4-0726,Adipose - Subcutaneous,GTEX-Y8E4,male,40-49,Ventilator case,,"2 pieces, 12x9 & 10x8mm;scant fibrous stroma.",adipose_subq
+GTEX-Y8E5-0226,Adipose - Subcutaneous,GTEX-Y8E5,male,60-69,Ventilator case,,"2 pieces, 9x8 & 10x10mm; dense pink fidbrosu tissue is ~50% of both sections, delineated",adipose_subq
+GTEX-Y8LW-1926,Adipose - Subcutaneous,GTEX-Y8LW,female,50-59,Ventilator case,,"2 pieces, 11x10 & 12x8mm; ~10% fibrous tissue, rep. areas delineated",adipose_subq
+GTEX-Y9LG-2026,Adipose - Subcutaneous,GTEX-Y9LG,male,30-39,Ventilator case,,2 pieces. 13x10 & 16x10mm;  10% stroma in 1.,adipose_subq
+GTEX-YB5E-2126,Adipose - Subcutaneous,GTEX-YB5E,male,40-49,Ventilator case,,"2 pieces, 12x9 & 17x10mm; fibrous tissue is ~20% specimen, delineated",adipose_subq
+GTEX-YB5K-2226,Adipose - Subcutaneous,GTEX-YB5K,female,40-49,Ventilator case,,2 pieces. 12x11 & 12x12mm; Central holes.,adipose_subq
+GTEX-YBZK-0526,Adipose - Subcutaneous,GTEX-YBZK,female,50-59,Ventilator case,,2 pieces ~19x12mm  ; predominantly intact with minimal fibrous tissue; large vessels present in aliquots.,adipose_subq
+GTEX-YEC3-1226,Adipose - Subcutaneous,GTEX-YEC3,male,50-59,Ventilator case,,"2 pieces, 13x11 and 13x9.5mm; ~20% fibrous tissue with small vessels noted, rep. areas delineated",adipose_subq
+GTEX-YEC4-2426,Adipose - Subcutaneous,GTEX-YEC4,male,40-49,Ventilator case,,"2 pieces, 11x10 and 18x8.5mm.",adipose_subq
+GTEX-YECK-0226,Adipose - Subcutaneous,GTEX-YECK,male,60-69,Intermediate death,,"2 pieces, 9x6.5 and 18x9mm; ~25-30% fibrous tissue/bands, rep. areas delineated",adipose_subq
+GTEX-YF7O-2426,Adipose - Subcutaneous,GTEX-YF7O,male,50-59,Ventilator case,,"2 pieces,  12x8.5 and 12x9mm; fibrofatty tissue in one, skin and fatty tissue in other",adipose_subq
+GTEX-YFC4-0226,Adipose - Subcutaneous,GTEX-YFC4,female,40-49,Fast death - violent,,"2 pieces, ~5% fibrous tissue, rep. areas delineated",adipose_subq
+GTEX-YFCO-2026,Adipose - Subcutaneous,GTEX-YFCO,male,40-49,Ventilator case,,2 pieces; central holes in both; 5-10% fibrous tissue.,adipose_subq
+GTEX-YJ89-0226,Adipose - Subcutaneous,GTEX-YJ89,male,60-69,Fast death - natural causes,,2 pieces; approximately 20% fibrovascular tissue and nerve present,adipose_subq
+GTEX-YJ8A-0526,Adipose - Subcutaneous,GTEX-YJ8A,male,20-29,Ventilator case,,2 pieces; 20-30% fibrous tissue admixed,adipose_subq
+GTEX-YJ8O-2426,Adipose - Subcutaneous,GTEX-YJ8O,female,40-49,Fast death - violent,,2 pieces; a few foci fibrous tissue/vessels,adipose_subq
+GTEX-Z93S-0226,Adipose - Subcutaneous,GTEX-Z93S,male,50-59,Fast death - natural causes,,"2 pieces, one is ~10%  fibrous tissue, delineated",adipose_subq
+GTEX-Z93T-0226,Adipose - Subcutaneous,GTEX-Z93T,male,50-59,Fast death - natural causes,,"2 pieces. Large aliquots, some holes",adipose_subq
+GTEX-Z9EW-1826,Adipose - Subcutaneous,GTEX-Z9EW,male,40-49,Ventilator case,,"2 pieces, ~15-20% fibrous/vascular tissue, rep. foci delineated",adipose_subq
+GTEX-ZA64-1826,Adipose - Subcutaneous,GTEX-ZA64,male,20-29,Ventilator case,,"2 pieces, well preserved, each is ~5% vascular/fibrous components; rep. foci delineated",adipose_subq
+GTEX-ZAB4-0326,Adipose - Subcutaneous,GTEX-ZAB4,male,40-49,Slow death,,2 pieces,adipose_subq
+GTEX-ZAB5-1726,Adipose - Subcutaneous,GTEX-ZAB5,male,50-59,Ventilator case,,"2 pieces, each with ~10% fibrous stroma, one with a prominent vessel",adipose_subq
+GTEX-ZAJG-0226,Adipose - Subcutaneous,GTEX-ZAJG,female,50-59,Intermediate death,,"2 pieces,  ~10% fibrous tissue, rep. areas delineated",adipose_subq
+GTEX-ZAK1-0226,Adipose - Subcutaneous,GTEX-ZAK1,female,50-59,Fast death - natural causes,,"2 pieces, ~5-10% fibrous tissue/vessels",adipose_subq
+GTEX-ZAKK-0226,Adipose - Subcutaneous,GTEX-ZAKK,male,70-79,Fast death - natural causes,,"2 pieces. Both pieces contain large amounts of dense fibrous tissue, probably fascia: 90% of 1 and 60% of other.",adipose_subq
+GTEX-ZC5H-0126,Adipose - Subcutaneous,GTEX-ZC5H,female,40-49,Ventilator case,,"2 pieces, minimal fibrous tissue",adipose_subq
+GTEX-ZDTS-0226,Adipose - Subcutaneous,GTEX-ZDTS,male,60-69,Fast death - natural causes,,2 pieces; large vein =10% of 1 piece,adipose_subq
+GTEX-ZDTT-2626,Adipose - Subcutaneous,GTEX-ZDTT,male,60-69,Ventilator case,,"2 pieces, both disrupted centrally",adipose_subq
+GTEX-ZDXO-2426,Adipose - Subcutaneous,GTEX-ZDXO,male,60-69,Fast death - natural causes,,"2 pieces, both ~60% contaminating fibroconnective tissue/fascia",adipose_subq
+GTEX-ZDYS-2126,Adipose - Subcutaneous,GTEX-ZDYS,male,50-59,Ventilator case,,"2 pieces, one piece with central defect (poor fixation) and attached vessel, second piece is 10-20% fibroconnective tissue",adipose_subq
+GTEX-ZE7O-0226,Adipose - Subcutaneous,GTEX-ZE7O,female,50-59,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-ZE9C-2826,Adipose - Subcutaneous,GTEX-ZE9C,male,60-69,Fast death - natural causes,,"2 pieces,  ~10-20% fibrous bands/fascia",adipose_subq
+GTEX-ZEX8-2326,Adipose - Subcutaneous,GTEX-ZEX8,male,50-59,Ventilator case,,3 pieces.,adipose_subq
+GTEX-ZF28-0226,Adipose - Subcutaneous,GTEX-ZF28,male,60-69,Slow death,,2 pieces. 10% fibrous tissue admixed,adipose_subq
+GTEX-ZF29-2226,Adipose - Subcutaneous,GTEX-ZF29,female,60-69,Ventilator case,,"2 pieces, both with some central defects suggesting incomplete fixation. One piece predominantly fat, second is 50% fibroconnective tissue.",adipose_subq
+GTEX-ZF2S-2226,Adipose - Subcutaneous,GTEX-ZF2S,female,50-59,Ventilator case,,2 pieces. A few central artifacts.,adipose_subq
+GTEX-ZF3C-0226,Adipose - Subcutaneous,GTEX-ZF3C,female,50-59,Ventilator case,,"2 pieces, one is fat with attached larger vessel, second has ~15% fibrovascular tissue",adipose_subq
+GTEX-ZG7Y-0426,Adipose - Subcutaneous,GTEX-ZG7Y,male,50-59,Ventilator case,,"2 pieces  ~10% fibrous tissue/vessel, delineated",adipose_subq
+GTEX-ZGAY-0626,Adipose - Subcutaneous,GTEX-ZGAY,female,40-49,Ventilator case,,"2 pieces, ~10-15% fibrous tissue, rep. areas delineated",adipose_subq
+GTEX-ZLFU-2626,Adipose - Subcutaneous,GTEX-ZLFU,male,40-49,Ventilator case,,"2 pieces, overly large with central holes",adipose_subq
+GTEX-ZLV1-1826,Adipose - Subcutaneous,GTEX-ZLV1,female,60-69,Ventilator case,,"2 pieces, ~10% fibrous/fascial tissue, rep foci delineated",adipose_subq
+GTEX-ZLWG-2226,Adipose - Subcutaneous,GTEX-ZLWG,female,50-59,Ventilator case,,"2 pieces, both with ~10% fibrous tissue and nerve, few defects in one centrally (?poor fixation)",adipose_subq
+GTEX-ZP4G-2326,Adipose - Subcutaneous,GTEX-ZP4G,female,20-29,Ventilator case,,"2 pieces, ~10% fascia/vessels,  rep. areas delineated",adipose_subq
+GTEX-ZPCL-2126,Adipose - Subcutaneous,GTEX-ZPCL,female,60-69,Ventilator case,,2 pieces. Large size needed refixing.,adipose_subq
+GTEX-ZPIC-1826,Adipose - Subcutaneous,GTEX-ZPIC,female,40-49,Ventilator case,,"2 pieces, ~5-10% fibrous/fascial tissue, rep foci delineated",adipose_subq
+GTEX-ZPU1-2426,Adipose - Subcutaneous,GTEX-ZPU1,male,40-49,Ventilator case,,"3 pieces, scant fibrous tissue, central defect (? incomplete fixation)",adipose_subq
+GTEX-ZQG8-1526,Adipose - Subcutaneous,GTEX-ZQG8,female,60-69,Ventilator case,,2 pieces; fat (not skin as originally labeled),adipose_subq
+GTEX-ZQUD-1126,Adipose - Subcutaneous,GTEX-ZQUD,male,30-39,Ventilator case,,"2 pieces, ~50% fibrovascular elements, rep. areas delineated",adipose_subq
+GTEX-ZT9W-2326,Adipose - Subcutaneous,GTEX-ZT9W,male,50-59,Ventilator case,,2 pieces,adipose_subq
+GTEX-ZT9X-1926,Adipose - Subcutaneous,GTEX-ZT9X,male,40-49,Ventilator case,,"2 pieces, ~30% fibrous/fascial tissue, rep foci delineated",adipose_subq
+GTEX-ZTPG-0226,Adipose - Subcutaneous,GTEX-ZTPG,female,20-29,Ventilator case,,"2 pieces, internal holes",adipose_subq
+GTEX-ZTSS-2026,Adipose - Subcutaneous,GTEX-ZTSS,male,40-49,Ventilator case,,1 pieces,adipose_subq
+GTEX-ZTTD-0226,Adipose - Subcutaneous,GTEX-ZTTD,male,50-59,Intermediate death,,"2 pieces ~ 10% fascia/fibrous tissue, delineated",adipose_subq
+GTEX-ZTX8-1526,Adipose - Subcutaneous,GTEX-ZTX8,male,20-29,Ventilator case,fibrosis,"2 pieces, ~20% loose fibrous tissue",adipose_subq
+GTEX-ZU9S-0326,Adipose - Subcutaneous,GTEX-ZU9S,male,30-39,Fast death - natural causes,,2 pieces. Several internal holes.,adipose_subq
+GTEX-ZUA1-0226,Adipose - Subcutaneous,GTEX-ZUA1,male,40-49,Fast death - natural causes,,2 pieces,adipose_subq
+GTEX-ZV68-0226,Adipose - Subcutaneous,GTEX-ZV68,female,50-59,Fast death - natural causes,,"2 pieces, minimal fibrous tissue, <~2%",adipose_subq
+GTEX-ZV6S-2226,Adipose - Subcutaneous,GTEX-ZV6S,female,40-49,Ventilator case,,2 pieces,adipose_subq
+GTEX-ZV7C-2126,Adipose - Subcutaneous,GTEX-ZV7C,male,50-59,Ventilator case,,"1 piece, unremarkable",adipose_subq
+GTEX-ZVE1-0226,Adipose - Subcutaneous,GTEX-ZVE1,female,50-59,Ventilator case,calcification,"2 pieces, focal vascular calicification",adipose_subq
+GTEX-ZVE2-0326,Adipose - Subcutaneous,GTEX-ZVE2,male,50-59,Ventilator case,fibrosis,"2 pieces, septal fibrosis 20%",adipose_subq
+GTEX-ZVP2-1826,Adipose - Subcutaneous,GTEX-ZVP2,male,50-59,Ventilator case,,"1 piece, oversized specimen (18mm) with central defects (?poor fixation)",adipose_subq
+GTEX-ZVT2-2226,Adipose - Subcutaneous,GTEX-ZVT2,female,50-59,Ventilator case,,1 piece with central empty spaces,adipose_subq
+GTEX-ZVT3-0226,Adipose - Subcutaneous,GTEX-ZVT3,female,60-69,Fast death - natural causes,,"2 pieces, minimal vascular tissue",adipose_subq
+GTEX-ZVT4-0226,Adipose - Subcutaneous,GTEX-ZVT4,female,50-59,Intermediate death,,"2 pieces ~10% fibrous tissue, rep. areas delineated",adipose_subq
+GTEX-ZVTK-0526,Adipose - Subcutaneous,GTEX-ZVTK,male,20-29,Fast death - violent,,2 pieces; 20 and 30% fibrous component,adipose_subq
+GTEX-ZVZO-0226,Adipose - Subcutaneous,GTEX-ZVZO,male,40-49,Fast death - violent,,"2 pieces, ~10% of specimen is fibrous tissue (combined), few small nerves",adipose_subq
+GTEX-ZVZP-2326,Adipose - Subcutaneous,GTEX-ZVZP,male,50-59,Ventilator case,,2 pieces; large central hole (unfixed),adipose_subq
+GTEX-ZVZQ-0426,Adipose - Subcutaneous,GTEX-ZVZQ,female,60-69,Fast death - violent,,"2 pieces, ~10% fibrous tissue, delineated",adipose_subq
+GTEX-ZWKS-0226,Adipose - Subcutaneous,GTEX-ZWKS,male,30-39,Slow death,,"1 pieces, ~10% fibrous tissue, rep. areas delineated",adipose_subq
+GTEX-ZXES-2026,Adipose - Subcutaneous,GTEX-ZXES,female,30-39,Ventilator case,,"2 pieces, defects in section (? poor fixation), one is about 15% fibrous tissue",adipose_subq
+GTEX-ZXG5-0226,Adipose - Subcutaneous,GTEX-ZXG5,male,60-69,Intermediate death,,2 pieces,adipose_subq
+GTEX-ZY6K-2226,Adipose - Subcutaneous,GTEX-ZY6K,male,50-59,Ventilator case,sweat_glands,"2 pieces, one piece includes ~20% fibrous tissue and few sweat glands, central holes in one piece (?poor fixation)",adipose_subq
+GTEX-ZYFC-0326,Adipose - Subcutaneous,GTEX-ZYFC,male,50-59,Fast death - natural causes,sweat_glands,"2 pieces, one  piece includes ~40% fibrous tissue, hair follicles, vessels, sweat glands",adipose_subq
+GTEX-ZYFD-0226,Adipose - Subcutaneous,GTEX-ZYFD,male,50-59,Intermediate death,,2 pieces,adipose_subq
+GTEX-ZYFG-2226,Adipose - Subcutaneous,GTEX-ZYFG,female,60-69,Ventilator case,,"2 pieces, with central holes",adipose_subq
+GTEX-ZYT6-0326,Adipose - Subcutaneous,GTEX-ZYT6,male,30-39,Fast death - violent,,"2 pieces, fibroadipose tissue; prominent 3x1 mm segment of nerve embedded in specimen, delineated.",adipose_subq
+GTEX-ZYVF-0226,Adipose - Subcutaneous,GTEX-ZYVF,female,50-59,Ventilator case,,"2 pieces, ~15-20% fibrous tissue, rep. foci delineated",adipose_subq
+GTEX-ZYW4-0226,Adipose - Subcutaneous,GTEX-ZYW4,male,60-69,Intermediate death,,2 pieces; 10% fibrovascular component,adipose_subq
+GTEX-ZYWO-2526,Adipose - Subcutaneous,GTEX-ZYWO,female,40-49,Ventilator case,sweat_glands,"2 pieces, some fibrous stroma and few sweat glands",adipose_subq
+GTEX-ZYY3-0226,Adipose - Subcutaneous,GTEX-ZYY3,female,60-69,Slow death,,"2 pieces, ~10% fibrous tissue/vessel",adipose_subq
+GTEX-ZZ64-1626,Adipose - Subcutaneous,GTEX-ZZ64,male,20-29,Ventilator case,,2 pieces,adipose_subq
+GTEX-ZZPT-0326,Adipose - Subcutaneous,GTEX-ZZPT,male,50-59,Slow death,,"2 pieces, fibroconnective and vascular tissue, minimal adipose tissue; unknown provenenance",adipose_subq
+GTEX-ZZPU-2726,Adipose - Subcutaneous,GTEX-ZZPU,female,50-59,Ventilator case,,2 pieces,adipose_subq

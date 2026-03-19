@@ -1,0 +1,976 @@
+Tissue Sample ID,Tissue,Subject ID,Sex,Age Bracket,Hardy Scale,Pathology Categories,Pathology Notes,Tissue ID
+GTEX-1117F-0326,Nerve - Tibial,GTEX-1117F,female,60-69,Slow death,clean_specimens,"2 pieces, clean specimens",nerve_tibial
+GTEX-111CU-2226,Nerve - Tibial,GTEX-111CU,male,50-59,Ventilator case,,"6 pieces, includes up to 20-30% fat",nerve_tibial
+GTEX-111FC-0526,Nerve - Tibial,GTEX-111FC,male,60-69,Fast death - violent,,"2 pieces, includes 10-20% predominantly internal adipose tissue",nerve_tibial
+GTEX-111VG-2526,Nerve - Tibial,GTEX-111VG,male,60-69,Intermediate death,,"4 pieces: 2 are fat free, 2 with 30-40% fat",nerve_tibial
+GTEX-111YS-2126,Nerve - Tibial,GTEX-111YS,male,60-69,Ventilator case,edema,2 pieces; 50% internal edematous stroma and fat,nerve_tibial
+GTEX-1122O-2226,Nerve - Tibial,GTEX-1122O,female,60-69,Ventilator case,,"4 pieces, sections not intact, but all appear to have up to ~50% fat (attached and internal)",nerve_tibial
+GTEX-1128S-2226,Nerve - Tibial,GTEX-1128S,female,60-69,Fast death - natural causes,,"3 pieces, discontinuous rim of fat, up to ~1mm, delineated",nerve_tibial
+GTEX-113IC-0526,Nerve - Tibial,GTEX-113IC,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces, trace adherent nubbins of fat up to ~1mm, delineated.  Good specimens",nerve_tibial
+GTEX-113JC-2426,Nerve - Tibial,GTEX-113JC,female,50-59,Fast death - natural causes,,2 pieces; up to 40% fat in and around nerve bundles,nerve_tibial
+GTEX-117XS-2626,Nerve - Tibial,GTEX-117XS,male,60-69,Fast death - natural causes,,"4 pieces, 10 to 20% internal fat",nerve_tibial
+GTEX-117YW-2526,Nerve - Tibial,GTEX-117YW,male,50-59,Intermediate death,,"4 pieces, up to ~40-50% fat (attached and internal)",nerve_tibial
+GTEX-117YX-2426,Nerve - Tibial,GTEX-117YX,male,50-59,Ventilator case,,2 pieces; well trimmed,nerve_tibial
+GTEX-1192W-2826,Nerve - Tibial,GTEX-1192W,male,60-69,Fast death - natural causes,,"2 pieces, rim of adherent fat up to ~2mm on one, delineated",nerve_tibial
+GTEX-1192X-0326,Nerve - Tibial,GTEX-1192X,male,50-59,Slow death,,"2 pieces, adherent discontinuous rims of fat up to ~1mm, delineated",nerve_tibial
+GTEX-11DXW-0426,Nerve - Tibial,GTEX-11DXW,male,40-49,Fast death - natural causes,,2 pieces,nerve_tibial
+GTEX-11DXX-2526,Nerve - Tibial,GTEX-11DXX,female,60-69,Ventilator case,,"4 pieces, minimal attached adipose tissue",nerve_tibial
+GTEX-11DXY-2826,Nerve - Tibial,GTEX-11DXY,male,60-69,Fast death - natural causes,,"2 pieces, one has attached fat ~20%, second has partial rim of fat up to 40%",nerve_tibial
+GTEX-11DXZ-2526,Nerve - Tibial,GTEX-11DXZ,male,50-59,Ventilator case,,"2 pieces, includes 5-10% attached and internal fat",nerve_tibial
+GTEX-11DYG-0426,Nerve - Tibial,GTEX-11DYG,male,60-69,Fast death - natural causes,,2 pieces,nerve_tibial
+GTEX-11DZ1-1026,Nerve - Tibial,GTEX-11DZ1,male,50-59,Slow death,,2 pieces; 50% mostly external fat,nerve_tibial
+GTEX-11EI6-0426,Nerve - Tibial,GTEX-11EI6,male,60-69,Slow death,clean_specimens,"2 pieces, only trace fat, good specimens",nerve_tibial
+GTEX-11EM3-2026,Nerve - Tibial,GTEX-11EM3,female,20-29,Ventilator case,,"2 pieces, one ~10% fat",nerve_tibial
+GTEX-11EMC-2726,Nerve - Tibial,GTEX-11EMC,female,60-69,Fast death - natural causes,clean_specimens,"2 pieces, clean specimens; moderate interstitial adipose tissue",nerve_tibial
+GTEX-11EQ8-0326,Nerve - Tibial,GTEX-11EQ8,male,60-69,Slow death,,"2 pieces, 5-15% attached fat",nerve_tibial
+GTEX-11EQ9-2326,Nerve - Tibial,GTEX-11EQ9,male,30-39,Fast death - natural causes,clean_specimens,"2 pieces, trace adherent fat, delineated, good specimens",nerve_tibial
+GTEX-11GS4-2826,Nerve - Tibial,GTEX-11GS4,male,60-69,Fast death - natural causes,,"3 pieces, each includes about 50% internal and attached fat",nerve_tibial
+GTEX-11GSO-2626,Nerve - Tibial,GTEX-11GSO,male,60-69,Fast death - natural causes,,"2 pieces, 50-60% is internal and attached fat",nerve_tibial
+GTEX-11GSP-2826,Nerve - Tibial,GTEX-11GSP,female,60-69,Fast death - natural causes,,2 pieces; up to 30% internal and external fat,nerve_tibial
+GTEX-11H98-0426,Nerve - Tibial,GTEX-11H98,male,50-59,Fast death - natural causes,,2 pieces; no fat,nerve_tibial
+GTEX-11I78-2526,Nerve - Tibial,GTEX-11I78,female,50-59,Ventilator case,clean_specimens,"2 pieces, clean specimens, minimal adherent fat",nerve_tibial
+GTEX-11ILO-0426,Nerve - Tibial,GTEX-11ILO,female,40-49,Ventilator case,,2 pieces; 10 & 30% internal fat; 10 & 30 % external fat,nerve_tibial
+GTEX-11LCK-1326,Nerve - Tibial,GTEX-11LCK,male,30-39,Ventilator case,clean_specimens,"2 pieces, clean specimens, no adherent fat",nerve_tibial
+GTEX-11NSD-1826,Nerve - Tibial,GTEX-11NSD,male,20-29,Ventilator case,clean_specimens,"2 pieces, good clean specimens, minimal adherent fat",nerve_tibial
+GTEX-11NUK-0426,Nerve - Tibial,GTEX-11NUK,male,50-59,Fast death - natural causes,,"2 pieces, includes 10 and 30% attached fat",nerve_tibial
+GTEX-11NV4-0426,Nerve - Tibial,GTEX-11NV4,male,60-69,Fast death - natural causes,,"2 pieces, includes minimal portion of internal and attached fat (<10%)",nerve_tibial
+GTEX-11O72-0526,Nerve - Tibial,GTEX-11O72,male,40-49,Fast death - natural causes,,2 pieces; 1 has 40% internal & external fat; other has 10% internal & external fat,nerve_tibial
+GTEX-11OC5-0526,Nerve - Tibial,GTEX-11OC5,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces, generally clean specimens; partial ~0.2mm rim of fat on one, delineated",nerve_tibial
+GTEX-11OF3-2726,Nerve - Tibial,GTEX-11OF3,male,60-69,Fast death - natural causes,,"4 pieces with up to 2 mm eccentric, external fat",nerve_tibial
+GTEX-11ONC-2326,Nerve - Tibial,GTEX-11ONC,male,60-69,Fast death - natural causes,,4 pieces; up to 50% fatty envelope,nerve_tibial
+GTEX-11P7K-2226,Nerve - Tibial,GTEX-11P7K,male,30-39,Ventilator case,,2 pieces; well trimmed except for internal 20% fatty connective tissue [annotated],nerve_tibial
+GTEX-11P81-2626,Nerve - Tibial,GTEX-11P81,female,30-39,Ventilator case,,"2 pieces, well trimmed",nerve_tibial
+GTEX-11P82-1926,Nerve - Tibial,GTEX-11P82,male,20-29,Fast death - violent,clean_specimens,"2 pieces, clean specimens",nerve_tibial
+GTEX-11PRG-0126,Nerve - Tibial,GTEX-11PRG,male,50-59,Fast death - natural causes,,"2 pieces; nubbins of adherent fat up to ~1mm, delineated",nerve_tibial
+GTEX-11TT1-2626,Nerve - Tibial,GTEX-11TT1,male,20-29,Ventilator case,,"3 pieces, two include peripheral rim of adipose tissue (10-20%)",nerve_tibial
+GTEX-11TTK-0426,Nerve - Tibial,GTEX-11TTK,female,60-69,Slow death,,2 pieces; 40 & 20% internal fat,nerve_tibial
+GTEX-11TUW-2826,Nerve - Tibial,GTEX-11TUW,male,60-69,Fast death - natural causes,,"2 pieces, both include some attached fat and vascular tissue",nerve_tibial
+GTEX-11UD1-0426,Nerve - Tibial,GTEX-11UD1,female,40-49,Intermediate death,,"2 pieces, each surrounded by a rim of fat (~10%)",nerve_tibial
+GTEX-11UD2-0426,Nerve - Tibial,GTEX-11UD2,male,50-59,Fast death - natural causes,,"2 pieces, discontinous rim of adherent fat up to ~1.5mm",nerve_tibial
+GTEX-11VI4-2126,Nerve - Tibial,GTEX-11VI4,female,40-49,Ventilator case,,2 pieces;  small amount of peripheral fat,nerve_tibial
+GTEX-11WQC-2826,Nerve - Tibial,GTEX-11WQC,male,60-69,Fast death - natural causes,,"2 pieces, well trimmed",nerve_tibial
+GTEX-11WQK-0826,Nerve - Tibial,GTEX-11WQK,male,50-59,Fast death - natural causes,"monckeberg, sclerotic","2 pieces, artery, diffuse Monkeberg medial sclerosis, switched with 0925",nerve_tibial
+GTEX-11XUK-2326,Nerve - Tibial,GTEX-11XUK,female,40-49,Ventilator case,,2 pieces; no extraneous fat,nerve_tibial
+GTEX-11ZTS-0426,Nerve - Tibial,GTEX-11ZTS,female,60-69,Fast death - natural causes,clean_specimens,"4 pieces, good clean specimens",nerve_tibial
+GTEX-11ZTT-2826,Nerve - Tibial,GTEX-11ZTT,female,60-69,Ventilator case,,2 pieces,nerve_tibial
+GTEX-11ZU8-2626,Nerve - Tibial,GTEX-11ZU8,male,60-69,Slow death,,"4 pieces, adherent nubbins of fat up to ~1mm, rep delineated",nerve_tibial
+GTEX-11ZUS-1226,Nerve - Tibial,GTEX-11ZUS,male,30-39,Fast death - violent,,"2 pieces, well trimmed",nerve_tibial
+GTEX-11ZVC-2826,Nerve - Tibial,GTEX-11ZVC,female,50-59,Fast death - natural causes,,2 pieces; 10% internal fat,nerve_tibial
+GTEX-1211K-2326,Nerve - Tibial,GTEX-1211K,female,60-69,Ventilator case,clean_specimens,"2 pieces clean, minute nubbin of fat, delineated",nerve_tibial
+GTEX-12126-0626,Nerve - Tibial,GTEX-12126,male,20-29,Fast death - violent,,2 pieces; 20% external and internal fat,nerve_tibial
+GTEX-1212Z-2726,Nerve - Tibial,GTEX-1212Z,male,60-69,Fast death - natural causes,,"4 pieces, includes up to ~30% predominantly attached fat",nerve_tibial
+GTEX-12584-0326,Nerve - Tibial,GTEX-12584,male,40-49,Intermediate death,,2 pieces: both have 20% internal fat; 1 has 20% external fat,nerve_tibial
+GTEX-12696-2626,Nerve - Tibial,GTEX-12696,male,60-69,Intermediate death,clean_specimens,"2 pieces, minimal adherent fat, clean specimens",nerve_tibial
+GTEX-1269C-2926,Nerve - Tibial,GTEX-1269C,female,60-69,Fast death - natural causes,,"2 pieces, both with 20-30% attached fat",nerve_tibial
+GTEX-1269W-0626,Nerve - Tibial,GTEX-1269W,male,60-69,Slow death,,,nerve_tibial
+GTEX-12BJ1-2626,Nerve - Tibial,GTEX-12BJ1,male,60-69,Ventilator case,clean_specimens,"4 pieces, clean specimens, no adherent fat",nerve_tibial
+GTEX-12C56-1826,Nerve - Tibial,GTEX-12C56,male,20-29,Ventilator case,,"2 pieces, no extraneous adipose tissue",nerve_tibial
+GTEX-12KS4-1126,Nerve - Tibial,GTEX-12KS4,male,30-39,Ventilator case,clean_specimens,"2 pieces, good specimens, one section with ~0.5mm rim of fat along one edge, delineated",nerve_tibial
+GTEX-12WS9-0426,Nerve - Tibial,GTEX-12WS9,female,50-59,Intermediate death,,"2 pieces, trace adherent fat up to ~0.2mm focally, delineated",nerve_tibial
+GTEX-12WSA-0526,Nerve - Tibial,GTEX-12WSA,male,60-69,Slow death,,"2 pieces, nubbins of adherent fat up to ~1mm, rep delineated",nerve_tibial
+GTEX-12WSB-0426,Nerve - Tibial,GTEX-12WSB,female,60-69,Slow death,,2 pieces; 0.4 mm fat surrounding each piece,nerve_tibial
+GTEX-12WSC-0426,Nerve - Tibial,GTEX-12WSC,male,50-59,Fast death - natural causes,,"2 pieces, one includes ~10% fat",nerve_tibial
+GTEX-12WSD-0326,Nerve - Tibial,GTEX-12WSD,female,60-69,Fast death - natural causes,clean_specimens,"2 pieces, no adherent fat; excellent specimens",nerve_tibial
+GTEX-12WSE-0226,Nerve - Tibial,GTEX-12WSE,male,20-29,Fast death - natural causes,,2 pieces; minimal adherent  fat,nerve_tibial
+GTEX-12WSF-0426,Nerve - Tibial,GTEX-12WSF,male,70-79,Slow death,,"2 pieces, rim of adherent fat up to ~1mm discontinuous around both setions",nerve_tibial
+GTEX-12WSG-2726,Nerve - Tibial,GTEX-12WSG,female,50-59,Ventilator case,,"4 pieces, each includes ~30% attached and internal fat",nerve_tibial
+GTEX-12WSH-2726,Nerve - Tibial,GTEX-12WSH,male,50-59,Fast death - natural causes,,2 pieces; 10% internal and external fat,nerve_tibial
+GTEX-12WSI-2726,Nerve - Tibial,GTEX-12WSI,male,50-59,Fast death - natural causes,clean_specimens,"3 pieces, minimal adherent fat, good specimens",nerve_tibial
+GTEX-12WSJ-2026,Nerve - Tibial,GTEX-12WSJ,female,40-49,Ventilator case,,"2 pieces, attached fat up to 20%",nerve_tibial
+GTEX-12WSK-2626,Nerve - Tibial,GTEX-12WSK,female,40-49,Ventilator case,clean_specimens,"2 pieces, clean specimens",nerve_tibial
+GTEX-12WSL-2826,Nerve - Tibial,GTEX-12WSL,male,50-59,Ventilator case,,"2 pieces; well trimmed, but 20% internal fat",nerve_tibial
+GTEX-12WSM-0426,Nerve - Tibial,GTEX-12WSM,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces, no adherent fat, good specimens",nerve_tibial
+GTEX-12WSN-2626,Nerve - Tibial,GTEX-12WSN,male,40-49,Ventilator case,,2 pieces; 20% fibrous stroma; no adherent or internal fat,nerve_tibial
+GTEX-12ZZW-0326,Nerve - Tibial,GTEX-12ZZW,male,50-59,Slow death,clean_specimens,"2 pieces, trace adherent fat, good specimens",nerve_tibial
+GTEX-12ZZX-0426,Nerve - Tibial,GTEX-12ZZX,female,40-49,Fast death - violent,,"2 pieces incomplete rim of adherent fat ~0.5-1mm, delineated",nerve_tibial
+GTEX-12ZZY-0426,Nerve - Tibial,GTEX-12ZZY,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces, clean specimens, focal adherent nubbin of fat ~0.5mm delineated",nerve_tibial
+GTEX-12ZZZ-0326,Nerve - Tibial,GTEX-12ZZZ,male,60-69,Fast death - natural causes,,3 pieces; 20 - 40% internal fat,nerve_tibial
+GTEX-13111-2026,Nerve - Tibial,GTEX-13111,male,50-59,Ventilator case,,2 pieces; >5% of external fat (outlined),nerve_tibial
+GTEX-13112-2426,Nerve - Tibial,GTEX-13112,male,50-59,Fast death - natural causes,,2 pieces; larger piece has 30% internal and external fat,nerve_tibial
+GTEX-13113-2026,Nerve - Tibial,GTEX-13113,female,60-69,Ventilator case,,"2 pieces, incomplete rim of fat up to ~1mm, delineated",nerve_tibial
+GTEX-1313W-0326,Nerve - Tibial,GTEX-1313W,female,50-59,Fast death - natural causes,,"2 pieces, both with small attachment of fat (5-10%)",nerve_tibial
+GTEX-1314G-1826,Nerve - Tibial,GTEX-1314G,male,30-39,Ventilator case,,2 pieces; 5 and 20% internal fat,nerve_tibial
+GTEX-131XE-2526,Nerve - Tibial,GTEX-131XE,male,50-59,Ventilator case,,2 pieces; 10% external; fat,nerve_tibial
+GTEX-131XF-2426,Nerve - Tibial,GTEX-131XF,male,60-69,Ventilator case,,4 pieces;,nerve_tibial
+GTEX-131XG-2526,Nerve - Tibial,GTEX-131XG,female,50-59,Ventilator case,,"3 pieces, adherent discontinous rims of fat up to ~1.3mm, delineated",nerve_tibial
+GTEX-131XH-2526,Nerve - Tibial,GTEX-131XH,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces, partial rim of adherent fat, ~.3mm, generally clean specimens",nerve_tibial
+GTEX-131XW-0126,Nerve - Tibial,GTEX-131XW,female,50-59,Slow death,,"2 pieces, well trimmed",nerve_tibial
+GTEX-131YS-0326,Nerve - Tibial,GTEX-131YS,female,60-69,Fast death - natural causes,,"2 pieces; one with ~10% external fat, other with up to 10% internal/external fat",nerve_tibial
+GTEX-132AR-0626,Nerve - Tibial,GTEX-132AR,female,50-59,Ventilator case,,2 pieces; 10% external fat,nerve_tibial
+GTEX-132NY-0526,Nerve - Tibial,GTEX-132NY,male,60-69,Fast death - violent,clean_specimens,"2 pieces, generally clean specimens, focal adherent fat, up to ~0.5mm",nerve_tibial
+GTEX-132Q8-0426,Nerve - Tibial,GTEX-132Q8,male,60-69,Slow death,,2 pieces; 5-10% external and internal fat,nerve_tibial
+GTEX-132QS-2426,Nerve - Tibial,GTEX-132QS,male,60-69,Ventilator case,clean_specimens,"2 pieces, excellent clean specimens",nerve_tibial
+GTEX-1339X-2726,Nerve - Tibial,GTEX-1339X,male,40-49,Ventilator case,,2 pieces; well dissected,nerve_tibial
+GTEX-133LE-2126,Nerve - Tibial,GTEX-133LE,female,20-29,Ventilator case,,2 pieces; 5% internal fat in 1 piece,nerve_tibial
+GTEX-1399Q-2626,Nerve - Tibial,GTEX-1399Q,male,40-49,Ventilator case,,2 pieces; ~10% surrounding fat,nerve_tibial
+GTEX-1399R-2426,Nerve - Tibial,GTEX-1399R,male,30-39,Ventilator case,,2 pieces; all with external fat up to 1 mm thick,nerve_tibial
+GTEX-1399S-2426,Nerve - Tibial,GTEX-1399S,female,30-39,Ventilator case,clean_specimens,"4 pieces, clean specimens, minimal fat",nerve_tibial
+GTEX-1399T-2526,Nerve - Tibial,GTEX-1399T,male,60-69,Fast death - natural causes,,2 pieces; one with 10-20% external (predominant) and internal fat,nerve_tibial
+GTEX-1399U-2626,Nerve - Tibial,GTEX-1399U,female,50-59,Ventilator case,clean_specimens,"2 pieces, focal adherent fat but generally clean specimens",nerve_tibial
+GTEX-139D8-0126,Nerve - Tibial,GTEX-139D8,female,30-39,Ventilator case,,2 pieces NOT nerve; blood vessel.,nerve_tibial
+GTEX-139T4-0426,Nerve - Tibial,GTEX-139T4,female,50-59,Intermediate death,,2 pieces,nerve_tibial
+GTEX-139T6-1726,Nerve - Tibial,GTEX-139T6,male,50-59,Ventilator case,clean_specimens,"2 pieces, adherent ~1mm nubbin of fat, delineated, generally clean specimen",nerve_tibial
+GTEX-139T8-0326,Nerve - Tibial,GTEX-139T8,male,60-69,Slow death,,"2 pieces, trace adherent fat up to ~0.5mm, delineated",nerve_tibial
+GTEX-139TS-2526,Nerve - Tibial,GTEX-139TS,male,60-69,Fast death - natural causes,,2 pieces; includes 10-20% attached (2.7mm) and internal fat,nerve_tibial
+GTEX-139TT-0326,Nerve - Tibial,GTEX-139TT,male,60-69,Fast death - natural causes,,2 pieces; well trimmed; 5-10% internal fat,nerve_tibial
+GTEX-139TU-0326,Nerve - Tibial,GTEX-139TU,male,60-69,Intermediate death,,"2 pieces, up to 10% attached and internal fat",nerve_tibial
+GTEX-139UC-2826,Nerve - Tibial,GTEX-139UC,male,60-69,Fast death - natural causes,,"2 pieces, rim of adherent fat up to ~2mm, delineated",nerve_tibial
+GTEX-139UW-2426,Nerve - Tibial,GTEX-139UW,male,60-69,Fast death - natural causes,,2 pieces; 30% internal & external fat,nerve_tibial
+GTEX-139YR-2626,Nerve - Tibial,GTEX-139YR,male,50-59,Ventilator case,,3 pieces; each with 20-30% predominantly internal fat,nerve_tibial
+GTEX-13CF2-2826,Nerve - Tibial,GTEX-13CF2,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces, generally clean specimens, nubbin of ahderent fat up to ~0.5mm, delineated",nerve_tibial
+GTEX-13CF3-2026,Nerve - Tibial,GTEX-13CF3,female,60-69,Ventilator case,,2 pieces; 20 & 40% internal fat,nerve_tibial
+GTEX-13CIG-0526,Nerve - Tibial,GTEX-13CIG,male,50-59,Fast death - natural causes,,3 pieces; up to 20% internal fat; up to 1 mm external fat,nerve_tibial
+GTEX-13CZU-1726,Nerve - Tibial,GTEX-13CZU,male,20-29,Ventilator case,,2 pieces; well trimmed; 20% internal fat in one,nerve_tibial
+GTEX-13CZV-0426,Nerve - Tibial,GTEX-13CZV,male,60-69,Fast death - natural causes,,4 pieces; well trimmed,nerve_tibial
+GTEX-13D11-2626,Nerve - Tibial,GTEX-13D11,female,50-59,Ventilator case,,"4 pieces, rim of trace fat up to ~1mm, delineated",nerve_tibial
+GTEX-13FH7-2426,Nerve - Tibial,GTEX-13FH7,female,50-59,Ventilator case,,2 pieces; ~10% attached fat/fibroadipose tissue,nerve_tibial
+GTEX-13FHO-0526,Nerve - Tibial,GTEX-13FHO,male,60-69,Ventilator case,,"2 pieces; both are partially encased in fat, up to 2mm (20% and 40% internal and external fat combined)",nerve_tibial
+GTEX-13FHP-0326,Nerve - Tibial,GTEX-13FHP,male,50-59,Slow death,,2 pieces; well trimmed; 5 & 10% internal fat,nerve_tibial
+GTEX-13FLV-2326,Nerve - Tibial,GTEX-13FLV,male,50-59,Fast death - natural causes,,2 pieces; well trimmed,nerve_tibial
+GTEX-13FLW-2026,Nerve - Tibial,GTEX-13FLW,male,50-59,Fast death - natural causes,,"2 pieces; one piece is 70% fat and vessels, second is 40% fat",nerve_tibial
+GTEX-13FTW-2426,Nerve - Tibial,GTEX-13FTW,male,40-49,Ventilator case,,3 pieces; includes up to 40-50% internal and attached fat,nerve_tibial
+GTEX-13FTX-2126,Nerve - Tibial,GTEX-13FTX,female,20-29,Ventilator case,,2 pieces; includes 5-10% attached fat,nerve_tibial
+GTEX-13FTY-0326,Nerve - Tibial,GTEX-13FTY,female,40-49,Fast death - natural causes,,"2 pieces; well trimmed, 1 includes ~10% internal fat",nerve_tibial
+GTEX-13FTZ-2026,Nerve - Tibial,GTEX-13FTZ,male,60-69,Fast death - natural causes,,2 pieces; one piece has partial rim of attached fat up to 1.7mm (25%),nerve_tibial
+GTEX-13FXS-0426,Nerve - Tibial,GTEX-13FXS,male,50-59,Fast death - natural causes,,4 pieces; 10-40% internal and attached (2mm) fat/vessels,nerve_tibial
+GTEX-13G51-2826,Nerve - Tibial,GTEX-13G51,male,60-69,Fast death - natural causes,,"2 pieces; well trimmed, minimal internal fat",nerve_tibial
+GTEX-13IVO-0426,Nerve - Tibial,GTEX-13IVO,male,70-79,Slow death,,2 pieces; less than 1mm of external fat and small amount of internal fat,nerve_tibial
+GTEX-13JUV-2526,Nerve - Tibial,GTEX-13JUV,female,40-49,Ventilator case,,2 pieces; one piece is 30-40% attached fat,nerve_tibial
+GTEX-13JVG-0526,Nerve - Tibial,GTEX-13JVG,male,60-69,Fast death - natural causes,,2 pieces; small portion of attached fat (5-10%),nerve_tibial
+GTEX-13N11-2826,Nerve - Tibial,GTEX-13N11,female,50-59,Ventilator case,,2 pieces; includes 30 and 50% attached and internal fat,nerve_tibial
+GTEX-13N1W-0426,Nerve - Tibial,GTEX-13N1W,male,70-79,Ventilator case,,2 pieces; 5% to 20% internal fat,nerve_tibial
+GTEX-13N2G-2426,Nerve - Tibial,GTEX-13N2G,male,60-69,Fast death - natural causes,,2 pieces; 5% and 15% of external/internal fat,nerve_tibial
+GTEX-13NYB-2826,Nerve - Tibial,GTEX-13NYB,male,40-49,Fast death - natural causes,clean_specimens,"2 pieces, no fat, excellent clean specimens",nerve_tibial
+GTEX-13NYC-0626,Nerve - Tibial,GTEX-13NYC,male,60-69,Fast death - natural causes,,2 pieces; insignificant amount of internal/external fat,nerve_tibial
+GTEX-13NYS-0426,Nerve - Tibial,GTEX-13NYS,male,60-69,Slow death,,"2 pieces; 10% external fat, 5% internal fat",nerve_tibial
+GTEX-13NZ8-1526,Nerve - Tibial,GTEX-13NZ8,female,60-69,Slow death,,2 pieces; up to 1mm external fat on 1 piece comprising 40% of area,nerve_tibial
+GTEX-13NZ9-0726,Nerve - Tibial,GTEX-13NZ9,male,50-59,Ventilator case,clean_specimens,"2 pieces, partial rim of fat on one section ~0.4mm, delineated, generally clean sections",nerve_tibial
+GTEX-13NZA-0326,Nerve - Tibial,GTEX-13NZA,male,60-69,Fast death - natural causes,,4 pieces; minimal attached fat on all (<10%),nerve_tibial
+GTEX-13NZB-2326,Nerve - Tibial,GTEX-13NZB,male,30-39,Ventilator case,,2 pieces; small amount of attached and internal fat (up to 10-15%),nerve_tibial
+GTEX-13O1R-0426,Nerve - Tibial,GTEX-13O1R,male,60-69,Fast death - natural causes,,2 pieces; 40% internal & external fat,nerve_tibial
+GTEX-13O21-1826,Nerve - Tibial,GTEX-13O21,male,50-59,Ventilator case,clean_specimens,"2 pieces, good specimens, trace nubbin adherent fat, 0.5mm thick",nerve_tibial
+GTEX-13O3O-0326,Nerve - Tibial,GTEX-13O3O,female,60-69,Intermediate death,,2 pieces; 10% external & internal fat,nerve_tibial
+GTEX-13O3P-0326,Nerve - Tibial,GTEX-13O3P,male,50-59,Slow death,,2 pieces; 20 & 10% external fat,nerve_tibial
+GTEX-13O3Q-2626,Nerve - Tibial,GTEX-13O3Q,male,50-59,Fast death - natural causes,,2 pieces; 1 piece has 40% external  fibroadipose tissue [outlined],nerve_tibial
+GTEX-13O61-2626,Nerve - Tibial,GTEX-13O61,male,60-69,Ventilator case,,2 pieces; 5 & 10% internal fat,nerve_tibial
+GTEX-13OVG-2226,Nerve - Tibial,GTEX-13OVG,male,60-69,Ventilator case,,"2 pieces, partial rim adherent fat, ~0.4-0.5mm, delineated",nerve_tibial
+GTEX-13OVH-0326,Nerve - Tibial,GTEX-13OVH,male,70-79,Fast death - natural causes,clean_specimens,"2 pieces, generally clean; small ~0.5mm nubbin of adherent fat on one section, delineated",nerve_tibial
+GTEX-13OVI-1526,Nerve - Tibial,GTEX-13OVI,female,60-69,Ventilator case,clean_specimens,"2 pieces, minute nubbins adherent fat on one (~0.3mm), delineated, good clean specimens",nerve_tibial
+GTEX-13OVJ-0426,Nerve - Tibial,GTEX-13OVJ,female,50-59,Fast death - natural causes,,3 pieces; 1 piece includes ~15% fat (attached and internal),nerve_tibial
+GTEX-13OVK-1626,Nerve - Tibial,GTEX-13OVK,male,40-49,Ventilator case,,2 pieces; 1 with 40% external fat,nerve_tibial
+GTEX-13OVL-1526,Nerve - Tibial,GTEX-13OVL,male,50-59,Fast death - natural causes,,"2 pieces; 10% external fat, <5% internal fat",nerve_tibial
+GTEX-13OW5-0526,Nerve - Tibial,GTEX-13OW5,male,60-69,Intermediate death,clean_specimens,"2 pieces, partial rims of adherent fat, ~0.5mm, delineated; fairly good specimens",nerve_tibial
+GTEX-13OW6-0226,Nerve - Tibial,GTEX-13OW6,male,50-59,Fast death - natural causes,inflammation,2 pieces; 20% and 50% attached (predominant) and internal fat with focus of chronic inflammation and vessel,nerve_tibial
+GTEX-13OW7-0526,Nerve - Tibial,GTEX-13OW7,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces, excellent clean specimens",nerve_tibial
+GTEX-13OW8-1526,Nerve - Tibial,GTEX-13OW8,male,60-69,Fast death - natural causes,,2 pieces; attached and internal fat up to 25%,nerve_tibial
+GTEX-13PDP-0426,Nerve - Tibial,GTEX-13PDP,male,60-69,Slow death,,2 pieces; abundant extraneous fat (40 and 60%),nerve_tibial
+GTEX-13PL6-0426,Nerve - Tibial,GTEX-13PL6,female,40-49,Intermediate death,,"2 pieces, discontinuous rim of adherent fat up to ~0.5mm, delineated",nerve_tibial
+GTEX-13PL7-1926,Nerve - Tibial,GTEX-13PL7,female,60-69,Ventilator case,clean_specimens,"3 pieces, clean specimens, no adherent fat",nerve_tibial
+GTEX-13PLJ-0426,Nerve - Tibial,GTEX-13PLJ,female,60-69,Fast death - natural causes,,2 pieces; 40 & 30% internal fat and/or fibrous content,nerve_tibial
+GTEX-13PVQ-0426,Nerve - Tibial,GTEX-13PVQ,male,50-59,Fast death - natural causes,,2 pieces; well trimmed; no fat,nerve_tibial
+GTEX-13PVR-2626,Nerve - Tibial,GTEX-13PVR,female,60-69,Ventilator case,clean_specimens,"2 pieces, clean specimen",nerve_tibial
+GTEX-13QBU-2326,Nerve - Tibial,GTEX-13QBU,female,40-49,Ventilator case,clean_specimens,"4 pieces, no adherent fat, good clean specimens",nerve_tibial
+GTEX-13QIC-1426,Nerve - Tibial,GTEX-13QIC,female,60-69,Fast death - natural causes,,2 pieces; well trimmed,nerve_tibial
+GTEX-13QJ3-0526,Nerve - Tibial,GTEX-13QJ3,male,50-59,Ventilator case,clean_specimens,"2 pieces, good clean specimens; no adherent fat",nerve_tibial
+GTEX-13QJC-2426,Nerve - Tibial,GTEX-13QJC,female,60-69,Fast death - natural causes,,2 pieces; 1 piece has 40% internal and external; fat; other is without extraneous fat,nerve_tibial
+GTEX-13RTJ-2826,Nerve - Tibial,GTEX-13RTJ,male,60-69,Slow death,clean_specimens,"4 pieces, clean specimens",nerve_tibial
+GTEX-13RTK-1726,Nerve - Tibial,GTEX-13RTK,male,20-29,Ventilator case,clean_specimens,"2 pieces, clean specimens",nerve_tibial
+GTEX-13RTL-0526,Nerve - Tibial,GTEX-13RTL,male,40-49,Slow death,calcification,"2 pieces; both include ~10% rim of attached fat, medial calcification",nerve_tibial
+GTEX-13S7M-0426,Nerve - Tibial,GTEX-13S7M,female,60-69,Fast death - natural causes,,2 pieces plus fragments; 10% external fat,nerve_tibial
+GTEX-13S86-2426,Nerve - Tibial,GTEX-13S86,male,40-49,Ventilator case,,2 pieces; well dissected except for 1x1 mm of external fat,nerve_tibial
+GTEX-13SLW-0426,Nerve - Tibial,GTEX-13SLW,male,70-79,Fast death - natural causes,clean_specimens,"2 pieces, clean specimens, no adherent fat",nerve_tibial
+GTEX-13SLX-0126,Nerve - Tibial,GTEX-13SLX,female,50-59,Fast death - natural causes,,2 pieces; small amounts of external/internal fat and connective tissue,nerve_tibial
+GTEX-13U4I-0326,Nerve - Tibial,GTEX-13U4I,female,40-49,Ventilator case,,"2 pieces, partial rims of adherent fat up to ~0.7mm, delineated",nerve_tibial
+GTEX-13VXT-0426,Nerve - Tibial,GTEX-13VXT,female,20-29,Ventilator case,,2 pieces; 60% external fibrofatty tissue in 1; 10% external muscle & 10%  external fat in other piece,nerve_tibial
+GTEX-13VXU-0426,Nerve - Tibial,GTEX-13VXU,male,50-59,Fast death - natural causes,,2 pieces; 10% internal & external fat,nerve_tibial
+GTEX-13W3W-2726,Nerve - Tibial,GTEX-13W3W,female,60-69,Ventilator case,clean_specimens,"2 pieces, minimal adherent fat, good speciments",nerve_tibial
+GTEX-13W46-0526,Nerve - Tibial,GTEX-13W46,male,50-59,Ventilator case,,2 pieces; well trimmed with minimal external fat,nerve_tibial
+GTEX-13X6H-2426,Nerve - Tibial,GTEX-13X6H,female,50-59,Ventilator case,,2 pieces; 10% internal & external fat,nerve_tibial
+GTEX-13X6I-0126,Nerve - Tibial,GTEX-13X6I,male,60-69,Slow death,,2 pieces; trivial attached fat on 1 piece,nerve_tibial
+GTEX-13X6J-0426,Nerve - Tibial,GTEX-13X6J,male,50-59,Fast death - natural causes,,2 pieces; ~0.75 and 0.5 mm attached external fat,nerve_tibial
+GTEX-13X6K-0426,Nerve - Tibial,GTEX-13X6K,female,60-69,Slow death,clean_specimens,"2 pieces, good clean specimens; minute nubbin of adherent fat on one, ~0.3mm",nerve_tibial
+GTEX-13YAN-0626,Nerve - Tibial,GTEX-13YAN,male,60-69,Ventilator case,clean_specimens,"2 pieces, excellent clean specimens",nerve_tibial
+GTEX-1445S-0326,Nerve - Tibial,GTEX-1445S,male,60-69,Intermediate death,,"2 pieces, adherent fat up to 1.5mm delineated",nerve_tibial
+GTEX-144FL-0426,Nerve - Tibial,GTEX-144FL,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces, good clean specimens",nerve_tibial
+GTEX-144GL-0426,Nerve - Tibial,GTEX-144GL,male,50-59,Fast death - natural causes,,2 pieces; 10 & 20 % internal & external fat,nerve_tibial
+GTEX-144GM-2126,Nerve - Tibial,GTEX-144GM,male,20-29,Ventilator case,clean_specimens,"2 pieces, excellent clean specimen",nerve_tibial
+GTEX-144GN-2526,Nerve - Tibial,GTEX-144GN,male,50-59,Ventilator case,,2 pieces; well trimmed; 10% internal fat,nerve_tibial
+GTEX-144GO-0926,Nerve - Tibial,GTEX-144GO,male,60-69,Slow death,,2 pieces; 20% and 10% external fat,nerve_tibial
+GTEX-145LS-0326,Nerve - Tibial,GTEX-145LS,female,60-69,Slow death,,2 pieces; 5% internal and external fat,nerve_tibial
+GTEX-145LT-1926,Nerve - Tibial,GTEX-145LT,male,40-49,Ventilator case,,"2 pieces, nubbin of adherent fat, ~2mm, delineated",nerve_tibial
+GTEX-145LU-0726,Nerve - Tibial,GTEX-145LU,male,50-59,Fast death - natural causes,,"2 pieces; 1 has 50% internal fat, other 10% internal and external fat",nerve_tibial
+GTEX-145LV-2526,Nerve - Tibial,GTEX-145LV,male,50-59,Ventilator case,,2 pieces; 70% external fat,nerve_tibial
+GTEX-145ME-2126,Nerve - Tibial,GTEX-145ME,female,40-49,Ventilator case,,"2 pieces, extensive adherent fat, rims of up to ~1.5mm, delineated",nerve_tibial
+GTEX-145MF-0326,Nerve - Tibial,GTEX-145MF,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces, good clean specimens",nerve_tibial
+GTEX-145MG-0426,Nerve - Tibial,GTEX-145MG,male,50-59,Fast death - natural causes,,4 pieces; 10-20% external & internal fat,nerve_tibial
+GTEX-145MH-1426,Nerve - Tibial,GTEX-145MH,male,50-59,Fast death - violent,,2 pieces; include 20-30% attached and internal fat; one piece has increased numbers of Renaut bodies (? trauma),nerve_tibial
+GTEX-145MI-0226,Nerve - Tibial,GTEX-145MI,female,60-69,Fast death - natural causes,,2 pieces; 20% internal & external fat,nerve_tibial
+GTEX-145MN-2526,Nerve - Tibial,GTEX-145MN,male,30-39,Ventilator case,,1 piece; artery not nerve,nerve_tibial
+GTEX-145MO-0526,Nerve - Tibial,GTEX-145MO,male,60-69,Intermediate death,clean_specimens,"2 pieces, excellent clean specimens",nerve_tibial
+GTEX-146FH-0326,Nerve - Tibial,GTEX-146FH,female,50-59,Ventilator case,,"2 pieces; 5% external fat on 1, none on other",nerve_tibial
+GTEX-146FQ-0426,Nerve - Tibial,GTEX-146FQ,male,30-39,Ventilator case,,2 pieces; one with 10% to 20% external fat and dense connective tissue and  other with 10% to 20% internal fat,nerve_tibial
+GTEX-146FR-1426,Nerve - Tibial,GTEX-146FR,female,60-69,Ventilator case,,"2 pieces, focal adherent fat up to ~1mm, delineated",nerve_tibial
+GTEX-14753-0126,Nerve - Tibial,GTEX-14753,male,60-69,Slow death,,"2 pieces; 40% external fat on 1, 30% internal & external fat on other",nerve_tibial
+GTEX-1477Z-1526,Nerve - Tibial,GTEX-1477Z,male,60-69,Slow death,,"2 pieces, focally adherent fat up to ~0.5mm, delineated",nerve_tibial
+GTEX-147F3-0326,Nerve - Tibial,GTEX-147F3,female,50-59,Ventilator case,,2 pieces; up to 0.3mm external fat on one piece,nerve_tibial
+GTEX-147F4-0426,Nerve - Tibial,GTEX-147F4,male,50-59,Fast death - natural causes,,"3 pieces, adherent rims of fat up to ~2.5mm, rep delineated",nerve_tibial
+GTEX-147GR-0226,Nerve - Tibial,GTEX-147GR,male,60-69,Fast death - natural causes,,4 pieces; 50% external and internal fat,nerve_tibial
+GTEX-147JS-0626,Nerve - Tibial,GTEX-147JS,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces, good clean sections; trace rim of fat, ~0.4mm",nerve_tibial
+GTEX-148VI-1826,Nerve - Tibial,GTEX-148VI,female,60-69,Ventilator case,,2 pieces; includes partial rim of external fat (~20%),nerve_tibial
+GTEX-148VJ-0526,Nerve - Tibial,GTEX-148VJ,male,70-79,Fast death - natural causes,,"2 pieces, nubbins adherent fat up to 2 mm, delineated",nerve_tibial
+GTEX-1497J-2226,Nerve - Tibial,GTEX-1497J,male,60-69,Ventilator case,clean_specimens,"4 pieces, generally clean sections",nerve_tibial
+GTEX-14A5H-0126,Nerve - Tibial,GTEX-14A5H,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces good clean sections; trace nubbins of fat, ~0.5mm",nerve_tibial
+GTEX-14A5I-0426,Nerve - Tibial,GTEX-14A5I,female,50-59,Slow death,,"2 pieces, generally clean rim of adherent fat <0.1mm, small 1mm aggregate of interstitial fat",nerve_tibial
+GTEX-14A6H-2626,Nerve - Tibial,GTEX-14A6H,male,30-39,Ventilator case,,2 pieces; 10-20% internal and attached fat,nerve_tibial
+GTEX-14ABY-0426,Nerve - Tibial,GTEX-14ABY,male,50-59,Fast death - natural causes,,2 pieces; adherent fat up to 0.6mm and  ~ 5 - 10% internal fat,nerve_tibial
+GTEX-14AS3-2226,Nerve - Tibial,GTEX-14AS3,female,40-49,Ventilator case,,2 pieces; 20-60% internal and attached fat,nerve_tibial
+GTEX-14ASI-0326,Nerve - Tibial,GTEX-14ASI,male,60-69,Fast death - natural causes,,2 pieces; well trimmed,nerve_tibial
+GTEX-14B4R-1826,Nerve - Tibial,GTEX-14B4R,male,30-39,Ventilator case,,"2 pieces; small piece includes ~10% fat, larger piece includes nearly circumferential rim of fat up to 40%",nerve_tibial
+GTEX-14BIL-0426,Nerve - Tibial,GTEX-14BIL,male,50-59,Fast death - natural causes,,2 pieces; well trimmed,nerve_tibial
+GTEX-14BIM-0426,Nerve - Tibial,GTEX-14BIM,female,60-69,Intermediate death,clean_specimens,"2 pieces, clean sections",nerve_tibial
+GTEX-14BIN-0826,Nerve - Tibial,GTEX-14BIN,female,50-59,Fast death - natural causes,,2 pieces 10% internal  fat,nerve_tibial
+GTEX-14BMU-2326,Nerve - Tibial,GTEX-14BMU,female,20-29,Ventilator case,clean_specimens,"2 pieces, clean sections",nerve_tibial
+GTEX-14BMV-0426,Nerve - Tibial,GTEX-14BMV,male,50-59,Fast death - natural causes,,2 pieces; well trimmed; <5% internal fat,nerve_tibial
+GTEX-14C38-0626,Nerve - Tibial,GTEX-14C38,male,50-59,Ventilator case,clean_specimens,"2 pieces, relatively clean sections",nerve_tibial
+GTEX-14C39-2726,Nerve - Tibial,GTEX-14C39,male,40-49,Fast death - natural causes,clean_specimens,"2 pieces, clean, minimal adherent fat, minute ~0.5mm nubbin delineated",nerve_tibial
+GTEX-14C5O-0426,Nerve - Tibial,GTEX-14C5O,male,60-69,Slow death,,"2 pieces; relatively well trimmed, small portion of attached fat on one piece",nerve_tibial
+GTEX-14DAQ-0426,Nerve - Tibial,GTEX-14DAQ,female,60-69,Slow death,clean_specimens,"2 pieces, clean specimens",nerve_tibial
+GTEX-14DAR-2226,Nerve - Tibial,GTEX-14DAR,male,50-59,Ventilator case,clean_specimens,"2 pieces, clean specimens",nerve_tibial
+GTEX-14E1K-2426,Nerve - Tibial,GTEX-14E1K,male,50-59,Ventilator case,clean_specimens,"2 pieces, clean specimens",nerve_tibial
+GTEX-14E6C-1026,Nerve - Tibial,GTEX-14E6C,male,40-49,Slow death,,2 pieces; <5% fat,nerve_tibial
+GTEX-14E6D-0526,Nerve - Tibial,GTEX-14E6D,male,50-59,Fast death - natural causes,,2 pieces; ~30% internal/external fat,nerve_tibial
+GTEX-14E6E-2226,Nerve - Tibial,GTEX-14E6E,male,30-39,Ventilator case,,2 pieces; up to 30% external fat; focus of extraneous bone fragments [labeled],nerve_tibial
+GTEX-14E7W-0426,Nerve - Tibial,GTEX-14E7W,male,70-79,Fast death - natural causes,,2 pieces; less than 10% internal fat,nerve_tibial
+GTEX-14H4A-0826,Nerve - Tibial,GTEX-14H4A,female,40-49,Ventilator case,,2 pieces; well trimmed,nerve_tibial
+GTEX-14ICK-0526,Nerve - Tibial,GTEX-14ICK,male,40-49,Ventilator case,,2 pieces; <5% fat,nerve_tibial
+GTEX-14ICL-1726,Nerve - Tibial,GTEX-14ICL,male,30-39,Ventilator case,,"2 pieces, adherent rim of fat up to ~0.5mm",nerve_tibial
+GTEX-14JFF-0426,Nerve - Tibial,GTEX-14JFF,male,60-69,Slow death,,"2 pieces, adherent partial rims of fat, delineated, up to ~1mm",nerve_tibial
+GTEX-14JG1-0226,Nerve - Tibial,GTEX-14JG1,male,40-49,Fast death - natural causes,,2 pieces; 20% & 10% internal fat,nerve_tibial
+GTEX-14JG6-1926,Nerve - Tibial,GTEX-14JG6,female,30-39,Ventilator case,,2 pieces; both include ~15% internal fat,nerve_tibial
+GTEX-14JIY-0326,Nerve - Tibial,GTEX-14JIY,male,60-69,Fast death - natural causes,,2 pieces rims of adherent fat up to ~2mm,nerve_tibial
+GTEX-14LLW-0326,Nerve - Tibial,GTEX-14LLW,female,70-79,Slow death,,2 pieces; 20% & 10% internal & external fat,nerve_tibial
+GTEX-14LZ3-0426,Nerve - Tibial,GTEX-14LZ3,female,60-69,Intermediate death,,2 pieces; both include ~25% internal and external fat combined,nerve_tibial
+GTEX-14PHW-0526,Nerve - Tibial,GTEX-14PHW,female,60-69,Slow death,,"2 pieces, rim of fat up to ~1mm",nerve_tibial
+GTEX-14PHX-2526,Nerve - Tibial,GTEX-14PHX,male,50-59,Ventilator case,,2 pieces; 10% fat in 1 piece,nerve_tibial
+GTEX-14PHY-2626,Nerve - Tibial,GTEX-14PHY,female,60-69,Ventilator case,,2 very small 1 mm  nerves with excessive (60 & 50%) external fat,nerve_tibial
+GTEX-14PII-0426,Nerve - Tibial,GTEX-14PII,male,60-69,Slow death,clean_specimens,"2 pieces, no adherent fat, clean specimens",nerve_tibial
+GTEX-14PJ2-0426,Nerve - Tibial,GTEX-14PJ2,male,50-59,Ventilator case,,2 pieces; well trimmed; no lesions,nerve_tibial
+GTEX-14PJ3-2226,Nerve - Tibial,GTEX-14PJ3,male,50-59,Ventilator case,,2 pieces; well trimmed,nerve_tibial
+GTEX-14PJ4-2526,Nerve - Tibial,GTEX-14PJ4,male,60-69,Ventilator case,,3 pieces; surrounding fat up to 1mm,nerve_tibial
+GTEX-14PJ5-1826,Nerve - Tibial,GTEX-14PJ5,female,60-69,Ventilator case,clean_specimens,"2 pieces, nog significant adherent fat, clean specimens",nerve_tibial
+GTEX-14PJ6-2426,Nerve - Tibial,GTEX-14PJ6,female,60-69,Ventilator case,clean_specimens,"2 pieces, good celan sections, no adherent fat",nerve_tibial
+GTEX-14PJM-0526,Nerve - Tibial,GTEX-14PJM,female,50-59,Fast death - natural causes,,2 pieces; well trimmed; minimal internal fat,nerve_tibial
+GTEX-14PJN-2326,Nerve - Tibial,GTEX-14PJN,male,30-39,Ventilator case,clean_specimens,"2 pieces, clean specimens",nerve_tibial
+GTEX-14PJO-0326,Nerve - Tibial,GTEX-14PJO,male,60-69,Slow death,,2 pieces; well dissected,nerve_tibial
+GTEX-14PJP-0426,Nerve - Tibial,GTEX-14PJP,male,20-29,Ventilator case,,2 pieces; well trimmed,nerve_tibial
+GTEX-14PK6-2226,Nerve - Tibial,GTEX-14PK6,female,70-79,Ventilator case,,"4 pieces, rim adherent fat, ~0.5mm",nerve_tibial
+GTEX-14PKU-2026,Nerve - Tibial,GTEX-14PKU,female,40-49,Ventilator case,,"2 pieces, partial rims of adherent fat up to ~2mm, delineated",nerve_tibial
+GTEX-14PKV-0126,Nerve - Tibial,GTEX-14PKV,female,20-29,Ventilator case,,"2 pieces, partial rim of adherent fat up to ~3mm, delineated",nerve_tibial
+GTEX-14PN3-2626,Nerve - Tibial,GTEX-14PN3,female,60-69,Ventilator case,,2 pieces; 5%  fat,nerve_tibial
+GTEX-14PN4-0526,Nerve - Tibial,GTEX-14PN4,male,50-59,Fast death - natural causes,,2 pieces; 5 to 10% internal fat,nerve_tibial
+GTEX-14PQA-0326,Nerve - Tibial,GTEX-14PQA,female,50-59,Slow death,,2 pieces; ~5% external fat,nerve_tibial
+GTEX-14XAO-2426,Nerve - Tibial,GTEX-14XAO,female,60-69,Ventilator case,,"4 pieces, partial rims of adherent fat, 1-2mm, rep delineated",nerve_tibial
+GTEX-15CHC-2526,Nerve - Tibial,GTEX-15CHC,female,60-69,Ventilator case,,2 pieces; 10 & 50% internal fibrofatty tissue,nerve_tibial
+GTEX-15CHQ-0526,Nerve - Tibial,GTEX-15CHQ,male,60-69,Slow death,,2 pieces; 10% internal fat,nerve_tibial
+GTEX-15CHR-2526,Nerve - Tibial,GTEX-15CHR,male,50-59,Ventilator case,,2 pieces; minimal attached fat,nerve_tibial
+GTEX-15CHS-0326,Nerve - Tibial,GTEX-15CHS,male,50-59,Fast death - natural causes,,"2 pieces, trace rim of adherent fat, ~0.2mm",nerve_tibial
+GTEX-15D1Q-1126,Nerve - Tibial,GTEX-15D1Q,male,40-49,Fast death - natural causes,,"2 pieces, adherent rims of fat, up to ~0.8mm",nerve_tibial
+GTEX-15D79-0326,Nerve - Tibial,GTEX-15D79,male,50-59,Fast death - natural causes,,2 pieces; 30% internal & external fat,nerve_tibial
+GTEX-15DCD-0426,Nerve - Tibial,GTEX-15DCD,female,70-79,Fast death - natural causes,,2 pieces; rim of adherent fat ~0.6 to 0.8mm,nerve_tibial
+GTEX-15DCE-0526,Nerve - Tibial,GTEX-15DCE,male,20-29,Ventilator case,,2 pieces; 1 piece has 10% internal fat,nerve_tibial
+GTEX-15DCZ-0326,Nerve - Tibial,GTEX-15DCZ,female,20-29,Ventilator case,,"2 pieces, focal adhrent fat ~0.6mm",nerve_tibial
+GTEX-15DDE-0326,Nerve - Tibial,GTEX-15DDE,female,50-59,Intermediate death,,"2 pieces partial rims of fat, up to ~0.5mm",nerve_tibial
+GTEX-15DYW-0326,Nerve - Tibial,GTEX-15DYW,female,60-69,Fast death - natural causes,,2 pieces; <5% internal fat,nerve_tibial
+GTEX-15DZA-2126,Nerve - Tibial,GTEX-15DZA,female,30-39,Ventilator case,,"2 pieces, rims of adherent fat, 1-2mm, delineated",nerve_tibial
+GTEX-15EO6-2626,Nerve - Tibial,GTEX-15EO6,male,50-59,Slow death,,2 pieces focal adherent fat up to ~0.5mm,nerve_tibial
+GTEX-15EOM-0426,Nerve - Tibial,GTEX-15EOM,female,20-29,Ventilator case,,"2 pieces; both include residual attached fat, up to 1.8 x 4.6 mm on one piece",nerve_tibial
+GTEX-15ER7-0126,Nerve - Tibial,GTEX-15ER7,female,20-29,Fast death - violent,,2 pieces; well trimmed,nerve_tibial
+GTEX-15ETS-2526,Nerve - Tibial,GTEX-15ETS,female,40-49,Ventilator case,,"2 pieces fat/fascia, unknown provenance, not GTEx target",nerve_tibial
+GTEX-15EU6-0626,Nerve - Tibial,GTEX-15EU6,male,50-59,Ventilator case,,"2 pieces, trace adherent fat, ~0.3mm",nerve_tibial
+GTEX-15F5U-1926,Nerve - Tibial,GTEX-15F5U,male,40-49,Ventilator case,,2 pieces; 20% internal and external fat,nerve_tibial
+GTEX-15FZZ-1926,Nerve - Tibial,GTEX-15FZZ,female,30-39,Ventilator case,,2 pieces; external fat comprises 80%,nerve_tibial
+GTEX-15G19-0326,Nerve - Tibial,GTEX-15G19,male,60-69,Fast death - natural causes,,2 pieces; one piece with adherent fat up to 1mm,nerve_tibial
+GTEX-15G1A-2426,Nerve - Tibial,GTEX-15G1A,male,30-39,Ventilator case,clean_specimens,"2 pieces, no adherent fat, well trimmed, good specimens",nerve_tibial
+GTEX-15RIE-2526,Nerve - Tibial,GTEX-15RIE,male,60-69,Ventilator case,,"2 pieces, trace nubbins of adherent fat, ~1-2mm, delineated",nerve_tibial
+GTEX-15RIF-2326,Nerve - Tibial,GTEX-15RIF,male,20-29,Ventilator case,,"2 pieces, setions of peripheral nerve, nubbins of adherent fat up to ~2.5mm.  Switched with 2225",nerve_tibial
+GTEX-15RIG-0526,Nerve - Tibial,GTEX-15RIG,male,40-49,Ventilator case,,"2 pieces, minimal adherent fat",nerve_tibial
+GTEX-15RJ7-2526,Nerve - Tibial,GTEX-15RJ7,male,40-49,Ventilator case,,2 pieces; well trimmed with minimal attached fat,nerve_tibial
+GTEX-15RJE-0426,Nerve - Tibial,GTEX-15RJE,male,40-49,Slow death,,2 pieces: >90% fat; several nerve fibers marked,nerve_tibial
+GTEX-15SB6-1926,Nerve - Tibial,GTEX-15SB6,female,50-59,Ventilator case,,2 pieces; relatively well trimmed,nerve_tibial
+GTEX-15SDE-2626,Nerve - Tibial,GTEX-15SDE,female,50-59,Ventilator case,,"2 pieces; 1 has 30% internal & external fat, other has 5%",nerve_tibial
+GTEX-15SHU-0326,Nerve - Tibial,GTEX-15SHU,female,40-49,Fast death - natural causes,fibrosis,2 pieces; 10 & 20% external fat & fibrous content,nerve_tibial
+GTEX-15SHV-2626,Nerve - Tibial,GTEX-15SHV,male,60-69,Ventilator case,,2 pieces; 10% & 20% internal fat content,nerve_tibial
+GTEX-15SHW-0526,Nerve - Tibial,GTEX-15SHW,male,60-69,Ventilator case,,2 pieces; minimal partial rim of adipose tissue,nerve_tibial
+GTEX-15SKB-0426,Nerve - Tibial,GTEX-15SKB,male,60-69,Ventilator case,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-15SZO-0326,Nerve - Tibial,GTEX-15SZO,male,50-59,Fast death - natural causes,,"2 pieces, nubbing adherent fat, ~1.5 mm, one section",nerve_tibial
+GTEX-15TU5-0426,Nerve - Tibial,GTEX-15TU5,male,60-69,Slow death,,2 pieces; 5% internal and external fat content,nerve_tibial
+GTEX-15UF6-0626,Nerve - Tibial,GTEX-15UF6,female,70-79,Slow death,,"2 pieces; well trimmed externally, but with internal fat content of 25%",nerve_tibial
+GTEX-15UF7-2426,Nerve - Tibial,GTEX-15UF7,male,40-49,Ventilator case,,2 pieces; includes ~20% attached and internal fat,nerve_tibial
+GTEX-15UKP-0226,Nerve - Tibial,GTEX-15UKP,male,20-29,Ventilator case,,2 pieces; includes up to 10% internal/external fat,nerve_tibial
+GTEX-169BO-1726,Nerve - Tibial,GTEX-169BO,male,50-59,Ventilator case,,"2 pieces, rims of adherent fat, 1-1.5mm",nerve_tibial
+GTEX-16A39-2126,Nerve - Tibial,GTEX-16A39,female,30-39,Ventilator case,,2 pieces; ~10% associated internal and external fat,nerve_tibial
+GTEX-16AAH-2126,Nerve - Tibial,GTEX-16AAH,male,50-59,Ventilator case,,"2 pieces, perihperal nerve, only trace adherent fat.  Switched with -1925",nerve_tibial
+GTEX-16BQI-0626,Nerve - Tibial,GTEX-16BQI,female,30-39,Ventilator case,,2 pieces; 50% & 40% external fat,nerve_tibial
+GTEX-16GPK-0326,Nerve - Tibial,GTEX-16GPK,male,60-69,Fast death - natural causes,,2 pieces; up to 1mm of external fat,nerve_tibial
+GTEX-16MT8-0226,Nerve - Tibial,GTEX-16MT8,female,60-69,Slow death,clean_specimens,"2 pieces, trace adherent fat up to ~0.5mm, good specimens",nerve_tibial
+GTEX-16MT9-0226,Nerve - Tibial,GTEX-16MT9,female,60-69,Ventilator case,,2 pieces; ~10% external/internal fat,nerve_tibial
+GTEX-16MTA-1826,Nerve - Tibial,GTEX-16MTA,male,50-59,Ventilator case,,2 pieces; 10% internal/external fat,nerve_tibial
+GTEX-16NFA-2526,Nerve - Tibial,GTEX-16NFA,male,50-59,Ventilator case,,2 pieces; 10% internal fat content,nerve_tibial
+GTEX-16NGA-2026,Nerve - Tibial,GTEX-16NGA,female,40-49,Ventilator case,,4 pieces; ~5-10% internal and external fat,nerve_tibial
+GTEX-16NPV-0426,Nerve - Tibial,GTEX-16NPV,female,50-59,Slow death,,2 pieces; 10 & 20% internal and external fat,nerve_tibial
+GTEX-16NPX-0426,Nerve - Tibial,GTEX-16NPX,male,50-59,Ventilator case,,"2 pieces, minimal adherent fat, good aliquots",nerve_tibial
+GTEX-16XZY-2326,Nerve - Tibial,GTEX-16XZY,male,70-79,Ventilator case,,2 pieces: ~10% internal/external fat; small skeletal muscle fragment (outlined),nerve_tibial
+GTEX-16XZZ-0326,Nerve - Tibial,GTEX-16XZZ,male,60-69,Ventilator case,,2 pieces; 10% peripheral fat in 1 piece,nerve_tibial
+GTEX-16YQH-0526,Nerve - Tibial,GTEX-16YQH,male,30-39,Fast death - violent,,"2 pieces, nubbin of adherent fat, up to ~0.8mm, delineated",nerve_tibial
+GTEX-16Z82-0526,Nerve - Tibial,GTEX-16Z82,male,60-69,Fast death - natural causes,,2 pieces; 10% external fat,nerve_tibial
+GTEX-178AV-1826,Nerve - Tibial,GTEX-178AV,male,40-49,Ventilator case,,"2 pieces, trace nubbins adherent fat, ~0.6mm, delineated",nerve_tibial
+GTEX-17EUY-0226,Nerve - Tibial,GTEX-17EUY,male,20-29,Ventilator case,,2 pieces; one includes up to ~10% internal fat,nerve_tibial
+GTEX-17EVP-1126,Nerve - Tibial,GTEX-17EVP,male,40-49,Fast death - natural causes,,2 pieces;~15% internal/external fat,nerve_tibial
+GTEX-17EVQ-1026,Nerve - Tibial,GTEX-17EVQ,male,70-79,Fast death - violent,,"2 pieces, minimal adherent fat",nerve_tibial
+GTEX-17F96-0326,Nerve - Tibial,GTEX-17F96,male,70-79,Ventilator case,,2 pieces; well trimmed; <5% fat,nerve_tibial
+GTEX-17F97-0126,Nerve - Tibial,GTEX-17F97,male,50-59,Slow death,,2 pieces; 40% & 30% internal fat,nerve_tibial
+GTEX-17F98-0826,Nerve - Tibial,GTEX-17F98,female,40-49,Ventilator case,,2 pieces; 10 & 30 % external fat,nerve_tibial
+GTEX-17F9E-0426,Nerve - Tibial,GTEX-17F9E,male,50-59,Ventilator case,,"2 pieces. trace adherent fat, good specimnes",nerve_tibial
+GTEX-17F9Y-0926,Nerve - Tibial,GTEX-17F9Y,female,70-79,Ventilator case,clean_specimens,"2 pieces, good specimen, trace adherent fat",nerve_tibial
+GTEX-17GQL-2126,Nerve - Tibial,GTEX-17GQL,male,60-69,Ventilator case,,"2 pieces, muscular artery, not obvious switch, not GTEx target tissue",nerve_tibial
+GTEX-17HG3-2526,Nerve - Tibial,GTEX-17HG3,female,30-39,Fast death - natural causes,,2 pieces; includes ~10 and 30% internal/external fat,nerve_tibial
+GTEX-17HGU-0426,Nerve - Tibial,GTEX-17HGU,male,50-59,Ventilator case,,2 pieces; thin external coating of fat up to 0.7 mm; <5% internal fat,nerve_tibial
+GTEX-17HHE-2226,Nerve - Tibial,GTEX-17HHE,male,50-59,Ventilator case,,"4 pieces, trace adherentnubbins of fat, ~1-2mm, rep delineated",nerve_tibial
+GTEX-17HHY-0626,Nerve - Tibial,GTEX-17HHY,male,50-59,Fast death - natural causes,,2 pieces; 30% internal fat content,nerve_tibial
+GTEX-17HII-0526,Nerve - Tibial,GTEX-17HII,male,50-59,Fast death - natural causes,,"2 pieces, nubbin of adherent fat up to ~2.5mm, delineated",nerve_tibial
+GTEX-17JCI-0426,Nerve - Tibial,GTEX-17JCI,female,60-69,Ventilator case,,2 pieces; 5% internal fat; well trimmed,nerve_tibial
+GTEX-17KNJ-2626,Nerve - Tibial,GTEX-17KNJ,male,50-59,Ventilator case,,"2 pieces, minimal adherent fat",nerve_tibial
+GTEX-17MF6-0426,Nerve - Tibial,GTEX-17MF6,male,40-49,Fast death - natural causes,,2 pieces; surrounded by ~0.6mm of perineural and adipose tissue (arrow),nerve_tibial
+GTEX-17MFQ-2026,Nerve - Tibial,GTEX-17MFQ,male,20-29,Ventilator case,,"2 pieces, muscular artery, no neural tissue is present",nerve_tibial
+GTEX-183FY-0426,Nerve - Tibial,GTEX-183FY,male,20-29,Ventilator case,clean_specimens,"2 pieces, no adherent fat; good specimen",nerve_tibial
+GTEX-183WM-0526,Nerve - Tibial,GTEX-183WM,female,70-79,Slow death,clean_specimens,"2 pieces, trace adherent fat, good specimens",nerve_tibial
+GTEX-18464-0526,Nerve - Tibial,GTEX-18464,male,50-59,Slow death,,2 pieces; nerve with minimal attached and internal fat,nerve_tibial
+GTEX-18465-0526,Nerve - Tibial,GTEX-18465,male,50-59,Fast death - natural causes,,2 pieces; well trimmed; 5% internal and external fat,nerve_tibial
+GTEX-18A66-0426,Nerve - Tibial,GTEX-18A66,male,60-69,Slow death,,"2 pieces, minimal adherent fat",nerve_tibial
+GTEX-18A67-0426,Nerve - Tibial,GTEX-18A67,male,50-59,Ventilator case,,2 pieces; ~20% internal fat,nerve_tibial
+GTEX-18A6Q-0426,Nerve - Tibial,GTEX-18A6Q,male,60-69,Fast death - natural causes,,"2 pieces, neglibilbe adherent fat",nerve_tibial
+GTEX-18A7A-0426,Nerve - Tibial,GTEX-18A7A,female,50-59,Fast death - natural causes,,2 pieces; thin (0.3 mm) rim of fat coats external aspect,nerve_tibial
+GTEX-18A7B-0426,Nerve - Tibial,GTEX-18A7B,male,70-79,Intermediate death,atrophy,2 pieces; moderate atrophy; 20% internal fat in 1 piece,nerve_tibial
+GTEX-18D9A-1726,Nerve - Tibial,GTEX-18D9A,female,30-39,Ventilator case,,2 pieces; well trimmed,nerve_tibial
+GTEX-18D9B-0226,Nerve - Tibial,GTEX-18D9B,male,60-69,Ventilator case,,2 pieces; untrimmed nerve with 60% external fat,nerve_tibial
+GTEX-18D9U-0826,Nerve - Tibial,GTEX-18D9U,male,40-49,Ventilator case,,"2 pieces, no significant adherent fat",nerve_tibial
+GTEX-18QFQ-0426,Nerve - Tibial,GTEX-18QFQ,male,30-39,Ventilator case,,2 pieces; includes ~15% attached and internal fat,nerve_tibial
+GTEX-19HZE-0626,Nerve - Tibial,GTEX-19HZE,female,70-79,Intermediate death,,2 pieces; thin rim of external fat occupies 20% & 5%,nerve_tibial
+GTEX-1A32A-0326,Nerve - Tibial,GTEX-1A32A,female,50-59,Fast death - natural causes,,2 pieces: 30% external fat on 1,nerve_tibial
+GTEX-1A3MV-2326,Nerve - Tibial,GTEX-1A3MV,male,30-39,Ventilator case,,2 pieces; ~10% external rim of fat,nerve_tibial
+GTEX-1A3MW-0326,Nerve - Tibial,GTEX-1A3MW,female,60-69,Slow death,,2 pieces; 20% internal and external fat content,nerve_tibial
+GTEX-1A3MX-0326,Nerve - Tibial,GTEX-1A3MX,male,60-69,Slow death,,"2 pieces trace adherent fat, ~0.3mm, focal",nerve_tibial
+GTEX-1A8FM-0326,Nerve - Tibial,GTEX-1A8FM,female,50-59,Fast death - natural causes,sclerotic,2 pieces; 30 & 40% internal & external fat; small arteries have thick sclerotic walls,nerve_tibial
+GTEX-1A8G6-0326,Nerve - Tibial,GTEX-1A8G6,male,60-69,Fast death - natural causes,,"2 pieces, minimal adherent fat",nerve_tibial
+GTEX-1A8G7-0526,Nerve - Tibial,GTEX-1A8G7,male,60-69,Fast death - natural causes,,2 pieces; up to 20% predominantly internal fat,nerve_tibial
+GTEX-1AMEY-1626,Nerve - Tibial,GTEX-1AMEY,female,30-39,Ventilator case,,2 pieces; well dissected; 10% internal fibrofatty content,nerve_tibial
+GTEX-1AMFI-2326,Nerve - Tibial,GTEX-1AMFI,female,50-59,Ventilator case,,"2 pieces trace rims of adherent fat up to ~1mm, rep delineated",nerve_tibial
+GTEX-1AX8Y-2326,Nerve - Tibial,GTEX-1AX8Y,male,40-49,Ventilator case,,2 pieces,nerve_tibial
+GTEX-1AX8Z-0426,Nerve - Tibial,GTEX-1AX8Z,male,60-69,Ventilator case,,2 pieces; well trimmed; virtually no internal or external fat,nerve_tibial
+GTEX-1AX9I-0426,Nerve - Tibial,GTEX-1AX9I,male,60-69,Fast death - natural causes,fibrosis,"2 pieces; 30% internal fibrous stroma; 10% internal fat on 1, 10% external fat on other",nerve_tibial
+GTEX-1AX9J-0526,Nerve - Tibial,GTEX-1AX9J,male,60-69,Ventilator case,,"2 pieces, rims of fat up to ~0.5mm; ~40-50% interstital fat",nerve_tibial
+GTEX-1AX9K-2526,Nerve - Tibial,GTEX-1AX9K,male,50-59,Ventilator case,,2 pieces; well trimmed nerve with 20% internal  fat,nerve_tibial
+GTEX-1AYCT-2026,Nerve - Tibial,GTEX-1AYCT,male,50-59,Ventilator case,,2 pieces,nerve_tibial
+GTEX-1AYD5-2026,Nerve - Tibial,GTEX-1AYD5,male,50-59,Ventilator case,,"2 pieces; tendon, not nerve",nerve_tibial
+GTEX-1B8KE-2426,Nerve - Tibial,GTEX-1B8KE,male,50-59,Ventilator case,,"2 pieces, no  adherant fat",nerve_tibial
+GTEX-1B8KZ-2326,Nerve - Tibial,GTEX-1B8KZ,male,50-59,Ventilator case,,2 pieces; ~5-10% external/internal fat,nerve_tibial
+GTEX-1B8L1-2926,Nerve - Tibial,GTEX-1B8L1,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1B8SF-0326,Nerve - Tibial,GTEX-1B8SF,male,60-69,Fast death - natural causes,,2 pieces; ~40 to 50% attached fat,nerve_tibial
+GTEX-1B8SG-0426,Nerve - Tibial,GTEX-1B8SG,male,50-59,Fast death - natural causes,,2 pieces; 1 piece has small partial rim of fat,nerve_tibial
+GTEX-1B932-0326,Nerve - Tibial,GTEX-1B932,female,40-49,Ventilator case,,2 pieces; ~10% internal fat,nerve_tibial
+GTEX-1B933-0226,Nerve - Tibial,GTEX-1B933,female,50-59,Fast death - natural causes,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1B97I-1826,Nerve - Tibial,GTEX-1B97I,male,40-49,Ventilator case,,"2 pieces, trace nubbins of fat, ~0.5mm, rep delineated",nerve_tibial
+GTEX-1B97J-1326,Nerve - Tibial,GTEX-1B97J,female,50-59,Ventilator case,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-1B98T-0426,Nerve - Tibial,GTEX-1B98T,male,60-69,Fast death - natural causes,,"2 pieces, trace nubbin of adherent fat, <0.5mm, delineated",nerve_tibial
+GTEX-1B996-0526,Nerve - Tibial,GTEX-1B996,male,60-69,Fast death - natural causes,,4 pieces; up to ~15% internal/external fat,nerve_tibial
+GTEX-1BAJH-0326,Nerve - Tibial,GTEX-1BAJH,male,70-79,Fast death - natural causes,,2 pieces; ~10-20% internal/external fat; up to 0.6mm external,nerve_tibial
+GTEX-1C2JI-2026,Nerve - Tibial,GTEX-1C2JI,male,50-59,Ventilator case,,2 pieces; includes up to 40-50% attached and internal fat,nerve_tibial
+GTEX-1C475-2026,Nerve - Tibial,GTEX-1C475,female,40-49,Ventilator case,,"2 pieces; well trimmed, minimal internal fat",nerve_tibial
+GTEX-1C4CL-0226,Nerve - Tibial,GTEX-1C4CL,male,30-39,Ventilator case,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1C64N-0426,Nerve - Tibial,GTEX-1C64N,male,50-59,Fast death - natural causes,,2 pieces; ~20% to 30% internal/external fat (outlined),nerve_tibial
+GTEX-1C64O-0426,Nerve - Tibial,GTEX-1C64O,male,60-69,Ventilator case,,"2 pieces, minimal adherent fat",nerve_tibial
+GTEX-1C6VQ-0626,Nerve - Tibial,GTEX-1C6VQ,male,50-59,Fast death - natural causes,,"2 pieces; includes small portion of fat, up to 10% in 1 piece",nerve_tibial
+GTEX-1C6VR-2726,Nerve - Tibial,GTEX-1C6VR,male,60-69,Fast death - natural causes,,"2 pieces, few nubbins of adherent fat up to ~0.5mm",nerve_tibial
+GTEX-1C6VS-0226,Nerve - Tibial,GTEX-1C6VS,male,60-69,Fast death - natural causes,,2 pieces; up to 0.8mm (25%) and 0.4mm external fat,nerve_tibial
+GTEX-1C6WA-0526,Nerve - Tibial,GTEX-1C6WA,male,60-69,Fast death - natural causes,,1 piece; nerve NOT artery,nerve_tibial
+GTEX-1CAMQ-0526,Nerve - Tibial,GTEX-1CAMQ,male,40-49,Fast death - natural causes,,2 pieces; 0.8mm and 1.0 mm of attached external fat and connective tissue,nerve_tibial
+GTEX-1CAMR-2026,Nerve - Tibial,GTEX-1CAMR,male,20-29,Ventilator case,,"2 pieces, no adherant fat",nerve_tibial
+GTEX-1CAMS-0526,Nerve - Tibial,GTEX-1CAMS,female,40-49,Ventilator case,,2 pieces; 20% and 10% internal fat,nerve_tibial
+GTEX-1CAV2-2526,Nerve - Tibial,GTEX-1CAV2,female,40-49,Fast death - natural causes,,2 pieces; 10% internall fatty tissue,nerve_tibial
+GTEX-1CB4E-1926,Nerve - Tibial,GTEX-1CB4E,male,60-69,Ventilator case,fibrosis,2 small (1.2 mm) pieces in fibrous capsules,nerve_tibial
+GTEX-1CB4F-0626,Nerve - Tibial,GTEX-1CB4F,male,60-69,Ventilator case,,"2 pieces; 1 piece is ~50% fat/fibrovascular tissue, 2nd is 10% fat",nerve_tibial
+GTEX-1CB4G-0626,Nerve - Tibial,GTEX-1CB4G,male,60-69,Fast death - natural causes,,"2 pieces, minimal adherant fat.",nerve_tibial
+GTEX-1CB4H-0926,Nerve - Tibial,GTEX-1CB4H,female,60-69,Slow death,,2 pieces; foci of external fat up to 0.3 mm thick,nerve_tibial
+GTEX-1CB4I-0626,Nerve - Tibial,GTEX-1CB4I,male,50-59,Ventilator case,,2 pieces; 0.6mm external fat on each; LDACC: 26 block was trimmed,nerve_tibial
+GTEX-1CB4J-0526,Nerve - Tibial,GTEX-1CB4J,male,60-69,Intermediate death,,"2 pieces, no adnerent fat",nerve_tibial
+GTEX-1E1VI-0526,Nerve - Tibial,GTEX-1E1VI,male,50-59,Fast death - natural causes,,2 pieces; includes ~10% attached and internal fat,nerve_tibial
+GTEX-1E2YA-0326,Nerve - Tibial,GTEX-1E2YA,male,50-59,Fast death - natural causes,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1EH9U-0426,Nerve - Tibial,GTEX-1EH9U,male,60-69,Slow death,,"2 pieces; 10% fibrofatty content, internal and external",nerve_tibial
+GTEX-1EKGG-0426,Nerve - Tibial,GTEX-1EKGG,male,60-69,Fast death - natural causes,,2 pieces; 1 piece has ~10% attached fat,nerve_tibial
+GTEX-1EMGI-0526,Nerve - Tibial,GTEX-1EMGI,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1EN7A-0426,Nerve - Tibial,GTEX-1EN7A,male,40-49,Fast death - natural causes,,6 pieces; 5% internal fat,nerve_tibial
+GTEX-1EU9M-0526,Nerve - Tibial,GTEX-1EU9M,male,60-69,Fast death - natural causes,,"2 pieces, no aderent fat",nerve_tibial
+GTEX-1EWIQ-0426,Nerve - Tibial,GTEX-1EWIQ,female,70-79,Fast death - natural causes,,2 pieces; 1 piece includes ~10% mostly internal fat,nerve_tibial
+GTEX-1EX96-1326,Nerve - Tibial,GTEX-1EX96,male,50-59,Fast death - natural causes,,"2 pieces, partial rim of adherent fat up to ~2mm, rep delineated",nerve_tibial
+GTEX-1F48J-0426,Nerve - Tibial,GTEX-1F48J,female,50-59,Slow death,,2 pieces; 10% external fat on 1 piece,nerve_tibial
+GTEX-1F52S-0326,Nerve - Tibial,GTEX-1F52S,female,60-69,Slow death,,2 pieces; 20 & 40% external untrimmed fat,nerve_tibial
+GTEX-1F5PK-2726,Nerve - Tibial,GTEX-1F5PK,male,50-59,Ventilator case,,2 pieces; 30 and 60% fibrofatty content,nerve_tibial
+GTEX-1F5PL-0226,Nerve - Tibial,GTEX-1F5PL,female,40-49,Ventilator case,,"2 pieces, single nubbin adherent fat up to ~0.8mm, delineated",nerve_tibial
+GTEX-1F6I4-0426,Nerve - Tibial,GTEX-1F6I4,male,60-69,Fast death - natural causes,,2 pieces; includes from 5-25% attached fat/skeletal muscle,nerve_tibial
+GTEX-1F6IF-0126,Nerve - Tibial,GTEX-1F6IF,male,60-69,Fast death - natural causes,,"2 pieces, no adherant fat.",nerve_tibial
+GTEX-1F6RS-0326,Nerve - Tibial,GTEX-1F6RS,female,60-69,Slow death,,2 pieces; well dissected with virtually no extraneous fat,nerve_tibial
+GTEX-1F75A-0426,Nerve - Tibial,GTEX-1F75A,male,50-59,Fast death - natural causes,,"2 pieces, no significant adherant fat",nerve_tibial
+GTEX-1F75B-0326,Nerve - Tibial,GTEX-1F75B,male,50-59,Slow death,,2 pieces; up to ~0.4 mm attached fat,nerve_tibial
+GTEX-1F75I-0726,Nerve - Tibial,GTEX-1F75I,male,40-49,Ventilator case,,2 pieces; essentially well trimmed,nerve_tibial
+GTEX-1F75W-0426,Nerve - Tibial,GTEX-1F75W,male,60-69,Fast death - natural causes,,2 pieces; 10 & 40% internal & external fat content (026 block trimmed),nerve_tibial
+GTEX-1F7RK-0426,Nerve - Tibial,GTEX-1F7RK,female,20-29,Fast death - violent,,2 pieces; includes ~10-15% internal and attached fat,nerve_tibial
+GTEX-1F88E-0626,Nerve - Tibial,GTEX-1F88E,female,60-69,Slow death,,"2 pieces, ~1.3mm nubbin of adherent fat, delineated",nerve_tibial
+GTEX-1F88F-2826,Nerve - Tibial,GTEX-1F88F,female,60-69,Fast death - natural causes,,2 pieces; 20 & 40% external fat content,nerve_tibial
+GTEX-1FIGZ-1826,Nerve - Tibial,GTEX-1FIGZ,male,40-49,Ventilator case,fibrosis,"2 pieces; fat and fibrous tissue, not nerve",nerve_tibial
+GTEX-1GF9U-2426,Nerve - Tibial,GTEX-1GF9U,female,40-49,Ventilator case,,4 pieces; nerve with up to 0.7mm attached fat (10-50%),nerve_tibial
+GTEX-1GF9V-0526,Nerve - Tibial,GTEX-1GF9V,male,60-69,Fast death - natural causes,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-1GF9W-0126,Nerve - Tibial,GTEX-1GF9W,male,60-69,Intermediate death,,2 pieces; 10% and 15% internal/external fat,nerve_tibial
+GTEX-1GF9X-1726,Nerve - Tibial,GTEX-1GF9X,female,40-49,Ventilator case,,"2 pieces; 30% internal fat on 1, 30% external fat on the other",nerve_tibial
+GTEX-1GL5R-2226,Nerve - Tibial,GTEX-1GL5R,male,50-59,Ventilator case,,2 pieces; include from 40-60% attached fat,nerve_tibial
+GTEX-1GMR2-2326,Nerve - Tibial,GTEX-1GMR2,male,50-59,Ventilator case,,2 pieces; 1 with no external fat; other with 20% external fat,nerve_tibial
+GTEX-1GMR3-2226,Nerve - Tibial,GTEX-1GMR3,male,40-49,Ventilator case,,"2 pieces, minute nubbins of adherent fat",nerve_tibial
+GTEX-1GMR8-0426,Nerve - Tibial,GTEX-1GMR8,female,50-59,Intermediate death,,2 pieces; 20% internal fat,nerve_tibial
+GTEX-1GMRU-0426,Nerve - Tibial,GTEX-1GMRU,male,50-59,Fast death - natural causes,,2 pieces trace nubbin of fat up to ~0.5mm,nerve_tibial
+GTEX-1GN1U-0326,Nerve - Tibial,GTEX-1GN1U,female,50-59,Slow death,,"2 pieces, trace nubbin of adherent fat, ~0.2mm",nerve_tibial
+GTEX-1GN1V-0526,Nerve - Tibial,GTEX-1GN1V,male,60-69,Fast death - natural causes,,2 pieces; nerve with 20-30% attached and internal fat,nerve_tibial
+GTEX-1GN1W-0826,Nerve - Tibial,GTEX-1GN1W,female,50-59,Ventilator case,,2 pieces; 25% external fat & carried-over skeletal muscle in 1,nerve_tibial
+GTEX-1GN2E-0526,Nerve - Tibial,GTEX-1GN2E,male,60-69,Fast death - natural causes,,"2 pieces, trace adherent fat.",nerve_tibial
+GTEX-1GN73-0426,Nerve - Tibial,GTEX-1GN73,male,60-69,Fast death - natural causes,,2 pieces; 10% & 20% internal fat content,nerve_tibial
+GTEX-1GPI6-0426,Nerve - Tibial,GTEX-1GPI6,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1GPI7-0526,Nerve - Tibial,GTEX-1GPI7,male,20-29,Ventilator case,,2 pieces; <10% attached fat,nerve_tibial
+GTEX-1GTWX-0426,Nerve - Tibial,GTEX-1GTWX,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1GZ2Q-0526,Nerve - Tibial,GTEX-1GZ2Q,male,40-49,Fast death - natural causes,,2 pieces; ~40% internal/external fat,nerve_tibial
+GTEX-1GZ4H-1526,Nerve - Tibial,GTEX-1GZ4H,female,50-59,Ventilator case,,2 pieces; 20% external fat,nerve_tibial
+GTEX-1GZ4I-0326,Nerve - Tibial,GTEX-1GZ4I,male,50-59,Fast death - natural causes,,2 pieces; 40% & 20% internal and external fat content,nerve_tibial
+GTEX-1GZHY-0226,Nerve - Tibial,GTEX-1GZHY,female,50-59,Fast death - violent,,"2 pieces, nubbins of adherent fat up to ~1mm, rep delineated",nerve_tibial
+GTEX-1H11D-0426,Nerve - Tibial,GTEX-1H11D,male,40-49,Ventilator case,,2 pieces; nerve with 50-60% internal and attached fat,nerve_tibial
+GTEX-1H1CY-2526,Nerve - Tibial,GTEX-1H1CY,female,60-69,Fast death - natural causes,,"2 pieces: 1 with 50% external & internal fat, other with 10% external fat",nerve_tibial
+GTEX-1H1DE-1826,Nerve - Tibial,GTEX-1H1DE,male,20-29,Ventilator case,,"2 pieces, nerve is ~70% of specimen (delineated) rest is adherent/interstitial fat",nerve_tibial
+GTEX-1H1DF-0326,Nerve - Tibial,GTEX-1H1DF,female,40-49,Fast death - natural causes,,2 pieces; well trimmed; 10% internal and external fat,nerve_tibial
+GTEX-1H1DG-0426,Nerve - Tibial,GTEX-1H1DG,male,70-79,Ventilator case,,"2 pieces, nubbins of adherent fat up to ~0.5mm, rep delineated",nerve_tibial
+GTEX-1H1E6-2226,Nerve - Tibial,GTEX-1H1E6,male,30-39,Ventilator case,,2 pieces; well trimmed,nerve_tibial
+GTEX-1H1ZS-0226,Nerve - Tibial,GTEX-1H1ZS,male,70-79,Slow death,,"2 pieces, trace nubbins of fat up to ~0.3mm",nerve_tibial
+GTEX-1H23P-0326,Nerve - Tibial,GTEX-1H23P,male,60-69,Slow death,,2 pieces; 20% internal & external fat content,nerve_tibial
+GTEX-1H2FU-0326,Nerve - Tibial,GTEX-1H2FU,female,60-69,Slow death,,2 pieces; well trimmed,nerve_tibial
+GTEX-1H3NZ-0526,Nerve - Tibial,GTEX-1H3NZ,male,60-69,Slow death,,2 pieces; well trimmed: 10% external fat,nerve_tibial
+GTEX-1H3O1-0826,Nerve - Tibial,GTEX-1H3O1,male,60-69,Fast death - natural causes,,"1 piece, section of peripheral nerve",nerve_tibial
+GTEX-1H3VE-0626,Nerve - Tibial,GTEX-1H3VE,male,40-49,Slow death,,2 pieces; 10% and 20% internal/external fat,nerve_tibial
+GTEX-1H3VY-0526,Nerve - Tibial,GTEX-1H3VY,male,50-59,Ventilator case,,"2 pieces; well trimmed, trivial attachment of fat",nerve_tibial
+GTEX-1H4P4-1026,Nerve - Tibial,GTEX-1H4P4,male,50-59,Fast death - natural causes,,"2 pieces; 1 is 30% fat, 2nd is ~90% fat/vessels",nerve_tibial
+GTEX-1HB9E-2726,Nerve - Tibial,GTEX-1HB9E,male,50-59,Fast death - natural causes,,"2 pieces, ~2mm nubbin of adherent fat, delineated",nerve_tibial
+GTEX-1HBPH-0626,Nerve - Tibial,GTEX-1HBPH,female,40-49,Slow death,,2 pieces; 10 & 20% internal & external fat,nerve_tibial
+GTEX-1HBPI-1326,Nerve - Tibial,GTEX-1HBPI,male,50-59,Fast death - natural causes,,2 pieces; 40% external fat,nerve_tibial
+GTEX-1HBPM-0526,Nerve - Tibial,GTEX-1HBPM,female,60-69,Slow death,,2 pieces; 1 piece includes ~10% attached fat,nerve_tibial
+GTEX-1HBPN-0326,Nerve - Tibial,GTEX-1HBPN,male,50-59,Ventilator case,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-1HC8U-2326,Nerve - Tibial,GTEX-1HC8U,female,40-49,Ventilator case,,2 pieces; well trimmed,nerve_tibial
+GTEX-1HCU6-0326,Nerve - Tibial,GTEX-1HCU6,female,60-69,Fast death - natural causes,,2 pieces; <5% fat; well trimmed,nerve_tibial
+GTEX-1HCU7-0526,Nerve - Tibial,GTEX-1HCU7,male,50-59,Ventilator case,,2 pieces; 10% internal fat,nerve_tibial
+GTEX-1HCU8-1426,Nerve - Tibial,GTEX-1HCU8,female,60-69,Fast death - natural causes,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1HCU9-1726,Nerve - Tibial,GTEX-1HCU9,male,20-29,Ventilator case,,2 pieces; 10% external and internal fat,nerve_tibial
+GTEX-1HCUA-2126,Nerve - Tibial,GTEX-1HCUA,female,50-59,Ventilator case,,2 pieces; include ~50% internal/external fat,nerve_tibial
+GTEX-1HCVE-0426,Nerve - Tibial,GTEX-1HCVE,male,50-59,Slow death,,"2 pieces; interstitial fat is ~10% of tissue, delineated",nerve_tibial
+GTEX-1HFI6-0626,Nerve - Tibial,GTEX-1HFI6,male,40-49,Fast death - natural causes,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-1HFI7-2126,Nerve - Tibial,GTEX-1HFI7,female,50-59,Ventilator case,,2 pieces; includes significant attached fat and skeletal muscle (up to 40%),nerve_tibial
+GTEX-1HGF4-2726,Nerve - Tibial,GTEX-1HGF4,male,60-69,Fast death - natural causes,,2 pieces: 1 with 2.3x0.6mm adherent skeletal muscle; other has 60% external fat content,nerve_tibial
+GTEX-1HKZK-0626,Nerve - Tibial,GTEX-1HKZK,male,40-49,Ventilator case,,2 pieces; includes ~20% attached and internal fat,nerve_tibial
+GTEX-1HR98-0526,Nerve - Tibial,GTEX-1HR98,male,60-69,Slow death,,2 pieces; <5% fat content,nerve_tibial
+GTEX-1HR9M-0426,Nerve - Tibial,GTEX-1HR9M,male,60-69,Slow death,,2 pieces; 10% internal fat content; well trimmed,nerve_tibial
+GTEX-1HSEH-0526,Nerve - Tibial,GTEX-1HSEH,male,60-69,Ventilator case,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1HSGN-0426,Nerve - Tibial,GTEX-1HSGN,female,40-49,Ventilator case,,"2 pieces, minimal nubbin of adherent fat (~0.3mm)",nerve_tibial
+GTEX-1HSKV-0426,Nerve - Tibial,GTEX-1HSKV,male,60-69,Fast death - natural causes,,2 pieces; both include 20-30% internal/external fat,nerve_tibial
+GTEX-1HSMO-0326,Nerve - Tibial,GTEX-1HSMO,male,60-69,Intermediate death,,2 pieces; well trimmed; 10% external fat,nerve_tibial
+GTEX-1HSMP-0426,Nerve - Tibial,GTEX-1HSMP,male,70-79,Ventilator case,,"2 pieces, adherent nubbin of fibroadipose tissue, ~4x1mm, delineated",nerve_tibial
+GTEX-1HSMQ-1526,Nerve - Tibial,GTEX-1HSMQ,male,50-59,Ventilator case,,2 pieces; small attachment of fat on both pieces (up to ~10%),nerve_tibial
+GTEX-1HT8W-0426,Nerve - Tibial,GTEX-1HT8W,male,30-39,Fast death - natural causes,,"2 pieces, ~1mm nubbin of adherent fat, delineated",nerve_tibial
+GTEX-1HUB1-0126,Nerve - Tibial,GTEX-1HUB1,male,60-69,Ventilator case,,2 pieces; up to 0.5mm thick external fat on  both,nerve_tibial
+GTEX-1I19N-1826,Nerve - Tibial,GTEX-1I19N,male,70-79,Slow death,,2 pieces; one contains ~10% internal fat,nerve_tibial
+GTEX-1I1CD-0426,Nerve - Tibial,GTEX-1I1CD,female,60-69,Slow death,,2 pieces; includes 20% internal/external fat,nerve_tibial
+GTEX-1I1GP-0126,Nerve - Tibial,GTEX-1I1GP,male,50-59,Fast death - natural causes,,"2 pieces, no significant adherent fat' moderate interstitial fat",nerve_tibial
+GTEX-1I1GQ-0426,Nerve - Tibial,GTEX-1I1GQ,male,50-59,Fast death - natural causes,,2 pieces; ~5% internal fat and trace of external fat; mild focal lymphocytic infiltrate in perineural tissue (outlined),nerve_tibial
+GTEX-1I1GR-0426,Nerve - Tibial,GTEX-1I1GR,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1I1GS-0426,Nerve - Tibial,GTEX-1I1GS,male,60-69,Slow death,,"2 pieces, partial rims of adherent fat up to ~0.7mm, delineated",nerve_tibial
+GTEX-1I1GT-0426,Nerve - Tibial,GTEX-1I1GT,female,60-69,Ventilator case,,2 pieces; 1 piece includes ~30% attached fat,nerve_tibial
+GTEX-1I1GU-2026,Nerve - Tibial,GTEX-1I1GU,male,40-49,Ventilator case,,2 pieces; 10% internal fat,nerve_tibial
+GTEX-1I1GV-0226,Nerve - Tibial,GTEX-1I1GV,male,60-69,Fast death - natural causes,,"2 pieces, ~40% interstitial/adherent fat; rep delineated",nerve_tibial
+GTEX-1I1HK-0426,Nerve - Tibial,GTEX-1I1HK,male,60-69,Intermediate death,,2 pieces; nerve with minimal attachment of fat,nerve_tibial
+GTEX-1I4MK-1926,Nerve - Tibial,GTEX-1I4MK,female,50-59,Ventilator case,,2 pieces; 10% internal & external fat,nerve_tibial
+GTEX-1I6K6-0426,Nerve - Tibial,GTEX-1I6K6,male,30-39,Ventilator case,,2 pieces; essentially well trimmed nerve with <10% attached fat,nerve_tibial
+GTEX-1I6K7-0426,Nerve - Tibial,GTEX-1I6K7,male,40-49,Ventilator case,fibrosis,2 pieces; 1 mmsq external fibrous nodule,nerve_tibial
+GTEX-1ICG6-2826,Nerve - Tibial,GTEX-1ICG6,female,70-79,Ventilator case,,2 pieces; well trimmed,nerve_tibial
+GTEX-1ICLY-0426,Nerve - Tibial,GTEX-1ICLY,male,50-59,Ventilator case,clean_specimens,"2 pieces, no adherent fat, clean specimen",nerve_tibial
+GTEX-1ICLZ-0726,Nerve - Tibial,GTEX-1ICLZ,male,60-69,Intermediate death,hyalinization,2 pieces; up to 10% fat content; small arteries hyalinized,nerve_tibial
+GTEX-1IDFM-1726,Nerve - Tibial,GTEX-1IDFM,male,60-69,Slow death,,2 pieces; relatively well trimmed with minimal attached fat,nerve_tibial
+GTEX-1IDJC-1926,Nerve - Tibial,GTEX-1IDJC,male,50-59,Ventilator case,,"2 pieces, minmal adherent fat, focally up to 0.5mm",nerve_tibial
+GTEX-1IDJD-1526,Nerve - Tibial,GTEX-1IDJD,male,30-39,Ventilator case,,"2 pieces; not artery, sections of nerve with trace and ~5% of external fat (outlined);",nerve_tibial
+GTEX-1IDJE-2326,Nerve - Tibial,GTEX-1IDJE,female,50-59,Ventilator case,,2 pieces; 20% internal fat,nerve_tibial
+GTEX-1IDJH-0626,Nerve - Tibial,GTEX-1IDJH,male,70-79,Fast death - violent,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1IDJI-0526,Nerve - Tibial,GTEX-1IDJI,female,50-59,Ventilator case,,2 pieces; both include from 30-40% attached fat,nerve_tibial
+GTEX-1IDJU-2226,Nerve - Tibial,GTEX-1IDJU,female,60-69,Ventilator case,,2 pieces; 10 & 20% internal & external fat,nerve_tibial
+GTEX-1IDJV-0626,Nerve - Tibial,GTEX-1IDJV,male,60-69,Intermediate death,,"2 pieces, trace nubbins of adherent fat up to ~0.5mm, delineated",nerve_tibial
+GTEX-1IE54-0426,Nerve - Tibial,GTEX-1IE54,female,40-49,Ventilator case,,2 pieces; <10% attached fat,nerve_tibial
+GTEX-1IGQW-0326,Nerve - Tibial,GTEX-1IGQW,male,60-69,Slow death,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-1IKJJ-0426,Nerve - Tibial,GTEX-1IKJJ,male,60-69,Fast death - natural causes,,"2 pieces, no significant adherent fat",nerve_tibial
+GTEX-1IKK5-0226,Nerve - Tibial,GTEX-1IKK5,male,60-69,Fast death - natural causes,hyalinization,2 pieces; nerve contains hyalinized small blood vessels; well trimmed; minimal fat;,nerve_tibial
+GTEX-1IKOE-0426,Nerve - Tibial,GTEX-1IKOE,female,30-39,Ventilator case,,2 pieces; well trimmed,nerve_tibial
+GTEX-1IKOH-0426,Nerve - Tibial,GTEX-1IKOH,female,60-69,Fast death - natural causes,,2 pieces trace nubbin of adherent fat up to ~0.5mm,nerve_tibial
+GTEX-1IL2U-0526,Nerve - Tibial,GTEX-1IL2U,male,60-69,Fast death - natural causes,,2 pieces; 5% attached fat,nerve_tibial
+GTEX-1IL2V-0326,Nerve - Tibial,GTEX-1IL2V,male,70-79,Fast death - natural causes,,"2 pieces, nubbin of adherent fat/vascular elements up to ~1mm, delineated",nerve_tibial
+GTEX-1IOXB-0426,Nerve - Tibial,GTEX-1IOXB,male,50-59,Fast death - natural causes,,2 pieces; 20% fat and stromal content,nerve_tibial
+GTEX-1IY9M-0426,Nerve - Tibial,GTEX-1IY9M,male,60-69,Fast death - violent,,2 pieces; 20% and 30% predominantly internal fat,nerve_tibial
+GTEX-1J1OQ-0726,Nerve - Tibial,GTEX-1J1OQ,female,40-49,Slow death,,"2 pieces, discontinuous rim of adherent fat up to ~0.5mm",nerve_tibial
+GTEX-1J1R8-1926,Nerve - Tibial,GTEX-1J1R8,male,40-49,Ventilator case,,"2 pieces, minimal adherent fat",nerve_tibial
+GTEX-1J8EW-0426,Nerve - Tibial,GTEX-1J8EW,female,60-69,Fast death - natural causes,,2 pieces; 1 with 20% internal fat,nerve_tibial
+GTEX-1J8JJ-0526,Nerve - Tibial,GTEX-1J8JJ,female,60-69,Fast death - natural causes,,"2 pieces, trace nubbins of adherent fat up to ~0.5-1mm, delineated",nerve_tibial
+GTEX-1J8Q2-0326,Nerve - Tibial,GTEX-1J8Q2,male,60-69,Intermediate death,,"2 pieces; 1 with trivial attachment of fat, 2nd has at least 20% mostly internal fat (incomplete section)",nerve_tibial
+GTEX-1J8Q3-1826,Nerve - Tibial,GTEX-1J8Q3,male,60-69,Ventilator case,,2 fragmented pieces; 30% fat,nerve_tibial
+GTEX-1J8QM-2626,Nerve - Tibial,GTEX-1J8QM,female,60-69,Ventilator case,,2 pieces; up to 40% internal/external fat,nerve_tibial
+GTEX-1JJ6O-0326,Nerve - Tibial,GTEX-1JJ6O,male,60-69,Slow death,,2 pieces; includes up to 15-20% internal/external fat,nerve_tibial
+GTEX-1JJE9-0726,Nerve - Tibial,GTEX-1JJE9,male,70-79,Intermediate death,,2 pieces; well trimmed; up to 20% internal fat; nerve fibers appear swollen,nerve_tibial
+GTEX-1JJEA-0426,Nerve - Tibial,GTEX-1JJEA,male,60-69,Fast death - natural causes,fibrosis,"2 pieces, partial fibrous rim up to ~0.5mm",nerve_tibial
+GTEX-1JK1U-2426,Nerve - Tibial,GTEX-1JK1U,male,60-69,Ventilator case,,"2 pieces, trace partial rim of adherent fat up to ~0.3mm",nerve_tibial
+GTEX-1JKYN-1926,Nerve - Tibial,GTEX-1JKYN,male,30-39,Ventilator case,,2 pieces; includes 20 and 40% internal/external fat,nerve_tibial
+GTEX-1JKYR-0426,Nerve - Tibial,GTEX-1JKYR,male,20-29,Ventilator case,fibrosis,2 pieces; 10% ezternal fibrous and fatty content,nerve_tibial
+GTEX-1JMI6-0326,Nerve - Tibial,GTEX-1JMI6,female,50-59,Intermediate death,,,nerve_tibial
+GTEX-1JMLX-0426,Nerve - Tibial,GTEX-1JMLX,male,50-59,Fast death - natural causes,,3 pieces; 10% external fat,nerve_tibial
+GTEX-1JMOU-1126,Nerve - Tibial,GTEX-1JMOU,female,60-69,Slow death,,"2 pieces, rim of adherent fat up to ~2mm, rep delineated",nerve_tibial
+GTEX-1JMPY-1626,Nerve - Tibial,GTEX-1JMPY,male,30-39,Ventilator case,,"4 pieces; incomplete sections, include 20-40% attached and internal fat",nerve_tibial
+GTEX-1JMPZ-0426,Nerve - Tibial,GTEX-1JMPZ,male,30-39,Slow death,,2 pieces; 5% external fat,nerve_tibial
+GTEX-1JMQI-1926,Nerve - Tibial,GTEX-1JMQI,male,50-59,Ventilator case,fibrosis,2 pieces; not nerve; vessels/fat/fibrous and lymphoid tissue,nerve_tibial
+GTEX-1JMQJ-0226,Nerve - Tibial,GTEX-1JMQJ,male,50-59,Fast death - natural causes,,4 pieces; up to ~20% mostly internal fat,nerve_tibial
+GTEX-1JMQK-0426,Nerve - Tibial,GTEX-1JMQK,male,60-69,Ventilator case,,3 pieces; 10% internal fat content,nerve_tibial
+GTEX-1JMQL-0426,Nerve - Tibial,GTEX-1JMQL,female,50-59,Ventilator case,,"2 pieces, peripheral nerve, no adherent fat.",nerve_tibial
+GTEX-1JN1M-0226,Nerve - Tibial,GTEX-1JN1M,female,60-69,Ventilator case,,"2 pieces, focal adherent fat up to ~0.6mm",nerve_tibial
+GTEX-1JN6P-0326,Nerve - Tibial,GTEX-1JN6P,male,60-69,Ventilator case,,2 pieces; 10% external fat content,nerve_tibial
+GTEX-1JN76-0426,Nerve - Tibial,GTEX-1JN76,female,20-29,Ventilator case,,2 pieces; thin band of external fat around 1 piece [0.2mm thick],nerve_tibial
+GTEX-1K2DA-1926,Nerve - Tibial,GTEX-1K2DA,male,50-59,Ventilator case,,2 pieces; 30-60% fat and epineurium,nerve_tibial
+GTEX-1K2DU-2626,Nerve - Tibial,GTEX-1K2DU,male,20-29,Ventilator case,fibrosis,"2 pieces; nubbin of;adherent fat/fibrous tissue up to ~0.2mm, delineated",nerve_tibial
+GTEX-1K9T9-0426,Nerve - Tibial,GTEX-1K9T9,female,50-59,Ventilator case,,"2 pieces, adherent rims/nubbins of fat up to ~1.5mm, delineated",nerve_tibial
+GTEX-1KAFJ-2126,Nerve - Tibial,GTEX-1KAFJ,male,50-59,Intermediate death,,2 pieces; 10% & 30% fat content,nerve_tibial
+GTEX-1KANA-0226,Nerve - Tibial,GTEX-1KANA,male,20-29,Ventilator case,,2 pieces; well trimmed with scant attached fat,nerve_tibial
+GTEX-1KANB-0326,Nerve - Tibial,GTEX-1KANB,male,50-59,Fast death - natural causes,,"2 pieces,  peripheral nerve, trace adherent fat, delineated.",nerve_tibial
+GTEX-1KANC-1826,Nerve - Tibial,GTEX-1KANC,female,50-59,Ventilator case,,2 pieces; well trimmed; <1% internal fat,nerve_tibial
+GTEX-1KD4Q-0426,Nerve - Tibial,GTEX-1KD4Q,male,40-49,Fast death - natural causes,,2 pieces; 10% fat content,nerve_tibial
+GTEX-1KD5A-0526,Nerve - Tibial,GTEX-1KD5A,male,50-59,Fast death - natural causes,,2 pieces; nerve with trivial attachment of fat,nerve_tibial
+GTEX-1KWVE-1526,Nerve - Tibial,GTEX-1KWVE,male,30-39,Fast death - violent,,2 pieces; low fat content,nerve_tibial
+GTEX-1KXAM-2526,Nerve - Tibial,GTEX-1KXAM,male,60-69,Ventilator case,,"4 pieces, nubbins of adherent fat up to ~1mm, rep delineated",nerve_tibial
+GTEX-1L5NE-2426,Nerve - Tibial,GTEX-1L5NE,male,50-59,Ventilator case,,"2 pieces, trace nubbin of adherent fat, ~1mm, delineated",nerve_tibial
+GTEX-1LB8K-0526,Nerve - Tibial,GTEX-1LB8K,male,50-59,Fast death - natural causes,,2 pieces; 30% external fat,nerve_tibial
+GTEX-1LBAC-0426,Nerve - Tibial,GTEX-1LBAC,male,20-29,Ventilator case,,2 pieces; includes partial rim of fat (~10%),nerve_tibial
+GTEX-1LC46-2326,Nerve - Tibial,GTEX-1LC46,male,30-39,Ventilator case,,"2 pieces; vessels and fat, not nerve",nerve_tibial
+GTEX-1LC47-0526,Nerve - Tibial,GTEX-1LC47,male,60-69,Intermediate death,,"2 pieces, minimal adherent fat",nerve_tibial
+GTEX-1LG7Y-0226,Nerve - Tibial,GTEX-1LG7Y,male,50-59,Fast death - natural causes,,"2 pieces, trace adherent nubbins of adherent fat, up to ~0.4mm",nerve_tibial
+GTEX-1LG7Z-1826,Nerve - Tibial,GTEX-1LG7Z,male,30-39,Ventilator case,,2 pieces,nerve_tibial
+GTEX-1LGOU-1826,Nerve - Tibial,GTEX-1LGOU,female,20-29,Ventilator case,,,nerve_tibial
+GTEX-1LGRB-2826,Nerve - Tibial,GTEX-1LGRB,female,50-59,Ventilator case,,2 pieces; nerve with from 10-40% attached fat,nerve_tibial
+GTEX-1LH75-2326,Nerve - Tibial,GTEX-1LH75,female,50-59,Slow death,,"2 pieces, trace partial rim of adherent fat up to ~0.5mm, rep delineated",nerve_tibial
+GTEX-1LKK1-0326,Nerve - Tibial,GTEX-1LKK1,female,50-59,Slow death,,"2 pieces, adherent rim of fat up to ~1mm",nerve_tibial
+GTEX-1LNCM-1426,Nerve - Tibial,GTEX-1LNCM,female,50-59,Ventilator case,fibrosis,"2 pieces; ~5-10% internal fat, 1 piece has 10% attachment of fat/fibrous tissue",nerve_tibial
+GTEX-1LSNL-0426,Nerve - Tibial,GTEX-1LSNL,male,50-59,Fast death - natural causes,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-1LSNM-2226,Nerve - Tibial,GTEX-1LSNM,male,50-59,Ventilator case,,2 pieces; essentially well trimmed,nerve_tibial
+GTEX-1LSVX-0426,Nerve - Tibial,GTEX-1LSVX,male,60-69,Slow death,,2 pieces; well trimmed,nerve_tibial
+GTEX-1LVA9-0426,Nerve - Tibial,GTEX-1LVA9,male,50-59,Fast death - natural causes,,2 pieces; include 20 and 40% attached and internal fat,nerve_tibial
+GTEX-1LVAM-0426,Nerve - Tibial,GTEX-1LVAM,female,50-59,Ventilator case,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1LVAN-0326,Nerve - Tibial,GTEX-1LVAN,female,50-59,Ventilator case,,2 pieces; 20% external and internal fat content,nerve_tibial
+GTEX-1LVAO-0326,Nerve - Tibial,GTEX-1LVAO,male,60-69,Slow death,,2 pieces; 20% internal and external fat content,nerve_tibial
+GTEX-1M4P7-0526,Nerve - Tibial,GTEX-1M4P7,male,60-69,Fast death - natural causes,,"2 pieces, nubbins of adherent fat up to ~1mm, rep delineated",nerve_tibial
+GTEX-1M5QR-1926,Nerve - Tibial,GTEX-1M5QR,male,40-49,Ventilator case,,2 pieces; include from 10-30% largely internal fat,nerve_tibial
+GTEX-1MA7W-1626,Nerve - Tibial,GTEX-1MA7W,female,20-29,Ventilator case,,"2 pieces, trace nubbin of adherent fat, delineated",nerve_tibial
+GTEX-1MA7X-1826,Nerve - Tibial,GTEX-1MA7X,male,60-69,Fast death - natural causes,,2 pieces; 40% external fat on 1 piece,nerve_tibial
+GTEX-1MCC2-2426,Nerve - Tibial,GTEX-1MCC2,female,30-39,Ventilator case,,2 pieces; one with trace of adherent fat (arrows),nerve_tibial
+GTEX-1MCQQ-0226,Nerve - Tibial,GTEX-1MCQQ,male,60-69,Intermediate death,,2 pieces; 1 with 40% internal fat,nerve_tibial
+GTEX-1MCYP-2126,Nerve - Tibial,GTEX-1MCYP,female,20-29,Ventilator case,,3 pieces; well trimmed,nerve_tibial
+GTEX-1MGNQ-0426,Nerve - Tibial,GTEX-1MGNQ,male,40-49,Ventilator case,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1MJIX-2026,Nerve - Tibial,GTEX-1MJIX,male,40-49,Ventilator case,,2 pieces; nerve with partial rim of fat comprising 25-40% of the specimen,nerve_tibial
+GTEX-1MJK2-0226,Nerve - Tibial,GTEX-1MJK2,male,50-59,Fast death - natural causes,,2 pieces; trace rim of adherent fat,nerve_tibial
+GTEX-1MJK3-1526,Nerve - Tibial,GTEX-1MJK3,male,20-29,Ventilator case,,2 pieces; external fat 20%; small artery in external fat [labeled],nerve_tibial
+GTEX-1MUQO-0326,Nerve - Tibial,GTEX-1MUQO,male,60-69,Ventilator case,,"2 pieces, no adherent fat.",nerve_tibial
+GTEX-1N2DV-0326,Nerve - Tibial,GTEX-1N2DV,male,40-49,Ventilator case,,"2 pieces, trace nubbins adherent fat, rep delineated",nerve_tibial
+GTEX-1N2DW-0526,Nerve - Tibial,GTEX-1N2DW,male,50-59,Fast death - natural causes,,2 pieces; small amounts of external fat (arrows),nerve_tibial
+GTEX-1N2EE-0326,Nerve - Tibial,GTEX-1N2EE,male,60-69,Fast death - violent,,"2 pieces, adherent fat up to ~0.8mm, rep delineated",nerve_tibial
+GTEX-1N2EF-0426,Nerve - Tibial,GTEX-1N2EF,male,60-69,Intermediate death,,2 pieces; 20 & 30% external untrimmed fat,nerve_tibial
+GTEX-1N5O9-0426,Nerve - Tibial,GTEX-1N5O9,male,60-69,Fast death - natural causes,,"4 pieces; 5%, 10%, 20% and 50% internal/external fat",nerve_tibial
+GTEX-1N7R6-0126,Nerve - Tibial,GTEX-1N7R6,female,20-29,Slow death,,2 pieces; one piece is ~50% fat/tendon,nerve_tibial
+GTEX-1NHNU-1426,Nerve - Tibial,GTEX-1NHNU,male,50-59,Ventilator case,,2 pieces; up to 0.7mm external fat,nerve_tibial
+GTEX-1NSGN-0426,Nerve - Tibial,GTEX-1NSGN,male,50-59,Ventilator case,,2 pieces; ~20% and 30% prineurium and external fat,nerve_tibial
+GTEX-1NT2E-0526,Nerve - Tibial,GTEX-1NT2E,female,40-49,Ventilator case,,,nerve_tibial
+GTEX-1NUQO-0226,Nerve - Tibial,GTEX-1NUQO,female,20-29,Ventilator case,,2 pieces; up to 0.7mm rim of fat,nerve_tibial
+GTEX-1NV5F-0526,Nerve - Tibial,GTEX-1NV5F,female,60-69,Slow death,fibrosis,2 pieces; well trimmed; 30% internal fibrous content,nerve_tibial
+GTEX-1NV88-0426,Nerve - Tibial,GTEX-1NV88,male,50-59,Slow death,,,nerve_tibial
+GTEX-1NV8Z-0526,Nerve - Tibial,GTEX-1NV8Z,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat, ~30-40% interstitial fat, rep delineated",nerve_tibial
+GTEX-1O97I-0426,Nerve - Tibial,GTEX-1O97I,male,60-69,Intermediate death,,2 pieces; 10% internal & external fat,nerve_tibial
+GTEX-1O9I2-0326,Nerve - Tibial,GTEX-1O9I2,male,50-59,Ventilator case,,2 pieces; partial rim of adherent fat up to ~0.7mm,nerve_tibial
+GTEX-1OFPY-2226,Nerve - Tibial,GTEX-1OFPY,male,60-69,Ventilator case,,2 pieces; prominent 40% internal fat content,nerve_tibial
+GTEX-1OJC3-0426,Nerve - Tibial,GTEX-1OJC3,male,20-29,Ventilator case,,2 pieces; 15% and 5% external fat,nerve_tibial
+GTEX-1OJC4-0226,Nerve - Tibial,GTEX-1OJC4,female,50-59,Fast death - natural causes,,"2 pieces; essentially well trimmed, <10% attachment of fat",nerve_tibial
+GTEX-1OKEX-2526,Nerve - Tibial,GTEX-1OKEX,male,60-69,Ventilator case,,,nerve_tibial
+GTEX-1OZHM-0526,Nerve - Tibial,GTEX-1OZHM,male,40-49,Slow death,,2 pieces; trace adherent fat,nerve_tibial
+GTEX-1P4AB-0426,Nerve - Tibial,GTEX-1P4AB,male,50-59,Slow death,hypertrophy,2 pieces; 20 & 40% internal & external fat content; small arteries have hypertrophic media (?hypertensive effect),nerve_tibial
+GTEX-1PAR6-2226,Nerve - Tibial,GTEX-1PAR6,female,30-39,Ventilator case,,,nerve_tibial
+GTEX-1PBJI-0226,Nerve - Tibial,GTEX-1PBJI,female,20-29,Fast death - violent,,"2 pieces, trace adherent fat, nubbins < 0.5mm",nerve_tibial
+GTEX-1PBJJ-0426,Nerve - Tibial,GTEX-1PBJJ,male,30-39,Ventilator case,,2 piece; ~15% internal fat,nerve_tibial
+GTEX-1PDJ9-0726,Nerve - Tibial,GTEX-1PDJ9,male,20-29,Ventilator case,,2 pieces; 20% internal & external fat content,nerve_tibial
+GTEX-1PFEY-1926,Nerve - Tibial,GTEX-1PFEY,male,30-39,Ventilator case,fibrosis,"2 pieces, ~60-70% adherent fat/fibrous tissue, only ~30% target peripheral nerve",nerve_tibial
+GTEX-1PIEJ-0426,Nerve - Tibial,GTEX-1PIEJ,female,20-29,Ventilator case,,"2 pieces, no significant adherent fat",nerve_tibial
+GTEX-1PIGE-0326,Nerve - Tibial,GTEX-1PIGE,male,20-29,Ventilator case,,2 pieces; well trimmed; 5 & 10% internal & external fat,nerve_tibial
+GTEX-1PIIG-0726,Nerve - Tibial,GTEX-1PIIG,male,30-39,Ventilator case,,2 pieces; 10% and 15% external fat (outlined) and ~10% internal fat (arrow),nerve_tibial
+GTEX-1POEN-0326,Nerve - Tibial,GTEX-1POEN,female,30-39,Fast death - violent,,"2 pieces, discontinuous rims of adherent fat up to ~0.7mm, rep delineated",nerve_tibial
+GTEX-1PPGY-0526,Nerve - Tibial,GTEX-1PPGY,male,60-69,Fast death - natural causes,,2 pieces; trace of external/internal fat (arrows),nerve_tibial
+GTEX-1PPH6-0726,Nerve - Tibial,GTEX-1PPH6,female,60-69,Fast death - natural causes,,3 pieces; up to 20% internal fat,nerve_tibial
+GTEX-1PPH7-2626,Nerve - Tibial,GTEX-1PPH7,male,40-49,Ventilator case,,2 pieces; 1 with abundant external fibrofatty stroma,nerve_tibial
+GTEX-1PPH8-0426,Nerve - Tibial,GTEX-1PPH8,male,20-29,Ventilator case,,2 pieces (fragmented); bare trace adherent fat,nerve_tibial
+GTEX-1PWST-0526,Nerve - Tibial,GTEX-1PWST,male,70-79,Slow death,,"2 pieces, single nubbin adherent fat, ~1.4mm, delineated",nerve_tibial
+GTEX-1QAET-2426,Nerve - Tibial,GTEX-1QAET,male,50-59,Ventilator case,,4 pieces; well trimmed; <10% internal fat,nerve_tibial
+GTEX-1QCLY-0726,Nerve - Tibial,GTEX-1QCLY,male,30-39,Ventilator case,,"2 pieces, no significant adherent fat",nerve_tibial
+GTEX-1QCLZ-0426,Nerve - Tibial,GTEX-1QCLZ,female,60-69,Ventilator case,,2 pieces; ~20% and 40% internal fat with fibrovascular component (outlined),nerve_tibial
+GTEX-1QEPI-0326,Nerve - Tibial,GTEX-1QEPI,female,60-69,Intermediate death,,2 pieces; 20% external fat,nerve_tibial
+GTEX-1QL29-0326,Nerve - Tibial,GTEX-1QL29,male,40-49,Ventilator case,,"2 pieces, partial rim of fat up to ~0.8mm, delineated",nerve_tibial
+GTEX-1QMI2-0326,Nerve - Tibial,GTEX-1QMI2,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat",nerve_tibial
+GTEX-1QP28-0326,Nerve - Tibial,GTEX-1QP28,female,50-59,Ventilator case,,"2 pieces, adherent fatty nubbins up to ~2.5mm, ~30-35% of total tissue.  Sample with care",nerve_tibial
+GTEX-1QP29-0926,Nerve - Tibial,GTEX-1QP29,male,50-59,Ventilator case,,2 pieces; nerve fascicles surrounded by prineurium; trace of internal and external fat (arrows),nerve_tibial
+GTEX-1QP2A-0326,Nerve - Tibial,GTEX-1QP2A,male,50-59,Ventilator case,,2 pieces; 10 & 20 % internal fat content,nerve_tibial
+GTEX-1QP66-1426,Nerve - Tibial,GTEX-1QP66,male,50-59,Ventilator case,,2 pieces; non target vessels with attached 20-25% fat;  target nerve not present,nerve_tibial
+GTEX-1QP67-1926,Nerve - Tibial,GTEX-1QP67,female,40-49,Ventilator case,,"2 pieces, abundant adherent fat (delineated) ~40% of tissue, sample with care",nerve_tibial
+GTEX-1QP6S-0526,Nerve - Tibial,GTEX-1QP6S,male,40-49,Fast death - natural causes,,3 pieces; external fat up to 1.7mm; trace to 25% internal fat (outlined),nerve_tibial
+GTEX-1QP9N-1626,Nerve - Tibial,GTEX-1QP9N,male,30-39,Ventilator case,,2 pieces; well dissected; <10% fat content,nerve_tibial
+GTEX-1QPFJ-0526,Nerve - Tibial,GTEX-1QPFJ,female,30-39,Ventilator case,,1 piece; nerve not artery; 20% internal fat,nerve_tibial
+GTEX-1QW4Y-1826,Nerve - Tibial,GTEX-1QW4Y,male,30-39,Ventilator case,,"3 pieces, discontinuous rims of adherent fat up to ~0.5mm",nerve_tibial
+GTEX-1R46S-0126,Nerve - Tibial,GTEX-1R46S,female,60-69,Slow death,,"2 pieces, no significant adherent fat",nerve_tibial
+GTEX-1R7EU-0526,Nerve - Tibial,GTEX-1R7EU,male,60-69,Ventilator case,,3 pieces; 1mm epineurium with external fat,nerve_tibial
+GTEX-1R7EV-2126,Nerve - Tibial,GTEX-1R7EV,male,40-49,Ventilator case,,2 pieces; small amounts of internal fat,nerve_tibial
+GTEX-1R9JW-2226,Nerve - Tibial,GTEX-1R9JW,female,30-39,Ventilator case,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-1R9K4-0326,Nerve - Tibial,GTEX-1R9K4,male,60-69,Ventilator case,,2 pieces; rim of external fat (outlined),nerve_tibial
+GTEX-1R9K5-0426,Nerve - Tibial,GTEX-1R9K5,male,50-59,Ventilator case,,"2 pieces, partial rim of trace adherent fat, up to ~0.3mm",nerve_tibial
+GTEX-1R9PM-2326,Nerve - Tibial,GTEX-1R9PM,male,20-29,Ventilator case,,"2 pieces, trace nubbin of adherent fat, ~0.5mm",nerve_tibial
+GTEX-1R9PN-1926,Nerve - Tibial,GTEX-1R9PN,female,40-49,Ventilator case,edema,2 pieces; 1 with several edematous nerve bundles,nerve_tibial
+GTEX-1R9PO-2326,Nerve - Tibial,GTEX-1R9PO,female,60-69,Intermediate death,,3 pieces; over 1mm attached fat,nerve_tibial
+GTEX-1RAZA-0426,Nerve - Tibial,GTEX-1RAZA,male,20-29,Ventilator case,,2 pieces; nerve and prineurium,nerve_tibial
+GTEX-1RAZQ-0326,Nerve - Tibial,GTEX-1RAZQ,male,30-39,Ventilator case,clean_specimens,"2 pieces, 2 mm nubbin adherent fat, delineated, otherwise clean",nerve_tibial
+GTEX-1RAZR-0426,Nerve - Tibial,GTEX-1RAZR,male,40-49,Ventilator case,,2 pieces: well trimmed,nerve_tibial
+GTEX-1RAZS-0426,Nerve - Tibial,GTEX-1RAZS,male,50-59,Intermediate death,,2 pieces; nerve with prineurium and insignificant internal fat (outlined),nerve_tibial
+GTEX-1RB15-2326,Nerve - Tibial,GTEX-1RB15,male,60-69,Ventilator case,,"1 piece, artery, not peripheral nerve; correlates with -2325.",nerve_tibial
+GTEX-1RDX4-0426,Nerve - Tibial,GTEX-1RDX4,female,50-59,Intermediate death,,2 pieces; large amount [50%] of fat tissue among the nerve bundles,nerve_tibial
+GTEX-1RLM8-2626,Nerve - Tibial,GTEX-1RLM8,male,50-59,Slow death,,,nerve_tibial
+GTEX-1RMOY-2126,Nerve - Tibial,GTEX-1RMOY,male,50-59,Ventilator case,,4 pieces; ~15% external fat (outlined); small amounts of internal fat,nerve_tibial
+GTEX-1RNSC-0326,Nerve - Tibial,GTEX-1RNSC,male,60-69,Slow death,,"2 pieces, partial rim of adherent fat up to ~0.5mm",nerve_tibial
+GTEX-1RNTQ-0426,Nerve - Tibial,GTEX-1RNTQ,female,20-29,Ventilator case,,2 pieces; nerves with prineurium and trace of external fat,nerve_tibial
+GTEX-1RQEC-0326,Nerve - Tibial,GTEX-1RQEC,male,60-69,Fast death - natural causes,,,nerve_tibial
+GTEX-1RQED-0626,Nerve - Tibial,GTEX-1RQED,male,60-69,Intermediate death,,"2 pieces, no significant adherent fat",nerve_tibial
+GTEX-1S3DN-2526,Nerve - Tibial,GTEX-1S3DN,male,50-59,Ventilator case,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-1S5VW-0326,Nerve - Tibial,GTEX-1S5VW,male,60-69,Intermediate death,,"2 pieces, trace nubbin of adherent fat",nerve_tibial
+GTEX-1S5ZA-0326,Nerve - Tibial,GTEX-1S5ZA,male,20-29,Ventilator case,,"2 pieces, pristine specimen",nerve_tibial
+GTEX-1S5ZU-0426,Nerve - Tibial,GTEX-1S5ZU,female,20-29,Ventilator case,,2 pieces; 30% fat content,nerve_tibial
+GTEX-1S82P-0426,Nerve - Tibial,GTEX-1S82P,female,60-69,Ventilator case,,2 pieces; 30% and 40% internal/external fat,nerve_tibial
+GTEX-1S82U-1326,Nerve - Tibial,GTEX-1S82U,female,30-39,Ventilator case,,"2 pieces, trace adherent fat",nerve_tibial
+GTEX-1S82Y-2326,Nerve - Tibial,GTEX-1S82Y,male,40-49,Ventilator case,,,nerve_tibial
+GTEX-1S82Z-1126,Nerve - Tibial,GTEX-1S82Z,female,30-39,Ventilator case,,"2 pieces, adipose tissue, collagenized fibroconnective tissue, no peripheral nerve elements",nerve_tibial
+GTEX-1S831-0426,Nerve - Tibial,GTEX-1S831,male,20-29,Ventilator case,,2 pieces; ~10% internal/external fat (arrows),nerve_tibial
+GTEX-1S83E-0326,Nerve - Tibial,GTEX-1S83E,male,40-49,Ventilator case,,"2 pieces; nerve fascicles, prineurium  and epineurium with attached rim of adipose tissue",nerve_tibial
+GTEX-N7MS-0526,Nerve - Tibial,GTEX-N7MS,male,60-69,Fast death - natural causes,,OK for analysis,nerve_tibial
+GTEX-NFK9-0426,Nerve - Tibial,GTEX-NFK9,male,40-49,Ventilator case,,OK for analysis,nerve_tibial
+GTEX-NL3G-1526,Nerve - Tibial,GTEX-NL3G,female,60-69,Fast death - natural causes,,adequate for analysis,nerve_tibial
+GTEX-NL3H-0826,Nerve - Tibial,GTEX-NL3H,male,60-69,Intermediate death,,4.5 mm x 4.5 mm;,nerve_tibial
+GTEX-NL4W-1626,Nerve - Tibial,GTEX-NL4W,male,50-59,Slow death,,Approximately 40% of specimen is intermingled adipose tissue,nerve_tibial
+GTEX-NPJ7-1726,Nerve - Tibial,GTEX-NPJ7,female,60-69,Slow death,,Nerve tissue is ~80% of specimen ; remainder fat ; (key says peripheral instead of tibial),nerve_tibial
+GTEX-NPJ8-1726,Nerve - Tibial,GTEX-NPJ8,male,40-49,Slow death,,"Nerve is 95% of specimen, rest intermingled adipose tissue",nerve_tibial
+GTEX-O5YT-1726,Nerve - Tibial,GTEX-O5YT,male,20-29,Ventilator case,,2 pieces; no llesions,nerve_tibial
+GTEX-O5YU-0826,Nerve - Tibial,GTEX-O5YU,male,60-69,Slow death,,1 piece 6x4 mm,nerve_tibial
+GTEX-O5YV-1826,Nerve - Tibial,GTEX-O5YV,female,60-69,Intermediate death,,5x1.7 mm; 2.5 mm fatty tail,nerve_tibial
+GTEX-OHPJ-0726,Nerve - Tibial,GTEX-OHPJ,male,60-69,Ventilator case,clean_specimens,"peripheral artery, not nerve.  Good clean specimen. Verified mix-up. VAI to change site from Nerve to Artery.",nerve_tibial
+GTEX-OHPK-1726,Nerve - Tibial,GTEX-OHPK,female,50-59,Ventilator case,edema,perineural edema,nerve_tibial
+GTEX-OHPN-2926,Nerve - Tibial,GTEX-OHPN,female,60-69,Ventilator case,,Nerve is approximately 80% of specimen; 20 is adipose (along one pole),nerve_tibial
+GTEX-OIZF-1726,Nerve - Tibial,GTEX-OIZF,male,60-69,Ventilator case,,Nerve comprises 60% of tissue area; remainder is fibrofatty tissue,nerve_tibial
+GTEX-OIZG-1426,Nerve - Tibial,GTEX-OIZG,male,50-59,Ventilator case,,About 10% fat,nerve_tibial
+GTEX-OIZI-0426,Nerve - Tibial,GTEX-OIZI,male,40-49,Ventilator case,,No fat in aliquot. 5x2.6mm,nerve_tibial
+GTEX-OOBJ-1726,Nerve - Tibial,GTEX-OOBJ,male,60-69,Ventilator case,,"5 x 4.2 mm specimen, 30% intermingled adipose tissue.   Center of one aliquot is poorly fixed (adipose).",nerve_tibial
+GTEX-OOBK-1726,Nerve - Tibial,GTEX-OOBK,male,40-49,Ventilator case,,Pieces of adipose and connective tissue; no nerve present,nerve_tibial
+GTEX-OXRK-0426,Nerve - Tibial,GTEX-OXRK,female,50-59,Ventilator case,,Contains 19 nerve bundles.  <10% fat.  5.8x2mm,nerve_tibial
+GTEX-OXRL-1726,Nerve - Tibial,GTEX-OXRL,male,50-59,Ventilator case,,"Two sections, 4x3mm; one with 20% fat",nerve_tibial
+GTEX-OXRN-1426,Nerve - Tibial,GTEX-OXRN,male,50-59,Ventilator case,,13 nerve bundles; 20% fat. 3.7x3mm,nerve_tibial
+GTEX-OXRO-1826,Nerve - Tibial,GTEX-OXRO,female,60-69,Slow death,,Widespread vacuolar degeneration. 2 pieces: 4.6x7.4mm. 50% fat,nerve_tibial
+GTEX-OXRP-2526,Nerve - Tibial,GTEX-OXRP,female,60-69,Intermediate death,,4.5x2.7mm nerve with surrounding rim of fat .2-.8mm in thickness,nerve_tibial
+GTEX-P44G-0326,Nerve - Tibial,GTEX-P44G,male,30-39,Ventilator case,,3.3x 6.7  ~40% intermingled fibroconnective tissue,nerve_tibial
+GTEX-P44H-0526,Nerve - Tibial,GTEX-P44H,male,40-49,Slow death,,4.3x4.1mm.  Specimen is 40% associated adipose tissue,nerve_tibial
+GTEX-P4PP-1726,Nerve - Tibial,GTEX-P4PP,female,30-39,Ventilator case,,2  ~1-1.5mm d. sections. ~40-50% both specimens are rinds of adipose tissue,nerve_tibial
+GTEX-P4PQ-1726,Nerve - Tibial,GTEX-P4PQ,male,60-69,Ventilator case,,4  ~2-3mm d. pieces of nerve with ~1mm rim of fat/fibrous tissue,nerve_tibial
+GTEX-P4QR-0626,Nerve - Tibial,GTEX-P4QR,male,60-69,Ventilator case,,"2  ~5mm pieces, nearly clean, 0.5-1mm tags of adipose  tissue",nerve_tibial
+GTEX-P4QS-1726,Nerve - Tibial,GTEX-P4QS,male,60-69,Ventilator case,,"2 pieces, central 0.5mm nerve,  surrounded by rind of 0.5-1mm  fat/fibrous tissue",nerve_tibial
+GTEX-P4QT-1726,Nerve - Tibial,GTEX-P4QT,female,50-59,Ventilator case,,"2 pieces, unusually poorly preserved. 1x2mm nerve is surround by fat/connective tissue,  nerve is~40% of total specimen",nerve_tibial
+GTEX-P78B-0626,Nerve - Tibial,GTEX-P78B,female,40-49,Ventilator case,,"2 pieces, 4.4 and 4.9 mm fat/connective tissue,  nerve is~25% of total specimen",nerve_tibial
+GTEX-PLZ4-1126,Nerve - Tibial,GTEX-PLZ4,female,50-59,Ventilator case,,"2   ~ 4x3mm pieces, each ~10% fat intermingled",nerve_tibial
+GTEX-PLZ5-1626,Nerve - Tibial,GTEX-PLZ5,male,50-59,Ventilator case,,2  ~ 2.5x1mm nerve pieces; attached fat is  ~ 50% of each aliquot,nerve_tibial
+GTEX-PLZ6-1726,Nerve - Tibial,GTEX-PLZ6,male,30-39,Ventilator case,,"2 pieces, ~4 mm fat/connective tissue <10% of total specimen",nerve_tibial
+GTEX-POMQ-2026,Nerve - Tibial,GTEX-POMQ,female,20-29,Ventilator case,,"2 pieces, ~1.8x1mm, ~50% fat and blood vessels",nerve_tibial
+GTEX-POYW-0426,Nerve - Tibial,GTEX-POYW,male,60-69,Ventilator case,,"2 pieces ~5x3.5mm pieces, one ~40% fat one edge",nerve_tibial
+GTEX-PSDG-0626,Nerve - Tibial,GTEX-PSDG,male,50-59,Ventilator case,,"2 pieces, ~6x3 mm, <2% fat",nerve_tibial
+GTEX-PVOW-0626,Nerve - Tibial,GTEX-PVOW,male,40-49,Fast death - natural causes,,"2 pieces,~4x2mm;4.5x3.5mm; ~30% fat on outside of each piece",nerve_tibial
+GTEX-PW2O-1826,Nerve - Tibial,GTEX-PW2O,male,20-29,Ventilator case,clean_specimens,"2   ~4x3.5mm pieces, relatively clean",nerve_tibial
+GTEX-PWCY-2126,Nerve - Tibial,GTEX-PWCY,female,20-29,Ventilator case,,"2 pieces, ~4.5x2.5; one with 20% fat on edge",nerve_tibial
+GTEX-PWN1-1726,Nerve - Tibial,GTEX-PWN1,female,40-49,Ventilator case,,2 pieces; 40% of aliquot is fat and stroma; nerve is ~1.2mm,nerve_tibial
+GTEX-PWO3-2626,Nerve - Tibial,GTEX-PWO3,female,60-69,Slow death,,"2 aliquots,  ~7x3mm,    ~20% interspersed and adherent fat",nerve_tibial
+GTEX-PWOO-2526,Nerve - Tibial,GTEX-PWOO,female,40-49,Ventilator case,clean_specimens,"2   ~ 5.5x3.5mm aliquots, clean specimens",nerve_tibial
+GTEX-PX3G-1726,Nerve - Tibial,GTEX-PX3G,female,20-29,Ventilator case,,"2 pieces, up to 1.8x1.3 mm; 1 with 50% fat; 1 with 10% fat",nerve_tibial
+GTEX-Q2AG-0626,Nerve - Tibial,GTEX-Q2AG,female,40-49,Fast death - natural causes,,"2   ~6x4.5mm aliquots, both with  ~6mm rim of fat.",nerve_tibial
+GTEX-Q2AH-1926,Nerve - Tibial,GTEX-Q2AH,male,40-49,Ventilator case,,2 pieces ~5x2.6mm; minor  fat tissue,nerve_tibial
+GTEX-Q2AI-1626,Nerve - Tibial,GTEX-Q2AI,male,40-49,Ventilator case,,"2, 2mm pieces each with 1 mm nerves and 50-60% surrounding fat",nerve_tibial
+GTEX-Q734-2126,Nerve - Tibial,GTEX-Q734,female,40-49,Ventilator case,,"4    ~4.5x3mm pieces of tendon.  Incorrect tissue, not in GTEx list",nerve_tibial
+GTEX-QCQG-2026,Nerve - Tibial,GTEX-QCQG,female,50-59,Ventilator case,,"2 pieces , each 3.8x3mm; minimal adipose",nerve_tibial
+GTEX-QDT8-0326,Nerve - Tibial,GTEX-QDT8,female,30-39,Slow death,,2   ~6.5x3.5mm aliquots.  ~0.5mm rim of fat around both.,nerve_tibial
+GTEX-QDVJ-2026,Nerve - Tibial,GTEX-QDVJ,male,50-59,Ventilator case,,"2 pieces, 5x3 mm; 5% external fat",nerve_tibial
+GTEX-QDVN-2226,Nerve - Tibial,GTEX-QDVN,male,50-59,Ventilator case,,"2  ~7.5x4mm aliquots, nerve bundles widely dispersed;  ~ 70% both aliquots is interstitial fat",nerve_tibial
+GTEX-QEG4-1126,Nerve - Tibial,GTEX-QEG4,male,30-39,Fast death - violent,,2 ~4.3x2.3mm aliquots; peripheral fat is ~10% of specimen (focally ~0.5mm),nerve_tibial
+GTEX-QEG5-0526,Nerve - Tibial,GTEX-QEG5,male,20-29,Ventilator case,,"2 pieces , each ~6.5x3 mm",nerve_tibial
+GTEX-QEL4-0426,Nerve - Tibial,GTEX-QEL4,male,50-59,Intermediate death,,"2   ~6x5mm aliquots,   ~10% interstitial/peripheral adipose tissue",nerve_tibial
+GTEX-QESD-1726,Nerve - Tibial,GTEX-QESD,male,20-29,Ventilator case,,"2 pieces, 2.5x4 & 2.5x3 mm, minimal peripheral adipose",nerve_tibial
+GTEX-QLQ7-1826,Nerve - Tibial,GTEX-QLQ7,male,60-69,Ventilator case,,"2   ~6x4mm aliquots,   ~10% interstitial fat",nerve_tibial
+GTEX-QLQW-1426,Nerve - Tibial,GTEX-QLQW,male,30-39,Ventilator case,,"2 pieces ~3x1.5, & 2x2 mm; embedded in ~30% stroma & fat",nerve_tibial
+GTEX-QMR6-1026,Nerve - Tibial,GTEX-QMR6,male,50-59,Slow death,clean_specimens,"2    ~7x4mm aliquots, fairly clean",nerve_tibial
+GTEX-QMRM-2126,Nerve - Tibial,GTEX-QMRM,male,50-59,Ventilator case,edema,2 pieces 2.4x1.3 & 2.6x2 mm; 1 has 30% adipose and 40% edematous stroma; other has <10% adipose,nerve_tibial
+GTEX-QV31-1526,Nerve - Tibial,GTEX-QV31,male,30-39,Ventilator case,clean_specimens,"2   ~4.5x3mm aliquots, good clean specimens",nerve_tibial
+GTEX-QV44-2126,Nerve - Tibial,GTEX-QV44,male,50-59,Ventilator case,,2  pieces 11x5&8x4 mm; 60% adipose,nerve_tibial
+GTEX-QVJO-0326,Nerve - Tibial,GTEX-QVJO,female,60-69,Slow death,clean_specimens,2   ~5x3mm aliquots; good clean specimens,nerve_tibial
+GTEX-QVUS-1826,Nerve - Tibial,GTEX-QVUS,female,60-69,Slow death,,2  ~ 6x2.5mm aliquots.  50% or more of both is contaminating peripheral adherent fat,nerve_tibial
+GTEX-QXCU-0126,Nerve - Tibial,GTEX-QXCU,male,50-59,Fast death - violent,,"2    ~6x4mm aliquots, both with  ~0.5mm rim of adherent fat",nerve_tibial
+GTEX-R3RS-0426,Nerve - Tibial,GTEX-R3RS,female,40-49,Slow death,,2 pieces 3.8x3.5 & 5x1.8 mm,nerve_tibial
+GTEX-R45C-0426,Nerve - Tibial,GTEX-R45C,female,60-69,Ventilator case,,"2 pieces, 4x5 & 4x4 mm; ~20% adherent adipose on larger piece",nerve_tibial
+GTEX-R53T-1926,Nerve - Tibial,GTEX-R53T,female,50-59,Ventilator case,clean_specimens,"2 aliquots,  ~4.5mm d .  Good clean specimens",nerve_tibial
+GTEX-R55C-1926,Nerve - Tibial,GTEX-R55C,male,40-49,Ventilator case,,"2 pieces, 4x4 & 3x3 mm; 10% peripheral fat in 1; <5% in other.",nerve_tibial
+GTEX-R55D-0526,Nerve - Tibial,GTEX-R55D,male,50-59,Ventilator case,clean_specimens,"2 aliquots.  Good clean specimen, minimal adherent fat",nerve_tibial
+GTEX-R55E-0426,Nerve - Tibial,GTEX-R55E,male,20-29,Fast death - violent,,"2 pieces, 5x4 & 5x3 mm; ~20% adipose in and around nerve",nerve_tibial
+GTEX-R55F-0226,Nerve - Tibial,GTEX-R55F,male,50-59,Slow death,,"2 piece, 7x5 & 7x6 mm;40-50% adipose tiissue",nerve_tibial
+GTEX-R55G-2126,Nerve - Tibial,GTEX-R55G,female,40-49,Ventilator case,,"2 aliquots, ~2mm d peripheral nerve, no artery present.  May be retained for study as nerve after re-labeling",nerve_tibial
+GTEX-R55G-2226,Nerve - Tibial,GTEX-R55G,female,40-49,Ventilator case,,2 aliquots  ~5mm d.  fragment of skeletal muscle near one aliquot,nerve_tibial
+GTEX-REY6-0626,Nerve - Tibial,GTEX-REY6,male,60-69,Ventilator case,,"2 pieces, 6x3 & 5x3 mm; ~20% adipose intermixed and at periphery",nerve_tibial
+GTEX-RM2N-1526,Nerve - Tibial,GTEX-RM2N,male,50-59,Ventilator case,,"2 pieces of tendon, incorrect tissue",nerve_tibial
+GTEX-RN5K-0926,Nerve - Tibial,GTEX-RN5K,female,50-59,Slow death,,"2 aliquots,  ~5x3mm, moderate interstitial fat,  ~30% of specimens",nerve_tibial
+GTEX-RN64-0426,Nerve - Tibial,GTEX-RN64,male,50-59,Fast death - violent,,"2 aliquots, LDACC caution: each with ~1mm rim of fat",nerve_tibial
+GTEX-RNOR-0326,Nerve - Tibial,GTEX-RNOR,female,50-59,Fast death - violent,,"2 pieces, 5x3 & 5x4 mm; ~30% adipose in and around nerve bundles",nerve_tibial
+GTEX-RTLS-0326,Nerve - Tibial,GTEX-RTLS,female,60-69,Slow death,,"2 pieces, 6x3 & 4x3 mm; 1 has ~30% adipose",nerve_tibial
+GTEX-RU1J-1826,Nerve - Tibial,GTEX-RU1J,female,20-29,Ventilator case,,2 pieces ~1.6 mm in diameter; 60 & 40% adjacent adipose and fibrous stroma,nerve_tibial
+GTEX-RU72-1126,Nerve - Tibial,GTEX-RU72,female,50-59,Fast death - natural causes,,"2 aliquots,  ~4.5x3mm.  Discontinuous rim of fat,  up to  ~0.5mm",nerve_tibial
+GTEX-RUSQ-1826,Nerve - Tibial,GTEX-RUSQ,male,50-59,Ventilator case,,"2 aliquots,  ~3.5mm d.  LCACC note:  One has adherent nubbin of fat  ~2x1mm.",nerve_tibial
+GTEX-RVPU-1426,Nerve - Tibial,GTEX-RVPU,male,50-59,Fast death - natural causes,,"2 aliquots,  ~4.5x2.5.  Adherent nubbine of fat,  ~2x0.5mm on one",nerve_tibial
+GTEX-RVPV-2326,Nerve - Tibial,GTEX-RVPV,male,60-69,Intermediate death,,"2 pieces, 9x5 & 6x3 mm; ~50-70% adipose in and around nerves",nerve_tibial
+GTEX-RWS6-2426,Nerve - Tibial,GTEX-RWS6,female,60-69,Ventilator case,,"2 pieces, 6x3 mm each; ~20% adipose within and around nerves",nerve_tibial
+GTEX-RWSA-0426,Nerve - Tibial,GTEX-RWSA,male,40-49,Fast death - violent,,"2 aliquots,   ~4mm d.  Rim of fat from ~0.3-0.5mm thickness, discontinuous, around both",nerve_tibial
+GTEX-S32W-2526,Nerve - Tibial,GTEX-S32W,female,50-59,Ventilator case,,2 pieces 4x2 & 4x1.5 mm; no extraneous fat,nerve_tibial
+GTEX-S33H-2326,Nerve - Tibial,GTEX-S33H,male,30-39,Fast death - natural causes,,2 pieces 5x3 & 5x4 mm; ~30% adipose circular envelope between 0.5 and  1.0 mm thick (could be trimmed),nerve_tibial
+GTEX-S341-1926,Nerve - Tibial,GTEX-S341,female,40-49,Ventilator case,clean_specimens,"2 aliquots,  ~ 4.5mm d.  Good clean specimens",nerve_tibial
+GTEX-S3LF-0426,Nerve - Tibial,GTEX-S3LF,male,70-79,Fast death - natural causes,,"2 aliquots,  ~4x2.5mm.  One  has rim of fat,  ~0.5mm, discontinuous",nerve_tibial
+GTEX-S3XE-1926,Nerve - Tibial,GTEX-S3XE,male,50-59,Ventilator case,,4 pieces up to 11x5 mm; ~30% adipose in and around nerve bundles,nerve_tibial
+GTEX-S4P3-1726,Nerve - Tibial,GTEX-S4P3,female,50-59,Ventilator case,clean_specimens,"2 pieces ~5mm in diameter; one with 30% surrounding adipose, other 'clean' ;",nerve_tibial
+GTEX-S4Q7-1426,Nerve - Tibial,GTEX-S4Q7,male,20-29,Ventilator case,,"2 aliquots,  ~2.5mm d.   LDACC NOTE: Rim of fat/fibrous tissue up to  ~1mm, discontinuous",nerve_tibial
+GTEX-S4UY-0326,Nerve - Tibial,GTEX-S4UY,female,40-49,Ventilator case,,"2 aliquots,   ~4mm d.",nerve_tibial
+GTEX-S4Z8-1926,Nerve - Tibial,GTEX-S4Z8,male,60-69,Ventilator case,clean_specimens,"2 pieces ~5x3 mm; clean, no expernal adipose; ~10% internal adipose",nerve_tibial
+GTEX-S7PM-0326,Nerve - Tibial,GTEX-S7PM,male,60-69,Ventilator case,,"2 aliquots, ~6x2.5mm.  Minimal dicontinuous adhernet fat, up to 0.5mm",nerve_tibial
+GTEX-S7SE-0426,Nerve - Tibial,GTEX-S7SE,male,50-59,Fast death - natural causes,clean_specimens,"2 aliquots,  ~4.5x3mm.  Good clean specimens",nerve_tibial
+GTEX-S7SF-2126,Nerve - Tibial,GTEX-S7SF,female,20-29,Ventilator case,,2 pieces 6x4 & 3x3 mm; <10% adipose in larger,nerve_tibial
+GTEX-S95S-1526,Nerve - Tibial,GTEX-S95S,male,60-69,Ventilator case,,"2 aliquots,  ~5x3mm, discontinuous adherent rim of fat, up to 0.5mm thickness",nerve_tibial
+GTEX-SE5C-1926,Nerve - Tibial,GTEX-SE5C,female,40-49,Ventilator case,,2 pieces 4x3 & 3x3 mm; <10% adipose,nerve_tibial
+GTEX-SIU7-2026,Nerve - Tibial,GTEX-SIU7,male,50-59,Ventilator case,,2 pieces 7x4 & 6x3 mm; minimal adipose,nerve_tibial
+GTEX-SIU8-0326,Nerve - Tibial,GTEX-SIU8,male,50-59,Fast death - natural causes,,2 pieces,nerve_tibial
+GTEX-SJXC-0326,Nerve - Tibial,GTEX-SJXC,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces  ~4mm d.  Reasonably clean specimens, minute amounts of adherent fat,  ~0.3mm thick",nerve_tibial
+GTEX-SN8G-0426,Nerve - Tibial,GTEX-SN8G,female,50-59,Fast death - natural causes,,"2 pieces  ~4mm d.  Discontinuous rim of fat around both,  ~0.2-3mm",nerve_tibial
+GTEX-SNMC-1626,Nerve - Tibial,GTEX-SNMC,male,20-29,Ventilator case,,2 pieces 5x3 & 2x2 mm; minimal adipose,nerve_tibial
+GTEX-SNOS-1626,Nerve - Tibial,GTEX-SNOS,male,40-49,Ventilator case,,2 pieces 5x3 & 4x3 mm; <10% peripheral adipose,nerve_tibial
+GTEX-SSA3-0526,Nerve - Tibial,GTEX-SSA3,male,60-69,Ventilator case,,"2 pieces  ~4.5mm d.  Discontinuous rims of adherent fat around both ~0.5--1.5mm thick, representative foci encircled.",nerve_tibial
+GTEX-SUCS-1726,Nerve - Tibial,GTEX-SUCS,male,70-79,Ventilator case,,2 pieces 6x3 & 5x3 mm; virtually fat free;,nerve_tibial
+GTEX-T2IS-1126,Nerve - Tibial,GTEX-T2IS,female,20-29,Fast death - violent,clean_specimens,"2 pieces,  ~4mm d.  Good clean specimens",nerve_tibial
+GTEX-T2YK-0326,Nerve - Tibial,GTEX-T2YK,male,50-59,Slow death,,2 pieces 5x3 & 5x4 mm; ~20 & 40% peripheral adipose,nerve_tibial
+GTEX-T5JC-0126,Nerve - Tibial,GTEX-T5JC,male,20-29,Fast death - natural causes,,2 pieces 5x2 & 4x3 mm; virtually free of extraneous adipose,nerve_tibial
+GTEX-T5JW-1926,Nerve - Tibial,GTEX-T5JW,female,20-29,Ventilator case,,"2 pieces, ~ 5.5mm, partial rim of adherent fat on one,  ~0.8mm",nerve_tibial
+GTEX-T6MN-0326,Nerve - Tibial,GTEX-T6MN,male,50-59,Fast death - natural causes,,2 pieces 5x4 & 5x3 mm; ~30% adipose amongst nerve bundles,nerve_tibial
+GTEX-T6MO-2026,Nerve - Tibial,GTEX-T6MO,female,40-49,Ventilator case,,"2 pieces  ~6mm d. some  interstital fat and focal adherent fat, up to 1mm thick",nerve_tibial
+GTEX-T8EM-1526,Nerve - Tibial,GTEX-T8EM,male,40-49,Ventilator case,,,nerve_tibial
+GTEX-TKQ1-1326,Nerve - Tibial,GTEX-TKQ1,male,30-39,Ventilator case,clean_specimens,"2 pieces,  ~4.5-5mm d.  Excellent clean specimens, minimal fat.",nerve_tibial
+GTEX-TKQ2-1126,Nerve - Tibial,GTEX-TKQ2,male,50-59,Ventilator case,clean_specimens,"2 pieces,  ~3.5mm, good clean specimen, minimal fat",nerve_tibial
+GTEX-TMKS-0426,Nerve - Tibial,GTEX-TMKS,male,50-59,Ventilator case,clean_specimens,"2 pieces   ~4.5mm d.  Good clean specimens, minimal fat.",nerve_tibial
+GTEX-TML8-1626,Nerve - Tibial,GTEX-TML8,female,40-49,Ventilator case,,2 pieces 3x1 & 2x1 mm; ~30 to 50% surrounding adipose,nerve_tibial
+GTEX-TMMY-0526,Nerve - Tibial,GTEX-TMMY,female,40-49,Ventilator case,clean_specimens,"2 pieces  ~4mm d.  Reasonably clean specimens, discontinuous rim of adherent fat up to  ~0.2-0.3mm",nerve_tibial
+GTEX-TMZS-0526,Nerve - Tibial,GTEX-TMZS,male,60-69,Ventilator case,,"2 pieces 8x3 & 4x4 mm; TENDON, not nerve",nerve_tibial
+GTEX-TSE9-0326,Nerve - Tibial,GTEX-TSE9,female,60-69,Ventilator case,,2 pieces 6x4 & 6x4 mm; ~10% adipose at periphery of each,nerve_tibial
+GTEX-U3ZG-0426,Nerve - Tibial,GTEX-U3ZG,male,50-59,Ventilator case,clean_specimens,"2 pieces  ~5mm d.  Minimal  (`0.5mm) discontinuous foci of adherent fat, reasonably clean specimens",nerve_tibial
+GTEX-U3ZH-1626,Nerve - Tibial,GTEX-U3ZH,male,30-39,Ventilator case,,2 pieces  ~1.5mm d.  NOTE: up to 1-1.5mm layer of adherent fat,nerve_tibial
+GTEX-U3ZM-1426,Nerve - Tibial,GTEX-U3ZM,male,40-49,Ventilator case,,2 pieces  ~5mm. Note: One with extensive adherent fat up to 4-5mm thick with commingling smaller nerve twigs,nerve_tibial
+GTEX-U3ZN-2426,Nerve - Tibial,GTEX-U3ZN,female,30-39,Ventilator case,,2 pieces 2x1 & 2x1 mm; ~30-40 % peripheral adipose,nerve_tibial
+GTEX-U412-0126,Nerve - Tibial,GTEX-U412,male,60-69,Intermediate death,clean_specimens,"2 pieces, good clean specimens  ~4mm d.",nerve_tibial
+GTEX-U4B1-2026,Nerve - Tibial,GTEX-U4B1,male,40-49,Ventilator case,,"4 pieces, up to 11x6 mm; all encased in abundant extraneous adipose, up to 4 mm thick",nerve_tibial
+GTEX-U8T8-0426,Nerve - Tibial,GTEX-U8T8,male,60-69,Ventilator case,,"2 pieces, 6x3.3 & 6.2x 6.3mm; > 50% surrounding adipose",nerve_tibial
+GTEX-U8XE-0526,Nerve - Tibial,GTEX-U8XE,male,30-39,Slow death,clean_specimens,2 pieces  ~4mm d.  Good clean specimens,nerve_tibial
+GTEX-UJHI-1826,Nerve - Tibial,GTEX-UJHI,female,50-59,Ventilator case,,"2 pieces, 3x2.5 & 5.5x2mm;~10% external adipose",nerve_tibial
+GTEX-UJMC-1926,Nerve - Tibial,GTEX-UJMC,male,50-59,Ventilator case,clean_specimens,"2 pieces, ~5mm d.  Clean specimens, focal interstitial fat",nerve_tibial
+GTEX-UPIC-2026,Nerve - Tibial,GTEX-UPIC,female,20-29,Ventilator case,,"2 pieces, 1.5x2.5mm & 2x1 mm; consists of nerves not artery, the smaller piece encased in ~60% adipose",nerve_tibial
+GTEX-UPIC-2126,Nerve - Tibial,GTEX-UPIC,female,20-29,Ventilator case,,"2 pieces, 2x1.5mm & 2x4mm; ~20% adjacent adipose",nerve_tibial
+GTEX-UPJH-0626,Nerve - Tibial,GTEX-UPJH,male,50-59,Fast death - natural causes,clean_specimens,2 pieces  ~3.5m d.  Good clean specimens,nerve_tibial
+GTEX-UPK5-0526,Nerve - Tibial,GTEX-UPK5,male,40-49,Ventilator case,,"2 pieces, 6x3.5 & 5x3mm; 10-20% surrounding adipose",nerve_tibial
+GTEX-UTHO-0126,Nerve - Tibial,GTEX-UTHO,male,60-69,Intermediate death,,"2 pieces, 4x3 & 5x4mm; ~40% adipose",nerve_tibial
+GTEX-V1D1-2526,Nerve - Tibial,GTEX-V1D1,male,50-59,Ventilator case,clean_specimens,2 pieces  ~4mm d.  Good clean specimens.,nerve_tibial
+GTEX-V955-2526,Nerve - Tibial,GTEX-V955,male,60-69,Ventilator case,,"2 pieces ~7mm d, 60% interstital fat amongst nerve bundles",nerve_tibial
+GTEX-VJYA-1726,Nerve - Tibial,GTEX-VJYA,male,60-69,Ventilator case,,2 pieces ~4mm d. Adherent fat up to ~1.5mm thick on both,nerve_tibial
+GTEX-VUSG-2726,Nerve - Tibial,GTEX-VUSG,male,50-59,Ventilator case,clean_specimens,2 pieces  ~5mm  d.   Clean specimen; interstital fat/fibrous tissue is  ~15% of specimen,nerve_tibial
+GTEX-VUSH-0426,Nerve - Tibial,GTEX-VUSH,male,30-39,Ventilator case,,"2 pieces, 5x3 & 5x3.5mm; <10% adipose",nerve_tibial
+GTEX-W5WG-2326,Nerve - Tibial,GTEX-W5WG,female,50-59,Ventilator case,clean_specimens,2 pieces  ~4mm  d.  Excellent clean specimens.,nerve_tibial
+GTEX-W5X1-2826,Nerve - Tibial,GTEX-W5X1,female,40-49,Ventilator case,,"2 pieces, 9x5 & 8x5.5mm; 1 with 60% external adipose; 1 with 40% external adipose",nerve_tibial
+GTEX-WCDI-0526,Nerve - Tibial,GTEX-WCDI,male,50-59,Ventilator case,,"2 pieces, one 7x3mm, one 10x1mm, both with extensive adherent fat; actual nerve delineated in both by drawing, fat is encircled",nerve_tibial
+GTEX-WEY5-2226,Nerve - Tibial,GTEX-WEY5,female,40-49,Ventilator case,,"2 pieces, 4x3 & 4x3mm; well trimmed nerves",nerve_tibial
+GTEX-WFG7-2426,Nerve - Tibial,GTEX-WFG7,male,20-29,Ventilator case,,"2 pieces  ~4mm d.  Patchy nubbins of adherent fat, ~0.5mm noted on one",nerve_tibial
+GTEX-WFG8-2526,Nerve - Tibial,GTEX-WFG8,male,20-29,Ventilator case,,"2 pieces  ~5mm d.  ~30% fat, (interstitial), focal ~1mm adherent rim rim of, encircled",nerve_tibial
+GTEX-WFJO-2226,Nerve - Tibial,GTEX-WFJO,male,30-39,Ventilator case,,"2 pieces, 6x5.5mm & 6x3.5mm; ~40% internal and external adipose tissue among nerve bundles",nerve_tibial
+GTEX-WFON-2426,Nerve - Tibial,GTEX-WFON,male,40-49,Ventilator case,,"2 pieces  ~4mm d. 1-2mm adherent fat present on one, delineated.  Nerve tissue encircled",nerve_tibial
+GTEX-WH7G-2626,Nerve - Tibial,GTEX-WH7G,male,40-49,Ventilator case,,"2 pieces, 5x4 & 3x2.5mm; ~30% adipose in 1 piece.",nerve_tibial
+GTEX-WHPG-2426,Nerve - Tibial,GTEX-WHPG,male,50-59,Ventilator case,,"2 pieces, 5.5x3 & 6.5x2mm; 0.5 mm rim of adipose around 1 piece; ~10% inner and outer adipose on the other",nerve_tibial
+GTEX-WHSB-2026,Nerve - Tibial,GTEX-WHSB,male,50-59,Ventilator case,,2 pieces  ~3.5mm d. delineated   ~ 0.5mm discontinuous fat layer,nerve_tibial
+GTEX-WHSE-1026,Nerve - Tibial,GTEX-WHSE,male,20-29,Intermediate death,clean_specimens,2 pieces  ~3.5mm d.  Good clean specimens,nerve_tibial
+GTEX-WHWD-2326,Nerve - Tibial,GTEX-WHWD,male,50-59,Ventilator case,,"2 pieces, 7x2 & 4x3mm; 30% fibrous stroma in one",nerve_tibial
+GTEX-WI4N-0326,Nerve - Tibial,GTEX-WI4N,female,40-49,Ventilator case,clean_specimens,2 pieces ~4mm d.  Good clean specimens,nerve_tibial
+GTEX-WK11-1726,Nerve - Tibial,GTEX-WK11,male,50-59,Fast death - violent,,"2 pieces, 6x4 & 6x4mm; 30% peripheral adipose",nerve_tibial
+GTEX-WL46-0426,Nerve - Tibial,GTEX-WL46,male,50-59,Fast death - natural causes,,2 pieces ~6x3mm ~10% interstial fat aggregates up to ~1mm in dimension,nerve_tibial
+GTEX-WOFL-0326,Nerve - Tibial,GTEX-WOFL,male,60-69,Ventilator case,,"2 pieces, 9x3 & 9x6mm; 30% peripheral and internal adipose",nerve_tibial
+GTEX-WOFM-1626,Nerve - Tibial,GTEX-WOFM,male,20-29,Ventilator case,clean_specimens,2 pieces ~4mm d.  Good clean specimens,nerve_tibial
+GTEX-WQUQ-0626,Nerve - Tibial,GTEX-WQUQ,male,60-69,Ventilator case,,"2 pieces  ~4mm d. Nerve tissue delineated in both, up to 1.5mm discontinuous rim of adherent fat on both",nerve_tibial
+GTEX-WRHK-1826,Nerve - Tibial,GTEX-WRHK,female,20-29,Ventilator case,,"2 pieces, 5x5 & 6x3mm; 1 has 20% stroma, mainly on edges",nerve_tibial
+GTEX-WRHU-0626,Nerve - Tibial,GTEX-WRHU,female,50-59,Fast death - violent,clean_specimens,"2 pieces  ~4mm d, relatively clean specimens",nerve_tibial
+GTEX-WVJS-0326,Nerve - Tibial,GTEX-WVJS,male,50-59,Ventilator case,,"2 pieces, 6x4 & 7x3mm; 20% peripheral adipose",nerve_tibial
+GTEX-WVLH-0526,Nerve - Tibial,GTEX-WVLH,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces ~3mm d.  Relatively clean, focal discontinuous adherent fat ~0.5mm thick on one.",nerve_tibial
+GTEX-WWTW-0426,Nerve - Tibial,GTEX-WWTW,male,50-59,Ventilator case,,2 pieces ~ 3.5mm.  Adherent fat nubbin ~5x3mm on one; rim of fat ~0.5mm on the other,nerve_tibial
+GTEX-WWYW-0326,Nerve - Tibial,GTEX-WWYW,female,50-59,Intermediate death,,"2 pieces ~3mm d.  Adherent discontinuous fat on both up to1.5mm, delineated",nerve_tibial
+GTEX-WXYG-2626,Nerve - Tibial,GTEX-WXYG,female,50-59,Ventilator case,clean_specimens,"2 pieces, 4x4 & 3.5x3mm; Imm nubbin adheren fat on one, otherwise clean",nerve_tibial
+GTEX-WY7C-2626,Nerve - Tibial,GTEX-WY7C,male,50-59,Ventilator case,clean_specimens,2 pieces ~3.5mm d.  Clean.  Trace fat adherent on one,nerve_tibial
+GTEX-WYBS-0326,Nerve - Tibial,GTEX-WYBS,female,60-69,Ventilator case,,"2 pieces, 5x3 & 6x3mm;   ~.5mm adherent discontinuous fat",nerve_tibial
+GTEX-WYJK-0326,Nerve - Tibial,GTEX-WYJK,male,50-59,Ventilator case,,"2 pieces, 7x4 & 7x4mm; discontinuous adherent fat up to ~0.5mm, delineated",nerve_tibial
+GTEX-WYVS-2426,Nerve - Tibial,GTEX-WYVS,female,40-49,Ventilator case,clean_specimens,"2 pieces, 7x4 & 5x3mm; clean specimens, minimal adherent fat delineated",nerve_tibial
+GTEX-WZTO-1026,Nerve - Tibial,GTEX-WZTO,male,40-49,Fast death - violent,,"2 pieces, 6x4 & 6x5mm; discontinous rim of adherent fat up to ~0.5mm, delineated",nerve_tibial
+GTEX-X15G-2526,Nerve - Tibial,GTEX-X15G,female,50-59,Ventilator case,clean_specimens,"2 pieces, 5x3 & 6x3mm; good clean  specimens, adherent fat",nerve_tibial
+GTEX-X261-0426,Nerve - Tibial,GTEX-X261,male,50-59,Slow death,,"2 pieces, 5x3 & 5x3mm; up to 0.3mm adipose around each piece",nerve_tibial
+GTEX-X3Y1-2426,Nerve - Tibial,GTEX-X3Y1,male,40-49,Ventilator case,,"2 pieces, 4x3 & 5x3mm; minimal external adipose",nerve_tibial
+GTEX-X4EO-0126,Nerve - Tibial,GTEX-X4EO,female,60-69,Intermediate death,,"2 pieces, 5x3 & 4x3mm; up to 40% adipose externally and internally among nerve fibers",nerve_tibial
+GTEX-X4EP-0726,Nerve - Tibial,GTEX-X4EP,female,60-69,Slow death,clean_specimens,"2 pieces, 4x2.5 & 4x2mm; reasonably clean specimens",nerve_tibial
+GTEX-X4LF-1926,Nerve - Tibial,GTEX-X4LF,male,50-59,Ventilator case,clean_specimens,"4 pieces, up to 9x3.5mm; adherent nubbin of fat on 2, delineated, generally clean good specimens",nerve_tibial
+GTEX-X4XX-0426,Nerve - Tibial,GTEX-X4XX,male,60-69,Slow death,"diabetic, sclerotic","2 pieces, 8x3 & 7x4mm;  Small arteries are sclerotic. (Hypertension, diabetes-history). 30% peripheral adipose",nerve_tibial
+GTEX-X4XY-0426,Nerve - Tibial,GTEX-X4XY,male,60-69,Ventilator case,,"2 pieces, 6x5 & 5x4mm; 10-20% adipose",nerve_tibial
+GTEX-X585-0426,Nerve - Tibial,GTEX-X585,male,50-59,Slow death,,"2 pieces, 5x2 & 7x2.5mm;  Well trimmed nerve: <5% adipose.",nerve_tibial
+GTEX-X5EB-2526,Nerve - Tibial,GTEX-X5EB,male,40-49,Ventilator case,,"2 pieces, 6x2 & 5.5x3mm; minimal adherent discontinuous fat on one  ~0.5mm,  delineated",nerve_tibial
+GTEX-X62O-1526,Nerve - Tibial,GTEX-X62O,male,50-59,Ventilator case,clean_specimens,"2 pieces, 5x5 & 6x5mm; fairly clean, one iwht adherent nubbing of fat, delineated",nerve_tibial
+GTEX-X638-0426,Nerve - Tibial,GTEX-X638,female,70-79,Ventilator case,,"2 pieces, 5.5x3 & 5x3.5mm; Up to 20% internal and extraneous adipose.",nerve_tibial
+GTEX-X88G-0526,Nerve - Tibial,GTEX-X88G,male,30-39,Ventilator case,,"2 pieces  ~7x4 mm, interstitial fat up to ~15-20% both aliquots, delineated",nerve_tibial
+GTEX-X8HC-0326,Nerve - Tibial,GTEX-X8HC,female,50-59,Ventilator case,,"2 pieces, 6x3 & 4.5x3mm;  10% external adipose.",nerve_tibial
+GTEX-XAJ8-1126,Nerve - Tibial,GTEX-XAJ8,male,40-49,Ventilator case,,"2 pieces  ~4x3mm.  Discontinuous adherent fat up to ~1mm, delineated",nerve_tibial
+GTEX-XBEC-0426,Nerve - Tibial,GTEX-XBEC,male,50-59,Fast death - natural causes,clean_specimens,2 pieces 5x4 & 6x4.5mm; good clean specimens,nerve_tibial
+GTEX-XBED-2526,Nerve - Tibial,GTEX-XBED,male,60-69,Ventilator case,,"2 pieces, 4x3.5 & 6x4mm; ~10% adipose in and around each",nerve_tibial
+GTEX-XBEW-0926,Nerve - Tibial,GTEX-XBEW,male,40-49,Ventilator case,clean_specimens,"2 pieces, 6x2.5 & 5x3mm; good clean specimen, minimal (<0.1mm) adherent fat on one aliquot",nerve_tibial
+GTEX-XGQ4-2526,Nerve - Tibial,GTEX-XGQ4,male,50-59,Ventilator case,clean_specimens,"2 pieces ~6x3.5mm, good clean speimens, no adherent fat",nerve_tibial
+GTEX-XK95-1226,Nerve - Tibial,GTEX-XK95,male,40-49,Ventilator case,,2 pieces. 5x4 & 6x4mm; No adipose,nerve_tibial
+GTEX-XLM4-0526,Nerve - Tibial,GTEX-XLM4,male,60-69,Intermediate death,,"2 pieces, 8x3.5 & 9x3mm; adherent rim of fat  ~0.5-1mm around both, delineated",nerve_tibial
+GTEX-XMD1-0526,Nerve - Tibial,GTEX-XMD1,male,60-69,Slow death,clean_specimens,"2 pieces 5.5x4 & 5x3mm; gnerally clean specimens, focal 0.5mm adherent nubbing of fat on one adlquot, delineated",nerve_tibial
+GTEX-XMD2-0326,Nerve - Tibial,GTEX-XMD2,female,60-69,Ventilator case,,"2 pieces, 5x4 & 7x3mm; 20% peripheral adipose",nerve_tibial
+GTEX-XMD3-0326,Nerve - Tibial,GTEX-XMD3,female,50-59,Ventilator case,,2 pieces. 5x2 & 4x3mm; 20% external adipose,nerve_tibial
+GTEX-XMK1-2426,Nerve - Tibial,GTEX-XMK1,male,40-49,Ventilator case,clean_specimens,2 pieces. 5x4 & 6x5mm; good clean specimen,nerve_tibial
+GTEX-XOT4-0326,Nerve - Tibial,GTEX-XOT4,female,60-69,Fast death - natural causes,,2 pieces. 6x3 & 6x2mm; 10% external adipose in 1; none in other,nerve_tibial
+GTEX-XOTO-0326,Nerve - Tibial,GTEX-XOTO,male,50-59,Fast death - natural causes,,"2 pieces. 5x3 & 5x3mm; discontinuous adherent fat ~0.5mm, delineated",nerve_tibial
+GTEX-XPT6-2126,Nerve - Tibial,GTEX-XPT6,male,20-29,Ventilator case,,"2 pieces  ~4mm d.  Minimal adherent rim of fat on one, delineated,  ~0.5mm",nerve_tibial
+GTEX-XPVG-2826,Nerve - Tibial,GTEX-XPVG,male,50-59,Ventilator case,,"2 pieces. 4x4 & 6x5mm;  well trimmed, but with 20% internal fibroadipose",nerve_tibial
+GTEX-XQ3S-0226,Nerve - Tibial,GTEX-XQ3S,male,20-29,Fast death - violent,clean_specimens,"2 pieces, 4x4 & 3x2.5mm; good clean aliquots",nerve_tibial
+GTEX-XQ8I-0726,Nerve - Tibial,GTEX-XQ8I,male,50-59,Ventilator case,,"2 pieces, 6x3 & 5x3mm; up to 0.6 mm external adipose",nerve_tibial
+GTEX-XUJ4-2726,Nerve - Tibial,GTEX-XUJ4,female,60-69,Ventilator case,,"4 pieces, up to 10x6mm;  a few discontinous rims adherent fat up to ~0.5mm delineated",nerve_tibial
+GTEX-XUW1-0626,Nerve - Tibial,GTEX-XUW1,female,50-59,Ventilator case,,"2 pieces, 4x3 & 5x3mm; 10 & 20% internal and external adipose",nerve_tibial
+GTEX-XUYS-0526,Nerve - Tibial,GTEX-XUYS,male,50-59,Ventilator case,,"2 pieces, 6x3 & 7x5mm;  NO NERVE. Tendon: dense fibrous and adipose tissue",nerve_tibial
+GTEX-XUZC-1926,Nerve - Tibial,GTEX-XUZC,female,30-39,Ventilator case,,"2 pieces, 8x4.5 & 8x6mm; discontinous adherent rim of fat, delineated , up to ~1mm thick",nerve_tibial
+GTEX-XV7Q-2726,Nerve - Tibial,GTEX-XV7Q,female,40-49,Ventilator case,,"2 pieces, 7.5x5 & 8x6mm;  ~1-15.mm rim of discontinuous flat, rep areas delineated",nerve_tibial
+GTEX-XXEK-2526,Nerve - Tibial,GTEX-XXEK,male,50-59,Ventilator case,,"2 pieces, 4x3 & 5x4mm; both with rim of adherent fat up to 0.5mm, delineated",nerve_tibial
+GTEX-XYKS-2526,Nerve - Tibial,GTEX-XYKS,female,60-69,Ventilator case,,"2 pieces, 5x4 & 6x4mm; 25% adherent adipose",nerve_tibial
+GTEX-Y111-0526,Nerve - Tibial,GTEX-Y111,male,50-59,Fast death - violent,,"2 pieces, 6x3 & 4x3mm; specimens are both nerve",nerve_tibial
+GTEX-Y114-2626,Nerve - Tibial,GTEX-Y114,female,50-59,Ventilator case,,"2 pieces, 5x4.5 & 5x4mm; minute adherent nubbins of fat on both, ~0.5mm",nerve_tibial
+GTEX-Y3I4-2426,Nerve - Tibial,GTEX-Y3I4,male,50-59,Ventilator case,clean_specimens,"2 pieces, 4.5x3 & 4x3mm; good clean specimens",nerve_tibial
+GTEX-Y3IK-2726,Nerve - Tibial,GTEX-Y3IK,female,50-59,Ventilator case,,"2 pieces, 4x3 & 4x3mm. Well trimmed of adipose.",nerve_tibial
+GTEX-Y5LM-2226,Nerve - Tibial,GTEX-Y5LM,female,40-49,Ventilator case,,4 pieces. up to 6x4mm; Well dissected.,nerve_tibial
+GTEX-Y5V5-2626,Nerve - Tibial,GTEX-Y5V5,female,60-69,Ventilator case,clean_specimens,"4 pieces, up to 6x5mm; good clean specimens",nerve_tibial
+GTEX-Y5V6-2726,Nerve - Tibial,GTEX-Y5V6,male,60-69,Ventilator case,,"2 pieces, 5x3 & 5x3mm; 1 has 20% external adipose",nerve_tibial
+GTEX-Y8DK-0426,Nerve - Tibial,GTEX-Y8DK,male,60-69,Fast death - natural causes,,2 pieces 4 x 3 and 4 x 3 mm.  One piece with 10% adipose.,nerve_tibial
+GTEX-Y8E4-0826,Nerve - Tibial,GTEX-Y8E4,male,40-49,Ventilator case,,"2 pieces, 6x4 & 5x4mm; small amount of attached adipose tissue.",nerve_tibial
+GTEX-Y8E5-0526,Nerve - Tibial,GTEX-Y8E5,male,60-69,Ventilator case,,"2 pieces, 5.5x5 & 5x5mm; 1.4mm adherent nubbin of fat on one  section",nerve_tibial
+GTEX-Y8LW-2126,Nerve - Tibial,GTEX-Y8LW,female,50-59,Ventilator case,,"2 pieces, 5.5x4 & 5x4.5mm; discontinous rim of adherent fat up to ~0.7mm on one",nerve_tibial
+GTEX-Y9LG-2226,Nerve - Tibial,GTEX-Y9LG,male,30-39,Ventilator case,,"4 pieces, up to 8x5mm;  Each with 30% adipose.",nerve_tibial
+GTEX-YB5E-2326,Nerve - Tibial,GTEX-YB5E,male,40-49,Ventilator case,,"4 pieces, up to ~0.7-1.0, discontinous rim of adherent fat ,rep areas delineated",nerve_tibial
+GTEX-YB5K-2426,Nerve - Tibial,GTEX-YB5K,female,40-49,Ventilator case,,2 pieces. 5x4 & 6x4mm; 10% adherent adipose.,nerve_tibial
+GTEX-YBZK-0426,Nerve - Tibial,GTEX-YBZK,female,50-59,Ventilator case,,3 pieces ~5mm d.  ; two with significant attached adipose tissue nubbins up to ~3mm thick.,nerve_tibial
+GTEX-YEC3-1626,Nerve - Tibial,GTEX-YEC3,male,50-59,Ventilator case,,"2 pieces, 6x4 and 4x2mm; one with adherent nubbin of fat, delineated",nerve_tibial
+GTEX-YEC4-2526,Nerve - Tibial,GTEX-YEC4,male,40-49,Ventilator case,,"2 pieces,  ~3.5mm d.",nerve_tibial
+GTEX-YECK-0426,Nerve - Tibial,GTEX-YECK,male,60-69,Intermediate death,,"2 pieces, 3x3 and 4x4mm; one has partial rim of adherent fat,  ~0.5mm thick, delineated",nerve_tibial
+GTEX-YF7O-2626,Nerve - Tibial,GTEX-YF7O,male,50-59,Ventilator case,,"4 pieces, from 4.5x4 to 5x5mm; 40% intyernsal and external fat",nerve_tibial
+GTEX-YFC4-0826,Nerve - Tibial,GTEX-YFC4,female,40-49,Fast death - violent,clean_specimens,"2 pieces, excellent specimen, mere trace of adherent fat on one, delineated",nerve_tibial
+GTEX-YFCO-2326,Nerve - Tibial,GTEX-YFCO,male,40-49,Ventilator case,,4 pieces; approximately 30% internal and external fibroadipose tissue,nerve_tibial
+GTEX-YJ89-0326,Nerve - Tibial,GTEX-YJ89,male,60-69,Fast death - natural causes,,2 pieces; well-trimmed,nerve_tibial
+GTEX-YJ8A-0726,Nerve - Tibial,GTEX-YJ8A,male,20-29,Ventilator case,,2 pieces; 1 mm external fat on one edge (marked) and 1.4x0.7mm dense fibrous tissue on other end (marked),nerve_tibial
+GTEX-YJ8O-2626,Nerve - Tibial,GTEX-YJ8O,female,40-49,Fast death - violent,clean_specimens,"2 pieces; rim of discontinuous fat on one, up to ~0.5mm; fairly clean specimens",nerve_tibial
+GTEX-Z93S-0826,Nerve - Tibial,GTEX-Z93S,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces, good clean specimens, trace minute nubbins of fat on one aliquot,  ~0.3mm",nerve_tibial
+GTEX-Z93T-0526,Nerve - Tibial,GTEX-Z93T,male,50-59,Fast death - natural causes,,2 pieces. NO NERVE; all adipose,nerve_tibial
+GTEX-Z9EW-2026,Nerve - Tibial,GTEX-Z9EW,male,40-49,Ventilator case,,"2 pieces, one with discontinuous rim of fibroadipose tissue up to ~1mm thick",nerve_tibial
+GTEX-ZA64-2126,Nerve - Tibial,GTEX-ZA64,male,20-29,Ventilator case,clean_specimens,"4 pieces, clean specimens; minute adherent nubbin of fat or vessel on 2; delineated",nerve_tibial
+GTEX-ZAB4-1826,Nerve - Tibial,GTEX-ZAB4,male,40-49,Slow death,,2 pieces. Well trimmed. Small amount of peripheral fat.,nerve_tibial
+GTEX-ZAB5-1926,Nerve - Tibial,GTEX-ZAB5,male,50-59,Ventilator case,,"2 pieces, each with a rim of adipose tissue, up to 1.4mm in thickness on one.  Fat comprises ~15% of one piece and ~35% of the other.",nerve_tibial
+GTEX-ZAJG-0326,Nerve - Tibial,GTEX-ZAJG,female,50-59,Intermediate death,,"2 pieces, one with discontinuous rim of fat, ~0.5mm",nerve_tibial
+GTEX-ZAK1-0326,Nerve - Tibial,GTEX-ZAK1,female,50-59,Fast death - natural causes,,"2 pieces, prominent adherent fat on both, 0.5-2mm, delineated",nerve_tibial
+GTEX-ZAKK-0526,Nerve - Tibial,GTEX-ZAKK,male,70-79,Fast death - natural causes,"diabetic, fibrosis",2 pieces.  Prominent (diabetic) small artery disease (thickening). Stromal fibrosis. Nerve fibers appear atrophic.,nerve_tibial
+GTEX-ZC5H-0526,Nerve - Tibial,GTEX-ZC5H,female,40-49,Ventilator case,,"3 pieces, two with trace adherent fatty nubbins  ~0.5-1.0mm, delineated",nerve_tibial
+GTEX-ZDTS-0326,Nerve - Tibial,GTEX-ZDTS,male,60-69,Fast death - natural causes,,2  pieces,nerve_tibial
+GTEX-ZDTT-2526,Nerve - Tibial,GTEX-ZDTT,male,60-69,Ventilator case,,"4 pieces, 2 not intact, all with residual attached adipose tissue.",nerve_tibial
+GTEX-ZDXO-1926,Nerve - Tibial,GTEX-ZDXO,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces, good clean specimens, trace adherent fat, delineated",nerve_tibial
+GTEX-ZDYS-1526,Nerve - Tibial,GTEX-ZDYS,male,50-59,Ventilator case,,"2 pieces, ~5% fat (internal and attached) on one piece",nerve_tibial
+GTEX-ZE7O-0426,Nerve - Tibial,GTEX-ZE7O,female,50-59,Fast death - natural causes,,"2 pieces, encased in fat up to 1 mm thick",nerve_tibial
+GTEX-ZE9C-0226,Nerve - Tibial,GTEX-ZE9C,male,60-69,Fast death - natural causes,,"2 pieces, trace fatty nubbin on one, delineated",nerve_tibial
+GTEX-ZEX8-2726,Nerve - Tibial,GTEX-ZEX8,male,50-59,Ventilator case,,"4 pieces. 3 of 4 pieces have large central holes, possibly related to unfixed or fractured fat",nerve_tibial
+GTEX-ZF28-0326,Nerve - Tibial,GTEX-ZF28,male,60-69,Slow death,,2 pieces. 20% external and internal fat,nerve_tibial
+GTEX-ZF29-2626,Nerve - Tibial,GTEX-ZF29,female,60-69,Ventilator case,,"4 pieces, nerve with 30-50% attached and internal fibroadipose tissue, some central defects suggesting incomplete fixation",nerve_tibial
+GTEX-ZF2S-2526,Nerve - Tibial,GTEX-ZF2S,female,50-59,Ventilator case,,4 pieces. up to 40% perineural fibroadipose tissue,nerve_tibial
+GTEX-ZF3C-0426,Nerve - Tibial,GTEX-ZF3C,female,50-59,Ventilator case,,2 pieces with minimal attached and internal fat,nerve_tibial
+GTEX-ZG7Y-0526,Nerve - Tibial,GTEX-ZG7Y,male,50-59,Ventilator case,clean_specimens,"2 pieces, good clean specimens",nerve_tibial
+GTEX-ZGAY-0826,Nerve - Tibial,GTEX-ZGAY,female,40-49,Ventilator case,clean_specimens,"2 pieces, minimal adherent fat, good specimens",nerve_tibial
+GTEX-ZLFU-2326,Nerve - Tibial,GTEX-ZLFU,male,40-49,Ventilator case,,4 pieces. Well trimmed.,nerve_tibial
+GTEX-ZLV1-2026,Nerve - Tibial,GTEX-ZLV1,female,60-69,Ventilator case,clean_specimens,"2 pieces, adherent ~1mm nubbin/rim of fat on one, delineated but good specimens generally",nerve_tibial
+GTEX-ZLWG-2526,Nerve - Tibial,GTEX-ZLWG,female,50-59,Ventilator case,,"4 pieces, up to 10% attached adipose tissue",nerve_tibial
+GTEX-ZP4G-2226,Nerve - Tibial,GTEX-ZP4G,female,20-29,Ventilator case,clean_specimens,"4 pieces, good clean specimens.",nerve_tibial
+GTEX-ZPCL-2426,Nerve - Tibial,GTEX-ZPCL,female,60-69,Ventilator case,,2 pieces. 20% internal fat,nerve_tibial
+GTEX-ZPIC-2126,Nerve - Tibial,GTEX-ZPIC,female,40-49,Ventilator case,clean_specimens,"2 pieces, trace ahderent fat, good specimens",nerve_tibial
+GTEX-ZPU1-2826,Nerve - Tibial,GTEX-ZPU1,male,40-49,Ventilator case,,"2 pieces, not artery as originally labeled; nerve with some internal and up to 1.3mm attached adipose tissue",nerve_tibial
+GTEX-ZQG8-1326,Nerve - Tibial,GTEX-ZQG8,female,60-69,Ventilator case,,2 pieces. 1 with 40% internal fibrous stroma,nerve_tibial
+GTEX-ZQUD-1226,Nerve - Tibial,GTEX-ZQUD,male,30-39,Ventilator case,,"2 pieces, trace adherent fat ~0.3mm",nerve_tibial
+GTEX-ZT9W-2626,Nerve - Tibial,GTEX-ZT9W,male,50-59,Ventilator case,,4 pieces. up to 25% external fat,nerve_tibial
+GTEX-ZT9X-2126,Nerve - Tibial,GTEX-ZT9X,male,40-49,Ventilator case,clean_specimens,"2 pieces, good clean specimens",nerve_tibial
+GTEX-ZTPG-0526,Nerve - Tibial,GTEX-ZTPG,female,20-29,Ventilator case,,"4 pieces, loose perineural stroma",nerve_tibial
+GTEX-ZTSS-1726,Nerve - Tibial,GTEX-ZTSS,male,40-49,Ventilator case,,2 pieces. well trimmed,nerve_tibial
+GTEX-ZTTD-0726,Nerve - Tibial,GTEX-ZTTD,male,50-59,Intermediate death,clean_specimens,"2 pieces, trace adherent fat on one aliquot, delineated, good clean specimens",nerve_tibial
+GTEX-ZTX8-1726,Nerve - Tibial,GTEX-ZTX8,male,20-29,Ventilator case,,"2 pieces, includes ~30% adipose and loose connective tissue",nerve_tibial
+GTEX-ZU9S-0726,Nerve - Tibial,GTEX-ZU9S,male,30-39,Fast death - natural causes,,2 pieces 40% internal and external fat,nerve_tibial
+GTEX-ZUA1-0526,Nerve - Tibial,GTEX-ZUA1,male,40-49,Fast death - natural causes,,2 pieces; 1 with 40% external and 10% internal fat; other with 20% internal and 20% external fat.,nerve_tibial
+GTEX-ZV68-0326,Nerve - Tibial,GTEX-ZV68,female,50-59,Fast death - natural causes,clean_specimens,"2 pieces, good specimens, small ~1mm nubbin of fat on one aliquot, delineated",nerve_tibial
+GTEX-ZV6S-2426,Nerve - Tibial,GTEX-ZV6S,female,40-49,Ventilator case,,"2 pieces, includes ~40% attached and internal fat",nerve_tibial
+GTEX-ZV7C-2326,Nerve - Tibial,GTEX-ZV7C,male,50-59,Ventilator case,,"2 pieces, discontinuous rim of adherent fat on both, up to ~2.5mm, delineated",nerve_tibial
+GTEX-ZVE1-0326,Nerve - Tibial,GTEX-ZVE1,female,50-59,Ventilator case,,"2 pieces, both with partial rim of adipose tissue (~20-40% total)",nerve_tibial
+GTEX-ZVE2-0426,Nerve - Tibial,GTEX-ZVE2,male,50-59,Ventilator case,,"2 pieces, larger piece has ~10% adipose tissue",nerve_tibial
+GTEX-ZVP2-2026,Nerve - Tibial,GTEX-ZVP2,male,50-59,Ventilator case,,"2 pieces, up to ~50% adipose tissue",nerve_tibial
+GTEX-ZVT2-2326,Nerve - Tibial,GTEX-ZVT2,female,50-59,Ventilator case,,"2 pieces, 30% internal and external fat",nerve_tibial
+GTEX-ZVT3-0326,Nerve - Tibial,GTEX-ZVT3,female,60-69,Fast death - natural causes,,"2 pieces, nubbin of adherent fat up to 0.6mm on one aliquot, delineated",nerve_tibial
+GTEX-ZVT4-0426,Nerve - Tibial,GTEX-ZVT4,female,50-59,Intermediate death,,"2 pieces, discontinuous rim of fat up to ~1mm on one, delineated",nerve_tibial
+GTEX-ZVTK-0826,Nerve - Tibial,GTEX-ZVTK,male,20-29,Fast death - violent,,"2 pieces, 1 with 20%, other with 10% external and internal fat",nerve_tibial
+GTEX-ZVZO-0526,Nerve - Tibial,GTEX-ZVZO,male,40-49,Fast death - violent,,"3 pieces, larger 2 include up to 50% fat, not fully intact (? poor fixation)",nerve_tibial
+GTEX-ZVZP-2626,Nerve - Tibial,GTEX-ZVZP,male,50-59,Ventilator case,,4 pieces; up to 30% internal and external fat,nerve_tibial
+GTEX-ZVZQ-0126,Nerve - Tibial,GTEX-ZVZQ,female,60-69,Fast death - violent,,"2 pieces, rims of discontinuous fat up to  1mm, delineated",nerve_tibial
+GTEX-ZWKS-0826,Nerve - Tibial,GTEX-ZWKS,male,30-39,Slow death,clean_specimens,"2 pieces, fairly good specimens, discontinuous adherent rims of fat, delineated, up to ~0.5mm",nerve_tibial
+GTEX-ZXES-1926,Nerve - Tibial,GTEX-ZXES,female,30-39,Ventilator case,,"2 pieces, 10-30% fat and fibrous tissue",nerve_tibial
+GTEX-ZXG5-0426,Nerve - Tibial,GTEX-ZXG5,male,60-69,Intermediate death,,2 pieces,nerve_tibial
+GTEX-ZY6K-2126,Nerve - Tibial,GTEX-ZY6K,male,50-59,Ventilator case,,"2 pieces, up to 30% internal and attached adipose tissue",nerve_tibial
+GTEX-ZYFC-0626,Nerve - Tibial,GTEX-ZYFC,male,50-59,Fast death - natural causes,,"2 pieces, one piece includes rim of attached fat (~40%), second piece is only ~5% nerve (predominantly fat and vessels), central hole",nerve_tibial
+GTEX-ZYFD-0426,Nerve - Tibial,GTEX-ZYFD,male,50-59,Intermediate death,,2 pieces; 10% internal fat,nerve_tibial
+GTEX-ZYFG-2526,Nerve - Tibial,GTEX-ZYFG,female,60-69,Ventilator case,,"4 pieces, each with up to 1 mm external fat",nerve_tibial
+GTEX-ZYT6-1426,Nerve - Tibial,GTEX-ZYT6,male,30-39,Fast death - violent,clean_specimens,"2 pieces, trace nubbins adherent fat ~0.5mm, delineated; good specimens",nerve_tibial
+GTEX-ZYVF-0726,Nerve - Tibial,GTEX-ZYVF,female,50-59,Ventilator case,,"2 pieces, discontinuous rim of adherent fat, 0.3-0.5mm, delineated",nerve_tibial
+GTEX-ZYW4-0326,Nerve - Tibial,GTEX-ZYW4,male,60-69,Intermediate death,,2 pieces; 10% fat,nerve_tibial
+GTEX-ZYWO-2726,Nerve - Tibial,GTEX-ZYWO,female,40-49,Ventilator case,,2 pieces,nerve_tibial
+GTEX-ZYY3-0326,Nerve - Tibial,GTEX-ZYY3,female,60-69,Slow death,,"2 pieces, discontinous rim of adherent fat, ~0.5-1 mm",nerve_tibial
+GTEX-ZZ64-1426,Nerve - Tibial,GTEX-ZZ64,male,20-29,Ventilator case,,2 pieces,nerve_tibial
+GTEX-ZZPT-0426,Nerve - Tibial,GTEX-ZZPT,male,50-59,Slow death,clean_specimens,"2 pieces, good clean specimens, minimal fat",nerve_tibial
+GTEX-ZZPU-2326,Nerve - Tibial,GTEX-ZZPU,female,50-59,Ventilator case,,"2 pieces, significant attached and internal adipose tissue on both pieces (30-60%)",nerve_tibial

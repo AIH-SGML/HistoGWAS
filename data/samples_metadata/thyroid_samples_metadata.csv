@@ -1,0 +1,903 @@
+Tissue Sample ID,Tissue,Subject ID,Sex,Age Bracket,Hardy Scale,Pathology Categories,Pathology Notes,Tissue ID
+GTEX-1117F-1426,Thyroid,GTEX-1117F,female,60-69,Slow death,,"2 pieces, moderately autolyzed",thyroid
+GTEX-111CU-0226,Thyroid,GTEX-111CU,male,50-59,Ventilator case,,"2 pieces, small amount of attached fat and skeletal muscle",thyroid
+GTEX-111FC-1026,Thyroid,GTEX-111FC,male,60-69,Fast death - violent,,"2 pieces, moderate autolysis",thyroid
+GTEX-111VG-0526,Thyroid,GTEX-111VG,male,60-69,Intermediate death,"fibrosis, hashimoto",2 pieces; Hashimoto thyroiditis with moderate fibrosis; each has 20% peripheral fat,thyroid
+GTEX-111YS-0726,Thyroid,GTEX-111YS,male,60-69,Ventilator case,nodularity,"3 small, irregular, fragmented pieces; nodular; smallest piece is largely fat and fibrous stroma",thyroid
+GTEX-1122O-0226,Thyroid,GTEX-1122O,female,60-69,Ventilator case,nodularity,"2 pieces, some nodular change",thyroid
+GTEX-1128S-0126,Thyroid,GTEX-1128S,female,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities noted",thyroid
+GTEX-113JC-0126,Thyroid,GTEX-113JC,female,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-117XS-0526,Thyroid,GTEX-117XS,male,60-69,Fast death - natural causes,"hyperplasia, nodularity","2 pieces, nodular hyperplasia",thyroid
+GTEX-117YW-0126,Thyroid,GTEX-117YW,male,50-59,Intermediate death,"fibrosis, nodularity","2 pieces, some fibrosis and nodularity, few collections of lymphocytes",thyroid
+GTEX-117YX-1226,Thyroid,GTEX-117YX,male,50-59,Ventilator case,,2 pieces,thyroid
+GTEX-1192W-0126,Thyroid,GTEX-1192W,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no major abnormalities",thyroid
+GTEX-1192X-1126,Thyroid,GTEX-1192X,male,50-59,Slow death,no_abnormalities,"2 pieces, no significant abnormalities",thyroid
+GTEX-11DXX-0226,Thyroid,GTEX-11DXX,female,60-69,Ventilator case,fibrosis,"2 pieces, some fibrosis",thyroid
+GTEX-11DXY-0426,Thyroid,GTEX-11DXY,male,60-69,Fast death - natural causes,,"2 pieces, few collections of lymphocytes",thyroid
+GTEX-11DXZ-0926,Thyroid,GTEX-11DXZ,male,50-59,Ventilator case,"fibrosis, nodularity","2 pieces, slight nodularity/fibrosis, smaller piece is ~30% fat and vessels",thyroid
+GTEX-11DYG-0826,Thyroid,GTEX-11DYG,male,60-69,Fast death - natural causes,,2 pieces; 1 with 10% internal fat,thyroid
+GTEX-11DZ1-2726,Thyroid,GTEX-11DZ1,male,50-59,Slow death,,2 pieces,thyroid
+GTEX-11EI6-0726,Thyroid,GTEX-11EI6,male,60-69,Slow death,"cyst, no_abnormalities","2 pieces, minute colloid cyst, no abnormalities",thyroid
+GTEX-11EM3-0126,Thyroid,GTEX-11EM3,female,20-29,Ventilator case,,"2 pieces, small attachment of fibrofatty tissue",thyroid
+GTEX-11EMC-0226,Thyroid,GTEX-11EMC,female,60-69,Fast death - natural causes,,"2 pieces, no significant findings",thyroid
+GTEX-11EQ8-0826,Thyroid,GTEX-11EQ8,male,60-69,Slow death,"fibrosis, nodularity","2 pieces, fibrosis, nodularity with few collections of lymphocytes",thyroid
+GTEX-11EQ9-0626,Thyroid,GTEX-11EQ9,male,30-39,Fast death - natural causes,,"2 pieces, focal lyphocytic thyroiditis, delineated, adherent fibrous/adipose tissue ~1mm",thyroid
+GTEX-11GS4-0826,Thyroid,GTEX-11GS4,male,60-69,Fast death - natural causes,,"2 pieces, one piece is ~30% fat/fibrous tissue, few collections of lymphocytes",thyroid
+GTEX-11GSO-0626,Thyroid,GTEX-11GSO,male,60-69,Fast death - natural causes,"hyperplasia, nodularity","2 pieces, multinodular hyperplasia",thyroid
+GTEX-11GSP-0126,Thyroid,GTEX-11GSP,female,60-69,Fast death - natural causes,hashimoto,"2 pieces; Hashimoto thyroiditis, moderate; 40% fibrovascular and adipose tissue.",thyroid
+GTEX-11I78-0526,Thyroid,GTEX-11I78,female,50-59,Ventilator case,nodularity,"2 pieces, features of mulinodular goitre",thyroid
+GTEX-11ILO-2626,Thyroid,GTEX-11ILO,female,40-49,Ventilator case,fibrosis,"2 pieces both atrophic with fibrosis, 1 with 50% adjacent fibroadipose tissue; other with 90%adjacent fibroadipose tissue and a lymph node; material of dubious value",thyroid
+GTEX-11LCK-0526,Thyroid,GTEX-11LCK,male,30-39,Ventilator case,,"2 pieces, regressive areas, adherent fat/fibrous tags, delineated",thyroid
+GTEX-11NSD-0126,Thyroid,GTEX-11NSD,male,20-29,Ventilator case,"cyst, goiter","2 pieces, ~2mm colloid cyst, featurs of goiter, regressive changes",thyroid
+GTEX-11NUK-1026,Thyroid,GTEX-11NUK,male,50-59,Fast death - natural causes,,"2 pieces, thyroid with moderate autolysis, not testis",thyroid
+GTEX-11NV4-0626,Thyroid,GTEX-11NV4,male,60-69,Fast death - natural causes,hashimoto,"2 pieces, Hashimoto's thyroiditis with atypical lymphoid infiltrate",thyroid
+GTEX-11O72-2326,Thyroid,GTEX-11O72,male,40-49,Fast death - natural causes,,2 pieces,thyroid
+GTEX-11OF3-0626,Thyroid,GTEX-11OF3,male,60-69,Fast death - natural causes,,2 pieces,thyroid
+GTEX-11P7K-0226,Thyroid,GTEX-11P7K,male,30-39,Ventilator case,,2 pieces; well dissected,thyroid
+GTEX-11P81-0126,Thyroid,GTEX-11P81,female,30-39,Ventilator case,,"2 pieces, one is ~50% skeletal muscle, fat and fibrous tissue",thyroid
+GTEX-11P82-0226,Thyroid,GTEX-11P82,male,20-29,Fast death - violent,,2 pieces; incidental 3.5mm perithyroidal lymph node encircled; 2.5mm nubbin of attached fat delineated; thyroid unremarkable,thyroid
+GTEX-11PRG-1426,Thyroid,GTEX-11PRG,male,50-59,Fast death - natural causes,,"2 pieces, moderatedly autolyzed, regressive changes",thyroid
+GTEX-11TT1-1126,Thyroid,GTEX-11TT1,male,20-29,Ventilator case,,"2 pieces, focus of solid cell nests",thyroid
+GTEX-11TTK-0826,Thyroid,GTEX-11TTK,female,60-69,Slow death,,2 pieces,thyroid
+GTEX-11TUW-0226,Thyroid,GTEX-11TUW,male,60-69,Fast death - natural causes,"fibrosis, nodularity","2 pieces, some nodularity/fibrosis, single collection of lymphocytes",thyroid
+GTEX-11UD2-0626,Thyroid,GTEX-11UD2,male,50-59,Fast death - natural causes,,"2 pieces, no significant findings",thyroid
+GTEX-11VI4-0226,Thyroid,GTEX-11VI4,female,40-49,Ventilator case,,2 pieces,thyroid
+GTEX-11WQC-0126,Thyroid,GTEX-11WQC,male,60-69,Fast death - natural causes,,"3 pieces, favor medullary carcinoma, involving the entire specimen (up to 8mm in greatest dimension)",thyroid
+GTEX-11WQK-1326,Thyroid,GTEX-11WQK,male,50-59,Fast death - natural causes,,"2 pieces, unusually pronounced autolysis, ~20% total fat (~3mm nubbin adherent fat on one aliquot, delineated)",thyroid
+GTEX-11XUK-0226,Thyroid,GTEX-11XUK,female,40-49,Ventilator case,hashimoto,2 pieces; moderate degree of Hashimoto (lymphocytic) thyroiditis,thyroid
+GTEX-11ZTS-1126,Thyroid,GTEX-11ZTS,female,60-69,Fast death - natural causes,"goiter, nodularity","2 pieces, nodular goiter, regresive changes",thyroid
+GTEX-11ZTT-1026,Thyroid,GTEX-11ZTT,female,60-69,Ventilator case,,"2 pieces, one piece is ~30% fibrous tissue and large vessels",thyroid
+GTEX-11ZU8-0326,Thyroid,GTEX-11ZU8,male,60-69,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-11ZVC-0126,Thyroid,GTEX-11ZVC,female,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-1211K-0726,Thyroid,GTEX-1211K,female,60-69,Ventilator case,,"2 pieces, few small lymphoid aggregates, not sufficient for Hashimotos, but may be early stage condition.",thyroid
+GTEX-1212Z-0426,Thyroid,GTEX-1212Z,male,60-69,Fast death - natural causes,,"2 pieces, regressive changes",thyroid
+GTEX-12584-0826,Thyroid,GTEX-12584,male,40-49,Intermediate death,,2 pieces,thyroid
+GTEX-12696-0326,Thyroid,GTEX-12696,male,60-69,Intermediate death,,"2 pieces, regressive changes",thyroid
+GTEX-1269C-0226,Thyroid,GTEX-1269C,female,60-69,Fast death - natural causes,,"2 pieces, ~5-10% of each is fat and fibrous/vascular tissue, regressive change",thyroid
+GTEX-1269W-0926,Thyroid,GTEX-1269W,male,60-69,Slow death,,,thyroid
+GTEX-12BJ1-0426,Thyroid,GTEX-12BJ1,male,60-69,Ventilator case,"goiter, nodularity","2 pieces, single lymphoid aggregate (encircled), features of multinodular goiter",thyroid
+GTEX-12C56-0326,Thyroid,GTEX-12C56,male,20-29,Ventilator case,cyst,"2 pieces, focal cystic change",thyroid
+GTEX-12KS4-0526,Thyroid,GTEX-12KS4,male,30-39,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-12WS9-0726,Thyroid,GTEX-12WS9,female,50-59,Intermediate death,,"2 pieces, no abornmalities",thyroid
+GTEX-12WSA-0826,Thyroid,GTEX-12WSA,male,60-69,Slow death,no_abnormalities,"2 pieces, moderately autolyzed but no abnormalities",thyroid
+GTEX-12WSB-0726,Thyroid,GTEX-12WSB,female,60-69,Slow death,"fibrosis, goiter, hashimoto, nodularity",2 pieces; fibrosis and  lymphoid infiltrate consistent with Hashimoto thyroiditis with nodular goiter,thyroid
+GTEX-12WSC-0826,Thyroid,GTEX-12WSC,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-12WSD-0926,Thyroid,GTEX-12WSD,female,60-69,Fast death - natural causes,no_abnormalities,"1 piece, no significant abnormalities",thyroid
+GTEX-12WSE-1226,Thyroid,GTEX-12WSE,male,20-29,Fast death - natural causes,,2 pieces,thyroid
+GTEX-12WSF-0626,Thyroid,GTEX-12WSF,male,70-79,Slow death,,"2 pieces, abnormal, infiltrating neoplasm, oncocytic features, effaaces entire specimen",thyroid
+GTEX-12WSG-0226,Thyroid,GTEX-12WSG,female,50-59,Ventilator case,"fibrosis, inflammation","4 pieces, one is skeletal muscle, one is 30% vessels/fibrofatty tissue, patchy chronic inflammation and fibrosis",thyroid
+GTEX-12WSH-0226,Thyroid,GTEX-12WSH,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-12WSI-1026,Thyroid,GTEX-12WSI,male,50-59,Fast death - natural causes,no_abnormalities,"2 pieces, no significant abnormalities",thyroid
+GTEX-12WSJ-0326,Thyroid,GTEX-12WSJ,female,40-49,Ventilator case,,2 pieces,thyroid
+GTEX-12WSK-0926,Thyroid,GTEX-12WSK,female,40-49,Ventilator case,"cyst, no_abnormalities","2 pieces, no significant abnormalities; few incidental colloid cysts; rep encircled",thyroid
+GTEX-12WSL-0626,Thyroid,GTEX-12WSL,male,50-59,Ventilator case,,2 pieces; small focus [0.3 mm] parathyroid in 1 piece; 20% fat in 1 piece,thyroid
+GTEX-12WSN-0726,Thyroid,GTEX-12WSN,male,40-49,Ventilator case,fibrosis,2 pieces; fibrosis represents about 30% of tissue; variably sized thyroid follicles,thyroid
+GTEX-12ZZX-1226,Thyroid,GTEX-12ZZX,female,40-49,Fast death - violent,hashimoto,"2 pieces, lymphoid aggregates (delineated) and regressive changes suggest Hashimoto/autoimmune thyroiditis.  Possible poorly preserved parathyroid ensquared",thyroid
+GTEX-12ZZY-0826,Thyroid,GTEX-12ZZY,male,60-69,Fast death - natural causes,"goiter, scarring",2 piecesm features of goiter; prominent regressive changes/scarring,thyroid
+GTEX-12ZZZ-1226,Thyroid,GTEX-12ZZZ,male,60-69,Fast death - natural causes,,2 pieces,thyroid
+GTEX-13111-0226,Thyroid,GTEX-13111,male,50-59,Ventilator case,fibrosis,2 pieces; multifocal mild stromal fibrosis compromising thyroid follicles,thyroid
+GTEX-13112-0326,Thyroid,GTEX-13112,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-13113-0126,Thyroid,GTEX-13113,female,60-69,Ventilator case,"goiter, nodularity","2 pieces, multinodular goiter, colloid nodules  up to ~5mm",thyroid
+GTEX-1313W-0726,Thyroid,GTEX-1313W,female,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-1314G-0226,Thyroid,GTEX-1314G,male,30-39,Ventilator case,,"2 pieces; skeletal muscle, NOT thyroid",thyroid
+GTEX-131XE-0126,Thyroid,GTEX-131XE,male,50-59,Ventilator case,,2 pieces,thyroid
+GTEX-131XF-1826,Thyroid,GTEX-131XF,male,60-69,Ventilator case,hashimoto,2 pieces; several small lymphoid aggregates that could represent lymphocytic [Hashimoto] thyroiditis,thyroid
+GTEX-131XG-0226,Thyroid,GTEX-131XG,female,50-59,Ventilator case,inflammation,"2 pieces, mild chronic inflammation, possible autoimmune thyroiditis",thyroid
+GTEX-131XH-0526,Thyroid,GTEX-131XH,male,50-59,Fast death - natural causes,,"2 pieces, no significant histopathologic changes",thyroid
+GTEX-131XW-0826,Thyroid,GTEX-131XW,female,50-59,Slow death,"fibrosis, inflammation, nodularity","2 pieces, some fibrosis and nodularity with degenerative change and focal chronic inflammation",thyroid
+GTEX-131YS-0726,Thyroid,GTEX-131YS,female,60-69,Fast death - natural causes,"fibrosis, hashimoto, nodularity","2 pieces; fibrosis with nodularity, thyroid follicles and scattered aggregates of lymphocytes (likely Hashimoto's thyroiditis); one piece includes ~30% of fibrous tissue and large vessels",thyroid
+GTEX-132AR-1126,Thyroid,GTEX-132AR,female,50-59,Ventilator case,atrophy,2 pieces; focal atrophy,thyroid
+GTEX-132NY-1026,Thyroid,GTEX-132NY,male,60-69,Fast death - violent,no_abnormalities,"2 pieces, no significant abnormalities",thyroid
+GTEX-132Q8-0826,Thyroid,GTEX-132Q8,male,60-69,Slow death,,"2 pieces; not thyroid, squamous epithelium and skeletal and smooth muscle",thyroid
+GTEX-132QS-0326,Thyroid,GTEX-132QS,male,60-69,Ventilator case,cyst,"2 pieces small (~1.5mm) colloid cyst, delineated",thyroid
+GTEX-1339X-0226,Thyroid,GTEX-1339X,male,40-49,Ventilator case,hashimoto,2 pieces; Hashimoto thyroiditis,thyroid
+GTEX-133LE-0326,Thyroid,GTEX-133LE,female,20-29,Ventilator case,,2 pieces; well dissected,thyroid
+GTEX-1399Q-0826,Thyroid,GTEX-1399Q,male,40-49,Ventilator case,fibrosis,2 pieces; interstitial fibrosis,thyroid
+GTEX-1399R-0126,Thyroid,GTEX-1399R,male,30-39,Ventilator case,,2 pieces,thyroid
+GTEX-1399S-0626,Thyroid,GTEX-1399S,female,30-39,Ventilator case,no_abnormalities,"2 pieces, no significant abnormalities noted.",thyroid
+GTEX-1399T-0126,Thyroid,GTEX-1399T,male,60-69,Fast death - natural causes,fibrosis,2 pieces; interstitial fibrosis,thyroid
+GTEX-1399U-0326,Thyroid,GTEX-1399U,female,50-59,Ventilator case,no_abnormalities,"2 pieces, no significant abnormality",thyroid
+GTEX-139D8-0526,Thyroid,GTEX-139D8,female,30-39,Ventilator case,"atrophy, fibrosis",2 pieces; focal atrophy & fibrosis,thyroid
+GTEX-139T6-0326,Thyroid,GTEX-139T6,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no significant abnormalities noted",thyroid
+GTEX-139TS-0126,Thyroid,GTEX-139TS,male,60-69,Fast death - natural causes,,2 pieces,thyroid
+GTEX-139TT-1126,Thyroid,GTEX-139TT,male,60-69,Fast death - natural causes,,2 pieces; no lesions,thyroid
+GTEX-139TU-0926,Thyroid,GTEX-139TU,male,60-69,Intermediate death,fibrosis,2 pieces; some fibrosis,thyroid
+GTEX-139UC-0126,Thyroid,GTEX-139UC,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no significant abnormalities",thyroid
+GTEX-139UW-0126,Thyroid,GTEX-139UW,male,60-69,Fast death - natural causes,hashimoto,2 pieces; several small foci of lymphoid cells [annotated]; possible early Hashimoto thyroiditis,thyroid
+GTEX-139YR-1226,Thyroid,GTEX-139YR,male,50-59,Ventilator case,,"2 pieces; one piece is ~15% fat, vessels, and nerve",thyroid
+GTEX-13CF2-0126,Thyroid,GTEX-13CF2,male,60-69,Fast death - natural causes,,"2 pieces, ~30% adherent fibrous/fatty tissue, delineated (one aliquot)",thyroid
+GTEX-13CF3-0926,Thyroid,GTEX-13CF3,female,60-69,Ventilator case,,2 pieces,thyroid
+GTEX-13CIG-1026,Thyroid,GTEX-13CIG,male,50-59,Fast death - natural causes,hashimoto,2 pieces; moderate lymphocytic infiltrate (Hashimoto thyroiditis),thyroid
+GTEX-13CZU-0226,Thyroid,GTEX-13CZU,male,20-29,Ventilator case,,2 pieces; 10% fat and lymphoid nodule in each at edge [annotated],thyroid
+GTEX-13CZV-0926,Thyroid,GTEX-13CZV,male,60-69,Fast death - natural causes,,2 pieces,thyroid
+GTEX-13D11-0226,Thyroid,GTEX-13D11,female,50-59,Ventilator case,"goiter, nodularity","2 pieces, noudular (microfollicular) goiter, focal lymphyocytic thyroiditis",thyroid
+GTEX-13FH7-0126,Thyroid,GTEX-13FH7,female,50-59,Ventilator case,hashimoto,"2 pieces; several lymphocytic aggregates, ? Hashimoto thyroiditis",thyroid
+GTEX-13FHO-0926,Thyroid,GTEX-13FHO,male,60-69,Ventilator case,"goiter, nodularity",2 pieces; features of multinodular goiter,thyroid
+GTEX-13FHP-0926,Thyroid,GTEX-13FHP,male,50-59,Slow death,,2 pieces,thyroid
+GTEX-13FLV-0226,Thyroid,GTEX-13FLV,male,50-59,Fast death - natural causes,,2 pieces; 5-10% of one piece is fat/vessels,thyroid
+GTEX-13FLW-0326,Thyroid,GTEX-13FLW,male,50-59,Fast death - natural causes,nodularity,2 pieces; some nodularity,thyroid
+GTEX-13FTW-0626,Thyroid,GTEX-13FTW,male,40-49,Ventilator case,"adenoma, fibrosis, nodularity","2 pieces; some fibrosis and nodularity; one piece is ~20% fat, fibrocollagenous tissue and large vessels; small adenomatoid nodule",thyroid
+GTEX-13FTY-0726,Thyroid,GTEX-13FTY,female,40-49,Fast death - natural causes,fibrosis,"2 pieces; some fibrosis, few larger vessels",thyroid
+GTEX-13FTZ-1726,Thyroid,GTEX-13FTZ,male,60-69,Fast death - natural causes,,"2 pieces; skeletal muscle, not thyroid",thyroid
+GTEX-13FXS-0726,Thyroid,GTEX-13FXS,male,50-59,Fast death - natural causes,,2 pieces; occasional lymphoid aggregates,thyroid
+GTEX-13G51-1226,Thyroid,GTEX-13G51,male,60-69,Fast death - natural causes,"atrophy, fibrosis","2 pieces; interstitial fibrosis with associated atrophy of follicles, both include region of fat and large vessels (10% and 30%)",thyroid
+GTEX-13IVO-0926,Thyroid,GTEX-13IVO,male,70-79,Slow death,fibrosis,2 pieces; patchy interstitial fibrosis and variably sized follicles; small amount of external fat attached to one piece,thyroid
+GTEX-13JUV-0426,Thyroid,GTEX-13JUV,female,40-49,Ventilator case,"hyperplasia, nodularity",2 pieces; nodular hyperplasia,thyroid
+GTEX-13JVG-0926,Thyroid,GTEX-13JVG,male,60-69,Fast death - natural causes,"hyperplasia, nodularity","2 pieces; nodular hyperplasia, regressive changes",thyroid
+GTEX-13N11-1026,Thyroid,GTEX-13N11,female,50-59,Ventilator case,fibrosis,"2 pieces; some interstitial fibrosis, one piece includes ~20% fibrous/vascular tissue",thyroid
+GTEX-13N1W-0826,Thyroid,GTEX-13N1W,male,70-79,Ventilator case,"hyperplasia, nodularity",2 pieces; nodular hyperplasia,thyroid
+GTEX-13N2G-0726,Thyroid,GTEX-13N2G,male,60-69,Fast death - natural causes,"atrophy, fibrosis",2 pieces: mild patchy fibrosis with follicular atrophy,thyroid
+GTEX-13NYB-0726,Thyroid,GTEX-13NYB,male,40-49,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13NYC-2426,Thyroid,GTEX-13NYC,male,60-69,Fast death - natural causes,"goiter, nodularity","2 pieces; nodular goiter with regressive changes, patchy lymphocytic infiltrate;  one of two pieces consists of 30% fibrovasular and adipose tissue (outlined)",thyroid
+GTEX-13NYS-0926,Thyroid,GTEX-13NYS,male,60-69,Slow death,,2 pieces,thyroid
+GTEX-13NZ8-0226,Thyroid,GTEX-13NZ8,female,60-69,Slow death,adenoma,2 pieces; microfollicular adenomatous nodules; 15% external fat on 1 piece,thyroid
+GTEX-13NZ9-1126,Thyroid,GTEX-13NZ9,male,50-59,Ventilator case,hashimoto,"2 pieces, lymphocytic/Hashimoto thyroiditis, rep lymphoid aggregates delineated",thyroid
+GTEX-13NZA-1026,Thyroid,GTEX-13NZA,male,60-69,Fast death - natural causes,,"2 pieces; includes minimal fat, vessels, and skeletal muscle",thyroid
+GTEX-13O1R-0826,Thyroid,GTEX-13O1R,male,60-69,Fast death - natural causes,,2 pieces; mild lymphocytic infiltrate,thyroid
+GTEX-13O21-2226,Thyroid,GTEX-13O21,male,50-59,Ventilator case,"goiter, nodularity","2 pieces, mild nodular goitre, trace adhrent fat, ~0.5mm thick,",thyroid
+GTEX-13O3O-0926,Thyroid,GTEX-13O3O,female,60-69,Intermediate death,"atrophy, fibrosis",2 pieces; 1.5 mm focus of atrophy & fibrosis,thyroid
+GTEX-13O3P-0726,Thyroid,GTEX-13O3P,male,50-59,Slow death,,2 pieces,thyroid
+GTEX-13O3Q-0626,Thyroid,GTEX-13O3Q,male,50-59,Fast death - natural causes,,2 pieces; 1 has 20% internal & external  fibrofatty tissue [in part outlined],thyroid
+GTEX-13O61-0226,Thyroid,GTEX-13O61,male,60-69,Ventilator case,,2 pieces; 20 & 10 % fibrovascular stroma [outlined],thyroid
+GTEX-13OVG-0226,Thyroid,GTEX-13OVG,male,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13OVH-0826,Thyroid,GTEX-13OVH,male,70-79,Fast death - natural causes,hashimoto,"2 pieces, a few lymphoid aggregates suggest Hashimoto's component",thyroid
+GTEX-13OVI-0826,Thyroid,GTEX-13OVI,female,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13OVJ-0626,Thyroid,GTEX-13OVJ,female,50-59,Fast death - natural causes,nodularity,2 pieces; some nodularity and regressive change,thyroid
+GTEX-13OVK-0226,Thyroid,GTEX-13OVK,male,40-49,Ventilator case,,2 pieces; 30% of 1 piece is extrathyroidal fibrous tissue [marked],thyroid
+GTEX-13OVL-1626,Thyroid,GTEX-13OVL,male,50-59,Fast death - natural causes,,"2 pieces; no thyroid, only skeletal muscle",thyroid
+GTEX-13OW5-0626,Thyroid,GTEX-13OW5,male,60-69,Intermediate death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13OW6-0726,Thyroid,GTEX-13OW6,male,50-59,Fast death - natural causes,nodularity,"2 pieces; 5% and 20% interspersed fat and vessels, some nodularity",thyroid
+GTEX-13OW7-0826,Thyroid,GTEX-13OW7,male,50-59,Fast death - natural causes,,"2 pieces, no abnmormalities",thyroid
+GTEX-13OW8-0126,Thyroid,GTEX-13OW8,male,60-69,Fast death - natural causes,"goiter, nodularity",2 pieces; nodular goiter with focal solid cell nest,thyroid
+GTEX-13PDP-1026,Thyroid,GTEX-13PDP,male,60-69,Slow death,,"2 pieces; thyroid with small portion of attached fat and skeletal muscle, few solid cell nests",thyroid
+GTEX-13PL6-1026,Thyroid,GTEX-13PL6,female,40-49,Intermediate death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13PL7-1426,Thyroid,GTEX-13PL7,female,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13PLJ-0826,Thyroid,GTEX-13PLJ,female,60-69,Fast death - natural causes,"goiter, nodularity",2 pieces; nodular goitre,thyroid
+GTEX-13PVQ-0726,Thyroid,GTEX-13PVQ,male,50-59,Fast death - natural causes,,2 pieces; 10% fibrous tissue in 1 piece,thyroid
+GTEX-13PVR-0626,Thyroid,GTEX-13PVR,female,60-69,Ventilator case,"goiter, nodularity","2 pieces, nodular goitre",thyroid
+GTEX-13QBU-0626,Thyroid,GTEX-13QBU,female,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13QIC-0726,Thyroid,GTEX-13QIC,female,60-69,Fast death - natural causes,fibrosis,2 pieces; mild interstitial fibrosis,thyroid
+GTEX-13QJ3-0926,Thyroid,GTEX-13QJ3,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13QJC-0826,Thyroid,GTEX-13QJC,female,60-69,Fast death - natural causes,"fibrosis, hashimoto",2 pieces; moderate degree of lymphocytic (Hashimoto) thyroiditis; second piece has more fibrosis than larger piece,thyroid
+GTEX-13RTJ-0326,Thyroid,GTEX-13RTJ,male,60-69,Slow death,adenoma,"2 pieces, microfollicular adenomatoid nodule, ~2mm, delineated",thyroid
+GTEX-13RTK-0326,Thyroid,GTEX-13RTK,male,20-29,Ventilator case,,"2 pieces adherent fat up to ~2.5mm, rep delineated",thyroid
+GTEX-13S7M-2926,Thyroid,GTEX-13S7M,female,60-69,Fast death - natural causes,,2 pieces; 20% diffusely distributed internal fat,thyroid
+GTEX-13S86-1126,Thyroid,GTEX-13S86,male,40-49,Ventilator case,,2 pieces,thyroid
+GTEX-13SLW-0726,Thyroid,GTEX-13SLW,male,70-79,Fast death - natural causes,cyst,"2 pieces, colloid cysts up to ~1.5mm, rep delineated",thyroid
+GTEX-13SLX-0726,Thyroid,GTEX-13SLX,female,50-59,Fast death - natural causes,"fibrosis, nodularity",2 pieces; interstitial fibrosis with some nodularity,thyroid
+GTEX-13U4I-0526,Thyroid,GTEX-13U4I,female,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13VXT-0626,Thyroid,GTEX-13VXT,female,20-29,Ventilator case,,2 pieces; fibrofatty capsule up to 1mm thick on 1 piece,thyroid
+GTEX-13VXU-0826,Thyroid,GTEX-13VXU,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-13W3W-0826,Thyroid,GTEX-13W3W,female,60-69,Ventilator case,,"2 pieces, skeletal (?strap) muscle",thyroid
+GTEX-13W46-0926,Thyroid,GTEX-13W46,male,50-59,Ventilator case,fibrosis,2 pieces; some interstitial fibrosis,thyroid
+GTEX-13X6H-0526,Thyroid,GTEX-13X6H,female,50-59,Ventilator case,,2 pieces; 1 piece has 20% external fat,thyroid
+GTEX-13X6I-0326,Thyroid,GTEX-13X6I,male,60-69,Slow death,nodularity,2 pieces; some nodularity and regressive change,thyroid
+GTEX-13X6J-0826,Thyroid,GTEX-13X6J,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-13X6K-1426,Thyroid,GTEX-13X6K,female,60-69,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-13YAN-0926,Thyroid,GTEX-13YAN,male,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1445S-0726,Thyroid,GTEX-1445S,male,60-69,Intermediate death,no_abnormalities,"2 pieces, no abnormalities; fragment of fibrofatty tissue delineated",thyroid
+GTEX-144FL-2326,Thyroid,GTEX-144FL,male,50-59,Fast death - natural causes,atrophy,"2 pieces, atrophy? infiltrative process, markedly autolyzed",thyroid
+GTEX-144GL-1226,Thyroid,GTEX-144GL,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-144GM-0226,Thyroid,GTEX-144GM,male,20-29,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-144GN-2026,Thyroid,GTEX-144GN,male,50-59,Ventilator case,,"2 pieces; skeletal muscle, NOT thyroid",thyroid
+GTEX-144GO-0126,Thyroid,GTEX-144GO,male,60-69,Slow death,fibrosis,2 pieces; attached thin rim of skeletal muscle (outlined); interstitial fibrosis,thyroid
+GTEX-145LS-0826,Thyroid,GTEX-145LS,female,60-69,Slow death,,2 pieces;,thyroid
+GTEX-145LT-0226,Thyroid,GTEX-145LT,male,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-145LU-0426,Thyroid,GTEX-145LU,male,50-59,Fast death - natural causes,,2 eces; 0.5mm fibrous capsule on 1 edge,thyroid
+GTEX-145LV-1126,Thyroid,GTEX-145LV,male,50-59,Ventilator case,,2 pieces; 10% fibrofatty portion on 1 edge,thyroid
+GTEX-145ME-0126,Thyroid,GTEX-145ME,female,40-49,Ventilator case,no_abnormalities,"2 pieces, ~20 adherent fat, delineated, no abnormalities",thyroid
+GTEX-145MF-0126,Thyroid,GTEX-145MF,male,50-59,Fast death - natural causes,no_abnormalities,"6 pieces, no abnormalities",thyroid
+GTEX-145MG-0826,Thyroid,GTEX-145MG,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-145MH-0426,Thyroid,GTEX-145MH,male,50-59,Fast death - violent,fibrosis,"2 pieces; one piece is 20% fat, some fibrosis",thyroid
+GTEX-145MI-1126,Thyroid,GTEX-145MI,female,60-69,Fast death - natural causes,,2 pieces,thyroid
+GTEX-145MN-0426,Thyroid,GTEX-145MN,male,30-39,Ventilator case,,2 pieces; 2.5mm centyral focus of skeletal muscle [annotated],thyroid
+GTEX-145MO-0226,Thyroid,GTEX-145MO,male,60-69,Intermediate death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-146FH-0726,Thyroid,GTEX-146FH,female,50-59,Ventilator case,,"2 pieces; lymph nodes & fat, no thyroid",thyroid
+GTEX-146FQ-0726,Thyroid,GTEX-146FQ,male,30-39,Ventilator case,fibrosis,2 pieces; mild interstitial fibrosis,thyroid
+GTEX-146FR-0326,Thyroid,GTEX-146FR,female,60-69,Ventilator case,"cyst, no_abnormalities","2 pieces, incidental 2mm colloid cyst, encircled, no abnormalities",thyroid
+GTEX-14753-0926,Thyroid,GTEX-14753,male,60-69,Slow death,,2 pieces,thyroid
+GTEX-1477Z-0226,Thyroid,GTEX-1477Z,male,60-69,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-147F3-2126,Thyroid,GTEX-147F3,female,50-59,Ventilator case,,1 piece; includes attachment of skeletal muscle (outlined),thyroid
+GTEX-147F4-0826,Thyroid,GTEX-147F4,male,50-59,Fast death - natural causes,,"2 pieces, one section is ~30% adherent adjacent fat; delineated",thyroid
+GTEX-147GR-0726,Thyroid,GTEX-147GR,male,60-69,Fast death - natural causes,,2 pieces; well trimmed,thyroid
+GTEX-147JS-0826,Thyroid,GTEX-147JS,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no significant abnormalities, nubbin of fibrous tissue, delineated",thyroid
+GTEX-148VI-0526,Thyroid,GTEX-148VI,female,60-69,Ventilator case,,2 pieces,thyroid
+GTEX-148VJ-0726,Thyroid,GTEX-148VJ,male,70-79,Fast death - natural causes,cyst,"2 pieces, colloid cysts up to ~2mm, delineated",thyroid
+GTEX-1497J-0126,Thyroid,GTEX-1497J,male,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-14A5H-0726,Thyroid,GTEX-14A5H,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-14A5I-0826,Thyroid,GTEX-14A5I,female,50-59,Slow death,goiter,"2 pieces, late stage goitre/thyroid itis with regressive changes; 4x3mm incidental adherent parathyroid gland, delineated",thyroid
+GTEX-14A6H-2426,Thyroid,GTEX-14A6H,male,30-39,Ventilator case,,2 pieces; focal solid cell nests,thyroid
+GTEX-14ABY-0926,Thyroid,GTEX-14ABY,male,50-59,Fast death - natural causes,"congestion, fibrosis, hashimoto",2 pieces; interstitial fibrosis and aggregates of lymphocytes (outlined) consistent with Hashimoto thyroiditis; congestion,thyroid
+GTEX-14AS3-0226,Thyroid,GTEX-14AS3,female,40-49,Ventilator case,"fibrosis, hashimoto, nodularity","2 pieces; some fibrosis and nodularity with lymphocytic aggregates, c/w Hashimoto's thyroiditis",thyroid
+GTEX-14ASI-0726,Thyroid,GTEX-14ASI,male,60-69,Fast death - natural causes,,2 pieces,thyroid
+GTEX-14B4R-0126,Thyroid,GTEX-14B4R,male,30-39,Ventilator case,,2 pieces; one piece is up to 20% fat/vessels,thyroid
+GTEX-14BIL-0726,Thyroid,GTEX-14BIL,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-14BIM-0826,Thyroid,GTEX-14BIM,female,60-69,Intermediate death,hashimoto,"2 pieces, end-stage Hashimoto's thyroiditis with prominent regressive change, ~20% adherent fat, delineated",thyroid
+GTEX-14BIN-0126,Thyroid,GTEX-14BIN,female,50-59,Fast death - natural causes,hashimoto,"2 pieces; several foci of lymphocytes, possible Hashimoto",thyroid
+GTEX-14BMU-0226,Thyroid,GTEX-14BMU,female,20-29,Ventilator case,hashimoto,"2 pieces, diffuse lymphocytic or Hashimoto's thyroiditis, rep lymphoid aggregates delineated",thyroid
+GTEX-14BMV-0726,Thyroid,GTEX-14BMV,male,50-59,Fast death - natural causes,,2  pieces,thyroid
+GTEX-14C38-0826,Thyroid,GTEX-14C38,male,50-59,Ventilator case,goiter,"2 pieces, mild goitre, regressive changes",thyroid
+GTEX-14C39-0226,Thyroid,GTEX-14C39,male,40-49,Fast death - natural causes,no_abnormalities,"2 pieces, no significant abnormalities",thyroid
+GTEX-14C5O-0826,Thyroid,GTEX-14C5O,male,60-69,Slow death,hyperplasia,2 pieces; preserved follicular architecture with some evidence of hyperplasia,thyroid
+GTEX-14DAQ-0826,Thyroid,GTEX-14DAQ,female,60-69,Slow death,,"2 pieces, regressive changes",thyroid
+GTEX-14DAR-0126,Thyroid,GTEX-14DAR,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-14E6C-2626,Thyroid,GTEX-14E6C,male,40-49,Slow death,,2 pieces,thyroid
+GTEX-14E6D-0626,Thyroid,GTEX-14E6D,male,50-59,Fast death - natural causes,fibrosis,2 pieces; mild to moderate interstitial fibrosis,thyroid
+GTEX-14E6E-0326,Thyroid,GTEX-14E6E,male,30-39,Ventilator case,,2 pieces,thyroid
+GTEX-14E7W-0926,Thyroid,GTEX-14E7W,male,70-79,Fast death - natural causes,fibrosis,2 pieces; mild interstitial fibrosis,thyroid
+GTEX-14H4A-1226,Thyroid,GTEX-14H4A,female,40-49,Ventilator case,,2 pieces,thyroid
+GTEX-14ICK-1626,Thyroid,GTEX-14ICK,male,40-49,Ventilator case,,2 pieces; scattered atrophic areas,thyroid
+GTEX-14ICL-0426,Thyroid,GTEX-14ICL,male,30-39,Ventilator case,goiter,"2 pieces, regressive changes, mild goitre. Focal minute nodule of adherent fat, delineated,",thyroid
+GTEX-14JFF-0926,Thyroid,GTEX-14JFF,male,60-69,Slow death,no_abnormalities,"2 pieces, no significant histopathologic abnormalities",thyroid
+GTEX-14JG1-0726,Thyroid,GTEX-14JG1,male,40-49,Fast death - natural causes,,2 pieces; well dissected,thyroid
+GTEX-14JG6-1326,Thyroid,GTEX-14JG6,female,30-39,Ventilator case,"cyst, fibrosis","2 pieces; focal cystic change, fibrosis, and multinucleated giant cells",thyroid
+GTEX-14JIY-1226,Thyroid,GTEX-14JIY,male,60-69,Fast death - natural causes,"cyst, goiter","2 pieces, goiter, regressive changes/cystic degeneration, foci delineated",thyroid
+GTEX-14LLW-0926,Thyroid,GTEX-14LLW,female,70-79,Slow death,hashimoto,2 pieces: 1 has a 2.6x1.7 mm parathyroid [labeled] and surrounding stroma; lymphoid collections may represent Hashimoto  thyroiditis. Piece with parathyroid has about 50% thyroid tissue.,thyroid
+GTEX-14PHW-2926,Thyroid,GTEX-14PHW,female,60-69,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-14PHX-0326,Thyroid,GTEX-14PHX,male,50-59,Ventilator case,,2 pieces; small collections of lymphocytes,thyroid
+GTEX-14PII-0826,Thyroid,GTEX-14PII,male,60-69,Slow death,"cyst, no_abnormalities","2 pieces, no abnormalities; small colloid cyst (~1mm)",thyroid
+GTEX-14PJ2-0726,Thyroid,GTEX-14PJ2,male,50-59,Ventilator case,"congestion, fibrosis",2 pieces; interstitial fibrosis and scattered collapsed follicles; congestion,thyroid
+GTEX-14PJ3-0126,Thyroid,GTEX-14PJ3,male,50-59,Ventilator case,,"2 pieces; one is up to 30% fat/vessels, second includes smaller portion of fat/vessels/skeletal muscle",thyroid
+GTEX-14PJ4-0326,Thyroid,GTEX-14PJ4,male,60-69,Ventilator case,adenoma,2 pieces; adenomatous nodules (outlined),thyroid
+GTEX-14PJ5-0126,Thyroid,GTEX-14PJ5,female,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities.  1mm nubbin of fibrovascular tissue, delineated",thyroid
+GTEX-14PJ6-0326,Thyroid,GTEX-14PJ6,female,60-69,Ventilator case,hashimoto,"2 pieces, adherent rim of fat up to ~1mm, delineated, patchy Hashimoto thyroiditis, mild",thyroid
+GTEX-14PJM-1326,Thyroid,GTEX-14PJM,female,50-59,Fast death - natural causes,hashimoto,2 pieces; moderate lymphocytic (Hashimoto) thyroiditis,thyroid
+GTEX-14PJN-0126,Thyroid,GTEX-14PJN,male,30-39,Ventilator case,,"2 pieces, adherent fat/vascular tssue, delineated, up to ~4mm",thyroid
+GTEX-14PJO-0626,Thyroid,GTEX-14PJO,male,60-69,Slow death,,2 pieces,thyroid
+GTEX-14PK6-0426,Thyroid,GTEX-14PK6,female,70-79,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-14PKU-0326,Thyroid,GTEX-14PKU,female,40-49,Ventilator case,no_abnormalities,"2 pieces, no significant abnormalities",thyroid
+GTEX-14PKV-0626,Thyroid,GTEX-14PKV,female,20-29,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-14PN3-0826,Thyroid,GTEX-14PN3,female,60-69,Ventilator case,,2 pieces,thyroid
+GTEX-14PN4-1526,Thyroid,GTEX-14PN4,male,50-59,Fast death - natural causes,"fibrosis, nodularity",2 pieces; nodular with interstitial fibrosis with some follicuar obliteration; ~5-10% external fat,thyroid
+GTEX-14PQA-1226,Thyroid,GTEX-14PQA,female,50-59,Slow death,"fibrosis, nodularity","2 pieces; multinodular with some fibrosis, one piece includes portion of fat/fibrous tissue",thyroid
+GTEX-14XAO-0426,Thyroid,GTEX-14XAO,female,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-15CHC-0126,Thyroid,GTEX-15CHC,female,60-69,Ventilator case,,2 pieces; 10% external fibrofatty tissue,thyroid
+GTEX-15CHQ-0826,Thyroid,GTEX-15CHQ,male,60-69,Slow death,,2 pieces,thyroid
+GTEX-15CHR-1726,Thyroid,GTEX-15CHR,male,50-59,Ventilator case,fibrosis,"2 pieces; variably sized follicles, some fibrosis",thyroid
+GTEX-15CHS-0926,Thyroid,GTEX-15CHS,male,50-59,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-15D1Q-0626,Thyroid,GTEX-15D1Q,male,40-49,Fast death - natural causes,,"2 pieces, mild thryoiditis",thyroid
+GTEX-15D79-0626,Thyroid,GTEX-15D79,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-15DCD-1126,Thyroid,GTEX-15DCD,female,70-79,Fast death - natural causes,"fibrosis, nodularity",2 pieces; mild interstitial fibrosis and nodularity,thyroid
+GTEX-15DCE-1026,Thyroid,GTEX-15DCE,male,20-29,Ventilator case,,2 pieces,thyroid
+GTEX-15DCZ-1226,Thyroid,GTEX-15DCZ,female,20-29,Ventilator case,"cyst, goiter","2 pieces, mild goiter, ~1mm colloid cyst",thyroid
+GTEX-15DDE-0626,Thyroid,GTEX-15DDE,female,50-59,Intermediate death,goiter,"2 pieces, mild goitre",thyroid
+GTEX-15DYW-0726,Thyroid,GTEX-15DYW,female,60-69,Fast death - natural causes,,2 pieces; no lesions,thyroid
+GTEX-15DZA-0226,Thyroid,GTEX-15DZA,female,30-39,Ventilator case,no_abnormalities,"2 pieces, no abnormalities, one section with nubbin of adherenat fat/vascular elements up to ~1mm, delineated",thyroid
+GTEX-15EO6-0126,Thyroid,GTEX-15EO6,male,50-59,Slow death,,"2 pieces, mild regressive changes",thyroid
+GTEX-15EOM-1026,Thyroid,GTEX-15EOM,female,20-29,Ventilator case,,"2 pieces; over-sized, one piece is ~30% fibrofatty tissue/vessels",thyroid
+GTEX-15ER7-0726,Thyroid,GTEX-15ER7,female,20-29,Fast death - violent,"fibrosis, nodularity",2 pieces; some fibrosis and vague nodularity,thyroid
+GTEX-15ETS-0526,Thyroid,GTEX-15ETS,female,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-15EU6-1426,Thyroid,GTEX-15EU6,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-15F5U-0326,Thyroid,GTEX-15F5U,male,40-49,Ventilator case,,2 pieces,thyroid
+GTEX-15FZZ-0226,Thyroid,GTEX-15FZZ,female,30-39,Ventilator case,hashimoto,2 pieces; moderate lymphocytic (Hashimoto) thyroiditis; 1 piece has 40% fibrofatty external content,thyroid
+GTEX-15G19-0626,Thyroid,GTEX-15G19,male,60-69,Fast death - natural causes,fibrosis,2 pieces; mild interstitial fibrosis,thyroid
+GTEX-15G1A-0326,Thyroid,GTEX-15G1A,male,30-39,Ventilator case,adenoma,"2 pieces, incidental 1.5mm adenoma, delineated",thyroid
+GTEX-15RIE-0426,Thyroid,GTEX-15RIE,male,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-15RIF-0326,Thyroid,GTEX-15RIF,male,20-29,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-15RJ7-0326,Thyroid,GTEX-15RJ7,male,40-49,Ventilator case,,2 pieces; one includes ~30% mildly  autolyzed fat and connective tissue,thyroid
+GTEX-15RJE-1326,Thyroid,GTEX-15RJE,male,40-49,Slow death,"cyst, fibrosis",2 pieces; foci of fibrosis and cysts,thyroid
+GTEX-15SB6-1526,Thyroid,GTEX-15SB6,female,50-59,Ventilator case,,2 pieces,thyroid
+GTEX-15SDE-1326,Thyroid,GTEX-15SDE,female,50-59,Ventilator case,,2 pieces,thyroid
+GTEX-15SHU-0726,Thyroid,GTEX-15SHU,female,40-49,Fast death - natural causes,,2 pieces; well dissected,thyroid
+GTEX-15SHV-0426,Thyroid,GTEX-15SHV,male,60-69,Ventilator case,,2 pieces; 30% & 20% external fibromuscular stroma,thyroid
+GTEX-15SKB-0626,Thyroid,GTEX-15SKB,male,60-69,Ventilator case,"cyst, no_abnormalities","2 pieces, ~1mm  incidental ciolloid cyst, no abnormalities",thyroid
+GTEX-15SZO-0826,Thyroid,GTEX-15SZO,male,50-59,Fast death - natural causes,,"2 pieces, no significant abnormalities",thyroid
+GTEX-15TU5-0126,Thyroid,GTEX-15TU5,male,60-69,Slow death,,2 pieces,thyroid
+GTEX-15UF6-1126,Thyroid,GTEX-15UF6,female,70-79,Slow death,fibrosis,2 pieces; 20% fibrous content in 1 piece,thyroid
+GTEX-15UF7-0226,Thyroid,GTEX-15UF7,male,40-49,Ventilator case,,"2 pieces; 1 piece is ~20 fat/vessels, few collections of lymphocytes",thyroid
+GTEX-15UKP-1226,Thyroid,GTEX-15UKP,male,20-29,Ventilator case,,2 pieces; 1 includes minimal portion of fat,thyroid
+GTEX-169BO-0326,Thyroid,GTEX-169BO,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities, trace adherent fat, delineated",thyroid
+GTEX-16A39-0426,Thyroid,GTEX-16A39,female,30-39,Ventilator case,"fibrosis, hashimoto, nodularity",2 pieces; interstitial fibrosis with nodularities and associated  lymphocytic infiltration (Hashimoto's thyroiditis),thyroid
+GTEX-16AAH-0326,Thyroid,GTEX-16AAH,male,50-59,Ventilator case,,"2 pieces, 2 small lymphcyitic aggregates",thyroid
+GTEX-16BQI-0726,Thyroid,GTEX-16BQI,female,30-39,Ventilator case,,2 pieces,thyroid
+GTEX-16GPK-0926,Thyroid,GTEX-16GPK,male,60-69,Fast death - natural causes,fibrosis,2 pieces; mild interstitial fibrosis,thyroid
+GTEX-16MT8-0626,Thyroid,GTEX-16MT8,female,60-69,Slow death,,"2 pieces, mild regressive changes",thyroid
+GTEX-16MT9-1126,Thyroid,GTEX-16MT9,female,60-69,Ventilator case,fibrosis,2 pieces; interstitial fibrosis with  nodules composed of variably sized follicles,thyroid
+GTEX-16MTA-0726,Thyroid,GTEX-16MTA,male,50-59,Ventilator case,,2 pieces,thyroid
+GTEX-16NFA-0726,Thyroid,GTEX-16NFA,male,50-59,Ventilator case,hashimoto,"2 pieces; scattered focal lymphocytic deposits, possible early Hashimoto thyroiditis",thyroid
+GTEX-16NGA-0326,Thyroid,GTEX-16NGA,female,40-49,Ventilator case,"fibrosis, hashimoto",2 pieces; mild interstitial fibrosis and aggregates of lymphocytes (rep. outlined) consistent with Hashimoto's (lymphocytic) thyroiditis,thyroid
+GTEX-16NPV-0826,Thyroid,GTEX-16NPV,female,50-59,Slow death,,2 pieces; small lymphoid focus,thyroid
+GTEX-16NPX-1426,Thyroid,GTEX-16NPX,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-16XZY-0726,Thyroid,GTEX-16XZY,male,70-79,Ventilator case,,"2 pieces; one with ~50% of fibrovascular and adipose tissue attached; other with central empty spaces (arrow, ? poor fixation)",thyroid
+GTEX-16XZZ-0826,Thyroid,GTEX-16XZZ,male,60-69,Ventilator case,,2 pieces,thyroid
+GTEX-16YQH-0326,Thyroid,GTEX-16YQH,male,30-39,Fast death - violent,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-16Z82-0426,Thyroid,GTEX-16Z82,male,60-69,Fast death - natural causes,,2 pieces,thyroid
+GTEX-178AV-0726,Thyroid,GTEX-178AV,male,40-49,Ventilator case,hashimoto,"2 pieces moderate Hashimoto lymphocytic thyroiditis, rep foci encircled",thyroid
+GTEX-17EUY-0726,Thyroid,GTEX-17EUY,male,20-29,Ventilator case,,pieces,thyroid
+GTEX-17EVP-0126,Thyroid,GTEX-17EVP,male,40-49,Fast death - natural causes,fibrosis,2 pieces; one with ~10% stromal fibrosis (outlined);  focal granulomatous reaction with multinucleated giant cells (arrow); the second piece shows mild interstitial fibrosis,thyroid
+GTEX-17EVQ-0526,Thyroid,GTEX-17EVQ,male,70-79,Fast death - violent,fibrosis,"2 pieces, fibrosis/regressive changes",thyroid
+GTEX-17F96-0526,Thyroid,GTEX-17F96,male,70-79,Ventilator case,nodularity,"2 pieces; nodular, especially in 1 piece",thyroid
+GTEX-17F97-0626,Thyroid,GTEX-17F97,male,50-59,Slow death,nodularity,2 pieces; nodular,thyroid
+GTEX-17F9E-0626,Thyroid,GTEX-17F9E,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-17F9Y-0526,Thyroid,GTEX-17F9Y,female,70-79,Ventilator case,cyst,"2 pieces, few colloid cysts",thyroid
+GTEX-17GQL-0226,Thyroid,GTEX-17GQL,male,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-17HG3-0226,Thyroid,GTEX-17HG3,female,30-39,Fast death - natural causes,,"2 pieces; variably sized follicles, focal collections of lymphocytes",thyroid
+GTEX-17HGU-0826,Thyroid,GTEX-17HGU,male,50-59,Ventilator case,fibrosis,2 pieces; foci of fibrosis up to 2.6 sq mm [circled],thyroid
+GTEX-17HHE-0426,Thyroid,GTEX-17HHE,male,50-59,Ventilator case,,"2 pieces, ~5x1mm nubbin of adherent fat/vascular tissue, delineated",thyroid
+GTEX-17HHY-0826,Thyroid,GTEX-17HHY,male,50-59,Fast death - natural causes,fibrosis,2 pieces; focal fibrosis,thyroid
+GTEX-17HII-1926,Thyroid,GTEX-17HII,male,50-59,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-17JCI-0626,Thyroid,GTEX-17JCI,female,60-69,Ventilator case,,2 pieces; well dissected,thyroid
+GTEX-17KNJ-1026,Thyroid,GTEX-17KNJ,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities, ~2mm nubbin of fat on one edge, delineated",thyroid
+GTEX-17MF6-0626,Thyroid,GTEX-17MF6,male,40-49,Fast death - natural causes,,2 pieces; mild accentuation of interstitial connective tissue;,thyroid
+GTEX-17MFQ-0326,Thyroid,GTEX-17MFQ,male,20-29,Ventilator case,,"2 pieces, skeletal muscle, unknown provenance, no thyroid identified, not GTEx target",thyroid
+GTEX-183FY-0626,Thyroid,GTEX-183FY,male,20-29,Ventilator case,no_abnormalities,2 pieces; no abnormalities,thyroid
+GTEX-183WM-2626,Thyroid,GTEX-183WM,female,70-79,Slow death,cyst,"2 pieces, regressive changes, ~2.5mm colloid cyst, encircled",thyroid
+GTEX-18464-1126,Thyroid,GTEX-18464,male,50-59,Slow death,,2 pieces,thyroid
+GTEX-18465-1426,Thyroid,GTEX-18465,male,50-59,Fast death - natural causes,"atrophy, fibrosis",2 pieces; focus of atrophy & fibrosis (annotated); small (0.4 mm) lymphoid focus (annotated),thyroid
+GTEX-18A66-0826,Thyroid,GTEX-18A66,male,60-69,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-18A67-0826,Thyroid,GTEX-18A67,male,50-59,Ventilator case,,2 pieces;  two small collections of lymphocytes (rep. outlined),thyroid
+GTEX-18A6Q-0726,Thyroid,GTEX-18A6Q,male,60-69,Fast death - natural causes,cyst,"2 pieces, few minute (~1mm) colloid cysts",thyroid
+GTEX-18A7A-0826,Thyroid,GTEX-18A7A,female,50-59,Fast death - natural causes,,2 pieces; well dissected; no lesions,thyroid
+GTEX-18D9A-0126,Thyroid,GTEX-18D9A,female,30-39,Ventilator case,,2 pieces; no lesions,thyroid
+GTEX-18D9B-0726,Thyroid,GTEX-18D9B,male,60-69,Ventilator case,,2  pieces; focally fragmented,thyroid
+GTEX-18D9U-1026,Thyroid,GTEX-18D9U,male,40-49,Ventilator case,,"2 pieces, no signficant abnormalities",thyroid
+GTEX-18QFQ-0726,Thyroid,GTEX-18QFQ,male,30-39,Ventilator case,"fibrosis, nodularity",2 pieces; some fibrosis and nodularity,thyroid
+GTEX-19HZE-0326,Thyroid,GTEX-19HZE,female,70-79,Intermediate death,,2 pieces; no lesions,thyroid
+GTEX-1A32A-1526,Thyroid,GTEX-1A32A,female,50-59,Fast death - natural causes,fibrosis,2 pieces; focal fibrotic areas [circled] <10%,thyroid
+GTEX-1A3MV-0326,Thyroid,GTEX-1A3MV,male,30-39,Ventilator case,fibrosis,"2 pieces; one piece includes ~10% fat/fibrous/vascular tissue, second includes ~30% fat/vascular/skeletal muscle (contaminating elements marked)",thyroid
+GTEX-1A3MW-0926,Thyroid,GTEX-1A3MW,female,60-69,Slow death,"fibrosis, hashimoto",2 pieces; Hashimoto thyroiditis with slight lymphocytic and moderate fibrous increase,thyroid
+GTEX-1A3MX-0626,Thyroid,GTEX-1A3MX,male,60-69,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1A8FM-0726,Thyroid,GTEX-1A8FM,female,50-59,Fast death - natural causes,,2 pieces; well dissected,thyroid
+GTEX-1A8G6-0626,Thyroid,GTEX-1A8G6,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1A8G7-1026,Thyroid,GTEX-1A8G7,male,60-69,Fast death - natural causes,,2 pieces,thyroid
+GTEX-1AMEY-0126,Thyroid,GTEX-1AMEY,female,30-39,Ventilator case,,"2 pieces; 2.6x1.4mm fibrovascular area on edge of 1 piece, otherwise well dissected",thyroid
+GTEX-1AMFI-0526,Thyroid,GTEX-1AMFI,female,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1AX8Y-0126,Thyroid,GTEX-1AX8Y,male,40-49,Ventilator case,"goiter, hashimoto, nodularity",2 pieces; Hashimoto's thyroiditis in a background of multinodular goiter,thyroid
+GTEX-1AX8Z-0826,Thyroid,GTEX-1AX8Z,male,60-69,Ventilator case,,2 pieces; 1 piece contains 60% fibrovascular stroma,thyroid
+GTEX-1AX9I-0626,Thyroid,GTEX-1AX9I,male,60-69,Fast death - natural causes,,2 pieces; no llesions,thyroid
+GTEX-1AX9J-2126,Thyroid,GTEX-1AX9J,male,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1AX9K-0626,Thyroid,GTEX-1AX9K,male,50-59,Ventilator case,,2 pieces; 10% external fat on 1 piece,thyroid
+GTEX-1AYCT-0226,Thyroid,GTEX-1AYCT,male,50-59,Ventilator case,,"2 pieces; one piece includes ~30% fat and connective tissue, attached portion of large vessel in second piece",thyroid
+GTEX-1B8KE-0626,Thyroid,GTEX-1B8KE,male,50-59,Ventilator case,"cyst, no_abnormalities","2 pieces, mulitple micro-colloid cysts, otherwise no abnormalities",thyroid
+GTEX-1B8KZ-0426,Thyroid,GTEX-1B8KZ,male,50-59,Ventilator case,fibrosis,2 pieces; 3 mm in diameter micronodule (outlined);  focal interstitial fibrosis; a few lymphoid aggregates (arrowed),thyroid
+GTEX-1B8L1-1626,Thyroid,GTEX-1B8L1,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1B8SF-0626,Thyroid,GTEX-1B8SF,male,60-69,Fast death - natural causes,fibrosis,2 pieces; minimal attached fat/fibrous tissue,thyroid
+GTEX-1B8SG-1126,Thyroid,GTEX-1B8SG,male,50-59,Fast death - natural causes,"goiter, nodularity","2 pieces; 1 piece is entirely thyroid, second includes 4mm parathyroid and surrounding stroma and fat/~50% thyroid, nodular goiter",thyroid
+GTEX-1B932-0926,Thyroid,GTEX-1B932,female,40-49,Ventilator case,fibrosis,2 pieces; some interstitial fibrosis,thyroid
+GTEX-1B933-1026,Thyroid,GTEX-1B933,female,50-59,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1B97I-0326,Thyroid,GTEX-1B97I,male,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1B97J-0626,Thyroid,GTEX-1B97J,female,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1B98T-0926,Thyroid,GTEX-1B98T,male,60-69,Fast death - natural causes,,"2 pieces, no significant abnormalities",thyroid
+GTEX-1B996-0926,Thyroid,GTEX-1B996,male,60-69,Fast death - natural causes,metaplasia,"2 pieces; lymphoplasmacytic infiltrate with reactive follicles, Hurthle cell change and metaplasia consistent with lymphocytic thyroiditis",thyroid
+GTEX-1BAJH-0926,Thyroid,GTEX-1BAJH,male,70-79,Fast death - natural causes,"fibrosis, nodularity",2 pieces; some fibrosis with vague parenchymal nodularity,thyroid
+GTEX-1C2JI-0326,Thyroid,GTEX-1C2JI,male,50-59,Ventilator case,,2 pieces; 1 is ~20% fat and large vessel,thyroid
+GTEX-1C475-0226,Thyroid,GTEX-1C475,female,40-49,Ventilator case,"fibrosis, hashimoto","2 pieces; extensive lymphocytic infiltrate with germinal center formation, fibrosis, and oncocytic change c/w Hashimoto's thyroiditis",thyroid
+GTEX-1C4CL-0726,Thyroid,GTEX-1C4CL,male,30-39,Ventilator case,,"2 pieces, regressive changes",thyroid
+GTEX-1C64N-1026,Thyroid,GTEX-1C64N,male,50-59,Fast death - natural causes,fibrosis,2 pieces; some interstitial fibrosis,thyroid
+GTEX-1C6VQ-0526,Thyroid,GTEX-1C6VQ,male,50-59,Fast death - natural causes,"fibrosis, nodularity",2 pieces; mild fibrosis with vague nodularity,thyroid
+GTEX-1C6VR-0426,Thyroid,GTEX-1C6VR,male,60-69,Fast death - natural causes,"fibrosis, no_abnormalities","2 pieces, no abnormalities, adherent nubbin of fat/fibrous tissue up to ~2mm",thyroid
+GTEX-1C6VS-0826,Thyroid,GTEX-1C6VS,male,60-69,Fast death - natural causes,,2 pieces; variation in size of thyroid follicles; one 1.27mm in diameter nodule (outlined),thyroid
+GTEX-1C6WA-0626,Thyroid,GTEX-1C6WA,male,60-69,Fast death - natural causes,hashimoto,2 pieces; severe lymphocytic thyroiditis (Hashimoto),thyroid
+GTEX-1CAMQ-1126,Thyroid,GTEX-1CAMQ,male,40-49,Fast death - natural causes,,2 pieces; no pathologic changes noted,thyroid
+GTEX-1CAMR-0226,Thyroid,GTEX-1CAMR,male,20-29,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1CAMS-0826,Thyroid,GTEX-1CAMS,female,40-49,Ventilator case,"fibrosis, scarring",2 pieces; accentuation of interstitial fibrosis with focal scarring (arrows),thyroid
+GTEX-1CB4E-0326,Thyroid,GTEX-1CB4E,male,60-69,Ventilator case,fibrosis,2 pieces; 10% fat and 5% fibrous contents,thyroid
+GTEX-1CB4F-0826,Thyroid,GTEX-1CB4F,male,60-69,Ventilator case,,2 pieces,thyroid
+GTEX-1CB4G-1526,Thyroid,GTEX-1CB4G,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1CB4H-0126,Thyroid,GTEX-1CB4H,female,60-69,Slow death,fibrosis,2 pieces; 5% fibrous content,thyroid
+GTEX-1CB4I-0726,Thyroid,GTEX-1CB4I,male,50-59,Ventilator case,,2 pieces; <5% fibrovascular content,thyroid
+GTEX-1CB4J-1426,Thyroid,GTEX-1CB4J,male,60-69,Intermediate death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1E1VI-0726,Thyroid,GTEX-1E1VI,male,50-59,Fast death - natural causes,nodularity,"2 pieces; 1 piece includes small portion of attached fat (~5%), vague nodularity",thyroid
+GTEX-1E2YA-1026,Thyroid,GTEX-1E2YA,male,50-59,Fast death - natural causes,"goiter, nodularity","2 pieces, diffuse micronodular goiter, regressive changes",thyroid
+GTEX-1EH9U-0926,Thyroid,GTEX-1EH9U,male,60-69,Slow death,,2 pieces; 10% & 5% fibrofatty content,thyroid
+GTEX-1EKGG-0726,Thyroid,GTEX-1EKGG,male,60-69,Fast death - natural causes,,2 pieces,thyroid
+GTEX-1EMGI-0826,Thyroid,GTEX-1EMGI,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1EN7A-1026,Thyroid,GTEX-1EN7A,male,40-49,Fast death - natural causes,,2 pieces; no lesions,thyroid
+GTEX-1EU9M-0626,Thyroid,GTEX-1EU9M,male,60-69,Fast death - natural causes,fibrosis,"2 pieces, nubbin of adherent fat/fibrous tissue ensquared; contains ~3mm parathyroid tissue, delineated",thyroid
+GTEX-1EWIQ-0826,Thyroid,GTEX-1EWIQ,female,70-79,Fast death - natural causes,,2 pieces,thyroid
+GTEX-1EX96-0126,Thyroid,GTEX-1EX96,male,50-59,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1F48J-0926,Thyroid,GTEX-1F48J,female,50-59,Slow death,,2 pieces; no lesions,thyroid
+GTEX-1F52S-0526,Thyroid,GTEX-1F52S,female,60-69,Slow death,,2 pieces; no lesions; 5 & 10% fibrovascular content,thyroid
+GTEX-1F5PK-0126,Thyroid,GTEX-1F5PK,male,50-59,Ventilator case,,2 pieces; 1 piece contains 60% fibrovascular stroma,thyroid
+GTEX-1F5PL-0826,Thyroid,GTEX-1F5PL,female,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1F6I4-0926,Thyroid,GTEX-1F6I4,male,60-69,Fast death - natural causes,,"2 pieces; not thyroid, skeletal muscle",thyroid
+GTEX-1F6IF-1126,Thyroid,GTEX-1F6IF,male,60-69,Fast death - natural causes,,"2 pieces, no abnomormalities",thyroid
+GTEX-1F6RS-0726,Thyroid,GTEX-1F6RS,female,60-69,Slow death,,2 pieces; <5% external fibrofatty component,thyroid
+GTEX-1F75A-0326,Thyroid,GTEX-1F75A,male,50-59,Fast death - natural causes,"goiter, nodularity","2 pieces, regressive changes, nodeular goiter",thyroid
+GTEX-1F75B-0826,Thyroid,GTEX-1F75B,male,50-59,Slow death,,2 pieces; focal interstitial lymphocytic infiltrate (arrow),thyroid
+GTEX-1F75I-0926,Thyroid,GTEX-1F75I,male,40-49,Ventilator case,,2 pieces; no pathologic changes,thyroid
+GTEX-1F75W-1126,Thyroid,GTEX-1F75W,male,60-69,Fast death - natural causes,"atrophy, fibrosis",2 pieces; moderate fibrosis and atrophy,thyroid
+GTEX-1F7RK-0626,Thyroid,GTEX-1F7RK,female,20-29,Fast death - violent,,"2 pieces; thymus, not thyroid",thyroid
+GTEX-1F88E-1926,Thyroid,GTEX-1F88E,female,60-69,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1F88F-0726,Thyroid,GTEX-1F88F,female,60-69,Fast death - natural causes,adenoma,2 pieces; 1 mm adenomatoid nodule in 1; 50% fat in other,thyroid
+GTEX-1FIGZ-0226,Thyroid,GTEX-1FIGZ,male,40-49,Ventilator case,,2 pieces; 1 piece includes small attachment of fat/vessels,thyroid
+GTEX-1GF9U-0226,Thyroid,GTEX-1GF9U,female,40-49,Ventilator case,"goiter, nodularity",2 pieces; multinodular goiter,thyroid
+GTEX-1GF9V-0926,Thyroid,GTEX-1GF9V,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1GF9W-0626,Thyroid,GTEX-1GF9W,male,60-69,Intermediate death,"fibrosis, nodularity",2 pieces; interstitial fibrosis and micronodularity with rare collection of lymphocytes,thyroid
+GTEX-1GF9X-0126,Thyroid,GTEX-1GF9X,female,40-49,Ventilator case,adenoma,2 pieces; 1 piece has a 0.84 mm adenomatoid nodule (benign) or microadenoma. That piece has 50% fatty & vascular stroma,thyroid
+GTEX-1GL5R-0626,Thyroid,GTEX-1GL5R,male,50-59,Ventilator case,,2 pieces; trivial amount of attached fat,thyroid
+GTEX-1GMR2-0626,Thyroid,GTEX-1GMR2,male,50-59,Ventilator case,,2 pieces; no lesions,thyroid
+GTEX-1GMR3-0726,Thyroid,GTEX-1GMR3,male,40-49,Ventilator case,no_abnormalities,"2 pieces,  no abnormalities; nubbin of adherent fat up to ~1mm, delineated.",thyroid
+GTEX-1GMR8-0826,Thyroid,GTEX-1GMR8,female,50-59,Intermediate death,,2 pieces; 1 piece is partially traumatized,thyroid
+GTEX-1GMRU-1126,Thyroid,GTEX-1GMRU,male,50-59,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1GN1U-0826,Thyroid,GTEX-1GN1U,female,50-59,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1GN1V-0626,Thyroid,GTEX-1GN1V,male,60-69,Fast death - natural causes,fibrosis,"2 pieces; mild interstitial fibrosis, small component of fat",thyroid
+GTEX-1GN1W-0126,Thyroid,GTEX-1GN1W,female,50-59,Ventilator case,,2 pieces; 1.7 mm fibrovascular focus at edge of 1 piece,thyroid
+GTEX-1GN2E-0826,Thyroid,GTEX-1GN2E,male,60-69,Fast death - natural causes,"goiter, nodularity","2 pieces, early multinodular goiter",thyroid
+GTEX-1GN73-0826,Thyroid,GTEX-1GN73,male,60-69,Fast death - natural causes,hashimoto,2 pieces; scattered lymphoid collections consistent with lymphocytic thyroiditis (Hashimoto thyroiditis),thyroid
+GTEX-1GPI7-0726,Thyroid,GTEX-1GPI7,male,20-29,Ventilator case,,2 pieces,thyroid
+GTEX-1GTWX-0726,Thyroid,GTEX-1GTWX,male,60-69,Fast death - natural causes,,"2 pieces, no abnormalitites, focal adhereant fat, delineated",thyroid
+GTEX-1GZ2Q-0826,Thyroid,GTEX-1GZ2Q,male,40-49,Fast death - natural causes,"adenoma, fibrosis","2 pieces; small ~ 1mm in diameter well circumscribed likely adenomatous nodule (outlined), some interstitial fibrosis, variably sized follicles",thyroid
+GTEX-1GZ4H-0226,Thyroid,GTEX-1GZ4H,female,50-59,Ventilator case,,"2 pieces: 1 with 40% oncocytic change [labeled], other with 5% and with 50% large blood vessels and stroma",thyroid
+GTEX-1GZ4I-0626,Thyroid,GTEX-1GZ4I,male,50-59,Fast death - natural causes,,2 pieces; well trimmed,thyroid
+GTEX-1GZHY-1426,Thyroid,GTEX-1GZHY,female,50-59,Fast death - violent,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1H11D-0626,Thyroid,GTEX-1H11D,male,40-49,Ventilator case,,"2 pieces; one piece includes ~10% fat/vessels, some regressive changes",thyroid
+GTEX-1H1CY-0726,Thyroid,GTEX-1H1CY,female,60-69,Fast death - natural causes,,2 pieces; some areas are severely autolyzed,thyroid
+GTEX-1H1DE-0226,Thyroid,GTEX-1H1DE,male,20-29,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1H1DF-1026,Thyroid,GTEX-1H1DF,female,40-49,Fast death - natural causes,,2 pieces; well dissected,thyroid
+GTEX-1H1DG-0726,Thyroid,GTEX-1H1DG,male,70-79,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1H1E6-0326,Thyroid,GTEX-1H1E6,male,30-39,Ventilator case,fibrosis,2 pieces; trivial attachment of fibrous tissue/skeletal muscle,thyroid
+GTEX-1H1ZS-0726,Thyroid,GTEX-1H1ZS,male,70-79,Slow death,"goiter, hashimoto, nodularity","2 pieces. Nodular goiter; lymphocytic/Hashimoto thyroiditis, lymphoid aggregates delineated",thyroid
+GTEX-1H23P-0926,Thyroid,GTEX-1H23P,male,60-69,Slow death,,2 pieces; well dissected,thyroid
+GTEX-1H2FU-0626,Thyroid,GTEX-1H2FU,female,60-69,Slow death,"adenoma, hyperplasia, nodularity","2 pieces; nodular hyperplasia with regressive changes, adenomatoid nodules, attachment of skeletal muscle on one piece",thyroid
+GTEX-1H3NZ-0726,Thyroid,GTEX-1H3NZ,male,60-69,Slow death,,2 pieces; <5% external fat,thyroid
+GTEX-1H3VE-0826,Thyroid,GTEX-1H3VE,male,40-49,Slow death,fibrosis,2 pieces; mild interstitial fibrosis and trivial external fat (outlined),thyroid
+GTEX-1H3VY-0826,Thyroid,GTEX-1H3VY,male,50-59,Ventilator case,fibrosis,2 pieces; variably sized follicles with some fibrosis and degenerative change,thyroid
+GTEX-1HB9E-0826,Thyroid,GTEX-1HB9E,male,50-59,Fast death - natural causes,,"2 pieces, mild goitrous changes",thyroid
+GTEX-1HBPH-0926,Thyroid,GTEX-1HBPH,female,40-49,Slow death,,2 pieces; <5% extraneous vessels,thyroid
+GTEX-1HBPI-0826,Thyroid,GTEX-1HBPI,male,50-59,Fast death - natural causes,hashimoto,2 pieces; several foci of lymphocytes consistent with Hashimoto thyroiditis,thyroid
+GTEX-1HBPM-0926,Thyroid,GTEX-1HBPM,female,60-69,Slow death,,2 pieces; variably sized follicles,thyroid
+GTEX-1HBPN-1226,Thyroid,GTEX-1HBPN,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1HC8U-1226,Thyroid,GTEX-1HC8U,female,40-49,Ventilator case,fibrosis,2 pieces; smaller piece has 30% fibrous content,thyroid
+GTEX-1HCU6-0726,Thyroid,GTEX-1HCU6,female,60-69,Fast death - natural causes,,2 pieces; some foci are moderately autolyzed,thyroid
+GTEX-1HCU7-0826,Thyroid,GTEX-1HCU7,male,50-59,Ventilator case,,2 pieces; 5% fibrofatty content,thyroid
+GTEX-1HCU8-0226,Thyroid,GTEX-1HCU8,female,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1HCU9-0226,Thyroid,GTEX-1HCU9,male,20-29,Ventilator case,hashimoto,2 pieces; moderate lymphoid content consistent with lymphocytic (Hashimoto) thyroiditis,thyroid
+GTEX-1HCUA-0126,Thyroid,GTEX-1HCUA,female,50-59,Ventilator case,fibrosis,2 pieces; mild fibrosis,thyroid
+GTEX-1HCVE-0726,Thyroid,GTEX-1HCVE,male,50-59,Slow death,,"2 pieces, mild goitrous changes",thyroid
+GTEX-1HFI6-1326,Thyroid,GTEX-1HFI6,male,40-49,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1HFI7-0326,Thyroid,GTEX-1HFI7,female,50-59,Ventilator case,fibrosis,"2 pieces; mild fibrosis, ~10 and 40% fat/fibrous tissue",thyroid
+GTEX-1HGF4-0726,Thyroid,GTEX-1HGF4,male,60-69,Fast death - natural causes,,2 pieces; minmal extraneous tissue,thyroid
+GTEX-1HKZK-0826,Thyroid,GTEX-1HKZK,male,40-49,Ventilator case,fibrosis,2 pieces; mild interstitial fibrosis,thyroid
+GTEX-1HR98-0326,Thyroid,GTEX-1HR98,male,60-69,Slow death,fibrosis,1 piece; 10% fibrous content,thyroid
+GTEX-1HR9M-0626,Thyroid,GTEX-1HR9M,male,60-69,Slow death,,2 pieces; 10% internal fat content,thyroid
+GTEX-1HSEH-0826,Thyroid,GTEX-1HSEH,male,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1HSGN-0726,Thyroid,GTEX-1HSGN,female,40-49,Ventilator case,,"2 pieces, ~10-15% adherent fat/vascular elements, rep delineated",thyroid
+GTEX-1HSKV-1026,Thyroid,GTEX-1HSKV,male,60-69,Fast death - natural causes,fibrosis,2 pieces; mild interstitial fibrosis,thyroid
+GTEX-1HSMO-0726,Thyroid,GTEX-1HSMO,male,60-69,Intermediate death,,2 pieces; well dissected,thyroid
+GTEX-1HSMP-0726,Thyroid,GTEX-1HSMP,male,70-79,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1HSMQ-0526,Thyroid,GTEX-1HSMQ,male,50-59,Ventilator case,fibrosis,"2 pieces; mild interstitial fibrosis, ~10% is fat/fibrous/vessels",thyroid
+GTEX-1HT8W-1526,Thyroid,GTEX-1HT8W,male,30-39,Fast death - natural causes,no_abnormalities,"2 pieces, moderately advanced autolysis, no abnormalities",thyroid
+GTEX-1HUB1-1226,Thyroid,GTEX-1HUB1,male,60-69,Ventilator case,"hyperplasia, nodularity",2 pieces; nodular hyperplasia with prominent amounts of colloid,thyroid
+GTEX-1I19N-0226,Thyroid,GTEX-1I19N,male,70-79,Slow death,,2 pieces; mild to moderate autolysis and sloughed follicular epithelium; small portion of attached fat and skeletal muscle fibers (outlined),thyroid
+GTEX-1I1CD-0726,Thyroid,GTEX-1I1CD,female,60-69,Slow death,,"2 pieces; squamous epithelium, nerve, skeletal muscle, soft tissue, not thyroid",thyroid
+GTEX-1I1GP-0326,Thyroid,GTEX-1I1GP,male,50-59,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1I1GQ-0826,Thyroid,GTEX-1I1GQ,male,50-59,Fast death - natural causes,"congestion, fibrosis, nodularity",2 pieces; interstitial fibrosis with nodularity; rare lymphocytic aggregates (outlined); congestion,thyroid
+GTEX-1I1GR-1126,Thyroid,GTEX-1I1GR,male,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1I1GS-0726,Thyroid,GTEX-1I1GS,male,60-69,Slow death,no_abnormalities,"2 pieces, no abnormalities; nubbin of adherent fibroadipose tissue up to ~1mm, delineated",thyroid
+GTEX-1I1GT-0826,Thyroid,GTEX-1I1GT,female,60-69,Ventilator case,adenoma,2 pieces; 0.59mm adenomatoid nodule,thyroid
+GTEX-1I1GU-0826,Thyroid,GTEX-1I1GU,male,40-49,Ventilator case,fibrosis,2 pieces; 0.6mm focus of skeletal muscle in fibrous capsule on edge of 1 piece [circled],thyroid
+GTEX-1I1GV-0726,Thyroid,GTEX-1I1GV,male,60-69,Fast death - natural causes,"goiter, nodularity",2 pieces; nodular goiter with regressive changes,thyroid
+GTEX-1I6K6-0726,Thyroid,GTEX-1I6K6,male,30-39,Ventilator case,hashimoto,2 pieces; moderate to severe Hashimoto thyroiditis,thyroid
+GTEX-1I6K7-1126,Thyroid,GTEX-1I6K7,male,40-49,Ventilator case,,2 pieces; well dissected; no extraneous tissue,thyroid
+GTEX-1ICG6-0426,Thyroid,GTEX-1ICG6,female,70-79,Ventilator case,scarring,2 pieces; small foci of scarring,thyroid
+GTEX-1ICLY-0726,Thyroid,GTEX-1ICLY,male,50-59,Ventilator case,,"2 pieces, no abnnormalities",thyroid
+GTEX-1ICLZ-0526,Thyroid,GTEX-1ICLZ,male,60-69,Intermediate death,nodularity,"2 pieces; slightly nodular;, generally poor preservation, focally bordering on severe autolysis",thyroid
+GTEX-1IDFM-0726,Thyroid,GTEX-1IDFM,male,60-69,Slow death,"fibrosis, nodularity",2 pieces; some fibrosis and nodularity with dispersed lymphocytic infiltrates,thyroid
+GTEX-1IDJC-1026,Thyroid,GTEX-1IDJC,male,50-59,Ventilator case,"goiter, nodularity","2 pieces, micronodular goitre",thyroid
+GTEX-1IDJD-0626,Thyroid,GTEX-1IDJD,male,30-39,Ventilator case,"fibrosis, scarring",2 pieces; focal fibrosis/scarring (arrows),thyroid
+GTEX-1IDJE-0926,Thyroid,GTEX-1IDJE,female,50-59,Ventilator case,,2 pieces; well dissected,thyroid
+GTEX-1IDJH-0826,Thyroid,GTEX-1IDJH,male,70-79,Fast death - violent,goiter,"2 pieces, microndular goitre, degenerative/regressive changes",thyroid
+GTEX-1IDJI-1326,Thyroid,GTEX-1IDJI,female,50-59,Ventilator case,,"2 pieces: focus of lymphocytes, detached fragments of myocardium",thyroid
+GTEX-1IDJU-1626,Thyroid,GTEX-1IDJU,female,60-69,Ventilator case,fibrosis,2 pieces; 1% fibrosis,thyroid
+GTEX-1IDJV-1126,Thyroid,GTEX-1IDJV,male,60-69,Intermediate death,,"2 pieces, moderately advanced autolysis",thyroid
+GTEX-1IE54-0926,Thyroid,GTEX-1IE54,female,40-49,Ventilator case,"hyperplasia, nodularity","2 pieces; small attachments of fat/skeletal muscle (up to 10%), nodular hyperplasia",thyroid
+GTEX-1IGQW-0626,Thyroid,GTEX-1IGQW,male,60-69,Slow death,"goiter, nodularity","2 pieces, regressive changes, micronodular goitre",thyroid
+GTEX-1IKJJ-1026,Thyroid,GTEX-1IKJJ,male,60-69,Fast death - natural causes,goiter,"2 pieces, goitre with regressive changes",thyroid
+GTEX-1IKK5-2226,Thyroid,GTEX-1IKK5,male,60-69,Fast death - natural causes,,2 pieces; follicular neoplasm with possible capsular invasion suspicious for follicular carcinoma,thyroid
+GTEX-1IKOE-0926,Thyroid,GTEX-1IKOE,female,30-39,Ventilator case,,2 pieces,thyroid
+GTEX-1IKOH-0626,Thyroid,GTEX-1IKOH,female,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1IL2U-0826,Thyroid,GTEX-1IL2U,male,60-69,Fast death - natural causes,fibrosis,2 pieces of thyroid tissue; interstitial fibrosis,thyroid
+GTEX-1IL2V-0626,Thyroid,GTEX-1IL2V,male,70-79,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1IOXB-1026,Thyroid,GTEX-1IOXB,male,50-59,Fast death - natural causes,scarring,2 pieces; 30% scar in 1; 10% fat in other,thyroid
+GTEX-1IY9M-1026,Thyroid,GTEX-1IY9M,male,60-69,Fast death - violent,"fibrosis, hyalinization, nodularity","2 pieces; fibrosis and hyalinization, multinodular, moderate to severe autolysis",thyroid
+GTEX-1J1OQ-0526,Thyroid,GTEX-1J1OQ,female,40-49,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1J1R8-0126,Thyroid,GTEX-1J1R8,male,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1J8EW-1126,Thyroid,GTEX-1J8EW,female,60-69,Fast death - natural causes,,2 pieces; well dissected; no lesions,thyroid
+GTEX-1J8JJ-0726,Thyroid,GTEX-1J8JJ,female,60-69,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1J8Q2-0826,Thyroid,GTEX-1J8Q2,male,60-69,Intermediate death,,2 pieces; mild lymphocytic thyroiditis with 1mm Hurthle cell lesion,thyroid
+GTEX-1J8Q3-0226,Thyroid,GTEX-1J8Q3,male,60-69,Ventilator case,,2 pieces; no lesions; well dissected,thyroid
+GTEX-1J8QM-0726,Thyroid,GTEX-1J8QM,female,60-69,Ventilator case,"fibrosis, hashimoto, nodularity","2 pieces; interstitial fibrosis and micronodularity with scattered lymphocytic aggregates likely Hashimoto's thyroiditis, 1 piece is ~ 40% fat/fibrous/vessels",thyroid
+GTEX-1JJ6O-0626,Thyroid,GTEX-1JJ6O,male,60-69,Slow death,fibrosis,2 pieces; some interstitial fibrosis,thyroid
+GTEX-1JJE9-0226,Thyroid,GTEX-1JJE9,male,70-79,Intermediate death,,2 pieces; several small (<1mm) foci of lymphocytes,thyroid
+GTEX-1JJEA-0626,Thyroid,GTEX-1JJEA,male,60-69,Fast death - natural causes,,"2 pieces, few  fibrofatty nubbins up to 1.5mm, delineated",thyroid
+GTEX-1JK1U-0326,Thyroid,GTEX-1JK1U,male,60-69,Ventilator case,hashimoto,"2 pieces few foci of lymphocytic (Hashimoto) thyroiditis, rep delineated",thyroid
+GTEX-1JKYN-1126,Thyroid,GTEX-1JKYN,male,30-39,Ventilator case,"hyperplasia, nodularity",2 pieces; mild nodular hyperplasia,thyroid
+GTEX-1JKYR-0826,Thyroid,GTEX-1JKYR,male,20-29,Ventilator case,,2 pieces; well dissected; no extraneous tissue,thyroid
+GTEX-1JMLX-0826,Thyroid,GTEX-1JMLX,male,50-59,Fast death - natural causes,,2 pieces; no extraneous tissue,thyroid
+GTEX-1JMOU-0426,Thyroid,GTEX-1JMOU,female,60-69,Slow death,"goiter, nodularity","2 pieces, nodular goitre; regressive changes; adherent nubbins of fat up to ~3mm, delineated",thyroid
+GTEX-1JMPY-0126,Thyroid,GTEX-1JMPY,male,30-39,Ventilator case,fibrosis,2 pieces; includes attachment of fat/vessels (5 and 15%); some interstitial fibrosis and few collections of lymphocytes,thyroid
+GTEX-1JMPZ-0626,Thyroid,GTEX-1JMPZ,male,30-39,Slow death,atrophy,2 pieces; scattered foci of atrophy,thyroid
+GTEX-1JMQI-0626,Thyroid,GTEX-1JMQI,male,50-59,Ventilator case,,2 pieces; fat only,thyroid
+GTEX-1JMQJ-2026,Thyroid,GTEX-1JMQJ,male,50-59,Fast death - natural causes,,2 pieces,thyroid
+GTEX-1JMQK-2126,Thyroid,GTEX-1JMQK,male,60-69,Ventilator case,fibrosis,2 pieces; focus of gland disruption wiith lymphoid cells and small foci of fibrosis,thyroid
+GTEX-1JMQL-0926,Thyroid,GTEX-1JMQL,female,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1JN1M-0726,Thyroid,GTEX-1JN1M,female,60-69,Ventilator case,"adenoma, goiter, nodularity","2 pieces, multinodular goiter, adenomatoid nodules up to ~5mm",thyroid
+GTEX-1JN6P-0626,Thyroid,GTEX-1JN6P,male,60-69,Ventilator case,,2 pieces; slight focal lymphoid deposits c/w lymphocytic thyroiditis,thyroid
+GTEX-1K2DA-1526,Thyroid,GTEX-1K2DA,male,50-59,Ventilator case,,"2 pieces; both include ~10% fat/vessels/connective tissue, mild to moderate autolysis",thyroid
+GTEX-1K2DU-0126,Thyroid,GTEX-1K2DU,male,20-29,Ventilator case,,"2 pieces, mild goitrous features.  ~1mm nubbin of adherent fat, delineated",thyroid
+GTEX-1K9T9-0826,Thyroid,GTEX-1K9T9,female,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1KAFJ-0426,Thyroid,GTEX-1KAFJ,male,50-59,Intermediate death,,2 pieces; 5% fat at edge of 1 piece,thyroid
+GTEX-1KANA-0126,Thyroid,GTEX-1KANA,male,20-29,Ventilator case,,2 pieces; trivial attachment of fat,thyroid
+GTEX-1KANB-0626,Thyroid,GTEX-1KANB,male,50-59,Fast death - natural causes,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1KANC-0826,Thyroid,GTEX-1KANC,female,50-59,Ventilator case,,2 pieces; 1 mm focus of skeletal muscle on 1 edge,thyroid
+GTEX-1KD4Q-1026,Thyroid,GTEX-1KD4Q,male,40-49,Fast death - natural causes,,2 pieces; poorly preserved follicular lining cells,thyroid
+GTEX-1KD5A-0426,Thyroid,GTEX-1KD5A,male,50-59,Fast death - natural causes,nodularity,2 pieces; nodularity with scattered groups of lymphocytes,thyroid
+GTEX-1KWVE-0126,Thyroid,GTEX-1KWVE,male,30-39,Fast death - violent,,2 pieces; <5% external fat,thyroid
+GTEX-1KXAM-1726,Thyroid,GTEX-1KXAM,male,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1L5NE-0226,Thyroid,GTEX-1L5NE,male,50-59,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1LB8K-0626,Thyroid,GTEX-1LB8K,male,50-59,Fast death - natural causes,,2 pieces; minute 0.3mm lymphoid or parathyroid focus,thyroid
+GTEX-1LBAC-0726,Thyroid,GTEX-1LBAC,male,20-29,Ventilator case,,2 pieces,thyroid
+GTEX-1LC47-0726,Thyroid,GTEX-1LC47,male,60-69,Intermediate death,adenoma,"2 pieces, 5mm calcifying adenomatoid nodule, encircled. Regressive changes",thyroid
+GTEX-1LG7Y-0626,Thyroid,GTEX-1LG7Y,male,50-59,Fast death - natural causes,"fibrosis, goiter","2 pieces, feature of goitre; trace nubbins of fat/fibrous tissue up to ~1mm, delineated",thyroid
+GTEX-1LG7Z-0526,Thyroid,GTEX-1LG7Z,male,30-39,Ventilator case,,2 pieces; 1 with up to 2.3mm adherent skeletal muscle [labeled],thyroid
+GTEX-1LGOU-0126,Thyroid,GTEX-1LGOU,female,20-29,Ventilator case,,,thyroid
+GTEX-1LGRB-1226,Thyroid,GTEX-1LGRB,female,50-59,Ventilator case,"goiter, nodularity",2 pieces; nodular goiter,thyroid
+GTEX-1LH75-0626,Thyroid,GTEX-1LH75,female,50-59,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1LKK1-0826,Thyroid,GTEX-1LKK1,female,50-59,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1LNCM-0126,Thyroid,GTEX-1LNCM,female,50-59,Ventilator case,"hyperplasia, nodularity",2 pieces; nodular hyperplasia with regressive changes,thyroid
+GTEX-1LSNL-1026,Thyroid,GTEX-1LSNL,male,50-59,Fast death - natural causes,,"2 pieces, advanced autolysis",thyroid
+GTEX-1LSNM-0226,Thyroid,GTEX-1LSNM,male,50-59,Ventilator case,"hyperplasia, nodularity",2 pieces; nodular hyperplasia,thyroid
+GTEX-1LSVX-0726,Thyroid,GTEX-1LSVX,male,60-69,Slow death,adenoma,2 pieces; 2 adenomatoid nodules <2mm,thyroid
+GTEX-1LVA9-0626,Thyroid,GTEX-1LVA9,male,50-59,Fast death - natural causes,,"2 pieces; moderately to severely autolyzed, ~15% of 1 piece is fat/vessels",thyroid
+GTEX-1LVAM-0826,Thyroid,GTEX-1LVAM,female,50-59,Ventilator case,"fibrosis, nodularity","2 pieces, mild nodular goitrous features.  ~20% adherent fibrous tissue, rep delineated",thyroid
+GTEX-1LVAN-0726,Thyroid,GTEX-1LVAN,female,50-59,Ventilator case,,2 pieces; no lesions,thyroid
+GTEX-1LVAO-1026,Thyroid,GTEX-1LVAO,male,60-69,Slow death,,2 pieces; no lesions,thyroid
+GTEX-1M4P7-0626,Thyroid,GTEX-1M4P7,male,60-69,Fast death - natural causes,,"2 pieces, no abnormality, moderately advanced autolysis",thyroid
+GTEX-1M5QR-0326,Thyroid,GTEX-1M5QR,male,40-49,Ventilator case,"cyst, nodularity","2 pieces; vague/early nodularity, focal cystic change",thyroid
+GTEX-1MA7W-0126,Thyroid,GTEX-1MA7W,female,20-29,Ventilator case,,"2 pieces, not thyroid; normal thymus",thyroid
+GTEX-1MA7X-0926,Thyroid,GTEX-1MA7X,male,60-69,Fast death - natural causes,,2 pieces; 1 focal lymphoid collection [1.7mm] on edge,thyroid
+GTEX-1MCC2-0526,Thyroid,GTEX-1MCC2,female,30-39,Ventilator case,,2 pieces; one piece with attached fibro adipose tissue (outlined);,thyroid
+GTEX-1MCYP-0626,Thyroid,GTEX-1MCYP,female,20-29,Ventilator case,"cyst, nodularity",2 pieces; nodularity with few colloid cysts,thyroid
+GTEX-1MGNQ-0726,Thyroid,GTEX-1MGNQ,male,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1MJK2-0826,Thyroid,GTEX-1MJK2,male,50-59,Fast death - natural causes,congestion,2 pieces; congestion,thyroid
+GTEX-1MJK3-0326,Thyroid,GTEX-1MJK3,male,20-29,Ventilator case,,2 pieces; 0.7 mm focus of crystalline material. probably colloid,thyroid
+GTEX-1MUQO-0726,Thyroid,GTEX-1MUQO,male,60-69,Ventilator case,,"2 pieces, ~5 x1.5 adherent nubbin of perithyroidal fibrovascular  tissue delineated. Floater in block, tagged.",thyroid
+GTEX-1N2DV-0826,Thyroid,GTEX-1N2DV,male,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1N2DW-1226,Thyroid,GTEX-1N2DW,male,50-59,Fast death - natural causes,"fibrosis, nodularity",2 pieces; interstitial fibrosis and  micronodularity (differently sized follicles surrounded by fibrous tissue),thyroid
+GTEX-1N2EE-1326,Thyroid,GTEX-1N2EE,male,60-69,Fast death - violent,"goiter, hashimoto, nodularity","2 pieces, nodulear goiter with Hashimoto thyroiditis",thyroid
+GTEX-1N2EF-0826,Thyroid,GTEX-1N2EF,male,60-69,Intermediate death,,2 pieces; skeletal muscle not thyroid,thyroid
+GTEX-1N5O9-1026,Thyroid,GTEX-1N5O9,male,60-69,Fast death - natural causes,"fibrosis, nodularity",2 pieces; interstitial fibrosis with micronodularity; 15% and 5% external fat,thyroid
+GTEX-1N7R6-0626,Thyroid,GTEX-1N7R6,female,20-29,Slow death,,2 pieces; ? focal solid cell nest,thyroid
+GTEX-1NHNU-0526,Thyroid,GTEX-1NHNU,male,50-59,Ventilator case,,"2 pieces; 2 lymph nodes, no thyroid",thyroid
+GTEX-1NSGN-0826,Thyroid,GTEX-1NSGN,male,50-59,Ventilator case,"adenoma, hyperplasia, nodularity",2 pieces; adenomatous nodular hyperplasia (arrows),thyroid
+GTEX-1NT2E-0626,Thyroid,GTEX-1NT2E,female,40-49,Ventilator case,,,thyroid
+GTEX-1NUQO-0926,Thyroid,GTEX-1NUQO,female,20-29,Ventilator case,,2 pieces; mild to moderate autolysis; 40% and 30% attached skeletal muscle and fibroadipose tissue (outlined),thyroid
+GTEX-1NV5F-0726,Thyroid,GTEX-1NV5F,female,60-69,Slow death,nodularity,2 pieces; multinodular,thyroid
+GTEX-1NV88-0926,Thyroid,GTEX-1NV88,male,50-59,Slow death,,,thyroid
+GTEX-1NV8Z-0926,Thyroid,GTEX-1NV8Z,male,60-69,Fast death - natural causes,"fibrosis, goiter, nodularity","2 pieces, diffuse micronodular goitre with regressive changes/fibrosis",thyroid
+GTEX-1O97I-1026,Thyroid,GTEX-1O97I,male,60-69,Intermediate death,,2 pieces; blood vessels at 1 pole,thyroid
+GTEX-1O9I2-1226,Thyroid,GTEX-1O9I2,male,50-59,Ventilator case,,"2 pieces, regressive changes; adherent nubbins of fat up to ~1.5mm, rep delineated",thyroid
+GTEX-1OFPY-1526,Thyroid,GTEX-1OFPY,male,60-69,Ventilator case,,2 pieces; well preserved; no lesions,thyroid
+GTEX-1OJC3-0626,Thyroid,GTEX-1OJC3,male,20-29,Ventilator case,fibrosis,2 pieces; mild to moderate autolysis; interstitial fibrosis with lobulation,thyroid
+GTEX-1OJC4-0526,Thyroid,GTEX-1OJC4,female,50-59,Fast death - natural causes,"goiter, hashimoto, nodularity","2 pieces; nodular goiter, Hashimoto thyroiditis, one piece includes ~50% fat/fibrovascular tissue",thyroid
+GTEX-1OKEX-0226,Thyroid,GTEX-1OKEX,male,60-69,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1OZHM-0726,Thyroid,GTEX-1OZHM,male,40-49,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1P4AB-1126,Thyroid,GTEX-1P4AB,male,50-59,Slow death,,2 pieces; well trimmed,thyroid
+GTEX-1PAR6-0326,Thyroid,GTEX-1PAR6,female,30-39,Ventilator case,,,thyroid
+GTEX-1PBJI-0726,Thyroid,GTEX-1PBJI,female,20-29,Fast death - violent,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1PBJJ-1926,Thyroid,GTEX-1PBJJ,male,30-39,Ventilator case,,2 pieces,thyroid
+GTEX-1PDJ9-0826,Thyroid,GTEX-1PDJ9,male,20-29,Ventilator case,,2 pieces; 5% stromal content,thyroid
+GTEX-1PFEY-0226,Thyroid,GTEX-1PFEY,male,30-39,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1PIEJ-0726,Thyroid,GTEX-1PIEJ,female,20-29,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1PIGE-0726,Thyroid,GTEX-1PIGE,male,20-29,Ventilator case,,2 pieces; well trimmed; no lesions,thyroid
+GTEX-1PIIG-2026,Thyroid,GTEX-1PIIG,male,30-39,Ventilator case,,2 pieces; trace adherent fat (outlined) and skeletal muscle(arrow); scattered small lymphocytic aggregates,thyroid
+GTEX-1PPGY-1426,Thyroid,GTEX-1PPGY,male,60-69,Fast death - natural causes,cyst,2 pieces; two empty spaces (simple cysts ?) (arrows),thyroid
+GTEX-1PPH6-0826,Thyroid,GTEX-1PPH6,female,60-69,Fast death - natural causes,,2 pieces; possible neoplasm; needs expert consultation,thyroid
+GTEX-1PPH8-0926,Thyroid,GTEX-1PPH8,male,20-29,Ventilator case,,"2 pieces, trace adherent fat, delineated",thyroid
+GTEX-1PWST-0726,Thyroid,GTEX-1PWST,male,70-79,Slow death,,"2 pieces, regressive changes",thyroid
+GTEX-1QAET-0226,Thyroid,GTEX-1QAET,male,50-59,Ventilator case,,2 pieces; 10% stromal & vascular content in 1 piece,thyroid
+GTEX-1QCLY-0826,Thyroid,GTEX-1QCLY,male,30-39,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1QCLZ-0626,Thyroid,GTEX-1QCLZ,female,60-69,Ventilator case,"fibrosis, hashimoto, nodularity","2 pieces; one shows diffuse interstitial lymphoid infiltration with germinal centers; the second shows  interstitial fibrosis with micro nodularity, variable size of follicles and interstitial lymphoid infiltrate; Hashimoto disease (lymphocytic thyroiditis)",thyroid
+GTEX-1QEPI-0726,Thyroid,GTEX-1QEPI,female,60-69,Intermediate death,fibrosis,2 pieces; 1 piece has 10% fibrous content,thyroid
+GTEX-1QL29-0726,Thyroid,GTEX-1QL29,male,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1QMI2-0826,Thyroid,GTEX-1QMI2,male,60-69,Fast death - natural causes,"goiter, nodularity","2 pieces, multinodular goitre; regressive changes",thyroid
+GTEX-1QP28-0626,Thyroid,GTEX-1QP28,female,50-59,Ventilator case,"goiter, nodularity","2 pieces, ~15-20% adherent fat/vascular elements, delineated; nodular goitre, regressive changes",thyroid
+GTEX-1QP29-1126,Thyroid,GTEX-1QP29,male,50-59,Ventilator case,,2 pieces; unremarkable,thyroid
+GTEX-1QP2A-0626,Thyroid,GTEX-1QP2A,male,50-59,Ventilator case,,2 pieces; no lesions; no nodules,thyroid
+GTEX-1QP66-0326,Thyroid,GTEX-1QP66,male,50-59,Ventilator case,,2 pieces; mild to moderate autolysis,thyroid
+GTEX-1QP67-0326,Thyroid,GTEX-1QP67,female,40-49,Ventilator case,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1QP6S-2526,Thyroid,GTEX-1QP6S,male,40-49,Fast death - natural causes,,2 pieces;15% and 5% fat mostly perivascular (outlined); couple of empty spaces (arrows),thyroid
+GTEX-1QP9N-0126,Thyroid,GTEX-1QP9N,male,30-39,Ventilator case,,2 pieces; no lesions; well dissected except for a 1mm fibrofatty focus on edge,thyroid
+GTEX-1QPFJ-0626,Thyroid,GTEX-1QPFJ,female,30-39,Ventilator case,,2 pieces; no lesions; generally well dissected; some tissue fractures,thyroid
+GTEX-1QW4Y-0226,Thyroid,GTEX-1QW4Y,male,30-39,Ventilator case,hashimoto,"2 pieces, prominent Hashimoto thyroiditis with regressive changes; rep lymphoid aggregates delineated",thyroid
+GTEX-1R46S-0426,Thyroid,GTEX-1R46S,female,60-69,Slow death,cyst,"2 pieces, few ~1mm colloid cysts",thyroid
+GTEX-1R7EU-1526,Thyroid,GTEX-1R7EU,male,60-69,Ventilator case,"fibrosis, nodularity",2 pieces; discrete accentuation of interstitial fibrous tissue with subtle micronodularity,thyroid
+GTEX-1R7EV-1826,Thyroid,GTEX-1R7EV,male,40-49,Ventilator case,,2 pieces; lymphoid tissue (outlined) and 50% and 75% fibrovascular tissue with fat; no target thyroid gland resent,thyroid
+GTEX-1R9JW-0226,Thyroid,GTEX-1R9JW,female,30-39,Ventilator case,fibrosis,"2 pieces, adherent fat/fibrous tissue up to ~1.5mm, delineated",thyroid
+GTEX-1R9K4-0726,Thyroid,GTEX-1R9K4,male,60-69,Ventilator case,"calcification, fibrosis",2 pieces; interstitial fibrosis and variably sized micro nodules; focal calcification (outlined),thyroid
+GTEX-1R9K5-0726,Thyroid,GTEX-1R9K5,male,50-59,Ventilator case,"cyst, goiter, nodularity","2 pieces, micronodular goitre; ~1mm colloid cyst noted",thyroid
+GTEX-1R9PM-0226,Thyroid,GTEX-1R9PM,male,20-29,Ventilator case,"goiter, nodularity","2 pieces, nodular goitre; regressive changes",thyroid
+GTEX-1R9PO-0626,Thyroid,GTEX-1R9PO,female,60-69,Intermediate death,fibrosis,2 pieces; mild interstitial fibrosis; small amounts of internal fat (rep outlined),thyroid
+GTEX-1RAZA-0826,Thyroid,GTEX-1RAZA,male,20-29,Ventilator case,"fibrosis, nodularity",2 pieces; fibrous septa and micronodularity,thyroid
+GTEX-1RAZQ-0926,Thyroid,GTEX-1RAZQ,male,30-39,Ventilator case,,"2 pieces, no abnromalities",thyroid
+GTEX-1RAZR-1126,Thyroid,GTEX-1RAZR,male,40-49,Ventilator case,,2 pieces; well dissected thyroid with <5% stroma,thyroid
+GTEX-1RAZS-1026,Thyroid,GTEX-1RAZS,male,50-59,Intermediate death,"fibrosis, nodularity",2 pieces; interstitial fibrosis with discrete nodularity,thyroid
+GTEX-1RDX4-0926,Thyroid,GTEX-1RDX4,female,50-59,Intermediate death,,2 pieces; well dissected,thyroid
+GTEX-1RLM8-0126,Thyroid,GTEX-1RLM8,male,50-59,Slow death,,,thyroid
+GTEX-1RMOY-0126,Thyroid,GTEX-1RMOY,male,50-59,Ventilator case,"fibrosis, nodularity",2 pieces;  ~15%  external fat (outlined); interstitial fibrosis with fibrous septa and micronodularity,thyroid
+GTEX-1RNSC-1126,Thyroid,GTEX-1RNSC,male,60-69,Slow death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1RQEC-1026,Thyroid,GTEX-1RQEC,male,60-69,Fast death - natural causes,,,thyroid
+GTEX-1RQED-0926,Thyroid,GTEX-1RQED,male,60-69,Intermediate death,cyst,"2 pieces, a few minute colloid cysts (~1.5mm)",thyroid
+GTEX-1S3DN-0526,Thyroid,GTEX-1S3DN,male,50-59,Ventilator case,,"2 pieces, ~25 % adherent fat, 5mm nubbin, delineated",thyroid
+GTEX-1S5VW-0826,Thyroid,GTEX-1S5VW,male,60-69,Intermediate death,no_abnormalities,"2 pieces, no abnormalities",thyroid
+GTEX-1S5ZA-0626,Thyroid,GTEX-1S5ZA,male,20-29,Ventilator case,,"2 pieces, adherent fat/vascular elements on one edge, ~25% of specimen; sample carefully",thyroid
+GTEX-1S5ZU-0726,Thyroid,GTEX-1S5ZU,female,20-29,Ventilator case,,2 pieces; no lesions; well trimmed,thyroid
+GTEX-1S82P-0626,Thyroid,GTEX-1S82P,female,60-69,Ventilator case,fibrosis,2 pieces; thyroid gland not present instead skeletal muscle tissue with       interstitial fibrosis,thyroid
+GTEX-1S82U-1826,Thyroid,GTEX-1S82U,female,30-39,Ventilator case,,"2 pieces, no abnormality",thyroid
+GTEX-1S82Y-0126,Thyroid,GTEX-1S82Y,male,40-49,Ventilator case,,,thyroid
+GTEX-1S82Z-0226,Thyroid,GTEX-1S82Z,female,30-39,Ventilator case,,"2 pieces, no abnormality",thyroid
+GTEX-1S831-1426,Thyroid,GTEX-1S831,male,20-29,Ventilator case,,2 pieces; trace of external fat (outlined),thyroid
+GTEX-1S83E-0726,Thyroid,GTEX-1S83E,male,40-49,Ventilator case,,2 pieces; mild to moderate autolysis; a few small aggregates of lymphocytes (outlined); central area of empty spaces and blood vessels (arrows),thyroid
+GTEX-N7MS-2326,Thyroid,GTEX-N7MS,male,60-69,Fast death - natural causes,,OK to analyze,thyroid
+GTEX-NFK9-0726,Thyroid,GTEX-NFK9,male,40-49,Ventilator case,,OK for analysis,thyroid
+GTEX-NL3G-1626,Thyroid,GTEX-NL3G,female,60-69,Fast death - natural causes,,Mild autolysis,thyroid
+GTEX-NL3H-1126,Thyroid,GTEX-NL3H,male,60-69,Intermediate death,,Moderate autolysis,thyroid
+GTEX-NL4W-2426,Thyroid,GTEX-NL4W,male,50-59,Slow death,,Remarkably well-preserved for endocrine organ,thyroid
+GTEX-NPJ7-1126,Thyroid,GTEX-NPJ7,female,60-69,Slow death,,3.7x4.5mm colloid nodule in 12 x12mm specimen. Mild autolysis (“score 1”),thyroid
+GTEX-NPJ8-2526,Thyroid,GTEX-NPJ8,male,40-49,Slow death,,2x1.3mm perithyroidal adipose tissue present on one pole or ~10% of specimen length.  .,thyroid
+GTEX-O5YT-2626,Thyroid,GTEX-O5YT,male,20-29,Ventilator case,,central fracture,thyroid
+GTEX-O5YU-1126,Thyroid,GTEX-O5YU,male,60-69,Slow death,,1 piece 11x7 mm,thyroid
+GTEX-O5YV-1526,Thyroid,GTEX-O5YV,female,60-69,Intermediate death,,8x4 mm,thyroid
+GTEX-OHPJ-0526,Thyroid,GTEX-OHPJ,male,60-69,Ventilator case,adenoma,"2 x 1 mm adenomatoid nodule, peripheral",thyroid
+GTEX-OHPK-2626,Thyroid,GTEX-OHPK,female,50-59,Ventilator case,nodularity,nodular change. Aliquot is oversized (15x9mm).  Central part is poorly fixed. REFIX.,thyroid
+GTEX-OHPL-2626,Thyroid,GTEX-OHPL,female,60-69,Ventilator case,"atrophy, fibrosis, hashimoto, inflammation","Chronic inflammation, atrophy, fibrosis (severe) consistent with Hashimoto’s thyroiditis",thyroid
+GTEX-OHPM-2626,Thyroid,GTEX-OHPM,male,50-59,Ventilator case,,Reasonably well preserved for endocrine organ,thyroid
+GTEX-OHPN-0626,Thyroid,GTEX-OHPN,female,60-69,Ventilator case,"fibrosis, hashimoto",Regressive changes/fibrosis.  ? late stage Hashimoto’s or medical thyroid suppression,thyroid
+GTEX-OIZF-2626,Thyroid,GTEX-OIZF,male,60-69,Ventilator case,,10x6 mm.,thyroid
+GTEX-OIZG-0226,Thyroid,GTEX-OIZG,male,50-59,Ventilator case,,9x8mm,thyroid
+GTEX-OIZH-2626,Thyroid,GTEX-OIZH,male,50-59,Ventilator case,,"10.5 x 11.5 mm specimen, no adenomatoid nodules noted",thyroid
+GTEX-OIZI-0726,Thyroid,GTEX-OIZI,male,40-49,Ventilator case,,8 x 6.7 mm. Focal scar <10%,thyroid
+GTEX-OOBJ-2626,Thyroid,GTEX-OOBJ,male,60-69,Ventilator case,,"Possible 0.4 x 0.6mm occult papillary ca, pending slide review.  Patchy areas of peripheral adipose tissue are poorly fixed, tears and holes in section.",thyroid
+GTEX-OOBK-2626,Thyroid,GTEX-OOBK,male,40-49,Ventilator case,,1.  13.2x8mm.  A few central holes,thyroid
+GTEX-OXRK-0626,Thyroid,GTEX-OXRK,female,50-59,Ventilator case,nodularity,Slight nodularity. 9x8.6mm,thyroid
+GTEX-OXRL-2626,Thyroid,GTEX-OXRL,male,50-59,Ventilator case,,9.4x6.7.  no lesion,thyroid
+GTEX-OXRN-1526,Thyroid,GTEX-OXRN,male,50-59,Ventilator case,fibrosis,"Focal fibrosis, 20%. 9x7 mm",thyroid
+GTEX-OXRO-1226,Thyroid,GTEX-OXRO,female,60-69,Slow death,,12x12mm. Moderate fractures.  Foci of microadenosis,thyroid
+GTEX-OXRP-0326,Thyroid,GTEX-OXRP,female,60-69,Intermediate death,fibrosis,8x5mm.  Regressive changes/fibrosis,thyroid
+GTEX-P44G-0626,Thyroid,GTEX-P44G,male,30-39,Ventilator case,,9x6.5mm.  Less-well preserved than usual,thyroid
+GTEX-P44H-0926,Thyroid,GTEX-P44H,male,40-49,Slow death,,10x6.3mm.,thyroid
+GTEX-P4PP-2626,Thyroid,GTEX-P4PP,female,30-39,Ventilator case,,8x7mm- Not thyroid—capsule and peripheral sinuses; favor lymph node,thyroid
+GTEX-P4PQ-2626,Thyroid,GTEX-P4PQ,male,60-69,Ventilator case,,2  ~11x7mm pieces,thyroid
+GTEX-P4QR-0826,Thyroid,GTEX-P4QR,male,60-69,Ventilator case,,"2 pieces,  ~ 8x6mm.  One ~ 25% adipose on one edge",thyroid
+GTEX-P4QS-2626,Thyroid,GTEX-P4QS,male,60-69,Ventilator case,,2   ~10x 3-7mm pieces,thyroid
+GTEX-P4QT-2626,Thyroid,GTEX-P4QT,female,50-59,Ventilator case,cyst,16.7x7.1mm. 1.8mm colloid cyst,thyroid
+GTEX-P78B-0526,Thyroid,GTEX-P78B,female,40-49,Ventilator case,,2 ~9x7 mm pieces,thyroid
+GTEX-PLZ4-1226,Thyroid,GTEX-PLZ4,female,50-59,Ventilator case,hashimoto,"2   ~9x8mm pieces, extensive regressive change? “burned-out” Hashimoto’s dz",thyroid
+GTEX-POMQ-1026,Thyroid,GTEX-POMQ,female,20-29,Ventilator case,,"2 pieces, 11x4&13x6mm; fibroadipose and skeletal muscle NO THYROID",thyroid
+GTEX-POYW-0826,Thyroid,GTEX-POYW,male,60-69,Ventilator case,,2 ~9.5x8mm pieces,thyroid
+GTEX-PSDG-0726,Thyroid,GTEX-PSDG,male,50-59,Ventilator case,,"2 pieces, 9x6 & 8x5mm;",thyroid
+GTEX-PVOW-1326,Thyroid,GTEX-PVOW,male,40-49,Fast death - natural causes,,"2 pieces,~8.5 and 10x7mm",thyroid
+GTEX-PW2O-1326,Thyroid,GTEX-PW2O,male,20-29,Ventilator case,,"Incorrect tissue, under-fixed adipose tissue only",thyroid
+GTEX-PWCY-2326,Thyroid,GTEX-PWCY,female,20-29,Ventilator case,cyst,"2 pieces, 8x8mm, 9x9mm; several cystic follicles",thyroid
+GTEX-PWN1-2626,Thyroid,GTEX-PWN1,female,40-49,Ventilator case,,2 pieces up to 10.5x6.5 mm,thyroid
+GTEX-PWO3-1326,Thyroid,GTEX-PWO3,female,60-69,Slow death,,"2 pieces of fibroadipose tissue, unknown provenance.",thyroid
+GTEX-PWOO-0926,Thyroid,GTEX-PWOO,female,40-49,Ventilator case,clean_specimens,1  13x9mm aliquot. Good clean specimen,thyroid
+GTEX-PX3G-2626,Thyroid,GTEX-PX3G,female,20-29,Ventilator case,,"2 pieces, 6.6x8.8 mm & ~6mm",thyroid
+GTEX-Q2AG-0826,Thyroid,GTEX-Q2AG,female,40-49,Fast death - natural causes,,2   ~8x6.5mm aliquots,thyroid
+GTEX-Q2AH-0726,Thyroid,GTEX-Q2AH,male,40-49,Ventilator case,,2  pieces 9x9 & 12x8 mm,thyroid
+GTEX-Q2AI-0326,Thyroid,GTEX-Q2AI,male,40-49,Ventilator case,,2 pieces 11x7 & 10x8mm; 1.3mm circular defect corresponds to cassette’s center-point,thyroid
+GTEX-Q734-0526,Thyroid,GTEX-Q734,female,40-49,Ventilator case,,"1   ~14x7mm aliquot, no visible goiter",thyroid
+GTEX-QDT8-1226,Thyroid,GTEX-QDT8,female,30-39,Slow death,clean_specimens,"2   `7x8.5mm aliquots, relatively ‘clean’ specimens",thyroid
+GTEX-QDVJ-0226,Thyroid,GTEX-QDVJ,male,50-59,Ventilator case,"fibrosis, hyperplasia, nodularity",2 pieces 8.6x9.5; nodular hyperplasia and fibrosis,thyroid
+GTEX-QDVN-0626,Thyroid,GTEX-QDVN,male,50-59,Ventilator case,adenoma,"2  ~12x10mm aliquots, one with incidental 0.5mm adenoma",thyroid
+GTEX-QEG5-0826,Thyroid,GTEX-QEG5,male,20-29,Ventilator case,congestion,2  pieces ~7x7 & 7x4mm; vascular congestion,thyroid
+GTEX-QEL4-0726,Thyroid,GTEX-QEL4,male,50-59,Intermediate death,adenoma,2   ~9.5x5.5mm aliquots.  Adenomatoid nodules with regressive changes,thyroid
+GTEX-QLQ7-0726,Thyroid,GTEX-QLQ7,male,60-69,Ventilator case,fibrosis,"2   ~9x7mm aliquots, patchy areas of regression/fibrosis",thyroid
+GTEX-QMR6-1226,Thyroid,GTEX-QMR6,male,50-59,Slow death,cyst,2   ~12x7mm aliquots.  Scattered colloid cysts,thyroid
+GTEX-QMRM-0726,Thyroid,GTEX-QMRM,male,50-59,Ventilator case,nodularity,2 pieces 11x8 & 9x7 mm; slightly nodular; peripheral cassette marks,thyroid
+GTEX-QV31-0726,Thyroid,GTEX-QV31,male,30-39,Ventilator case,,"2   ~9x8mm aliquots, one with ~1.5mm layer of peripheral fat along one edge",thyroid
+GTEX-QV44-0826,Thyroid,GTEX-QV44,male,50-59,Ventilator case,fibrosis,2 pieces 10x7&8x5 mm; no nodularity; focal fibrosis,thyroid
+GTEX-QVJO-1526,Thyroid,GTEX-QVJO,female,60-69,Slow death,,"2  ~8x7mm aliquots. Suspect malignancy, ?follicular variant of papillary carcinoma, pending glass review.  Autolysis hampers analysis",thyroid
+GTEX-QVUS-1126,Thyroid,GTEX-QVUS,female,60-69,Slow death,,"2   ~8.5x6mm aliquots, regressive changes noted",thyroid
+GTEX-QXCU-0326,Thyroid,GTEX-QXCU,male,50-59,Fast death - violent,,2   ~8x6.5mm aliquots,thyroid
+GTEX-R3RS-0726,Thyroid,GTEX-R3RS,female,40-49,Slow death,,2 pieces 7x6.7 & 8x7 mm,thyroid
+GTEX-R45C-0726,Thyroid,GTEX-R45C,female,60-69,Ventilator case,nodularity,"2 pieces, 8x7 & 7x7 mm; partly nodular",thyroid
+GTEX-R53T-0526,Thyroid,GTEX-R53T,female,50-59,Ventilator case,cyst,"2  ~9x7mm aliquots.  Scattered colloid cysts, up to  3mm in dimensions",thyroid
+GTEX-R55C-0626,Thyroid,GTEX-R55C,male,40-49,Ventilator case,,"2 pieces, 9x9 & 10x5 mm",thyroid
+GTEX-R55D-0726,Thyroid,GTEX-R55D,male,50-59,Ventilator case,,2 aliquots.  Patchy regressive changes,thyroid
+GTEX-R55E-0826,Thyroid,GTEX-R55E,male,20-29,Fast death - violent,,"2 pieces, 8.7x6 & 7x7 mm",thyroid
+GTEX-R55F-2626,Thyroid,GTEX-R55F,male,50-59,Slow death,,"2 pieces, 11x7 & 9x8 mm; scattered lymphoid nodules; ~20% adipose on edge of 1 piece",thyroid
+GTEX-R55G-0726,Thyroid,GTEX-R55G,female,40-49,Ventilator case,hashimoto,"2 aliquots,  ~9x7mm.  Patchy, diffuse lymphocytic/""Hashimoto"" thyroiditis",thyroid
+GTEX-REY6-0526,Thyroid,GTEX-REY6,male,60-69,Ventilator case,,2 pieces  atrophic; possible small parathyroid focus 1mm,thyroid
+GTEX-RM2N-0526,Thyroid,GTEX-RM2N,male,50-59,Ventilator case,,"2 aliquots,   ~10x6mm.  Small parathyroid gland fragment, 2mm on one edge.  Focal lymphocytic thyroiditis",thyroid
+GTEX-RN5K-2826,Thyroid,GTEX-RN5K,female,50-59,Slow death,,"2 aliquots, ~ 8x8mm",thyroid
+GTEX-RN64-0626,Thyroid,GTEX-RN64,male,50-59,Fast death - violent,,"2 aliquots,  ~8x6mm.  Patchy regressive changes",thyroid
+GTEX-RNOR-0926,Thyroid,GTEX-RNOR,female,50-59,Fast death - violent,,"2 pieces,9x6 & 8x5 mm;",thyroid
+GTEX-RTLS-0626,Thyroid,GTEX-RTLS,female,60-69,Slow death,,"2 pieces, 10x6 & 10x7 mm; ~25% skeletal muscle at edge of 1 piece",thyroid
+GTEX-RU1J-0226,Thyroid,GTEX-RU1J,female,20-29,Ventilator case,,"2 pieces, 11x5 & 9x7 mm;",thyroid
+GTEX-RU72-0126,Thyroid,GTEX-RU72,female,50-59,Fast death - natural causes,,"2 aliquots,  ~8x5mm.",thyroid
+GTEX-RUSQ-1026,Thyroid,GTEX-RUSQ,male,50-59,Ventilator case,,"2  aliquots,  ~1.5x7.5mm",thyroid
+GTEX-RVPU-0226,Thyroid,GTEX-RVPU,male,50-59,Fast death - natural causes,,"2 aliquots,   ~7x7mm.  Patchy thyroiditis/regressive changes.  Badly autolyzed",thyroid
+GTEX-RVPV-1226,Thyroid,GTEX-RVPV,male,60-69,Intermediate death,,"2 pieces, 10x10 & 10x8 mm;",thyroid
+GTEX-RWS6-0626,Thyroid,GTEX-RWS6,female,60-69,Ventilator case,,"2 pieces, 10x7 & 10x9 mm",thyroid
+GTEX-RWSA-0826,Thyroid,GTEX-RWSA,male,40-49,Fast death - violent,,"2 aliquots, ~7x7mm",thyroid
+GTEX-S32W-0726,Thyroid,GTEX-S32W,female,50-59,Ventilator case,,2 pieces 13x5 & 9x5 mm; 2 hyperplastic foci,thyroid
+GTEX-S33H-0226,Thyroid,GTEX-S33H,male,30-39,Fast death - natural causes,,2 pieces 6x6 & 6x5 mm; NO THYROID; only skeletal muscle,thyroid
+GTEX-S341-0226,Thyroid,GTEX-S341,female,40-49,Ventilator case,adenoma,"2 aliquots, ~  9xx8mm.  Microglandular adenomatoid nodule in squares; focal skeletal muscle encircled. LDACC ALERT",thyroid
+GTEX-S3LF-0626,Thyroid,GTEX-S3LF,male,70-79,Fast death - natural causes,,"2 aliquots,  ~6x6mm.  Patchy regressive changes",thyroid
+GTEX-S3XE-0726,Thyroid,GTEX-S3XE,male,50-59,Ventilator case,hashimoto,2 pieces 14x7 & 14x^ mm; severe Hashimoto's thyroiditis,thyroid
+GTEX-S4P3-0226,Thyroid,GTEX-S4P3,female,50-59,Ventilator case,,2 pieces12x9 & 8x8 mm; <5% adipose,thyroid
+GTEX-S4Q7-0326,Thyroid,GTEX-S4Q7,male,20-29,Ventilator case,hashimoto,"2 aliquots,  ~12x8mm.  Diffuse Hashimoto's/lymphocytic thyroiditis.  Germinal centers encircled.",thyroid
+GTEX-S4UY-0626,Thyroid,GTEX-S4UY,female,40-49,Ventilator case,hashimoto,"2 aliquots,  ~7x6mm, diffuse lymphocytic/Hashimoto's thyroiditis with prominent regressive changes",thyroid
+GTEX-S4Z8-0326,Thyroid,GTEX-S4Z8,male,60-69,Ventilator case,cyst,"2 pieces 11x9 & 9x4 mm; 1, 4mm cystic follicle",thyroid
+GTEX-S7PM-0826,Thyroid,GTEX-S7PM,male,60-69,Ventilator case,,"2 aliquots,  ~6x6mm. INCORRECT TISSUE: SKELETAL MUSCLE, UNCERTAIN PROVENANCE.",thyroid
+GTEX-S7SE-0726,Thyroid,GTEX-S7SE,male,50-59,Fast death - natural causes,,"2 aliquots,  ~8x6mm",thyroid
+GTEX-S7SF-0226,Thyroid,GTEX-S7SF,female,20-29,Ventilator case,,2 pieces 10x6 mm; 10% peripheral fibroadipose,thyroid
+GTEX-S95S-0126,Thyroid,GTEX-S95S,male,60-69,Ventilator case,,"2 aliquots, one is all fat/skeletal muscle, the other about 50% thyroid.",thyroid
+GTEX-SE5C-0726,Thyroid,GTEX-SE5C,female,40-49,Ventilator case,,2 pieces8x4 & 9x6 mm,thyroid
+GTEX-SIU7-1126,Thyroid,GTEX-SIU7,male,50-59,Ventilator case,adenoma,2 pieces 11x9 & 10x7 mm; microfollicular adenomatoid nodules,thyroid
+GTEX-SIU8-0626,Thyroid,GTEX-SIU8,male,50-59,Fast death - natural causes,,"2 pieces  ~8x7mm, focus of entrapped skeletal muscle encircled (probable embedding artifact)",thyroid
+GTEX-SJXC-0726,Thyroid,GTEX-SJXC,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces   ~8x5mm, good clean specimens",thyroid
+GTEX-SN8G-1526,Thyroid,GTEX-SN8G,female,50-59,Fast death - natural causes,,"2 pieces,  ~7x6mm",thyroid
+GTEX-SNOS-0226,Thyroid,GTEX-SNOS,male,40-49,Ventilator case,,2 pieces 11x6 & 9x4 mm; focus of blood vessels at edge of one aliquot,thyroid
+GTEX-SUCS-0226,Thyroid,GTEX-SUCS,male,70-79,Ventilator case,,2 pieces 9x5 & 7x4 mm;,thyroid
+GTEX-T2IS-0626,Thyroid,GTEX-T2IS,female,20-29,Fast death - violent,clean_specimens,"2 pieces, ~8x7mm.  Good clean specimens",thyroid
+GTEX-T2YK-0726,Thyroid,GTEX-T2YK,male,50-59,Slow death,,2 pieces 7x6 & 7x6 mm,thyroid
+GTEX-T5JC-2026,Thyroid,GTEX-T5JC,male,20-29,Fast death - natural causes,,2 pieces 6x5 & 7x6 mm;,thyroid
+GTEX-T5JW-1226,Thyroid,GTEX-T5JW,female,20-29,Ventilator case,"hashimoto, scarring","2 pieces  ~8x6mm, focal areas of active Hashimoto's thyroiditis, areas of fibrous regression and scarring",thyroid
+GTEX-T6MN-0626,Thyroid,GTEX-T6MN,male,50-59,Fast death - natural causes,,2 pieces 7x6 & 7x5 mm; minimal extraneous adipose,thyroid
+GTEX-T6MO-0226,Thyroid,GTEX-T6MO,female,40-49,Ventilator case,"adenoma, cyst","2 pieces  ~10x7mm,   ~2.5mm adenomatoid nodule.colloid cyst encircled",thyroid
+GTEX-T8EM-0226,Thyroid,GTEX-T8EM,male,40-49,Ventilator case,,,thyroid
+GTEX-TKQ1-0126,Thyroid,GTEX-TKQ1,male,30-39,Ventilator case,,"2 pieces,  ~12x6mm.  Focal lymphocytic thyroiditis (encircled), not diffuse enough to be Hashimoto's",thyroid
+GTEX-TML8-0226,Thyroid,GTEX-TML8,female,40-49,Ventilator case,,2 pieces 7x6 & 9x7 mm; uniform structure,thyroid
+GTEX-TMMY-0826,Thyroid,GTEX-TMMY,female,40-49,Ventilator case,hashimoto,2  ~7x6mm pieces.  Diffuse Hashimoto'sthyroiditis with regression and fibrotic areas.  Representative lymphoid aggregates encircled,thyroid
+GTEX-TSE9-0626,Thyroid,GTEX-TSE9,female,60-69,Ventilator case,,2 pieces 9x7 & 7x6 mm; small foci of lymphoid cells,thyroid
+GTEX-U3ZH-0226,Thyroid,GTEX-U3ZH,male,30-39,Ventilator case,hashimoto,"2 pieces  ~10x9mm.  Patch Hashimoto's thyroiditis, regressive areas noted",thyroid
+GTEX-U3ZM-0126,Thyroid,GTEX-U3ZM,male,40-49,Ventilator case,,2 pieces  ~10x7mm,thyroid
+GTEX-U3ZN-0326,Thyroid,GTEX-U3ZN,female,30-39,Ventilator case,,2 pieces 10x5 & 8x4 mm; 2.5x1.7 mm fibrosed projection on smaller piece,thyroid
+GTEX-U412-0726,Thyroid,GTEX-U412,male,60-69,Intermediate death,,"2pieces  ~8x6mm,  unusually badly autolyzed",thyroid
+GTEX-U4B1-0626,Thyroid,GTEX-U4B1,male,40-49,Ventilator case,,"2 pieces, 10.5x8 & 13x7 mm",thyroid
+GTEX-U8T8-2326,Thyroid,GTEX-U8T8,male,60-69,Ventilator case,,"2 pieces, 6x7 & 6.7x7.3mm",thyroid
+GTEX-UJHI-0526,Thyroid,GTEX-UJHI,female,50-59,Ventilator case,,"2 pieces, 11x7 & 10x9mm; 1x2 mm fibrous projection at 1 edge",thyroid
+GTEX-UJMC-0326,Thyroid,GTEX-UJMC,male,50-59,Ventilator case,,"2 pieces,  ~11x7mm",thyroid
+GTEX-UPIC-0226,Thyroid,GTEX-UPIC,female,20-29,Ventilator case,,"2 pieces, 8x8 & 9x8mm",thyroid
+GTEX-UTHO-0626,Thyroid,GTEX-UTHO,male,60-69,Intermediate death,fibrosis,"2 pieces, 6.5x6 & 7x6mm; interstitial fibrosis; ~10% adipose",thyroid
+GTEX-V1D1-0926,Thyroid,GTEX-V1D1,male,50-59,Ventilator case,,2 pieces  ~8x4mm.  Colloid nodules encircled,thyroid
+GTEX-V955-0426,Thyroid,GTEX-V955,male,60-69,Ventilator case,,"2 pieces  ~9x6mm.  Incidental papillary carcinoma 1.7x1mm on one edge of one aliquot, encircled",thyroid
+GTEX-VJWN-0826,Thyroid,GTEX-VJWN,female,50-59,Fast death - natural causes,,"pieces, 8x5 & 7x6mm; ~20% adipose around one piece",thyroid
+GTEX-VJYA-0426,Thyroid,GTEX-VJYA,male,60-69,Ventilator case,,"2 pieces  ~11x8mm, focal regressive areas",thyroid
+GTEX-VUSG-0426,Thyroid,GTEX-VUSG,male,50-59,Ventilator case,,2 pieces  ~13x7mm  less well preserved than usual,thyroid
+GTEX-W5WG-1426,Thyroid,GTEX-W5WG,female,50-59,Ventilator case,hashimoto,"2 pieces   ~8x7mm, focal areas of lymphocytic infiltrate c/w early Hashimoto's/lymphocytic thyroiditis.  Less-well preserved than usual.",thyroid
+GTEX-W5X1-0426,Thyroid,GTEX-W5X1,female,40-49,Ventilator case,clean_specimens,"2 pieces, 9x8 & 10x8mm. Good uniform parenchyma.",thyroid
+GTEX-WEY5-0526,Thyroid,GTEX-WEY5,female,40-49,Ventilator case,,"2 pieces, 10x9 & 7x5mm; 10-20% peripheral adipose and stroma",thyroid
+GTEX-WFG7-0326,Thyroid,GTEX-WFG7,male,20-29,Ventilator case,,2 pieces  ~11x8 mm,thyroid
+GTEX-WFG8-0426,Thyroid,GTEX-WFG8,male,20-29,Ventilator case,"goiter, nodularity","2 pieces   ~12x8mm, early multinodular goiter",thyroid
+GTEX-WFJO-0226,Thyroid,GTEX-WFJO,male,30-39,Ventilator case,,"2 pieces, 7x5.5 & 12X6mm;well sampled",thyroid
+GTEX-WH7G-0526,Thyroid,GTEX-WH7G,male,40-49,Ventilator case,,"2 pieces, 10x6 & 11x7mm; No extraneous tissue.",thyroid
+GTEX-WHPG-0226,Thyroid,GTEX-WHPG,male,50-59,Ventilator case,fibrosis,"2 pieces, 9x6 & 9x5.5mm; focal fibrosis",thyroid
+GTEX-WHSB-1626,Thyroid,GTEX-WHSB,male,50-59,Ventilator case,,2 pieces  ~9x7mm,thyroid
+GTEX-WHSE-0626,Thyroid,GTEX-WHSE,male,20-29,Intermediate death,,2 pieces ~6x6mm,thyroid
+GTEX-WI4N-0926,Thyroid,GTEX-WI4N,female,40-49,Ventilator case,hashimoto,"2 pieces ~7x7mm.  Prominent Hashimoto's thyroiditis, diffuse, in both, with regressive/involutional changes",thyroid
+GTEX-WK11-0926,Thyroid,GTEX-WK11,male,50-59,Fast death - violent,,"2 pieces, 10x6 & 8x7mm; 10% external adipose",thyroid
+GTEX-WL46-0126,Thyroid,GTEX-WL46,male,50-59,Fast death - natural causes,,2 pieces  ~9x5mm,thyroid
+GTEX-WOFL-0726,Thyroid,GTEX-WOFL,male,60-69,Ventilator case,,"2 pieces, 7x5 & 8x7mm;",thyroid
+GTEX-WQUQ-1026,Thyroid,GTEX-WQUQ,male,60-69,Ventilator case,"goiter, hashimoto, nodularity","2 pieces  `7x7mm, diffuse micronodular goitre and Hashimoto's thyroiditis, representative foci delineated",thyroid
+GTEX-WRHK-0326,Thyroid,GTEX-WRHK,female,20-29,Ventilator case,clean_specimens,"2 pieces, 14x7.5 & 10x9mm; good specimen",thyroid
+GTEX-WRHU-0926,Thyroid,GTEX-WRHU,female,50-59,Fast death - violent,cyst,"2 pieces  ~8x7mm.  Adherent fat/skeletal muscle/fibrous tissue in one, delineated.  Multiple colloid cysts  ~1mm, representative ones encircled",thyroid
+GTEX-WVJS-0726,Thyroid,GTEX-WVJS,male,50-59,Ventilator case,"fibrosis, hashimoto, metaplasia","2 pieces, 9x7.5 & 9x9mm; extensive fibrosis and lymphoid infiltrate typical of advanced Hashimoto thyoiditis (correlates with patient's hypothyroidism); oxyphilic metaplasia circled",thyroid
+GTEX-WVLH-0626,Thyroid,GTEX-WVLH,male,50-59,Fast death - natural causes,cyst,"2 pieces  ~7x6mms, few colloid cysts encircled  ~1 mm d.",thyroid
+GTEX-WWTW-2226,Thyroid,GTEX-WWTW,male,50-59,Ventilator case,,"2 pieces, no thyroid tissue, fibroadipose tissue of unknown provenance.",thyroid
+GTEX-WWYW-0826,Thyroid,GTEX-WWYW,female,50-59,Intermediate death,,"2pieces ~ 7x7mm, unusually poorly preserved",thyroid
+GTEX-WXYG-0226,Thyroid,GTEX-WXYG,female,50-59,Ventilator case,,"2 pieces, 10x8 & 10x8mm; one has nubbine of fat/vascular tissue up to~1.5mm thick",thyroid
+GTEX-WY7C-0226,Thyroid,GTEX-WY7C,male,50-59,Ventilator case,,2pieces  ~8x7mm.  Regressive/fibrotic features,thyroid
+GTEX-WYBS-1926,Thyroid,GTEX-WYBS,female,60-69,Ventilator case,,"2 pieces, 8x7 & 8.5x7mm; unusually badly autolyzed",thyroid
+GTEX-WYJK-1626,Thyroid,GTEX-WYJK,male,50-59,Ventilator case,clean_specimens,"2 pieces, 9x7 & 8x6mm; good specimens",thyroid
+GTEX-WYVS-0326,Thyroid,GTEX-WYVS,female,40-49,Ventilator case,hashimoto,"2 pieces, 11x6 & 12x9mm; pathcy areas lymphocytic or Hashimoto thyroiditis, delineated, ~10% specimens",thyroid
+GTEX-X15G-0526,Thyroid,GTEX-X15G,female,50-59,Ventilator case,,"2 pieces, 9x6 & 9x5.5mm;",thyroid
+GTEX-X261-0726,Thyroid,GTEX-X261,male,50-59,Slow death,,"2 pieces, 11x9 & 9x6mm;",thyroid
+GTEX-X3Y1-0826,Thyroid,GTEX-X3Y1,male,40-49,Ventilator case,,"2 pieces, 10x8 & 10x7mm;",thyroid
+GTEX-X4EO-1926,Thyroid,GTEX-X4EO,female,60-69,Intermediate death,,"1 piece, 9x8mm; fibrofatty tissue with two very small foci (circled)of thyroid glands c/w irradiation",thyroid
+GTEX-X4EP-2126,Thyroid,GTEX-X4EP,female,60-69,Slow death,"goiter, nodularity","2 pieces, 10x6 & 10x7.5mm; regressive changes/nodular goiter, rep. fibrous areas delineated",thyroid
+GTEX-X4LF-0426,Thyroid,GTEX-X4LF,male,50-59,Ventilator case,,"2 pieces, 16x10 & 12x11mm;",thyroid
+GTEX-X4XX-0926,Thyroid,GTEX-X4XX,male,60-69,Slow death,,"2 pieces, 8x8 & 9x9mm;",thyroid
+GTEX-X4XY-0826,Thyroid,GTEX-X4XY,male,60-69,Ventilator case,,"2 pieces, 9x7 & 8x7mm; 10% stroma at edge of smaller piece",thyroid
+GTEX-X585-1526,Thyroid,GTEX-X585,male,50-59,Slow death,fibrosis,"2 pieces, 7x6 & 9x6mm;  Foci of fibrosis.",thyroid
+GTEX-X5EB-0726,Thyroid,GTEX-X5EB,male,40-49,Ventilator case,fibrosis,"2 pieces, 9x6.5 & 9x8mm; interstitial fibrosis",thyroid
+GTEX-X62O-0626,Thyroid,GTEX-X62O,male,50-59,Ventilator case,hashimoto,"2 pieces, 7x6 & 7x6mm; unusually badly autolyzed, diffuse Hashimoto thyroiditis with regressive changes",thyroid
+GTEX-X8HC-0726,Thyroid,GTEX-X8HC,female,50-59,Ventilator case,,"2 pieces, 8x7 & 7x7mm;",thyroid
+GTEX-XBEC-0926,Thyroid,GTEX-XBEC,male,50-59,Fast death - natural causes,"fibrosis, hashimoto","2 pieces, 8x7 & 10x8mm; Hashimoto's thyroiditis with regressive features/fibrosis",thyroid
+GTEX-XBED-0126,Thyroid,GTEX-XBED,male,60-69,Ventilator case,,"2 pieces, 9.5x9 & 9x8mm; 10% peripheral adipose",thyroid
+GTEX-XBEW-0126,Thyroid,GTEX-XBEW,male,40-49,Ventilator case,"goiter, nodularity","2 pieces, 9x6 & 7x5mm; nodular goitre with fibrous bands noted",thyroid
+GTEX-XGQ4-0426,Thyroid,GTEX-XGQ4,male,50-59,Ventilator case,,2 pieces 7x6 & 7x6mm; diffuse regressive changes,thyroid
+GTEX-XK95-0126,Thyroid,GTEX-XK95,male,40-49,Ventilator case,,2 pieces. 8x6 & 8x6mm;,thyroid
+GTEX-XLM4-0726,Thyroid,GTEX-XLM4,male,60-69,Intermediate death,,"2 pieces, 7.5x7 & 8x8mm; unusually poorly preserved",thyroid
+GTEX-XMD1-0726,Thyroid,GTEX-XMD1,male,60-69,Slow death,,2 pieces 9.5x7 & 8x8mm;,thyroid
+GTEX-XMD2-1226,Thyroid,GTEX-XMD2,female,60-69,Ventilator case,,"2 pieces, 8x7 & 10.5X8mm; focal lymphoid infiltrates.",thyroid
+GTEX-XMD3-0626,Thyroid,GTEX-XMD3,female,50-59,Ventilator case,,2 pieces. 8x8 & 9x8mm;,thyroid
+GTEX-XMK1-0626,Thyroid,GTEX-XMK1,male,40-49,Ventilator case,,2 pieces. 11x8 & 12x6mm;,thyroid
+GTEX-XOT4-1526,Thyroid,GTEX-XOT4,female,60-69,Fast death - natural causes,,2 pieces. 8x6 & 9x7mm; well trimmed,thyroid
+GTEX-XOTO-1226,Thyroid,GTEX-XOTO,male,50-59,Fast death - natural causes,,2 pieces. 8.5x7 & 8.5x7mm;,thyroid
+GTEX-XPVG-0126,Thyroid,GTEX-XPVG,male,50-59,Ventilator case,hashimoto,"2 pieces, 8x4 & 7x6mm; mild lymphocytic infiltrate consistent with Hashimoto disease",thyroid
+GTEX-XQ3S-0826,Thyroid,GTEX-XQ3S,male,20-29,Fast death - violent,,"2 pieces, 7x7 & 9x8mm;  no thyroid parenchyma, strap/skeletal muscle only.",thyroid
+GTEX-XQ8I-1226,Thyroid,GTEX-XQ8I,male,50-59,Ventilator case,"fibrosis, hashimoto","2 pieces, 8x7 & 11x9mm; lymphocytic (Hashimoto) thyroiditis with moderate fibrosis; up to 0.7 mm adipose focally on one; other is fat free",thyroid
+GTEX-XUJ4-0726,Thyroid,GTEX-XUJ4,female,60-69,Ventilator case,,"2 pieces, 11x11 & 16x13mm;",thyroid
+GTEX-XUW1-1026,Thyroid,GTEX-XUW1,female,50-59,Ventilator case,,"2 pieces, 10x7 & 10x8mm; well trimmed, no adipose",thyroid
+GTEX-XUZC-0126,Thyroid,GTEX-XUZC,female,30-39,Ventilator case,,"2 pieces, 17x11.5 & 14.5x10mm; no significant inflammation noted",thyroid
+GTEX-XV7Q-0326,Thyroid,GTEX-XV7Q,female,40-49,Ventilator case,,"2 pieces, 14x9 & 15x13mm; ~1mm parathyroid gland embedded in one aliquot, delineated",thyroid
+GTEX-XXEK-1326,Thyroid,GTEX-XXEK,male,50-59,Ventilator case,,"2 pieces, 11.5x10 & 12x8.5mm; rim of fat/small vessels up to ~1mm thick on one section",thyroid
+GTEX-XYKS-0826,Thyroid,GTEX-XYKS,female,60-69,Ventilator case,,"2 pieces, 9x7 & 8x8mm; 20% external adipose",thyroid
+GTEX-Y111-1926,Thyroid,GTEX-Y111,male,50-59,Fast death - violent,,"2 pieces, 10x9 & 12x8mm; smaller piece is 60%  fibroadipose tissue",thyroid
+GTEX-Y114-0626,Thyroid,GTEX-Y114,female,50-59,Ventilator case,cyst,"2 pieces, 11x7 & 7x5.5mm; 1mm colloid cyst in one aliquot, delineated. 2x1mm focus of fibrous tissue in other aliquot, delineated",thyroid
+GTEX-Y3I4-0226,Thyroid,GTEX-Y3I4,male,50-59,Ventilator case,adenoma,"2 pieces, 8.5x8.5 & 8.5x6mm; small adenoma, delineated",thyroid
+GTEX-Y3IK-0526,Thyroid,GTEX-Y3IK,female,50-59,Ventilator case,"goiter, nodularity","2 pieces, 15x9 & 10x9mm. Multinodular goitre with regressive changes (fibrous bands).",thyroid
+GTEX-Y5LM-0626,Thyroid,GTEX-Y5LM,female,40-49,Ventilator case,,2 pieces. 14x9 & 10x10mm,thyroid
+GTEX-Y5V5-0326,Thyroid,GTEX-Y5V5,female,60-69,Ventilator case,cyst,"2 pieces, 11x10 & 12.5x9mm; multiple small (1-2mm) colloid cysts",thyroid
+GTEX-Y5V6-0526,Thyroid,GTEX-Y5V6,male,60-69,Ventilator case,,"2 pieces, 8x7 & 7.5x6mm; a few small focal lymphoid collections",thyroid
+GTEX-Y8E4-0126,Thyroid,GTEX-Y8E4,male,40-49,Ventilator case,nodularity,"2 pieces, 9x7 & 10x6mm; some multinodular change.",thyroid
+GTEX-Y8LW-0226,Thyroid,GTEX-Y8LW,female,50-59,Ventilator case,,"2 pieces, 10x9 & 10x8mm; fewe scarred areas",thyroid
+GTEX-Y9LG-0426,Thyroid,GTEX-Y9LG,male,30-39,Ventilator case,,2 pieces. 16x6 & 12x12mm;,thyroid
+GTEX-YB5E-0626,Thyroid,GTEX-YB5E,male,40-49,Ventilator case,,"2 pieces, 12x7.5 & 12.5x12mm; no significant pathology",thyroid
+GTEX-YB5K-0526,Thyroid,GTEX-YB5K,female,40-49,Ventilator case,,2 pieces. 8x8 & 9.5x9mm; Well trimmed.,thyroid
+GTEX-YEC3-0826,Thyroid,GTEX-YEC3,male,50-59,Ventilator case,,"2 pieces, 12x8 and 10x7mm; adhererent nubbis fat/fibrous tissue on one edge of both  ~1-1.5mm, delineated",thyroid
+GTEX-YEC4-0626,Thyroid,GTEX-YEC4,male,40-49,Ventilator case,,"2 pieces, 13x9.5 and 13x7mm; mild regressive changes",thyroid
+GTEX-YECK-0826,Thyroid,GTEX-YECK,male,60-69,Intermediate death,"hashimoto, scarring","2 pieces, 8x8 and 9x6mm; end-stage Hashimoto's thyroiditis, dense fibrous scarrning and numerous lymphoid follicles",thyroid
+GTEX-YF7O-0726,Thyroid,GTEX-YF7O,male,50-59,Ventilator case,,"2 pieces, 11x10 and 11x6.5mm; well sampled",thyroid
+GTEX-YFC4-2626,Thyroid,GTEX-YFC4,female,40-49,Fast death - violent,hashimoto,"2 pieces.  Late stage Hashimoto's thyroiditis with regressive/fibrotic changes, prominent lymphoid follicles, rep ones delineated",thyroid
+GTEX-YFCO-0326,Thyroid,GTEX-YFCO,male,40-49,Ventilator case,,2 pieces,thyroid
+GTEX-YJ89-0726,Thyroid,GTEX-YJ89,male,60-69,Fast death - natural causes,hashimoto,2 pieces; patchy areas of lymphocytic or Hashimoto's thyroiditis,thyroid
+GTEX-YJ8A-0226,Thyroid,GTEX-YJ8A,male,20-29,Ventilator case,"atrophy, hashimoto",2 pieces; Hashimoto thyroiditis with marked lymphocytic infiltrate and atrophy,thyroid
+GTEX-Z93S-0526,Thyroid,GTEX-Z93S,male,50-59,Fast death - natural causes,hashimoto,"2 pieces, mulitple lymphoid aggregates consistent with Hashimoto's thyroiditis, rep. areas delineated; regressive/fibrotic areas present",thyroid
+GTEX-Z9EW-0226,Thyroid,GTEX-Z9EW,male,40-49,Ventilator case,"goiter, nodularity","2 pieces, micronodular goiter.  Adherent fat on one , up to ~0.8mm",thyroid
+GTEX-ZA64-0426,Thyroid,GTEX-ZA64,male,20-29,Ventilator case,,"2 pieces, well-preserved",thyroid
+GTEX-ZAB4-2026,Thyroid,GTEX-ZAB4,male,40-49,Slow death,"fibrosis, metaplasia",2 pieces. Severe fibrosis and lymphoid infiltrate with minimal thyroid tissue remaining; foci of squamous metaplasia. Most likely Riedel's thyroiditis; but cannot exclude Hashimoto's.,thyroid
+GTEX-ZAB5-0726,Thyroid,GTEX-ZAB5,male,50-59,Ventilator case,,"2 pieces, ~5-10% attached fat and larger vessels, both pieces.",thyroid
+GTEX-ZAJG-0726,Thyroid,GTEX-ZAJG,female,50-59,Intermediate death,cyst,"2 pieces, incidental 1mm cyst, delineated",thyroid
+GTEX-ZAK1-0726,Thyroid,GTEX-ZAK1,female,50-59,Fast death - natural causes,cyst,"2 pieces, incidental simple cysts",thyroid
+GTEX-ZC5H-0626,Thyroid,GTEX-ZC5H,female,40-49,Ventilator case,inflammation,"2 pieces, well preserved, minimal inflammation",thyroid
+GTEX-ZDTS-0926,Thyroid,GTEX-ZDTS,male,60-69,Fast death - natural causes,,2 pieces; 25% of 1 piece is fibroadipose and vascular tissue at one side (marked),thyroid
+GTEX-ZDTT-0626,Thyroid,GTEX-ZDTT,male,60-69,Ventilator case,,"2 pieces, microscopic foci of papillary carcinoma, delineated.",thyroid
+GTEX-ZDXO-1726,Thyroid,GTEX-ZDXO,male,60-69,Fast death - natural causes,,"2 pieces, contaminant adipose tissue in one, delineated",thyroid
+GTEX-ZDYS-0626,Thyroid,GTEX-ZDYS,male,50-59,Ventilator case,,"2 pieces, some degenerative change",thyroid
+GTEX-ZE7O-1126,Thyroid,GTEX-ZE7O,female,50-59,Fast death - natural causes,nodularity,"2 pieces; 1, 80% fat and piece of parathyroid (marked). Other piece, nodular with poor preservation.",thyroid
+GTEX-ZE9C-0426,Thyroid,GTEX-ZE9C,male,60-69,Fast death - natural causes,,"2 pieces, no significant findings, minimal aderhent fat, delineated",thyroid
+GTEX-ZEX8-0926,Thyroid,GTEX-ZEX8,male,50-59,Ventilator case,"hashimoto, hyperplasia",2 pieces. Lymphoid nodules of  Hashimoto thyroiditis. Foci of C-cell hyperplasia. This along with adrenal medullary hyperplasia raise probability of MEN IIB syndrome.,thyroid
+GTEX-ZF28-0826,Thyroid,GTEX-ZF28,male,60-69,Slow death,adenoma,2 pieces. 1 mm adenomatoid nodule (marked),thyroid
+GTEX-ZF29-0726,Thyroid,GTEX-ZF29,female,60-69,Ventilator case,,"2 pieces, ~10% of smaller piece is fat and vessels",thyroid
+GTEX-ZF2S-0526,Thyroid,GTEX-ZF2S,female,50-59,Ventilator case,hashimoto,"2 pieces.  Papillary carcinoma [3.3 mm]. Hashimoto thyroiditis, moderate degree.",thyroid
+GTEX-ZF3C-0826,Thyroid,GTEX-ZF3C,female,50-59,Ventilator case,,"2 pieces, small focus of cartilage at edge of one piece",thyroid
+GTEX-ZG7Y-0226,Thyroid,GTEX-ZG7Y,male,50-59,Ventilator case,,"2 pieces, no significant findings",thyroid
+GTEX-ZGAY-1026,Thyroid,GTEX-ZGAY,female,40-49,Ventilator case,"cyst, goiter","2 pieces, 2mm colloid cyst, encircled.  Mild generalized goiter with regressive changes.",thyroid
+GTEX-ZLFU-0626,Thyroid,GTEX-ZLFU,male,40-49,Ventilator case,,2 pieces,thyroid
+GTEX-ZLV1-0126,Thyroid,GTEX-ZLV1,female,60-69,Ventilator case,atrophy,"2 pieces, marked atrophy/regressive changes",thyroid
+GTEX-ZLWG-0526,Thyroid,GTEX-ZLWG,female,50-59,Ventilator case,,"2 pieces, one piece includes ~10% fat and nerve",thyroid
+GTEX-ZP4G-0226,Thyroid,GTEX-ZP4G,female,20-29,Ventilator case,goiter,"2 pieces, regressive changes, focal goitrous features",thyroid
+GTEX-ZPCL-0126,Thyroid,GTEX-ZPCL,female,60-69,Ventilator case,,2 pieces,thyroid
+GTEX-ZPIC-0226,Thyroid,GTEX-ZPIC,female,40-49,Ventilator case,"goiter, nodularity","2 pieces, mulitnodular goiter",thyroid
+GTEX-ZPU1-0426,Thyroid,GTEX-ZPU1,male,40-49,Ventilator case,metaplasia,"2 pieces, one piece has small attachment of adipose and fibrovascular tissue, focal adipose metaplasia of stroma",thyroid
+GTEX-ZQG8-0926,Thyroid,GTEX-ZQG8,female,60-69,Ventilator case,,2 pieces.  1 piece has 40% adipose and small (0.3 mm parathyroid (marked),thyroid
+GTEX-ZQUD-0126,Thyroid,GTEX-ZQUD,male,30-39,Ventilator case,,"2 pieces, 2 mm nubbin of fat/vessel on one aliquot, delineated",thyroid
+GTEX-ZT9W-0226,Thyroid,GTEX-ZT9W,male,50-59,Ventilator case,,2 pieces,thyroid
+GTEX-ZT9X-0226,Thyroid,GTEX-ZT9X,male,40-49,Ventilator case,scarring,"2 pieces, regressive changes/scarring",thyroid
+GTEX-ZTPG-0826,Thyroid,GTEX-ZTPG,female,20-29,Ventilator case,,2 pieces,thyroid
+GTEX-ZTSS-0226,Thyroid,GTEX-ZTSS,male,40-49,Ventilator case,,"2 pieces, 10% peripheral fibroadipose tissue on one [marked]",thyroid
+GTEX-ZTTD-0926,Thyroid,GTEX-ZTTD,male,50-59,Intermediate death,nodularity,"2 pieces, ~2mm nubbin adherhent fat/vessel on one aliquot, mild nodular features",thyroid
+GTEX-ZTX8-0626,Thyroid,GTEX-ZTX8,male,20-29,Ventilator case,fibrosis,"2 pieces, larger piece is about 25% fat, fibrous tissue and skeletal muscle",thyroid
+GTEX-ZU9S-1726,Thyroid,GTEX-ZU9S,male,30-39,Fast death - natural causes,,3 pieces: largest and smallest pieces are skeletal muscle. Thyroid poorly preserved.,thyroid
+GTEX-ZUA1-0926,Thyroid,GTEX-ZUA1,male,40-49,Fast death - natural causes,,2 pieces.,thyroid
+GTEX-ZV68-0726,Thyroid,GTEX-ZV68,female,50-59,Fast death - natural causes,"goiter, nodularity","2 pieces, incidental 1.5mm parathyroid fragment (delineated), prominent regressive changes, features of mulitnodular goiter in thyroid.  Adherent fat/fibrous tissue nubbins up to ~2.5mm",thyroid
+GTEX-ZV6S-0226,Thyroid,GTEX-ZV6S,female,40-49,Ventilator case,,"2 pieces, small attachment of skeletal muscle, larger piece is ~15% fat and fibrovascular tissue",thyroid
+GTEX-ZV7C-0126,Thyroid,GTEX-ZV7C,male,50-59,Ventilator case,,"1 piece, regressive changes and prominent vessels, delineated",thyroid
+GTEX-ZVE1-0826,Thyroid,GTEX-ZVE1,female,50-59,Ventilator case,"atrophy, fibrosis, inflammation","2 pieces, 30-50% fat, fibrosis and atrophy, mild chronic inflammation, and some oncocytic change",thyroid
+GTEX-ZVE2-1126,Thyroid,GTEX-ZVE2,male,50-59,Ventilator case,fibrosis,2 pieces; one piece with external fibrovascular and skeletal muscle tissue (marked); mild interstitial fibrosis and lymphocytic infiltrate,thyroid
+GTEX-ZVP2-0426,Thyroid,GTEX-ZVP2,male,50-59,Ventilator case,,1 piece,thyroid
+GTEX-ZVT2-1126,Thyroid,GTEX-ZVT2,female,50-59,Ventilator case,,1 pieces,thyroid
+GTEX-ZVT3-0726,Thyroid,GTEX-ZVT3,female,60-69,Fast death - natural causes,,"2 pieces, regressive changes",thyroid
+GTEX-ZVT4-1226,Thyroid,GTEX-ZVT4,female,50-59,Intermediate death,goiter,"2 pieces, features of goitre, regressive changes",thyroid
+GTEX-ZVZP-1026,Thyroid,GTEX-ZVZP,male,50-59,Ventilator case,,2 pieces,thyroid
+GTEX-ZVZQ-0626,Thyroid,GTEX-ZVZQ,female,60-69,Fast death - violent,,"2 pieces, badly autolyzed",thyroid
+GTEX-ZWKS-1026,Thyroid,GTEX-ZWKS,male,30-39,Slow death,hashimoto,"2 pieces, patchy lymphocytic thyroiditis, Hashimoto--type",thyroid
+GTEX-ZXES-0326,Thyroid,GTEX-ZXES,female,30-39,Ventilator case,,"2 pieces, larger piece includes ~10% fibrofatty tissue",thyroid
+GTEX-ZXG5-0926,Thyroid,GTEX-ZXG5,male,60-69,Intermediate death,nodularity,2 pieces; some nodularity,thyroid
+GTEX-ZY6K-0226,Thyroid,GTEX-ZY6K,male,50-59,Ventilator case,,2 pieces,thyroid
+GTEX-ZYFC-0926,Thyroid,GTEX-ZYFC,male,50-59,Fast death - natural causes,,"2 pieces, one piece is ~10% fibrovascular and adipose tissue",thyroid
+GTEX-ZYFD-0826,Thyroid,GTEX-ZYFD,male,50-59,Intermediate death,nodularity,2 pieces; nodular,thyroid
+GTEX-ZYFG-0626,Thyroid,GTEX-ZYFG,female,60-69,Ventilator case,,"2 pieces; 2, 1 mm parathyroid nodules in 1 piece [annotated]",thyroid
+GTEX-ZYT6-0426,Thyroid,GTEX-ZYT6,male,30-39,Fast death - violent,"goiter, nodularity","2 pieces, micronodular goiter",thyroid
+GTEX-ZYVF-1126,Thyroid,GTEX-ZYVF,female,50-59,Ventilator case,"goiter, nodularity","2 pieces, multinodular goiter, adherent 1.5mm fibrovascular fragment on one, delineated",thyroid
+GTEX-ZYW4-1126,Thyroid,GTEX-ZYW4,male,60-69,Intermediate death,,"2 pieces; 1 piece has 2, 7 sqmm fibrovascular and fatty stromal foci [annotated]",thyroid
+GTEX-ZYWO-0726,Thyroid,GTEX-ZYWO,female,40-49,Ventilator case,"atrophy, fibrosis","2 pieces, fibrosis and atrophy, smaller piece is ~30% fibrous and vascular tissue",thyroid
+GTEX-ZYY3-1926,Thyroid,GTEX-ZYY3,female,60-69,Slow death,hashimoto,"2 pieces, end-stage Hashimoto thyroiditis, marked regressive changes, mulitple foci adherent fat, several delineated",thyroid
+GTEX-ZZ64-0126,Thyroid,GTEX-ZZ64,male,20-29,Ventilator case,,2 pieces,thyroid
+GTEX-ZZPT-0826,Thyroid,GTEX-ZZPT,male,50-59,Slow death,cyst,2 pieces; multiple colloid cysts,thyroid
+GTEX-ZZPU-1326,Thyroid,GTEX-ZZPU,female,50-59,Ventilator case,"cyst, nodularity","2 pieces, one piece includes ~20% fat, multinodular with some cystic change",thyroid

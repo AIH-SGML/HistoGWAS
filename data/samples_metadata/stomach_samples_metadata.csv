@@ -1,0 +1,940 @@
+Tissue Sample ID,Tissue,Subject ID,Sex,Age Bracket,Hardy Scale,Pathology Categories,Pathology Notes,Tissue ID
+GTEX-1117F-2026,Stomach,GTEX-1117F,female,60-69,Slow death,,6 pieces; mucosa either completely sloughed; or completely autolyzed,stomach
+GTEX-111CU-0926,Stomach,GTEX-111CU,male,50-59,Ventilator case,,"6 pieces, few with small portion of muscularis",stomach
+GTEX-111FC-2126,Stomach,GTEX-111FC,male,60-69,Fast death - violent,,"6 pieces with variable combination of mucosa/muscularis.  Mucosa moderately to severely autolyzed, muscularis less so.",stomach
+GTEX-111VG-1426,Stomach,GTEX-111VG,male,60-69,Intermediate death,,6 pieces: mucosa totally autolyzed; muscularis = 2,stomach
+GTEX-111YS-1126,Stomach,GTEX-111YS,male,60-69,Ventilator case,,"6 pieces, well preserved mucosa and muscularis",stomach
+GTEX-1122O-1926,Stomach,GTEX-1122O,female,60-69,Ventilator case,,"6 pieces, mucosa and submucosa",stomach
+GTEX-1128S-1526,Stomach,GTEX-1128S,female,60-69,Fast death - natural causes,,"6 pieces, mucosa totally autolyzed",stomach
+GTEX-113JC-1226,Stomach,GTEX-113JC,female,50-59,Fast death - natural causes,,"6 pieces, well dissected mucosa; some areas are severely autolyzed",stomach
+GTEX-117XS-1726,Stomach,GTEX-117XS,male,60-69,Fast death - natural causes,,6 pieces,stomach
+GTEX-117YW-2226,Stomach,GTEX-117YW,male,50-59,Intermediate death,,"6 pieces, mucosa and muscularis",stomach
+GTEX-117YX-1026,Stomach,GTEX-117YX,male,50-59,Ventilator case,,"6 pieces, all full thickness",stomach
+GTEX-1192W-1126,Stomach,GTEX-1192W,male,60-69,Fast death - natural causes,,"6 pieces, mucosa mild-moderately autolyzed, ~0.5-1mm thick, ~30% total thickness",stomach
+GTEX-1192X-1926,Stomach,GTEX-1192X,male,50-59,Slow death,,"6 pieces, 70-80% muscosa, but completely autolyzed",stomach
+GTEX-11DXX-1326,Stomach,GTEX-11DXX,female,60-69,Ventilator case,gastritis,"6 pieces, mild chronic active gastritis",stomach
+GTEX-11DXY-2226,Stomach,GTEX-11DXY,male,60-69,Fast death - natural causes,,"6 pieces, mucosa and muscularis",stomach
+GTEX-11DXZ-1526,Stomach,GTEX-11DXZ,male,50-59,Ventilator case,,"7 pieces, 4 pieces with mucosa and muscularis, 3 essentially muscle only (minute focus of mucosa)",stomach
+GTEX-11DYG-2126,Stomach,GTEX-11DYG,male,60-69,Fast death - natural causes,,6 pieces,stomach
+GTEX-11DZ1-1426,Stomach,GTEX-11DZ1,male,50-59,Slow death,,"6 pieces; mucosa=3, muscle=2",stomach
+GTEX-11EI6-2426,Stomach,GTEX-11EI6,male,60-69,Slow death,,"6 pieces, mucosa is up to ~1mm thick, ~40-60% thickness but moderately-markedly autolyzed",stomach
+GTEX-11EM3-1026,Stomach,GTEX-11EM3,female,20-29,Ventilator case,,"6 pieces, mucosa and submucosa",stomach
+GTEX-11EMC-2426,Stomach,GTEX-11EMC,female,60-69,Fast death - natural causes,,"6 pieces, mucosa is ~50-80% thickness, moderately autolyzed",stomach
+GTEX-11EQ8-2326,Stomach,GTEX-11EQ8,male,60-69,Slow death,,"6 pieces, severely autolyzed mucosa, muscularis",stomach
+GTEX-11EQ9-1226,Stomach,GTEX-11EQ9,male,30-39,Fast death - natural causes,,"6 pieces, mucosa is ~1mm thick, ~30% thickness",stomach
+GTEX-11GS4-1626,Stomach,GTEX-11GS4,male,60-69,Fast death - natural causes,congestion,"6 pieces, marked autolysis, congestion",stomach
+GTEX-11GSO-1626,Stomach,GTEX-11GSO,male,60-69,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa",stomach
+GTEX-11GSP-2126,Stomach,GTEX-11GSP,female,60-69,Fast death - natural causes,,7 pieces; well dissected mucosa,stomach
+GTEX-11I78-1726,Stomach,GTEX-11I78,female,50-59,Ventilator case,,"6 pieces, mucosa extremely well preserved, up to ~1mm or ~40% thickness",stomach
+GTEX-11ILO-1626,Stomach,GTEX-11ILO,female,40-49,Ventilator case,,"6 pieces; mucosa=3, muscle=1 (autolysis)",stomach
+GTEX-11LCK-1826,Stomach,GTEX-11LCK,male,30-39,Ventilator case,,"6 pieces, mucosa reasonably well preserved; some areas approach score '2' along luminal surface.  Mucosa is ~1mm/ ~50% total thickness.",stomach
+GTEX-11NSD-1426,Stomach,GTEX-11NSD,male,20-29,Ventilator case,,"6 pieces, well- preserved mucosa is ~1mm, ~25% thickness",stomach
+GTEX-11NUK-2426,Stomach,GTEX-11NUK,male,50-59,Fast death - natural causes,,"6 pieces, mucosa and muscularis",stomach
+GTEX-11O72-2626,Stomach,GTEX-11O72,male,40-49,Fast death - natural causes,,6 pieces; full thickness well dissected,stomach
+GTEX-11OF3-2026,Stomach,GTEX-11OF3,male,60-69,Fast death - natural causes,,6 pieces; excessive autolysis; mucosa-submucosa only,stomach
+GTEX-11ONC-1726,Stomach,GTEX-11ONC,male,60-69,Fast death - natural causes,,6  pieces; mucosa only,stomach
+GTEX-11P7K-1726,Stomach,GTEX-11P7K,male,30-39,Ventilator case,,6 pieces; dilated deep glands (chief cell degeneration),stomach
+GTEX-11P81-1826,Stomach,GTEX-11P81,female,30-39,Ventilator case,,"6 pieces, mucosa (moderately autolyzed) and muscularis",stomach
+GTEX-11P82-0726,Stomach,GTEX-11P82,male,20-29,Fast death - violent,,"6 pieces, all muscularis save for residual ~2mm focus of mucosa; rest is sloughed",stomach
+GTEX-11PRG-1826,Stomach,GTEX-11PRG,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm thick, ~30-40% thickness but moderately autolyzed",stomach
+GTEX-11TT1-0726,Stomach,GTEX-11TT1,male,20-29,Ventilator case,,"6 pieces, acute hemorrhagic gastropathy",stomach
+GTEX-11TTK-2226,Stomach,GTEX-11TTK,female,60-69,Slow death,,"6 pieces; mucosa too autolyzed for GTEx, but muscularis is acceptable",stomach
+GTEX-11TUW-1426,Stomach,GTEX-11TUW,male,60-69,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa and muscularis",stomach
+GTEX-11UD2-1326,Stomach,GTEX-11UD2,male,50-59,Fast death - natural causes,,"6 pieces, mucosa ~1mm but modreately-severelay autolyzed, hemorrhagic",stomach
+GTEX-11VI4-0326,Stomach,GTEX-11VI4,female,40-49,Ventilator case,,"6 pieces; mucosa absent on all 6 pieces, can only be used for muscularis propria assessment",stomach
+GTEX-11WQC-1326,Stomach,GTEX-11WQC,male,60-69,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa and muscularis",stomach
+GTEX-11WQK-2626,Stomach,GTEX-11WQK,male,50-59,Fast death - natural causes,,"6 pieces, mucosa largely sloughed/autolyzed; one surviving focus (delineated) is markedly autolyzed",stomach
+GTEX-11XUK-1026,Stomach,GTEX-11XUK,female,40-49,Ventilator case,,6 pieces; mucosa only,stomach
+GTEX-11ZTS-2826,Stomach,GTEX-11ZTS,female,60-69,Fast death - natural causes,,"6 pieces, mucosa up to 80% thickness but moderately autolyzed/congested",stomach
+GTEX-11ZTT-1926,Stomach,GTEX-11ZTT,female,60-69,Ventilator case,,"6 pieces, muscularis only",stomach
+GTEX-11ZU8-1726,Stomach,GTEX-11ZU8,male,60-69,Slow death,,"6 pieces, mucosa up to ~0.7mm thick but badly autolyzed",stomach
+GTEX-11ZUS-2026,Stomach,GTEX-11ZUS,male,30-39,Fast death - violent,,"6 pieces, moderately autolyzed mucosa and muscularis",stomach
+GTEX-11ZVC-1926,Stomach,GTEX-11ZVC,female,50-59,Fast death - natural causes,tma,"6 pieces; mucosa too autolyzed for GTEx; muscularis variable in  amount, might be useful for TMA or laser capture",stomach
+GTEX-1211K-1426,Stomach,GTEX-1211K,female,60-69,Ventilator case,,"6 pieces, fairly well preserved mucosa, ~10-15% thickness, superficial areas approach 'score 2' focally",stomach
+GTEX-1212Z-2326,Stomach,GTEX-1212Z,male,60-69,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa and muscularis",stomach
+GTEX-12584-2326,Stomach,GTEX-12584,male,40-49,Intermediate death,,6pieces; mucosa completely autolyzed; muscle moderately autolyzed,stomach
+GTEX-12696-1726,Stomach,GTEX-12696,male,60-69,Intermediate death,,"6 pieces, mucosa well preserved, ~1mm thick, 30-50% thickness",stomach
+GTEX-1269C-1426,Stomach,GTEX-1269C,female,60-69,Fast death - natural causes,,"6 pieces, mucosa, submucosa, and muscularis",stomach
+GTEX-1269W-2226,Stomach,GTEX-1269W,male,60-69,Slow death,,,stomach
+GTEX-12BJ1-1726,Stomach,GTEX-12BJ1,male,60-69,Ventilator case,gastritis,"6 pieces, well preserved mucoa; patchy acute/active gastritis with leukocytes in deep mucosa and submucosa, rep foci delineated.  Mucosa up to ~0.5-0.7mm thick, ~20% total",stomach
+GTEX-12C56-0526,Stomach,GTEX-12C56,male,20-29,Ventilator case,gastritis,"6 pieces, mucosa, submucosa, and muscularis, mild acute gastritis, predominantly autolysis 1, focally 2",stomach
+GTEX-12KS4-2026,Stomach,GTEX-12KS4,male,30-39,Ventilator case,,"6 pieces mucosa  ~0.7mm, up ~30% total thickness, but severly autolyzed",stomach
+GTEX-12WS9-1426,Stomach,GTEX-12WS9,female,50-59,Intermediate death,,"6 pieces, mucosa up to 1mm thick;30-90 % of thickness but badly autolyzed, in some foci a ""3""",stomach
+GTEX-12WSA-2326,Stomach,GTEX-12WSA,male,60-69,Slow death,,"6 pieces, moderate to generally severe mucosal autolysis",stomach
+GTEX-12WSB-2526,Stomach,GTEX-12WSB,female,60-69,Slow death,,6 pieces; mucosa completely autolyzed; muscularis is OK (=1),stomach
+GTEX-12WSC-2426,Stomach,GTEX-12WSC,male,50-59,Fast death - natural causes,,"6 pieces, mucosa (moderately to severely autolyzed) and muscularis",stomach
+GTEX-12WSD-2326,Stomach,GTEX-12WSD,female,60-69,Fast death - natural causes,,"6 pieces; mucosa is ~1mm, ~40-60% total thickness and fairly well preserved",stomach
+GTEX-12WSE-2426,Stomach,GTEX-12WSE,male,20-29,Fast death - natural causes,,6 pieces; superficial mucosa more autolyzed than deep; muscularis present,stomach
+GTEX-12WSF-2326,Stomach,GTEX-12WSF,male,70-79,Slow death,,"6 pieces, mucosa up to ~1mm, ~40-50% thickness, but moderately-markedly autolyzed",stomach
+GTEX-12WSG-2026,Stomach,GTEX-12WSG,female,50-59,Ventilator case,,"6 pieces, moderately autolyzed mucosa",stomach
+GTEX-12WSH-2226,Stomach,GTEX-12WSH,male,50-59,Fast death - natural causes,,6 pieces; largely submucosa with bits of muscle,stomach
+GTEX-12WSI-1326,Stomach,GTEX-12WSI,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~80% thickness but totally autolyzed",stomach
+GTEX-12WSJ-0926,Stomach,GTEX-12WSJ,female,40-49,Ventilator case,gastritis,"8 pieces, mucosa and muscularis, acute gastritis",stomach
+GTEX-12WSK-1426,Stomach,GTEX-12WSK,female,40-49,Ventilator case,no_abnormalities,"6 pieces, well preserved, mucosa is ~1 mm~30% thickness, no notable abnormalities",stomach
+GTEX-12WSL-1426,Stomach,GTEX-12WSL,male,50-59,Ventilator case,desquamation,"6 pieces; well preserved mucosa, some surface desquamation; mucosa and submucosa only, no muscularis",stomach
+GTEX-12WSN-2126,Stomach,GTEX-12WSN,male,40-49,Ventilator case,,6 pieces; chronic inflammatory cells in the superficial lamina propria,stomach
+GTEX-12ZZW-2226,Stomach,GTEX-12ZZW,male,50-59,Slow death,,"6 pieces, mucosa  up to ~0.8mm, moderately-severely autolyzed",stomach
+GTEX-12ZZY-2426,Stomach,GTEX-12ZZY,male,60-69,Fast death - natural causes,,"6 pieces, mucosa is ~0.7mm, ~30-40% thickness, mild-moderate autolysis, areas approach score '2'",stomach
+GTEX-12ZZZ-2826,Stomach,GTEX-12ZZZ,male,60-69,Fast death - natural causes,,"6 pieces; mucosa completely autolyzed, no muscularis propria present",stomach
+GTEX-13111-1226,Stomach,GTEX-13111,male,50-59,Ventilator case,,6 pieces; mucosa missing on all pieces; only muscularis and submucosa present,stomach
+GTEX-13112-1326,Stomach,GTEX-13112,male,50-59,Fast death - natural causes,,"6 pieces; mucosa severely autolyzed, muscularis only slightly autolyzed",stomach
+GTEX-13113-0726,Stomach,GTEX-13113,female,60-69,Ventilator case,,"6 pieces, exceptionally well-preserved mucosa, up to ~1mm, ~30-40% thickness",stomach
+GTEX-1313W-2126,Stomach,GTEX-1313W,female,50-59,Fast death - natural causes,,"6 pieces, moderately autolyzed mucosa and musculairs",stomach
+GTEX-131XE-2226,Stomach,GTEX-131XE,male,50-59,Ventilator case,,"6 pieces; only muscle present, no mucosa",stomach
+GTEX-131XF-1226,Stomach,GTEX-131XF,male,60-69,Ventilator case,,"6 pieces; all with mucosa, 3 with small amounts of muscularis propria",stomach
+GTEX-131XG-1226,Stomach,GTEX-131XG,female,50-59,Ventilator case,,"6 pieces, mucosa well preserved, up to ~1mm thick, ~40 % thickness",stomach
+GTEX-131XH-1426,Stomach,GTEX-131XH,male,50-59,Fast death - natural causes,,"6 pieces, mucosal markedly autolyzed/sloughed",stomach
+GTEX-131XW-2026,Stomach,GTEX-131XW,female,50-59,Slow death,,"6 pieces, moderately autolyzed mucosa and muscularis",stomach
+GTEX-131YS-2626,Stomach,GTEX-131YS,female,60-69,Fast death - natural causes,,"6 pieces; moderate mucosal autolysis, muscularis present",stomach
+GTEX-132AR-2426,Stomach,GTEX-132AR,female,50-59,Ventilator case,,6 pieces; well dissected,stomach
+GTEX-132NY-2526,Stomach,GTEX-132NY,male,60-69,Fast death - violent,,"6 pieces, mucosa is ~50% thickness, ~moderately autolyzed",stomach
+GTEX-132Q8-2026,Stomach,GTEX-132Q8,male,60-69,Slow death,congestion,"6 pieces; moderate to severe autolysis of mucosa, congestion",stomach
+GTEX-132QS-1826,Stomach,GTEX-132QS,male,60-69,Ventilator case,,"6 pieces, superb preservation, mucosa up to ~1mm, 15-20% thickness",stomach
+GTEX-1339X-1426,Stomach,GTEX-1339X,male,40-49,Ventilator case,,"6 pieces; no mucosa, only muscle",stomach
+GTEX-133LE-1326,Stomach,GTEX-133LE,female,20-29,Ventilator case,,6 pieces; full thickness; well dissected,stomach
+GTEX-1399Q-1826,Stomach,GTEX-1399Q,male,40-49,Ventilator case,,6 pieces; moderately autolyzed mucosa,stomach
+GTEX-1399R-1126,Stomach,GTEX-1399R,male,30-39,Ventilator case,,"7 pieces; focal erosions; mucosa only, no muscularis",stomach
+GTEX-1399S-1626,Stomach,GTEX-1399S,female,30-39,Ventilator case,,"6 pieces, mucosa well prserved, up to ~1mm, 20-25% thickness",stomach
+GTEX-1399T-2026,Stomach,GTEX-1399T,male,60-69,Fast death - natural causes,,6 pieces; well trimmed; mild to moderate mucosal autolysis,stomach
+GTEX-1399U-1626,Stomach,GTEX-1399U,female,50-59,Ventilator case,,"6 pieces, mucosa well-preserved, up to 1mm, ~20-30% thickness",stomach
+GTEX-139D8-2326,Stomach,GTEX-139D8,female,30-39,Ventilator case,,6 pieces; mucosa moderately to severely autolyzed; well dissected,stomach
+GTEX-139T6-0926,Stomach,GTEX-139T6,male,50-59,Ventilator case,,"6 pieces, mucosa generally well-presrved up to ~0.5mm thick, ~50% thickness",stomach
+GTEX-139TS-0826,Stomach,GTEX-139TS,male,60-69,Fast death - natural causes,,"6 pieces; muscularis and moderately autolyzed mucosa, few detached fragments of skeletal muscle",stomach
+GTEX-139TT-2326,Stomach,GTEX-139TT,male,60-69,Fast death - natural causes,,"6 pieces; superficial mucosal glands autolyzed, deep glands in better shape",stomach
+GTEX-139TU-2626,Stomach,GTEX-139TU,male,60-69,Intermediate death,,"6 pieces, muscularis and moderately autolyzed mucosa",stomach
+GTEX-139UC-1226,Stomach,GTEX-139UC,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm thick but moderately autolyzed",stomach
+GTEX-139UW-1626,Stomach,GTEX-139UW,male,60-69,Fast death - natural causes,,"6 pieces; mucosa autolyzed, muscularis preserved",stomach
+GTEX-139YR-1926,Stomach,GTEX-139YR,male,50-59,Ventilator case,,6 pieces; predominantly mucosa and submucosa with scant residual attached muscularis,stomach
+GTEX-13CF2-2326,Stomach,GTEX-13CF2,male,60-69,Fast death - natural causes,,"6 pieces, mucosa moderate autolyzed, up to ~0.6mm, ~30% thickness",stomach
+GTEX-13CF3-1926,Stomach,GTEX-13CF3,female,60-69,Ventilator case,,6 pieces; full thickness; well preserved mucosa except for superficial sloughing,stomach
+GTEX-13CIG-2126,Stomach,GTEX-13CIG,male,50-59,Fast death - natural causes,,6 pieces; totally autolyzed,stomach
+GTEX-13CZU-0726,Stomach,GTEX-13CZU,male,20-29,Ventilator case,,"6 pieces; 4 are full thickness, 2 have no muscularis",stomach
+GTEX-13CZV-2426,Stomach,GTEX-13CZV,male,60-69,Fast death - natural causes,,6 pieces; too autolyzed,stomach
+GTEX-13D11-2126,Stomach,GTEX-13D11,female,50-59,Ventilator case,,"6 pieces, mucosa well preserved, up to ~1mm thick, 50-100% thickness",stomach
+GTEX-13FH7-1026,Stomach,GTEX-13FH7,female,50-59,Ventilator case,,"6 pieces; 5 are full thickness, well preserved, but with some sloughing of superficial glands",stomach
+GTEX-13FHO-2426,Stomach,GTEX-13FHO,male,60-69,Ventilator case,,6 pieces; moderately autolyzed mucosa and muscularis; some sloughing of foveolar glands,stomach
+GTEX-13FHP-2326,Stomach,GTEX-13FHP,male,50-59,Slow death,gastritis,6 pieces; chronic gastritis; mucosa largely autolyzed,stomach
+GTEX-13FLV-1626,Stomach,GTEX-13FLV,male,50-59,Fast death - natural causes,,"6 pieces; 5 of 6 include mucosa and muscularis, last is mucosa only, autolysis of superficial (foveolar) glands",stomach
+GTEX-13FLW-1226,Stomach,GTEX-13FLW,male,50-59,Fast death - natural causes,,"6 pieces; full thickness sections with moderately to severely autolyzed mucosa, foveolar cells sloughed",stomach
+GTEX-13FTW-1726,Stomach,GTEX-13FTW,male,40-49,Ventilator case,,"6 pieces; mucosa and submucosa, well preserved",stomach
+GTEX-13FTX-0726,Stomach,GTEX-13FTX,female,20-29,Ventilator case,,"6 pieces; all pieces include mucosa and muscularis, generally well preserved mucosa except for superficial glands",stomach
+GTEX-13FTY-1426,Stomach,GTEX-13FTY,female,40-49,Fast death - natural causes,,"6 pieces; full thickness sections, severe autolysis, fragment of degenerating vegetable matter",stomach
+GTEX-13FTZ-1026,Stomach,GTEX-13FTZ,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections, moderate to severe mucosal autolysis",stomach
+GTEX-13FXS-2226,Stomach,GTEX-13FXS,male,50-59,Fast death - natural causes,,6 pieces; mostly mucosa and submucosa; some sections include muscularis,stomach
+GTEX-13G51-2226,Stomach,GTEX-13G51,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections, moderatly autolyzed mucosa",stomach
+GTEX-13IVO-2026,Stomach,GTEX-13IVO,male,70-79,Slow death,,6 pieces;  totally autolyzed mucosa; poorly preserved muscularis,stomach
+GTEX-13JUV-1926,Stomach,GTEX-13JUV,female,40-49,Ventilator case,,"6 pieces; muscularis, no mucosa",stomach
+GTEX-13JVG-2226,Stomach,GTEX-13JVG,male,60-69,Fast death - natural causes,,6 pieces; predominantly mucosa with small portion of muscularis in some pieces,stomach
+GTEX-13N11-2126,Stomach,GTEX-13N11,female,50-59,Ventilator case,,6 pieces; full thickness small intestine,stomach
+GTEX-13N1W-2026,Stomach,GTEX-13N1W,male,70-79,Ventilator case,"congestion, hemorrhage","6 pieces; congestion and superficial mucosal fresh hemorrhage; 4 are full thickness, 1 mucosa only, 1 muscularis",stomach
+GTEX-13N2G-1526,Stomach,GTEX-13N2G,male,60-69,Fast death - natural causes,congestion,6 pieces; congestion; moderate autolysis,stomach
+GTEX-13NYB-1426,Stomach,GTEX-13NYB,male,40-49,Fast death - natural causes,,"6 pieces, a few have up to ~0.6mm mucosal layer but all badly autolyzed",stomach
+GTEX-13NYC-2226,Stomach,GTEX-13NYC,male,60-69,Fast death - natural causes,,6 pieces; autolyzed mucosa and muscularis,stomach
+GTEX-13NYS-2526,Stomach,GTEX-13NYS,male,60-69,Slow death,,"6 pieces; totally autolyzed mucosa, no muscularis sampled",stomach
+GTEX-13NZ8-2326,Stomach,GTEX-13NZ8,female,60-69,Slow death,,6 pieces; glands severely autolyzed; muscle slightly to moderately autolyzed,stomach
+GTEX-13NZ9-2326,Stomach,GTEX-13NZ9,male,50-59,Ventilator case,,"6 pieces, mucosa (~0.8mm) up to 20-25% thickness  but glandular elements markedly autolyzed except for deeper areas",stomach
+GTEX-13NZA-2426,Stomach,GTEX-13NZA,male,60-69,Fast death - natural causes,,6 pieces; full thickness sections,stomach
+GTEX-13NZB-1326,Stomach,GTEX-13NZB,male,30-39,Ventilator case,,"5 pieces; mucosa and submucosa, moderate to focally severe autolysis",stomach
+GTEX-13O1R-2626,Stomach,GTEX-13O1R,male,60-69,Fast death - natural causes,,6 pieces; mucosa only present: autolyzed,stomach
+GTEX-13O21-0926,Stomach,GTEX-13O21,male,50-59,Ventilator case,clean_specimens,"6 pieces, excellent speicmen,well preserved mucosa up to 1mm thick, ~70% thickness",stomach
+GTEX-13O3O-2226,Stomach,GTEX-13O3O,female,60-69,Intermediate death,,6 pieces; autolyzed and hemorrhagic mucosa; muscularis intact,stomach
+GTEX-13O3P-2626,Stomach,GTEX-13O3P,male,50-59,Slow death,,6  pieces; 5 have full thickness of wall; 1 lacks muscularis,stomach
+GTEX-13O3Q-2126,Stomach,GTEX-13O3Q,male,50-59,Fast death - natural causes,,6 pieces; only muscularis present; NO MUCOSA,stomach
+GTEX-13O61-1126,Stomach,GTEX-13O61,male,60-69,Ventilator case,,6 pieces; well preserved mucosa and muscle with some surface loss,stomach
+GTEX-13OVG-1126,Stomach,GTEX-13OVG,male,60-69,Ventilator case,,"6 pieces, mucosa well preserved, ~1mm; 25-100% thickness depending on section; valuable specimen",stomach
+GTEX-13OVH-2226,Stomach,GTEX-13OVH,male,70-79,Fast death - natural causes,,"6 pieces, mucosa up to 1mm, ~40% thickness, but with advanced autolysis",stomach
+GTEX-13OVI-1826,Stomach,GTEX-13OVI,female,60-69,Ventilator case,,"6 pieces, well preserved mucosa, ~0.5-0.8mm thick, 30-50% thickness, mainly antral with prominent foveolargastropathic changes",stomach
+GTEX-13OVI-2426,Stomach,GTEX-13OVI,female,60-69,Ventilator case,,"7 pieces, gastric mucosa; not GEJ smooth muscle.  May be used for GTEx if re-labeled",stomach
+GTEX-13OVJ-1526,Stomach,GTEX-13OVJ,female,50-59,Fast death - natural causes,congestion,"6 pieces; full thickness, congestion, autloysis of superficial glands",stomach
+GTEX-13OVK-0926,Stomach,GTEX-13OVK,male,40-49,Ventilator case,,6 pieces: 2 without muscularis propria,stomach
+GTEX-13OVL-2826,Stomach,GTEX-13OVL,male,50-59,Fast death - natural causes,,pieces,stomach
+GTEX-13OW5-1826,Stomach,GTEX-13OW5,male,60-69,Intermediate death,,"6 pieces, mucosa up to ~0.9mm, but completely autolyzed",stomach
+GTEX-13OW6-2526,Stomach,GTEX-13OW6,male,50-59,Fast death - natural causes,congestion,6 pieces; congestion; essentially well preserved full thickness sections,stomach
+GTEX-13OW7-2226,Stomach,GTEX-13OW7,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~0.7mm, ~30% thickness, generally advanced autolysis; few better preserved sections encircled, closer to score '2'",stomach
+GTEX-13OW8-2526,Stomach,GTEX-13OW8,male,60-69,Fast death - natural causes,,6 pieces; full thickness sections,stomach
+GTEX-13PDP-2426,Stomach,GTEX-13PDP,male,60-69,Slow death,,"6 pieces; full thickness sections, mucosa is severely autolyzed",stomach
+GTEX-13PL6-2326,Stomach,GTEX-13PL6,female,40-49,Intermediate death,,"6 pieces, mucosa is ~0.6mm, ~30-40% thickness, moderately autolyzed",stomach
+GTEX-13PL7-0126,Stomach,GTEX-13PL7,female,60-69,Ventilator case,,"6 pieces, mucosa well-preserved, up to ~1mm, 40-60% thickness",stomach
+GTEX-13PVQ-2126,Stomach,GTEX-13PVQ,male,50-59,Fast death - natural causes,gastritis,6 pieces; chronic superficial gastritis,stomach
+GTEX-13PVR-2126,Stomach,GTEX-13PVR,female,60-69,Ventilator case,clean_specimens,"6 pieces; mucosa well-preserved, ~0.6-0.8mm, ~15% of thickness.  Excellent specimen.",stomach
+GTEX-13QBU-1126,Stomach,GTEX-13QBU,female,40-49,Ventilator case,clean_specimens,"6 pieces, mucosa well-preserved, good specimens, up to ~0.8mm, ~35-50% of thickness",stomach
+GTEX-13QIC-2526,Stomach,GTEX-13QIC,female,60-69,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa up to 0.6mm, superficial mucosal autolysis",stomach
+GTEX-13QJ3-2726,Stomach,GTEX-13QJ3,male,50-59,Ventilator case,,"6 pieces, mucosa is ~0.8mm, 30-40% thickness, advanced autolysis",stomach
+GTEX-13QJC-1926,Stomach,GTEX-13QJC,female,60-69,Fast death - natural causes,,"6 pieces; mucosa largely autolyzed, muscularis moderately autolyzed",stomach
+GTEX-13RTJ-1626,Stomach,GTEX-13RTJ,male,60-69,Slow death,,"6 pieces, mucosa up to ~0.5mm, totally autolyzed",stomach
+GTEX-13RTK-0226,Stomach,GTEX-13RTK,male,20-29,Ventilator case,gastritis,"6 pieces, mucosa up to~1mm thick, ~10% thickness well preserved, diffuse chronic active gastritis (microabscesses noted), rep encircled",stomach
+GTEX-13S7M-1826,Stomach,GTEX-13S7M,female,60-69,Fast death - natural causes,gastritis,6 pieces; moderate chronic gastritis,stomach
+GTEX-13S86-1326,Stomach,GTEX-13S86,male,40-49,Ventilator case,,6 pieces; mucosa variably preserved,stomach
+GTEX-13SLW-2126,Stomach,GTEX-13SLW,male,70-79,Fast death - natural causes,,"6 pieces, mucosa up to ~50-60% thickness but markedly autolyzed",stomach
+GTEX-13SLX-2026,Stomach,GTEX-13SLX,female,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, moderate to severe autolysis",stomach
+GTEX-13U4I-2526,Stomach,GTEX-13U4I,female,40-49,Ventilator case,clean_specimens,"6 pieces, mucosa up to ~0.7mm, ~40% thickness, good specimens",stomach
+GTEX-13VXT-2326,Stomach,GTEX-13VXT,female,20-29,Ventilator case,,"6 pieces; mucosa autolyzed, muscularis preserved",stomach
+GTEX-13VXU-1426,Stomach,GTEX-13VXU,male,50-59,Fast death - natural causes,,6 pieces; epithelium largely autolyzed; full thickness present,stomach
+GTEX-13W3W-1926,Stomach,GTEX-13W3W,female,60-69,Ventilator case,,"6 pieces, muscularis,no mucosa",stomach
+GTEX-13W46-2426,Stomach,GTEX-13W46,male,50-59,Ventilator case,,"6 pieces; full thickness sections, moderate autolysis",stomach
+GTEX-13X6H-1626,Stomach,GTEX-13X6H,female,50-59,Ventilator case,,"6 pieces; muscularis propria only, no mucosa",stomach
+GTEX-13X6I-2426,Stomach,GTEX-13X6I,male,60-69,Slow death,,"6 pieces; full thickness sections, moderate to severe autolysis of mucosa",stomach
+GTEX-13X6J-2126,Stomach,GTEX-13X6J,male,50-59,Fast death - natural causes,congestion,6 pieces; full thickness sections; congestion,stomach
+GTEX-13X6K-2326,Stomach,GTEX-13X6K,female,60-69,Slow death,,"6 pieces, mucosa up to ~40 % thickness, moderate-advanced autolysis",stomach
+GTEX-13YAN-2526,Stomach,GTEX-13YAN,male,60-69,Ventilator case,,"6 pieces mucosa up to ~20% thickness, but with advanced autolysis",stomach
+GTEX-1445S-2026,Stomach,GTEX-1445S,male,60-69,Intermediate death,,"6 pieces, mucosa is ~0.7mm, ~25% thickness, advanced autolysis",stomach
+GTEX-144FL-2826,Stomach,GTEX-144FL,male,50-59,Fast death - natural causes,,"6 pieces, mucosa is up to ~0.6mm, 40-80% thickness, markedly autolyzed",stomach
+GTEX-144GL-1726,Stomach,GTEX-144GL,male,50-59,Fast death - natural causes,,6 pieces; superficial mucosa autolyzed; vegetable material on serosal surface [labeled],stomach
+GTEX-144GM-1726,Stomach,GTEX-144GM,male,20-29,Ventilator case,,"6 pieces, mucosa well -preserved, 30-50% thickness, in some areas up to 1.3mm thick...focal deep glandular dilations, unknown etiology",stomach
+GTEX-144GN-1226,Stomach,GTEX-144GN,male,50-59,Ventilator case,,6 pieces; well preserved and sampled,stomach
+GTEX-144GO-2226,Stomach,GTEX-144GO,male,60-69,Slow death,,"6 pieces; predominantly full thickness sections, severe autolysis",stomach
+GTEX-145LS-2626,Stomach,GTEX-145LS,female,60-69,Slow death,,6 pieces; epithelium autolyzed; muscle intact,stomach
+GTEX-145LT-1426,Stomach,GTEX-145LT,male,40-49,Ventilator case,,"6 pieces, mucosa well - preserved, up to ~0.9mm, ~3040% thickness",stomach
+GTEX-145LU-1626,Stomach,GTEX-145LU,male,50-59,Fast death - natural causes,,6 pieces; superficial mucosa most autolyzed,stomach
+GTEX-145LV-1626,Stomach,GTEX-145LV,male,50-59,Ventilator case,,"5 pieces; mucosa only, no muscularis; focal gastric contents mainly in 2 pieces [annotated]",stomach
+GTEX-145ME-1026,Stomach,GTEX-145ME,female,40-49,Ventilator case,,"6 pieces, mucosa up to ~0.6mm, 20-50% thickness",stomach
+GTEX-145MF-1626,Stomach,GTEX-145MF,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~50% thickness, advanced autolysis",stomach
+GTEX-145MG-2826,Stomach,GTEX-145MG,male,50-59,Fast death - natural causes,,6 pieces; 3 have mucosa only,stomach
+GTEX-145MH-2426,Stomach,GTEX-145MH,male,50-59,Fast death - violent,,"6 pieces; full thickness sections, mucosa is moderately to severely autolyzed",stomach
+GTEX-145MI-1726,Stomach,GTEX-145MI,female,60-69,Fast death - natural causes,,6 pieces; too autolyzed,stomach
+GTEX-145MN-1326,Stomach,GTEX-145MN,male,30-39,Ventilator case,,"6 pieces; 4 have full thickness wall, 2 are without muscularis",stomach
+GTEX-145MO-2226,Stomach,GTEX-145MO,male,60-69,Intermediate death,,"2 pieces, embedded ""en face"" sp thickness not evaluable. Autolysis moderately advanced in mucosa",stomach
+GTEX-146FH-2126,Stomach,GTEX-146FH,female,50-59,Ventilator case,gastritis,6 pieces; chronic gastritis; 2 have minimal mucosa,stomach
+GTEX-146FQ-1326,Stomach,GTEX-146FQ,male,30-39,Ventilator case,,6 pieces; no mucosa included; muscularis present. LCM,stomach
+GTEX-146FR-2026,Stomach,GTEX-146FR,female,60-69,Ventilator case,,"6 pieces, muscularis only, mucosa sloughed",stomach
+GTEX-14753-2226,Stomach,GTEX-14753,male,60-69,Slow death,,6 pieces; mucosa totally autolyzed; muscle preserved for LCM,stomach
+GTEX-1477Z-2726,Stomach,GTEX-1477Z,male,60-69,Slow death,,"6 pieces, mucosa up to ~0.5mm, ~30% thickness, but advance autolysis",stomach
+GTEX-147F3-1126,Stomach,GTEX-147F3,female,50-59,Ventilator case,,"6 pieces; well preserved gastric mucosa, focally acutely inflamed",stomach
+GTEX-147F4-1826,Stomach,GTEX-147F4,male,50-59,Fast death - natural causes,,"6 pieces, mucosa with advanced autolysis or sloughed",stomach
+GTEX-147GR-2126,Stomach,GTEX-147GR,male,60-69,Fast death - natural causes,,6 pieces; most of the autolysis is in the superficial epithelium,stomach
+GTEX-147JS-2426,Stomach,GTEX-147JS,male,60-69,Fast death - natural causes,,"6 pieces, mucosa focally better preserved; gastropathic changes, up to ~2mm thick, 50-60% thickness",stomach
+GTEX-148VI-1326,Stomach,GTEX-148VI,female,60-69,Ventilator case,,"6 pieces; four are full thickness, two are mucosa/submucosa only",stomach
+GTEX-148VJ-2826,Stomach,GTEX-148VJ,male,70-79,Fast death - natural causes,,"6 pieces, mucosa up to ~0.8mm, variably preserved but generally moderate-markedly advanced autolysis",stomach
+GTEX-1497J-2826,Stomach,GTEX-1497J,male,60-69,Ventilator case,,"6 pieces, mucosa up to ~0.5mm, ~20-25% thickness, but with moderate-advanced autolysis",stomach
+GTEX-14A5H-2326,Stomach,GTEX-14A5H,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.6mm,~15% thickness, but moderate-advanced autolysis",stomach
+GTEX-14A5I-2226,Stomach,GTEX-14A5I,female,50-59,Slow death,,"6 pieces, mucosa up to ~1mm thick, ~50% thickness but moderately to markeldy autolyzed",stomach
+GTEX-14A6H-1626,Stomach,GTEX-14A6H,male,30-39,Ventilator case,,"6 pieces; 5 are full thickness, 1 is mucosa/submucosa only, mucosa is variably autolyzed (mild to severe)",stomach
+GTEX-14ABY-2826,Stomach,GTEX-14ABY,male,50-59,Fast death - natural causes,congestion,"6 pieces; mucosal autolysis grade 3; muscle intact; congestion, well trimmed",stomach
+GTEX-14AS3-1426,Stomach,GTEX-14AS3,female,40-49,Ventilator case,hemorrhage,"6 pieces; full thickness sections, some superficial hemorrhage and focal basal dilatation of glands",stomach
+GTEX-14ASI-1926,Stomach,GTEX-14ASI,male,60-69,Fast death - natural causes,,"6 pieces; mucosa largely autolyzed, muscle intact; LCM",stomach
+GTEX-14B4R-0726,Stomach,GTEX-14B4R,male,30-39,Ventilator case,,"5 pieces; full thickness sections, but 2 include only small portion of mucosa",stomach
+GTEX-14BIL-1926,Stomach,GTEX-14BIL,male,50-59,Fast death - natural causes,,6 pieces,stomach
+GTEX-14BIM-1526,Stomach,GTEX-14BIM,female,60-69,Intermediate death,,"6 pieces, mucosa completely autolyzed",stomach
+GTEX-14BIN-2826,Stomach,GTEX-14BIN,female,50-59,Fast death - natural causes,gastritis,6 pieces; chronic gastritis; superficial mucosa autolyzed,stomach
+GTEX-14BMU-1126,Stomach,GTEX-14BMU,female,20-29,Ventilator case,,"6 pieces, well-preserved mucosa up to ~0.8mm, 40-90% thickness",stomach
+GTEX-14BMV-2226,Stomach,GTEX-14BMV,male,50-59,Fast death - natural causes,,"6 pieces; mucosa autolyzed, muscle intact",stomach
+GTEX-14C38-2726,Stomach,GTEX-14C38,male,50-59,Ventilator case,,"6 pieces, mucosa with advanced autolysis",stomach
+GTEX-14C39-1526,Stomach,GTEX-14C39,male,40-49,Fast death - natural causes,,"6 pieces, total autolysis of mucosa",stomach
+GTEX-14C5O-2426,Stomach,GTEX-14C5O,male,60-69,Slow death,,"6 pieces; 3 include mucosa and muscularis, 3 are mucosa/submucosa only",stomach
+GTEX-14DAQ-2826,Stomach,GTEX-14DAQ,female,60-69,Slow death,,"6 pieces, mucosa up to ~1mm; some areas better preserved (score 1), ~20-30% thickness",stomach
+GTEX-14DAR-0926,Stomach,GTEX-14DAR,male,50-59,Ventilator case,,"6 pieces, generally well preserved mucosa up to ~1mm, 60-90% thickness. Several delineated foci of moderate-advance autolysis, delineated",stomach
+GTEX-14E1K-1526,Stomach,GTEX-14E1K,male,50-59,Ventilator case,,"6 pieces, mucosa completely sloughed",stomach
+GTEX-14E6C-1926,Stomach,GTEX-14E6C,male,40-49,Slow death,,6 pieces; mucosa poorly preserved; muscle intact,stomach
+GTEX-14E6D-2026,Stomach,GTEX-14E6D,male,50-59,Fast death - natural causes,congestion,"6 pieces; 4 include mucosa and muscularis, 2 are mucosa/submucosa only; focal grade 3 mucosal autolysis; congestion",stomach
+GTEX-14E6E-0926,Stomach,GTEX-14E6E,male,30-39,Ventilator case,,"6 pieces; well  preserved oxyntic glands, sloughed foveolar (surface) epithelium; no muscularis propria",stomach
+GTEX-14E7W-2426,Stomach,GTEX-14E7W,male,70-79,Fast death - natural causes,congestion,6 pieces; mucosa=autolysis 2; muscle=1; congestion,stomach
+GTEX-14H4A-1326,Stomach,GTEX-14H4A,female,40-49,Ventilator case,,"6 pieces; full thickness sections, well preserved",stomach
+GTEX-14ICK-1926,Stomach,GTEX-14ICK,male,40-49,Ventilator case,,"6 pieces; muscularis only, no mucosa. LCM",stomach
+GTEX-14ICL-0826,Stomach,GTEX-14ICL,male,30-39,Ventilator case,,"6 pieces, mucosa variably preserved, score 2 to 3, partially sloughed",stomach
+GTEX-14JFF-2326,Stomach,GTEX-14JFF,male,60-69,Slow death,,"6 pieces, mucosa up to ~0.5mm but with moderate-advanced autolysis",stomach
+GTEX-14JG1-2126,Stomach,GTEX-14JG1,male,40-49,Fast death - natural causes,,6 pieces,stomach
+GTEX-14JG6-1226,Stomach,GTEX-14JG6,female,30-39,Ventilator case,,"6 pieces; five are full thickness, one with mucosa/submucosa only",stomach
+GTEX-14JIY-1926,Stomach,GTEX-14JIY,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.5mm, ~20% thickness, moderate-advanced autolysis",stomach
+GTEX-14LLW-2126,Stomach,GTEX-14LLW,female,70-79,Slow death,,6 pieces; mucosa totally autolyzed; muscularis intact; LCM,stomach
+GTEX-14LZ3-1326,Stomach,GTEX-14LZ3,female,60-69,Intermediate death,,"6 pieces; full thickness sections, some up to 50% fat, mucosa is moderately to severely autolyzed",stomach
+GTEX-14PHW-2526,Stomach,GTEX-14PHW,female,60-69,Slow death,,"6 pieces, complete autolysis",stomach
+GTEX-14PHX-1026,Stomach,GTEX-14PHX,male,50-59,Ventilator case,,"6 pieces; well preserved, well dissected mucosa, no muscularis propria; focal basal gland dilatation, degeneration",stomach
+GTEX-14PHY-0926,Stomach,GTEX-14PHY,female,60-69,Ventilator case,,"6 pieces; mucosa intact, but cells partially autolyzed; no muscularis",stomach
+GTEX-14PII-2026,Stomach,GTEX-14PII,male,60-69,Slow death,,6 pieces; mucosa with advanced autolysis/ghosting; much has sloughed,stomach
+GTEX-14PJ2-2426,Stomach,GTEX-14PJ2,male,50-59,Ventilator case,,6 pieces; autolyzed gastric mucosa grade 2/3 and preserved muscularis,stomach
+GTEX-14PJ3-1426,Stomach,GTEX-14PJ3,male,50-59,Ventilator case,,"6 pieces; well preserved mucosa and submucosa, no muscularis",stomach
+GTEX-14PJ4-1626,Stomach,GTEX-14PJ4,male,60-69,Ventilator case,,6 pieces; essentially well preserved gastric mucosa,stomach
+GTEX-14PJ5-0826,Stomach,GTEX-14PJ5,female,60-69,Ventilator case,,"6 pieces, well preserved mucosa ~1mm, 20-30% thickness",stomach
+GTEX-14PJ6-0826,Stomach,GTEX-14PJ6,female,60-69,Ventilator case,cyst,"6 pieces, mucosa up to ~1.3 mm, ~30-40% thickness, focal microcystic metaplastic changes",stomach
+GTEX-14PJM-1826,Stomach,GTEX-14PJM,female,50-59,Fast death - natural causes,,6 pieces; moderate superficial mucosal autolysis; muscle intact,stomach
+GTEX-14PJN-0726,Stomach,GTEX-14PJN,male,30-39,Ventilator case,,"6 pieces, mucosa well- preserved, 60-90% thickness, valuable speciment",stomach
+GTEX-14PJO-2726,Stomach,GTEX-14PJO,male,60-69,Slow death,,"6 pieces; mucosa autolyzed, muscle intact",stomach
+GTEX-14PK6-1426,Stomach,GTEX-14PK6,female,70-79,Ventilator case,,"6 pieces, well preserved mucosa, ~70-80% thickness, valuable specimen",stomach
+GTEX-14PKU-1126,Stomach,GTEX-14PKU,female,40-49,Ventilator case,,"6 pieces, well-preserved mucosa up to ~1mm, ~20% thickness",stomach
+GTEX-14PKV-1826,Stomach,GTEX-14PKV,female,20-29,Ventilator case,clean_specimens,"6 pieces, well preserved mucosa is 60-90% thickness, good specimen",stomach
+GTEX-14PN3-1326,Stomach,GTEX-14PN3,female,60-69,Ventilator case,,6 pieces; well preserved mucosa; full thickness specimens,stomach
+GTEX-14PN4-1926,Stomach,GTEX-14PN4,male,50-59,Fast death - natural causes,,"6 pieces, moderatley autolyzed mucosa with only trivial muscularis (full thickness sections preferred)",stomach
+GTEX-14PQA-2726,Stomach,GTEX-14PQA,female,50-59,Slow death,,4 pieces; muscularis only,stomach
+GTEX-14XAO-1626,Stomach,GTEX-14XAO,female,60-69,Ventilator case,,"6 pieces, mucosa extremely well preserved, ~1.2mm, ~50-75% thickness, valuable specimen",stomach
+GTEX-15CHC-1826,Stomach,GTEX-15CHC,female,60-69,Ventilator case,,6 pieces; superficial foveolar cells sloughed,stomach
+GTEX-15CHQ-2326,Stomach,GTEX-15CHQ,male,60-69,Slow death,,6 pieces; mucosa largely autolyzed; muscle in somewhat better  shape,stomach
+GTEX-15CHR-1326,Stomach,GTEX-15CHR,male,50-59,Ventilator case,,6 pieces; well preserved mucosa and muscularis,stomach
+GTEX-15CHS-2226,Stomach,GTEX-15CHS,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, modeate adavance autolysis",stomach
+GTEX-15D1Q-2226,Stomach,GTEX-15D1Q,male,40-49,Fast death - natural causes,,"6 pieces, mucosa up to ~0.8mm, advanced autolysis",stomach
+GTEX-15D79-2526,Stomach,GTEX-15D79,male,50-59,Fast death - natural causes,,6 pieces; superficial glands more autolyzed than deeper,stomach
+GTEX-15DCD-2526,Stomach,GTEX-15DCD,female,70-79,Fast death - natural causes,congestion,"6 pieces; full thickness sections with moderate to severe mucosal autolysis, congestion, muscularis is moderatley autolyzed",stomach
+GTEX-15DCE-1626,Stomach,GTEX-15DCE,male,20-29,Ventilator case,,6 pieces; mucosa only present; muscularis missing,stomach
+GTEX-15DCZ-1426,Stomach,GTEX-15DCZ,female,20-29,Ventilator case,gastritis,"6 pieces, diffuse chronic gastritis; prominent ganglion cells in muscularis propria, rep. encircled.",stomach
+GTEX-15DDE-2226,Stomach,GTEX-15DDE,female,50-59,Intermediate death,,"6 pieces, mucosa up to ~0.6mm, near- total autolysis",stomach
+GTEX-15DYW-2226,Stomach,GTEX-15DYW,female,60-69,Fast death - natural causes,gastritis,"6 pieces; chronic atrophic gastritis with 60% reduction of gastric glands and replacement by chronic inflammatory cells; mucosa not useable, but other layers intact and without lesions",stomach
+GTEX-15DZA-1126,Stomach,GTEX-15DZA,female,30-39,Ventilator case,,"6 pieces, mucosa totally sloughed/denuded",stomach
+GTEX-15EO6-1826,Stomach,GTEX-15EO6,male,50-59,Slow death,,"6 pieces, target mucosa up to ~0.4mm layer, totally autolyzed/sloughing",stomach
+GTEX-15EOM-2026,Stomach,GTEX-15EOM,female,20-29,Ventilator case,"congestion, hemorrhage","6 pieces; mucosa and submucosa only, congestion and hemorrhage",stomach
+GTEX-15ER7-2726,Stomach,GTEX-15ER7,female,20-29,Fast death - violent,,"6 pieces; moderate to severe mucosal autolysis, muscularis better preserved",stomach
+GTEX-15ETS-1826,Stomach,GTEX-15ETS,female,40-49,Ventilator case,,"6 pieces generally well preserved mucosa, ~1mm layer, ~30-80% thickness",stomach
+GTEX-15EU6-2526,Stomach,GTEX-15EU6,male,50-59,Ventilator case,,"6 pieces, mucosa completely autolyzed/sloughed",stomach
+GTEX-15F5U-1126,Stomach,GTEX-15F5U,male,40-49,Ventilator case,,6 pieces; only muscle no mucosa; 2 pieces have up to 50% submucosal stroma,stomach
+GTEX-15FZZ-1426,Stomach,GTEX-15FZZ,female,30-39,Ventilator case,,"6 pieces; no mucosa, only muscularis and submucosa; 1 has only submucosa; LCM",stomach
+GTEX-15G19-1526,Stomach,GTEX-15G19,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections with mucosa up to 0.8mm, sloughing surface epithelium, moderate autolysis",stomach
+GTEX-15G1A-1226,Stomach,GTEX-15G1A,male,30-39,Ventilator case,"gastritis, ischemic_changes","6 pieces, mucosa generally well- preserved, foci ischemic damage/gastritis, delineated. Mucosa is ~25% thickness",stomach
+GTEX-15RIE-1026,Stomach,GTEX-15RIE,male,60-69,Ventilator case,,"6 pieces, mucosa up to ~1mm",stomach
+GTEX-15RIF-1126,Stomach,GTEX-15RIF,male,20-29,Ventilator case,,"6 pieces, mucosa well preserved, ~1mm, ~20-30% thickness",stomach
+GTEX-15RJ7-1126,Stomach,GTEX-15RJ7,male,40-49,Ventilator case,,6 pieces; muscularis and submucosa only (full thickness sections preferred with trimming of muscularis as necessary),stomach
+GTEX-15RJE-1626,Stomach,GTEX-15RJE,male,40-49,Slow death,,6 pieces;mucosa  too autolyzed for further study; no muscularis,stomach
+GTEX-15SB6-1026,Stomach,GTEX-15SB6,female,50-59,Ventilator case,,6 pieces; predominantly muscularis with few pieces including mucosa (not gastric body),stomach
+GTEX-15SDE-0526,Stomach,GTEX-15SDE,female,50-59,Ventilator case,,6 pieces; superficial half of mucosa autolyzed; 2 of 6 have little or no muscularis propria,stomach
+GTEX-15SHU-2226,Stomach,GTEX-15SHU,female,40-49,Fast death - natural causes,,6 pieces; mucosa =3; muscle =2 autolysis,stomach
+GTEX-15SHV-1726,Stomach,GTEX-15SHV,male,60-69,Ventilator case,,"6 pieces; mucosa and submucosa only, no muscularis",stomach
+GTEX-15SHW-2126,Stomach,GTEX-15SHW,male,60-69,Ventilator case,,"6 pieces; full thickness sections (mucosa is moderately to severely autolyzed, muscularis moderately autolyzed)",stomach
+GTEX-15SKB-2326,Stomach,GTEX-15SKB,male,60-69,Ventilator case,,"6 pieces, mucosa markedly autolyzed",stomach
+GTEX-15SZO-2526,Stomach,GTEX-15SZO,male,50-59,Fast death - natural causes,,"6 pieces mucosa up to ~0.75mm, advanced autolysis",stomach
+GTEX-15TU5-2526,Stomach,GTEX-15TU5,male,60-69,Slow death,gastritis,"6 pieces; chronic gastritis; chief and parietal mucosal cells identifiable,  but dissociated",stomach
+GTEX-15UF6-2526,Stomach,GTEX-15UF6,female,70-79,Slow death,gastritis,6 pieces; marked chronic gastritis; mucosa mostly autolyzed; muscle intact,stomach
+GTEX-15UF7-1226,Stomach,GTEX-15UF7,male,40-49,Ventilator case,,6 pieces; full thickness sections,stomach
+GTEX-15UKP-2326,Stomach,GTEX-15UKP,male,20-29,Ventilator case,,"6 pieces; full thickness sections, moderate to severe mucosal autolysis",stomach
+GTEX-16A39-1326,Stomach,GTEX-16A39,female,30-39,Ventilator case,,"6 pieces; well preserved gastric mucosa, lamina propria and muscularis (muscularis present in 2 of 6 pieces)",stomach
+GTEX-16AAH-1226,Stomach,GTEX-16AAH,male,50-59,Ventilator case,,"6 pieces, mucosa is ~1mm, 20-30% of thickness",stomach
+GTEX-16BQI-1826,Stomach,GTEX-16BQI,female,30-39,Ventilator case,,"6 pieces; all have mucosa only, no muscularis",stomach
+GTEX-16GPK-2726,Stomach,GTEX-16GPK,male,60-69,Fast death - natural causes,congestion,6 pieces; full thickness sections with autolyzed mucosa; attached fat up to 1.6mm; congestion,stomach
+GTEX-16MT8-2626,Stomach,GTEX-16MT8,female,60-69,Slow death,,"6 pieces, mucosa up to ~1mm, 50-80% thickness but moderately advanced autolysis, particularly superficially",stomach
+GTEX-16MT9-1926,Stomach,GTEX-16MT9,female,60-69,Ventilator case,,6 pieces; full thickness sections with moderately to severely autolyzed mucosa,stomach
+GTEX-16MTA-1026,Stomach,GTEX-16MTA,male,50-59,Ventilator case,,"6 pieces; full thickness sections, several larger vessels attached, dilated deep glands",stomach
+GTEX-16NFA-1826,Stomach,GTEX-16NFA,male,50-59,Ventilator case,,"6 pieces; no mucosa, only muscularis propria and submucosa",stomach
+GTEX-16NGA-1526,Stomach,GTEX-16NGA,female,40-49,Ventilator case,,6 pieces; essentially well preserved gastric mucosa and muscularis,stomach
+GTEX-16NPV-2926,Stomach,GTEX-16NPV,female,50-59,Slow death,,"6 pieces; mucosa totally autolyzed, muscularis intact",stomach
+GTEX-16NPX-2426,Stomach,GTEX-16NPX,male,50-59,Ventilator case,,"6 pieces, mucosa up to ~0.5mm, moderate-advanced autolysis",stomach
+GTEX-16XZY-1326,Stomach,GTEX-16XZY,male,70-79,Ventilator case,,"6 pieces; MUSCULARIS, NOT STOMACH,  up to ~1.3mm attached fibrofatty tissue",stomach
+GTEX-16XZZ-2826,Stomach,GTEX-16XZZ,male,60-69,Ventilator case,,6 pieces;,stomach
+GTEX-16YQH-2426,Stomach,GTEX-16YQH,male,30-39,Fast death - violent,,"6 pieces, mucosa up to ~1mm, ~30% thickness, moderately advanced autolysis",stomach
+GTEX-16Z82-2126,Stomach,GTEX-16Z82,male,60-69,Fast death - natural causes,,"6 pieces; 2 of 6 have full thickness, other 4 have no muscularis in sections; no lesions",stomach
+GTEX-178AV-1126,Stomach,GTEX-178AV,male,40-49,Ventilator case,,"6 pieces, mucosa up to ~0.8mm, 20-30% thickness",stomach
+GTEX-17EUY-1526,Stomach,GTEX-17EUY,male,20-29,Ventilator case,,"6 pieces; full thickness sections, serositis, few dilated deep glands",stomach
+GTEX-17EVP-1926,Stomach,GTEX-17EVP,male,40-49,Fast death - natural causes,,6 pieces; autolyzed mucosa and  muscularis propria,stomach
+GTEX-17EVQ-2226,Stomach,GTEX-17EVQ,male,70-79,Fast death - violent,,"6 pieces, mucosa up to ~0.8mm. totally autolyzed",stomach
+GTEX-17F96-1826,Stomach,GTEX-17F96,male,70-79,Ventilator case,,"6 pieces; mucosa autolyzed, muscle intact",stomach
+GTEX-17F97-2026,Stomach,GTEX-17F97,male,50-59,Slow death,,"6 pieces; mucosa severely autolyzed, muscularis moderately",stomach
+GTEX-17F98-1526,Stomach,GTEX-17F98,female,40-49,Ventilator case,,"6 pieces; all have only mucosa and submucosa, no muscularis propria; basal glandular dilatation",stomach
+GTEX-17F9E-2226,Stomach,GTEX-17F9E,male,50-59,Ventilator case,,"6 pieces, mucosa well preserved, up to ~0.8mm, ~20-25% thickness",stomach
+GTEX-17F9Y-2826,Stomach,GTEX-17F9Y,female,70-79,Ventilator case,,"6 pieces mucosa is ~1mm, severely autolyzed",stomach
+GTEX-17GQL-1226,Stomach,GTEX-17GQL,male,60-69,Ventilator case,,"6 pieces, abundant well-preserved  mucosa up to ~1mm, 50-100% of thickness",stomach
+GTEX-17HG3-0726,Stomach,GTEX-17HG3,female,30-39,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa (3), muscularis (2)",stomach
+GTEX-17HGU-2126,Stomach,GTEX-17HGU,male,50-59,Ventilator case,,6 pieces; portions of mucosa have severe autolysis,stomach
+GTEX-17HHE-1026,Stomach,GTEX-17HHE,male,50-59,Ventilator case,"cyst, metaplasia","6 pieces, well fixed mucosa up to ~0.8mm, ~50-80% of thickness.  Incidental microcystic metaplasia in deeper glands.",stomach
+GTEX-17HHY-2426,Stomach,GTEX-17HHY,male,50-59,Fast death - natural causes,,6 pieces; severely autolyzed mucosa and moderately autolyzed muscularis,stomach
+GTEX-17HII-2426,Stomach,GTEX-17HII,male,50-59,Fast death - natural causes,,"6 pieces, target mucosa up tp ~1mm thick, ~50% thickness, moderately advanced autolysis",stomach
+GTEX-17JCI-2226,Stomach,GTEX-17JCI,female,60-69,Ventilator case,,"6 pieces; mucosa autolyzed, muscle intact but partially autolyzed (2)",stomach
+GTEX-17KNJ-1526,Stomach,GTEX-17KNJ,male,50-59,Ventilator case,"cyst, gastritis","6 pieces, superficial mucosa approached score '2', up to ~0.7mm, ~15% thickness. Chronic gastritis, microglandular cystic change noted",stomach
+GTEX-17MF6-2126,Stomach,GTEX-17MF6,male,40-49,Fast death - natural causes,,6 pieces; poor mucosal preservation; muscle intact,stomach
+GTEX-17MFQ-0426,Stomach,GTEX-17MFQ,male,20-29,Ventilator case,,"6 pieces, muscularis only, no mucosa",stomach
+GTEX-183FY-2026,Stomach,GTEX-183FY,male,20-29,Ventilator case,,"6 pieces, muscularis only; no target mucosa present",stomach
+GTEX-183WM-2226,Stomach,GTEX-183WM,female,70-79,Slow death,,"6 pieces, mucosa upto ~0.8mm, ~30% thickness, moderately advance autolysis",stomach
+GTEX-18464-2226,Stomach,GTEX-18464,male,50-59,Slow death,,"6 pieces; full thickness sections, moderate to severe autolysis",stomach
+GTEX-18465-2326,Stomach,GTEX-18465,male,50-59,Fast death - natural causes,gastritis,6 pieces; chronic gastritis; muscularis better preserved [1] than mucosa,stomach
+GTEX-18A66-2226,Stomach,GTEX-18A66,male,60-69,Slow death,,"6 pieces, mucosa well-preserved, up to ~1mm, ~30-40% thickness",stomach
+GTEX-18A67-2626,Stomach,GTEX-18A67,male,50-59,Ventilator case,"cyst, hemorrhage",6 pieces;  gastric mucosa but no muscularis; fresh hemorrhage  in the lamina propria of the superficial part of mucosa; microcystic deep glandular changes,stomach
+GTEX-18A6Q-2726,Stomach,GTEX-18A6Q,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm but moderately-badly autolyzed",stomach
+GTEX-18A7A-2726,Stomach,GTEX-18A7A,female,50-59,Fast death - natural causes,,6 pieces; mucosa autolysis=2; muscle =1,stomach
+GTEX-18A7B-2226,Stomach,GTEX-18A7B,male,70-79,Intermediate death,,6 pieces; mucosa largely autolyzed; muscularis moderately autolyzed,stomach
+GTEX-18D9A-0626,Stomach,GTEX-18D9A,female,30-39,Ventilator case,,6 pieces; superficial mucosal autolysis & sloughing,stomach
+GTEX-18D9B-2226,Stomach,GTEX-18D9B,male,60-69,Ventilator case,,6 pieces; possible fixation artifacts; 1 piece has no muscularis,stomach
+GTEX-18D9U-1526,Stomach,GTEX-18D9U,male,40-49,Ventilator case,,"6 pieces, mucosa up to ~1mm, 30-90% of thickness",stomach
+GTEX-18QFQ-1226,Stomach,GTEX-18QFQ,male,30-39,Ventilator case,,"6 pieces; predominanlty mucosa and submucosa, two pieces include portion of muscularis (also target), mild to moderate autolysis",stomach
+GTEX-19HZE-2526,Stomach,GTEX-19HZE,female,70-79,Intermediate death,,"6 pieces; mucosa severely autolyzed, muscularis moderately autolyzed",stomach
+GTEX-1A32A-2326,Stomach,GTEX-1A32A,female,50-59,Fast death - natural causes,,6 pieces; mucosa moderately to severely autolyzed; muscularis moderately autolyzed,stomach
+GTEX-1A3MV-1226,Stomach,GTEX-1A3MV,male,30-39,Ventilator case,,6 pieces; full thickness sections,stomach
+GTEX-1A3MW-2326,Stomach,GTEX-1A3MW,female,60-69,Slow death,,6 pieces; mucosa largely autolyzed; muscularis moderately autolyzed,stomach
+GTEX-1A3MX-1926,Stomach,GTEX-1A3MX,male,60-69,Slow death,,"6 pieces, mucosa up to ~0.7mm, 30-50% thickness, moderate-markedly advanced autolysis",stomach
+GTEX-1A8FM-1726,Stomach,GTEX-1A8FM,female,50-59,Fast death - natural causes,,6 pieces; mucosa severely autolyzed; no muscularis included,stomach
+GTEX-1A8G6-1426,Stomach,GTEX-1A8G6,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, 40-90% thickness, moderately advanced autolysis",stomach
+GTEX-1A8G7-2026,Stomach,GTEX-1A8G7,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa (3), muscularis (2)",stomach
+GTEX-1AMEY-1226,Stomach,GTEX-1AMEY,female,30-39,Ventilator case,,6 pieces; mucosa largely autolyzed; muscularis (present in 5 of 6 pieces) moderately autolyzed,stomach
+GTEX-1AMFI-1226,Stomach,GTEX-1AMFI,female,50-59,Ventilator case,,"6 pieces, well preserved mucosa up to ~`1mm, ~20-25% thickness",stomach
+GTEX-1AX8Y-1626,Stomach,GTEX-1AX8Y,male,40-49,Ventilator case,,6 pieces; muscularis with few strips of residual mucosa,stomach
+GTEX-1AX8Z-2226,Stomach,GTEX-1AX8Z,male,60-69,Ventilator case,gastritis,6 pieces: 2 without muscularis; chronic gastritis,stomach
+GTEX-1AX9I-2126,Stomach,GTEX-1AX9I,male,60-69,Fast death - natural causes,,6 pieces; variable preservation of mucosa: superficial glands more autolyzed than deeper,stomach
+GTEX-1AX9J-2626,Stomach,GTEX-1AX9J,male,60-69,Ventilator case,,"6 pieces, mucosa 0.6-1.0mm, 30-40% of thickness.  Some foci approach score 2 near luminal surface.",stomach
+GTEX-1AX9K-1726,Stomach,GTEX-1AX9K,male,50-59,Ventilator case,,6 pieces; 3 have mucosa/submucosa only; 1 has muscularis only; 2 have full thickness (mucosa & muscularis),stomach
+GTEX-1AYCT-1326,Stomach,GTEX-1AYCT,male,50-59,Ventilator case,,"6 pieces; 3 include mucosa and muscularis, 3 are mucosa only",stomach
+GTEX-1AYD5-1626,Stomach,GTEX-1AYD5,male,50-59,Ventilator case,,6 pieces; one of 6 samples contains a tiny fragment of gastric mucosa; all samples comprised of muscularis and attached up to 1.5mm adventitia,stomach
+GTEX-1B8KE-1326,Stomach,GTEX-1B8KE,male,50-59,Ventilator case,cyst,"6 pieces, well - preserved mucosa up to ~1.2mm, 30-25% thickness.  Basal microcystic dilation or gastropathy, delineated.",stomach
+GTEX-1B8KZ-1226,Stomach,GTEX-1B8KZ,male,50-59,Ventilator case,,6 pieces; essentially well preserved mucosa and muscularis,stomach
+GTEX-1B8L1-1526,Stomach,GTEX-1B8L1,male,60-69,Fast death - natural causes,,"6 pieces, target mucuosa completely sloughed/autolyzed",stomach
+GTEX-1B8SF-1926,Stomach,GTEX-1B8SF,male,60-69,Fast death - natural causes,,6 pieces; severely autolyzed full thickness sections,stomach
+GTEX-1B932-2026,Stomach,GTEX-1B932,female,40-49,Ventilator case,,"6 pieces; mild to moderate autolysis of gastric mucosa, well preserved muscularis",stomach
+GTEX-1B933-2326,Stomach,GTEX-1B933,female,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~1.2mm but totally autolyzed",stomach
+GTEX-1B97I-1226,Stomach,GTEX-1B97I,male,40-49,Ventilator case,,"6 pieces, mucosa up to ~0.7mm, moderate-severe autolysis",stomach
+GTEX-1B97J-1826,Stomach,GTEX-1B97J,female,50-59,Ventilator case,,"6 pieces, mucosa well fixed, up to 1.2mm, 40-50% thickness",stomach
+GTEX-1B98T-2026,Stomach,GTEX-1B98T,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0,8mm, moderate-advanced autolysis",stomach
+GTEX-1B996-1926,Stomach,GTEX-1B996,male,60-69,Fast death - natural causes,congestion,6 pieces; predominantly moderately autolyzed gastric mucosa with small foci of muscularis in 3 of 6 pieces; congestion,stomach
+GTEX-1BAJH-2826,Stomach,GTEX-1BAJH,male,70-79,Fast death - natural causes,,"6 pieces; moderately autolyzed gastric mucosa, muscularis slightly less autolyzed, 5 pieces are full thickness with only trivial muscularis in the 6th section",stomach
+GTEX-1C2JI-1426,Stomach,GTEX-1C2JI,male,50-59,Ventilator case,gastritis,"6 pieces; predominantly mucosa and submucosa, 1 piece includes portion of muscularis (also target), chronic gastritis",stomach
+GTEX-1C475-1026,Stomach,GTEX-1C475,female,40-49,Ventilator case,,6 pieces; mucosa and submucosa only,stomach
+GTEX-1C4CL-2226,Stomach,GTEX-1C4CL,male,30-39,Ventilator case,,"6 pieces, mainly adipose tissue, trace muscularis; no mucosa",stomach
+GTEX-1C64N-2526,Stomach,GTEX-1C64N,male,50-59,Fast death - natural causes,,"6 pieces; moderately to severely autolyzed gastric mucosa, muscularis is better preserved",stomach
+GTEX-1C64O-2226,Stomach,GTEX-1C64O,male,60-69,Ventilator case,,"6 pieces, mucosa up to ~0.6mm, moderately advanced autolysis",stomach
+GTEX-1C6VQ-2526,Stomach,GTEX-1C6VQ,male,50-59,Fast death - natural causes,,"6 pieces; moderate to severe mucosal autolysis, muscularis is better preserved",stomach
+GTEX-1C6VR-2126,Stomach,GTEX-1C6VR,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~1.2mm, near-total autolysis",stomach
+GTEX-1C6VS-2226,Stomach,GTEX-1C6VS,male,60-69,Fast death - natural causes,,6 pieces; moderately to severely autolyzed gastric mucosa; no muscularis propria,stomach
+GTEX-1C6WA-1726,Stomach,GTEX-1C6WA,male,60-69,Fast death - natural causes,,6 pieces; superficial glands severely autolyzed,stomach
+GTEX-1CAMQ-2826,Stomach,GTEX-1CAMQ,male,40-49,Fast death - natural causes,,"6 pieces; autolyzed mucosa, minimal and partially autolyzed muscularis",stomach
+GTEX-1CAMR-0726,Stomach,GTEX-1CAMR,male,20-29,Ventilator case,,"6 pieces, mucosa well- preserved up to ~1mm, ~30% thickness.  Deep microglandular dilation or gastropathic changes",stomach
+GTEX-1CAMS-1826,Stomach,GTEX-1CAMS,female,40-49,Ventilator case,,"6 pieces; autolyzed mucosa grade 1 focally approaching grade 2; in submucosa scattered crystalline deposits without a reaction, resemble resins; little or no muscularis present",stomach
+GTEX-1CAV2-1226,Stomach,GTEX-1CAV2,female,40-49,Fast death - natural causes,,6 pieces; mucosa largely autolyzed; muscu;aris preserved,stomach
+GTEX-1CB4E-1326,Stomach,GTEX-1CB4E,male,60-69,Ventilator case,fibrosis,6 pieces; muscularis propria only with adherent loose fibrous submucosa; NO mucosa; may be useful for study of mucosa free muscularis,stomach
+GTEX-1CB4F-1626,Stomach,GTEX-1CB4F,male,60-69,Ventilator case,,"6 pieces; full thickness, mild to moderate autolysis of mucosa, muscularis is better preserved",stomach
+GTEX-1CB4G-2226,Stomach,GTEX-1CB4G,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, ~40% thickness, moderately advanced autolysis",stomach
+GTEX-1CB4H-2426,Stomach,GTEX-1CB4H,female,60-69,Slow death,,6 pieces; glands in varying states of autolysis,stomach
+GTEX-1CB4I-2426,Stomach,GTEX-1CB4I,male,50-59,Ventilator case,,6 pieces; mucosa=3;muscle=2,stomach
+GTEX-1CB4J-2526,Stomach,GTEX-1CB4J,male,60-69,Intermediate death,,"6 pieces, mucosa up to ~0.8mm, advanced autolysis/sloughing",stomach
+GTEX-1E1VI-2826,Stomach,GTEX-1E1VI,male,50-59,Fast death - natural causes,,6 pieces; mucosa and muscularis,stomach
+GTEX-1E2YA-2426,Stomach,GTEX-1E2YA,male,50-59,Fast death - natural causes,,"6 pieces, mucosa with moderately advanced autolysis, up to ~1mm, ~30-40% thickness",stomach
+GTEX-1EH9U-2226,Stomach,GTEX-1EH9U,male,60-69,Slow death,,"6 pieces: mucosa =2; muscle = 1; 3 with ample mucosa & muscle, 2 mucosa only, 1  muscle only",stomach
+GTEX-1EKGG-1826,Stomach,GTEX-1EKGG,male,60-69,Fast death - natural causes,,6 pieces,stomach
+GTEX-1EMGI-2226,Stomach,GTEX-1EMGI,male,60-69,Fast death - natural causes,gastritis,"6 pieces, diffuse chronic focally active gastrtitis, pattern suggests H pylori etiology, mucoa up to ~1mm",stomach
+GTEX-1EN7A-2726,Stomach,GTEX-1EN7A,male,40-49,Fast death - natural causes,,6 pieces; mucosa varies from moderate to severe autolysis; muscle varies from slight to moderate autolysis,stomach
+GTEX-1EU9M-2626,Stomach,GTEX-1EU9M,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, ~40% of thickness",stomach
+GTEX-1EWIQ-2626,Stomach,GTEX-1EWIQ,female,70-79,Fast death - natural causes,,6 pieces; mucosa and muscularis,stomach
+GTEX-1EX96-2426,Stomach,GTEX-1EX96,male,50-59,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.8mm, moderate-advanced autolysis",stomach
+GTEX-1F48J-2626,Stomach,GTEX-1F48J,female,50-59,Slow death,,6 pieces; mucosal autolysis varies from 2 to 3; muscularis intact,stomach
+GTEX-1F52S-2826,Stomach,GTEX-1F52S,female,60-69,Slow death,,6 pieces; totally autolyzed mucosa; intact muscularis,stomach
+GTEX-1F5PK-1826,Stomach,GTEX-1F5PK,male,50-59,Ventilator case,cyst,6 pieces; full thickness specimens; microcystic glandular change [outlined],stomach
+GTEX-1F5PL-1426,Stomach,GTEX-1F5PL,female,40-49,Ventilator case,,"6 pieces, mucosa up to ~1.2mm, ~40-60% thickness.  Basal microglandular dilation encircled,  destruction of chief cells predominately, unusual pattern",stomach
+GTEX-1F6I4-2726,Stomach,GTEX-1F6I4,male,60-69,Fast death - natural causes,,6 pieces; full thickness sections,stomach
+GTEX-1F6IF-2426,Stomach,GTEX-1F6IF,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.8mm, ~40% thickness, advanced autolysis",stomach
+GTEX-1F6RS-2326,Stomach,GTEX-1F6RS,female,60-69,Slow death,,6 pieces; mucosa=3;muscle=2;,stomach
+GTEX-1F75A-2626,Stomach,GTEX-1F75A,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, ~40% thickness, moderate autolysis",stomach
+GTEX-1F75B-2526,Stomach,GTEX-1F75B,male,50-59,Slow death,congestion,"6 pieces; severely autolyzed mucosa, moderately autolyzed muscularis, congestion",stomach
+GTEX-1F75I-1826,Stomach,GTEX-1F75I,male,40-49,Ventilator case,hemorrhage,6 pieces; one piece lacks surface mucosa; focal superficial mucosal fresh hemorrhage (rep arrows),stomach
+GTEX-1F75W-2826,Stomach,GTEX-1F75W,male,60-69,Fast death - natural causes,,6 pieces; completely autolyzed tissue,stomach
+GTEX-1F88E-2426,Stomach,GTEX-1F88E,female,60-69,Slow death,,"6 pieces, target mucosa 0.1-0.2mm, partly sloughing, glandular elements totally autolyzed",stomach
+GTEX-1F88F-1726,Stomach,GTEX-1F88F,female,60-69,Fast death - natural causes,,6 pieces; mucosa moderately autolyzed; muscle slightly autolyzed,stomach
+GTEX-1FIGZ-0726,Stomach,GTEX-1FIGZ,male,40-49,Ventilator case,hemorrhage,"6 pieces; full thickness sections, some superficial hemorrhage",stomach
+GTEX-1GF9U-1126,Stomach,GTEX-1GF9U,female,40-49,Ventilator case,,"6 pieces; 2 are mucosa only, 4 include variable amounts of muscularis",stomach
+GTEX-1GF9V-2426,Stomach,GTEX-1GF9V,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.3mm, completely autolyzed",stomach
+GTEX-1GF9W-1826,Stomach,GTEX-1GF9W,male,60-69,Intermediate death,,"6 pieces; full thickness sections, muscularis is better preserved",stomach
+GTEX-1GF9X-1226,Stomach,GTEX-1GF9X,female,40-49,Ventilator case,gastritis,6 pieces; chronic gastritis; no muscle on 3 pieces,stomach
+GTEX-1GL5R-1926,Stomach,GTEX-1GL5R,male,50-59,Ventilator case,,"6 pieces; 5 are full thickness, 1 is mucosa/submucosa, basal glandular dilatation",stomach
+GTEX-1GMR2-0926,Stomach,GTEX-1GMR2,male,50-59,Ventilator case,edema,6 pieces; edematous muscularis without mucosa,stomach
+GTEX-1GMR3-1626,Stomach,GTEX-1GMR3,male,40-49,Ventilator case,,"6 pieces, target mucosa up to ~1mm, ~30-40% thickness; deeper (basal)mucosa better preserved (score 1)",stomach
+GTEX-1GMR8-2126,Stomach,GTEX-1GMR8,female,50-59,Intermediate death,,6  pieces; mucosa severely autolyzed; muscularis moderately autolyzed,stomach
+GTEX-1GMRU-2526,Stomach,GTEX-1GMRU,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~1 mm, ~40% thickness",stomach
+GTEX-1GN1U-2626,Stomach,GTEX-1GN1U,female,50-59,Slow death,,"6 pieces, mucosa up to ~0.5mm but advanced autolysis, partially sloughing",stomach
+GTEX-1GN1V-2326,Stomach,GTEX-1GN1V,male,60-69,Fast death - natural causes,,6 pieces; entirely autolyzed mucosa and muscularis,stomach
+GTEX-1GN1W-2126,Stomach,GTEX-1GN1W,female,50-59,Ventilator case,,"5 pieces; 3 have mucosa and muscle, 2 have only muscle",stomach
+GTEX-1GN2E-2326,Stomach,GTEX-1GN2E,male,60-69,Fast death - natural causes,,"6 pieces, viable muscularis only, mucosa completely sloughed",stomach
+GTEX-1GN73-2126,Stomach,GTEX-1GN73,male,60-69,Fast death - natural causes,,6 pieces; glands largely autolyzed,stomach
+GTEX-1GPI7-1326,Stomach,GTEX-1GPI7,male,20-29,Ventilator case,,6 pieces; full thickness sections,stomach
+GTEX-1GTWX-2726,Stomach,GTEX-1GTWX,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, ~50% thickness, moderate-advanced autolysis",stomach
+GTEX-1GZ2Q-2226,Stomach,GTEX-1GZ2Q,male,40-49,Fast death - natural causes,,6 pieces; one piece with fragment of  autolyzed gastric mucosa (arrow) and well preserved muscularis,stomach
+GTEX-1GZ4H-1026,Stomach,GTEX-1GZ4H,female,50-59,Ventilator case,,"6 pieces; mucosa and submucosa only, no muscularis propria",stomach
+GTEX-1GZ4I-2126,Stomach,GTEX-1GZ4I,male,50-59,Fast death - natural causes,,6 pieces; full thickness,stomach
+GTEX-1GZHY-2726,Stomach,GTEX-1GZHY,female,50-59,Fast death - violent,,"6 pieces, mucosa up to ~0.5mm but with advanced autolysis focally, moderate over all",stomach
+GTEX-1H11D-2226,Stomach,GTEX-1H11D,male,40-49,Ventilator case,,"6 pieces; mostly full thickness sections, mucosa is moderately to severely autolyzed",stomach
+GTEX-1H1CY-1526,Stomach,GTEX-1H1CY,female,60-69,Fast death - natural causes,,6 pieces; mucosa autolyzed or absent; muscularis intact,stomach
+GTEX-1H1DE-1226,Stomach,GTEX-1H1DE,male,20-29,Ventilator case,,"6 pieces, muscularis only, mucosa sloughed, presumed autolyzed",stomach
+GTEX-1H1DF-2126,Stomach,GTEX-1H1DF,female,40-49,Fast death - natural causes,,6 pieces; full thickness,stomach
+GTEX-1H1DG-2126,Stomach,GTEX-1H1DG,male,70-79,Ventilator case,,"6 pieces, glandular mucosa  ~0.75mm thick,with moderate-advanced autolysis, , ~30% thickness",stomach
+GTEX-1H1E6-1626,Stomach,GTEX-1H1E6,male,30-39,Ventilator case,,"6 pieces; mucosa and muscularis, few lymphoid aggregates",stomach
+GTEX-1H1ZS-2426,Stomach,GTEX-1H1ZS,male,70-79,Slow death,,"6 pieces, mucosa up to ~0.6mm; glandular elements competely autolyzed",stomach
+GTEX-1H23P-2726,Stomach,GTEX-1H23P,male,60-69,Slow death,,"6 pieces; mucosa largely autolyzed, muscle moderately autolyzed",stomach
+GTEX-1H2FU-2626,Stomach,GTEX-1H2FU,female,60-69,Slow death,,6 pieces; entirely autolyzed full thickness sections,stomach
+GTEX-1H3NZ-2226,Stomach,GTEX-1H3NZ,male,60-69,Slow death,,6 pieces; mucosal autolysis varies between 2 and 3,stomach
+GTEX-1H3VE-1626,Stomach,GTEX-1H3VE,male,40-49,Slow death,,6 pieces; predominantly autolyzed mucosa,stomach
+GTEX-1H3VY-2326,Stomach,GTEX-1H3VY,male,50-59,Ventilator case,,6 pieces; mucosa and muscularis,stomach
+GTEX-1H4P4-2326,Stomach,GTEX-1H4P4,male,50-59,Fast death - natural causes,,"6 pieces; predominantly mucosa with minimal muscularis, moderate to severe autolysis",stomach
+GTEX-1HB9E-2226,Stomach,GTEX-1HB9E,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, ~80-90% thickness, moderately advanced autolysis",stomach
+GTEX-1HBPH-2126,Stomach,GTEX-1HBPH,female,40-49,Slow death,,6 pieces;,stomach
+GTEX-1HBPI-0726,Stomach,GTEX-1HBPI,male,50-59,Fast death - natural causes,,6 pieces; 2 pieces have little or no muscularis propria,stomach
+GTEX-1HBPM-2326,Stomach,GTEX-1HBPM,female,60-69,Slow death,,"6 pieces; fill thickness sections, mucosa largely autolyzed",stomach
+GTEX-1HBPN-1626,Stomach,GTEX-1HBPN,male,50-59,Ventilator case,,"6 pieces, mucosa up to ~1mm, ~40-50% thickness",stomach
+GTEX-1HC8U-1826,Stomach,GTEX-1HC8U,female,40-49,Ventilator case,,6 pieces; muscularis without mucosa; LCM,stomach
+GTEX-1HCU6-2826,Stomach,GTEX-1HCU6,female,60-69,Fast death - natural causes,,6 pieces; mucosa largely autolyzed; muscularis intact,stomach
+GTEX-1HCU7-2326,Stomach,GTEX-1HCU7,male,50-59,Ventilator case,,6 pieces; mucosa only; no muscularis,stomach
+GTEX-1HCU8-1326,Stomach,GTEX-1HCU8,female,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.7mm, moderately-advanced autolysis",stomach
+GTEX-1HCU9-1126,Stomach,GTEX-1HCU9,male,20-29,Ventilator case,,"6 pieces; all have mucosa only, no muscularis propria; LCM",stomach
+GTEX-1HCUA-1626,Stomach,GTEX-1HCUA,female,50-59,Ventilator case,,"6 pieces; full thickness sections, rare aggregate of lymphocytes",stomach
+GTEX-1HCVE-1826,Stomach,GTEX-1HCVE,male,50-59,Slow death,,"6 pieces, mucosa up to ~1mm, 40-60% of thickness",stomach
+GTEX-1HFI6-2226,Stomach,GTEX-1HFI6,male,40-49,Fast death - natural causes,,"6 pieces, mucosa up to ~1.3mm, ~40-50% thickness, moderately advanced autolysis",stomach
+GTEX-1HFI7-1526,Stomach,GTEX-1HFI7,female,50-59,Ventilator case,,6 pieces,stomach
+GTEX-1HGF4-1226,Stomach,GTEX-1HGF4,male,60-69,Fast death - natural causes,,6 pieces; 95% muscularis propria with small foci of completely autolyzed mucosa,stomach
+GTEX-1HKZK-1526,Stomach,GTEX-1HKZK,male,40-49,Ventilator case,,"6 pieces; full thickness sections, well preserved",stomach
+GTEX-1HR98-2726,Stomach,GTEX-1HR98,male,60-69,Slow death,,6 pieces; mucosa severely autolyzed; muscle moderately autolyzed,stomach
+GTEX-1HR9M-2326,Stomach,GTEX-1HR9M,male,60-69,Slow death,,6 pieces; mucosa largely autolyzed; muscle intact without fibrosis,stomach
+GTEX-1HSEH-1526,Stomach,GTEX-1HSEH,male,60-69,Ventilator case,,"6 pieces; target mucosa up to ~0.7mm, moderately advanced autolysis, ~20-30% of thickness",stomach
+GTEX-1HSGN-2026,Stomach,GTEX-1HSGN,female,40-49,Ventilator case,gastritis,"6 pieces, ~80% mucosa, chronic gastritis; rep. lymphoid aggregates delineated",stomach
+GTEX-1HSKV-2726,Stomach,GTEX-1HSKV,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections (mucosa - 3, muscularis -2)",stomach
+GTEX-1HSMO-2826,Stomach,GTEX-1HSMO,male,60-69,Intermediate death,,"6  pieces; mucosa severely autolyzed, muscle intact",stomach
+GTEX-1HSMP-2126,Stomach,GTEX-1HSMP,male,70-79,Ventilator case,,"6 pieces, approaches score ""2"" in pfoci; mucosa up to ~0.7mm, ~25-30% thickness",stomach
+GTEX-1HSMQ-2426,Stomach,GTEX-1HSMQ,male,50-59,Ventilator case,inflammation,"6 pieces; full thickness sections, mild chronic inflammation",stomach
+GTEX-1HT8W-2326,Stomach,GTEX-1HT8W,male,30-39,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, moderate-advanced autolysis",stomach
+GTEX-1HUB1-2526,Stomach,GTEX-1HUB1,male,60-69,Ventilator case,,"6 pieces; no mucosa, only muscle and stroma",stomach
+GTEX-1I19N-2526,Stomach,GTEX-1I19N,male,70-79,Slow death,,6 pieces; severely autolyzed full thickness sections,stomach
+GTEX-1I1CD-2526,Stomach,GTEX-1I1CD,female,60-69,Slow death,gastritis,"6 pieces; mucosa and muscularis, chronic gastritis",stomach
+GTEX-1I1GP-2526,Stomach,GTEX-1I1GP,male,50-59,Fast death - natural causes,,"6 pieces target muscosa up to ~1.2mm, ~50% thickenss, but with advanced autolysis/soughing",stomach
+GTEX-1I1GQ-2326,Stomach,GTEX-1I1GQ,male,50-59,Fast death - natural causes,congestion,6 pieces; mildly to moderately autolyzed gastric mucosa; congestion; preserved muscularis,stomach
+GTEX-1I1GR-2626,Stomach,GTEX-1I1GR,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa is ~0.7mm, ~30-35% thickness",stomach
+GTEX-1I1GS-2426,Stomach,GTEX-1I1GS,male,60-69,Slow death,,"6 pieces, mucosa with markedly advanced autolysis",stomach
+GTEX-1I1GT-1726,Stomach,GTEX-1I1GT,female,60-69,Ventilator case,,6 pieces; mucosa/submucosa/muscularis; mild to moderate autolysis,stomach
+GTEX-1I1GU-1526,Stomach,GTEX-1I1GU,male,40-49,Ventilator case,edema,"6 pieces, 1 without muscularis; edematous submucosa & deep mucosa",stomach
+GTEX-1I1GV-2326,Stomach,GTEX-1I1GV,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.4mm, ~20% thickness; moderately advanced autolysis",stomach
+GTEX-1I1HK-2026,Stomach,GTEX-1I1HK,male,60-69,Intermediate death,,"6 pieces; partially autolyzed mucosa, submucosa (target is full thickness)",stomach
+GTEX-1I4MK-0926,Stomach,GTEX-1I4MK,female,50-59,Ventilator case,,6 pieces; several focal superficial erosions,stomach
+GTEX-1I6K6-1426,Stomach,GTEX-1I6K6,male,30-39,Ventilator case,,"6 pieces; muscularis, no mucosa",stomach
+GTEX-1I6K7-1726,Stomach,GTEX-1I6K7,male,40-49,Ventilator case,,6 pieces; well preserved mucosa and fatty submucosa; no muscularis propria,stomach
+GTEX-1ICG6-1826,Stomach,GTEX-1ICG6,female,70-79,Ventilator case,cyst,6 pieces; 5 have full thickness wall; mild basal microcystic glands,stomach
+GTEX-1ICLY-2426,Stomach,GTEX-1ICLY,male,50-59,Ventilator case,,"6 pieces, mucosa up to ~1mm, moderately advanced autolysis",stomach
+GTEX-1ICLZ-2126,Stomach,GTEX-1ICLZ,male,60-69,Intermediate death,,6 pieces; mucosa severely autolyzed; muscularis moderately autolyzed; specimen of limited value; exogenous crystals (probably medication) in mucosa (arrowed),stomach
+GTEX-1IDFM-2326,Stomach,GTEX-1IDFM,male,60-69,Slow death,hemorrhage,"6 pieces; full thickness, mucosa is autolyzed with focal hemorrhage, muscularis is better preserved",stomach
+GTEX-1IDJC-0926,Stomach,GTEX-1IDJC,male,50-59,Ventilator case,,"6 pieces, target mucosa up to ~0.9mm, advanced autolysis, sloughing",stomach
+GTEX-1IDJD-2426,Stomach,GTEX-1IDJD,male,30-39,Ventilator case,,6 pieces; mild to moderate autolysis of gastric mucosa; 3 sections contain muscularis (outlined),stomach
+GTEX-1IDJE-1626,Stomach,GTEX-1IDJE,female,50-59,Ventilator case,,"6 pieces; mucosa only, no muscularis; smallest piece is largely vascularized stroma; LCM",stomach
+GTEX-1IDJF-1426,Stomach,GTEX-1IDJF,male,20-29,Ventilator case,,6 pieces; 4 of 6 have well trimmed muscularis; 2 have 30% perimuscular stroma; none have mucosa; may be useful for comparison with other mucosa-free samples,stomach
+GTEX-1IDJH-2126,Stomach,GTEX-1IDJH,male,70-79,Fast death - violent,,"6 pieces, target mucosa up to ~0.7mm but with advanced autolysis",stomach
+GTEX-1IDJI-2026,Stomach,GTEX-1IDJI,female,50-59,Ventilator case,,"6 pieces; variable representation of mucosa, submucosa, and muscularis",stomach
+GTEX-1IDJU-1526,Stomach,GTEX-1IDJU,female,60-69,Ventilator case,,6 pieces; full thickness wall,stomach
+GTEX-1IDJV-2626,Stomach,GTEX-1IDJV,male,60-69,Intermediate death,,"6 pieces, target mucosa up to ~0.5mm but with advanced autolysis/sloughing",stomach
+GTEX-1IE54-2026,Stomach,GTEX-1IE54,female,40-49,Ventilator case,,6 pieces; moderate to severe mucosal autolysis,stomach
+GTEX-1IGQW-2626,Stomach,GTEX-1IGQW,male,60-69,Slow death,,"6 pieces mucosa up to ~0.8mm, ~25% thickness, advanced glandular mucosal autolysis",stomach
+GTEX-1IKJJ-2626,Stomach,GTEX-1IKJJ,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.5mm, advanced autolysis, sloughed on 3/6 pieces",stomach
+GTEX-1IKK5-1126,Stomach,GTEX-1IKK5,male,60-69,Fast death - natural causes,gastritis,6 pieces; moderate chronic gastritis with moderate mucosal lymphoid infiltrates,stomach
+GTEX-1IKOE-1826,Stomach,GTEX-1IKOE,female,30-39,Ventilator case,hemorrhage,"6 pieces; variable representation of mucosa, submucosa, muscularis; focal superficial hemorrhage",stomach
+GTEX-1IKOH-1926,Stomach,GTEX-1IKOH,female,60-69,Fast death - natural causes,,"6 pieces, glandular mucosa with moderately advanced autolysis, up to ~0.6mm, ~30% of thickness.",stomach
+GTEX-1IL2U-1726,Stomach,GTEX-1IL2U,male,60-69,Fast death - natural causes,,6 pieces; mild to moderate autolysis; gastric mucosa and muscularis,stomach
+GTEX-1IL2V-2026,Stomach,GTEX-1IL2V,male,70-79,Fast death - natural causes,,"6 pieces, mucosa up to ~1.2mm, ~30% thickness, moderately advanced autolysis",stomach
+GTEX-1IOXB-2526,Stomach,GTEX-1IOXB,male,50-59,Fast death - natural causes,,6 pieces; muscularis only; no mucosa; LCM,stomach
+GTEX-1IY9M-2326,Stomach,GTEX-1IY9M,male,60-69,Fast death - violent,,"6 pieces; muscularis, only tiny focus of totally autolyzed residual gastric mucosa (outlined)",stomach
+GTEX-1J1OQ-2626,Stomach,GTEX-1J1OQ,female,40-49,Slow death,,"6 pieces, mucosa up to ~0.7mm but with modereate-severe autolysis, partially sloughing",stomach
+GTEX-1J1R8-1226,Stomach,GTEX-1J1R8,male,40-49,Ventilator case,,"6 pieces, 4with mucosa up to ~1mm, variably preserved, generally, moderately advanced autolysis",stomach
+GTEX-1J8EW-2226,Stomach,GTEX-1J8EW,female,60-69,Fast death - natural causes,,6 pieces; mucosa moderately autolyzed; muscularis intact,stomach
+GTEX-1J8JJ-1726,Stomach,GTEX-1J8JJ,female,60-69,Fast death - natural causes,,"6 pieces, autolyzed mucosa up to ~1mm, ~30% of thickness, glandular mucosa largely degraded",stomach
+GTEX-1J8Q2-2026,Stomach,GTEX-1J8Q2,male,60-69,Intermediate death,,"6 pieces; mucosa is poorly preserved, muscularis better preserved",stomach
+GTEX-1J8Q3-1926,Stomach,GTEX-1J8Q3,male,60-69,Ventilator case,,"6 pieces; little muscularis in 4 pieces, none in 2",stomach
+GTEX-1J8QM-1126,Stomach,GTEX-1J8QM,female,60-69,Ventilator case,,6 pieces; gastric mucosa with variable attachment of submucosa,stomach
+GTEX-1JJ6O-1726,Stomach,GTEX-1JJ6O,male,60-69,Slow death,,6 pieces; full thickness,stomach
+GTEX-1JJE9-2026,Stomach,GTEX-1JJE9,male,70-79,Intermediate death,,6 pieces; severely autolyzed mucosa; limited amount of muscularis,stomach
+GTEX-1JJEA-2426,Stomach,GTEX-1JJEA,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~1.2mm, ~50% thickness",stomach
+GTEX-1JK1U-1326,Stomach,GTEX-1JK1U,male,60-69,Ventilator case,"cyst, metaplasia","6 pieces, mucosa well  preserved, up to ~1mm, patchy microcystic glandular metapasia/gastropathy, rep. foci encircled",stomach
+GTEX-1JKYN-1726,Stomach,GTEX-1JKYN,male,30-39,Ventilator case,gastritis,"8 pieces; variable representation of mucosa, submucosa, and muscularis; dilated deep glands, moderate acute gastritis",stomach
+GTEX-1JKYR-1526,Stomach,GTEX-1JKYR,male,20-29,Ventilator case,,"6 pieces; muscularis only, no mucosa",stomach
+GTEX-1JMLX-2426,Stomach,GTEX-1JMLX,male,50-59,Fast death - natural causes,,6 pieces; mucosa moderately autolyzed focally,stomach
+GTEX-1JMOU-1926,Stomach,GTEX-1JMOU,female,60-69,Slow death,,"6 pieces, mucosa up to ~0.4mm but with advanced autolysis/sloughing",stomach
+GTEX-1JMPY-0926,Stomach,GTEX-1JMPY,male,30-39,Ventilator case,gastritis,"6 pieces; full thickness sections, mild chronic gastritis",stomach
+GTEX-1JMPZ-1826,Stomach,GTEX-1JMPZ,male,30-39,Slow death,,"6 pieces; glands autolyzed, muscle intact",stomach
+GTEX-1JMQI-1226,Stomach,GTEX-1JMQI,male,50-59,Ventilator case,,"6 pieces; variably preserved mucosa (2-3), submucosa, and muscularis (1)",stomach
+GTEX-1JMQJ-1326,Stomach,GTEX-1JMQJ,male,50-59,Fast death - natural causes,,6 pieces; full thickness sections,stomach
+GTEX-1JMQK-1526,Stomach,GTEX-1JMQK,male,60-69,Ventilator case,,6 pieces; mucosa more autolyzed than muscle,stomach
+GTEX-1JMQL-1626,Stomach,GTEX-1JMQL,female,50-59,Ventilator case,,"6 pieces, mucosa up to ~1mm, advanced autolysis, glandular elments largely sloughed",stomach
+GTEX-1JN1M-2926,Stomach,GTEX-1JN1M,female,60-69,Ventilator case,,"6 pieces, mucosa up to ~0.8mm but with advanced autolysis",stomach
+GTEX-1JN6P-2026,Stomach,GTEX-1JN6P,male,60-69,Ventilator case,,"6 pieces; mucosa autolyzed, no muscularis present",stomach
+GTEX-1JN76-0926,Stomach,GTEX-1JN76,female,20-29,Ventilator case,,"6 pieces; 3 full thickness, 1 mucosa only, 1 mostly muscle, 1 all muscle; mucosa, where present, very well preserved",stomach
+GTEX-1K2DA-0826,Stomach,GTEX-1K2DA,male,50-59,Ventilator case,,"6 pieces; variable representation of mucosa, submucosa, muscularis; multiple erosions, dilated deep glands",stomach
+GTEX-1K2DU-1826,Stomach,GTEX-1K2DU,male,20-29,Ventilator case,,"6 pieces, mucosa completely sloughed",stomach
+GTEX-1K9T9-2326,Stomach,GTEX-1K9T9,female,50-59,Ventilator case,,"6 pieces, mucosa up to ~0.6mm but with moderate to advanced auutolysis",stomach
+GTEX-1KAFJ-1126,Stomach,GTEX-1KAFJ,male,50-59,Intermediate death,,"6 pieces; autolyzed mucosa only, no muscularis",stomach
+GTEX-1KANA-1126,Stomach,GTEX-1KANA,male,20-29,Ventilator case,"edema, inflammation",6 pieces; full thickness with edema and focal chronic inflammation,stomach
+GTEX-1KANB-1726,Stomach,GTEX-1KANB,male,50-59,Fast death - natural causes,,"6 pieces, target mucosa completely sloughed; muscularis only",stomach
+GTEX-1KD4Q-2826,Stomach,GTEX-1KD4Q,male,40-49,Fast death - natural causes,,6 pieces; autolyzed mucosa without muscularis,stomach
+GTEX-1KD5A-1426,Stomach,GTEX-1KD5A,male,50-59,Fast death - natural causes,,6 pieces; variable representation of mucosa and muscularis,stomach
+GTEX-1KWVE-2026,Stomach,GTEX-1KWVE,male,30-39,Fast death - violent,,6 pieces; mucosa largely digested or autolyzed,stomach
+GTEX-1KXAM-0926,Stomach,GTEX-1KXAM,male,60-69,Ventilator case,"cyst, metaplasia","6 pieces, mucosa well - preserved, up to ~1mm, ~25% thickness.  Microcystic metaplastic changes noted, delineated.",stomach
+GTEX-1L5NE-1526,Stomach,GTEX-1L5NE,male,50-59,Ventilator case,,"6 pieces, mucosa well preserved, up to~ 1mm, ~25% of thickness",stomach
+GTEX-1LB8K-1626,Stomach,GTEX-1LB8K,male,50-59,Fast death - natural causes,,6 pieces; glands moderately autolyzed,stomach
+GTEX-1LBAC-1426,Stomach,GTEX-1LBAC,male,20-29,Ventilator case,,6 pieces; mucosa and submucosa,stomach
+GTEX-1LC46-1026,Stomach,GTEX-1LC46,male,30-39,Ventilator case,,6 pieces; full thickness sections,stomach
+GTEX-1LC47-2126,Stomach,GTEX-1LC47,male,60-69,Intermediate death,,"6 pieces, target mucosa up to ~1mm but moderately-markely autolyzed",stomach
+GTEX-1LG7Y-1926,Stomach,GTEX-1LG7Y,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, ~50% of thickness but with moderate-advanced autolysis, partially sloughed",stomach
+GTEX-1LG7Z-1226,Stomach,GTEX-1LG7Z,male,30-39,Ventilator case,,"6 pieces; well preserved mucosa and submucosa, no muscularis",stomach
+GTEX-1LGOU-1526,Stomach,GTEX-1LGOU,female,20-29,Ventilator case,,,stomach
+GTEX-1LGRB-1726,Stomach,GTEX-1LGRB,female,50-59,Ventilator case,gastritis,6 pieces; chronic active gastritis,stomach
+GTEX-1LH75-1826,Stomach,GTEX-1LH75,female,50-59,Slow death,,"6 pieces; target mucosa up to ~0.6mm, advanced autolysis/sloughing",stomach
+GTEX-1LKK1-2726,Stomach,GTEX-1LKK1,female,50-59,Slow death,,"6 pieces, advanced autolysis",stomach
+GTEX-1LSNL-2526,Stomach,GTEX-1LSNL,male,50-59,Fast death - natural causes,,"6 pieces, muscularis only",stomach
+GTEX-1LSNM-1026,Stomach,GTEX-1LSNM,male,50-59,Ventilator case,,6 pieces; full thickness sections,stomach
+GTEX-1LSVX-2226,Stomach,GTEX-1LSVX,male,60-69,Slow death,,6 pieces; no muscularis propria present,stomach
+GTEX-1LVA9-2326,Stomach,GTEX-1LVA9,male,50-59,Fast death - natural causes,,"6 pieces; predominantly muscularis, only 1 piece includes a small strip of mucosa",stomach
+GTEX-1LVAM-1426,Stomach,GTEX-1LVAM,female,50-59,Ventilator case,,"6 pieces, well-preserved target mucosa up to ~1mm, ~20% thickness",stomach
+GTEX-1LVAN-2426,Stomach,GTEX-1LVAN,female,50-59,Ventilator case,,6 pieces; mucosal autolysis varies from slight to severe; muscularis missing on 1 piece,stomach
+GTEX-1LVAO-2426,Stomach,GTEX-1LVAO,male,60-69,Slow death,,6 pieces; tissue totally autolyzed,stomach
+GTEX-1M4P7-1926,Stomach,GTEX-1M4P7,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.5mm, advanced autolysis",stomach
+GTEX-1M5QR-0826,Stomach,GTEX-1M5QR,male,40-49,Ventilator case,gastritis,6 pieces; full thickness sections; mild gastritis,stomach
+GTEX-1MA7W-1126,Stomach,GTEX-1MA7W,female,20-29,Ventilator case,"cyst, inflammation, necrosis","6 pieces, mucosa up to ~1mm, ~20% of thickness; microcystic gland dilation with actue inflammation/cell necrosis in microcysts (based on review of glass slide; concurrence within PRC)",stomach
+GTEX-1MCC2-1726,Stomach,GTEX-1MCC2,female,30-39,Ventilator case,,6 pieces; only muscularis with attached serosa; no target mucosa,stomach
+GTEX-1MCQQ-1926,Stomach,GTEX-1MCQQ,male,60-69,Intermediate death,,4 pieces; muscularis propria only; could be useful for heterogeneity studies as a muscle control,stomach
+GTEX-1MCYP-1126,Stomach,GTEX-1MCYP,female,20-29,Ventilator case,,"6 pieces; full thickness sections, well preserved, foveolar surface partly sloughed",stomach
+GTEX-1MGNQ-1826,Stomach,GTEX-1MGNQ,male,40-49,Ventilator case,,"6 pieces, well-preserved mucosa up to ~1.4mm, ~80% of thickness",stomach
+GTEX-1MJIX-1126,Stomach,GTEX-1MJIX,male,40-49,Ventilator case,,"6 pieces; mucosa and submucosa, superficial sloughing/autolysis",stomach
+GTEX-1MJK2-2626,Stomach,GTEX-1MJK2,male,50-59,Fast death - natural causes,congestion,6 pieces; moderately to  severely autolyzed gastric mucosa and marked congestion; well preserved muscularis,stomach
+GTEX-1MJK3-0526,Stomach,GTEX-1MJK3,male,20-29,Ventilator case,cyst,6 pieces; microcystic glandular changes in mucosa with superficial autolysis/digestion,stomach
+GTEX-1MUQO-1926,Stomach,GTEX-1MUQO,male,60-69,Ventilator case,,"6 pieces, mucosa well fixed, up to ~1mm, 40-50% of thickness",stomach
+GTEX-1N2DV-0926,Stomach,GTEX-1N2DV,male,40-49,Ventilator case,"cyst, metaplasia","6 pieces, mucosa up to ~0.7mm, ~20% of thickness.  Focal mild microcystic metaplasia, rep foci delineated",stomach
+GTEX-1N2DW-2026,Stomach,GTEX-1N2DW,male,50-59,Fast death - natural causes,congestion,6 pieces; moderate to severe  mucosal autolysis and congestion; preserved muscularis,stomach
+GTEX-1N2EE-2626,Stomach,GTEX-1N2EE,male,60-69,Fast death - violent,gastritis,"6 pieces, target mucosa up to ~0.9 mm, 30-50% of thickness.  Chronic gastritis; pattern suggests H pylori",stomach
+GTEX-1N2EF-1626,Stomach,GTEX-1N2EF,male,60-69,Intermediate death,,"4 pieces; no mucosa, muscularis only",stomach
+GTEX-1N5O9-2426,Stomach,GTEX-1N5O9,male,60-69,Fast death - natural causes,congestion,6 pieces; moderately to severely autolyzed gastric mucosa and preserved muscularis; congestion,stomach
+GTEX-1N7R6-1326,Stomach,GTEX-1N7R6,female,20-29,Slow death,,6 pieces; mild to moderately autolyzed gastric mucosa and well preserved muscularis,stomach
+GTEX-1NHNU-2126,Stomach,GTEX-1NHNU,male,50-59,Ventilator case,,6 pieces; muscularis propria without mucosa,stomach
+GTEX-1NSGN-1926,Stomach,GTEX-1NSGN,male,50-59,Ventilator case,,6 pieces; two pieces devoid of gastric mucosa; well preserved muscularis,stomach
+GTEX-1NT2E-0926,Stomach,GTEX-1NT2E,female,40-49,Ventilator case,,,stomach
+GTEX-1NUQO-2426,Stomach,GTEX-1NUQO,female,20-29,Ventilator case,,6 pieces; mild to moderate  autolysis of gastric mucosa; well preserved muscularis,stomach
+GTEX-1NV5F-2926,Stomach,GTEX-1NV5F,female,60-69,Slow death,,6 pieces; mucosa severely autolyzed; muscularis moderately autolyzed,stomach
+GTEX-1NV88-1426,Stomach,GTEX-1NV88,male,50-59,Slow death,,,stomach
+GTEX-1NV8Z-2426,Stomach,GTEX-1NV8Z,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.8mm with advanced autolysis/sloughing",stomach
+GTEX-1O97I-1926,Stomach,GTEX-1O97I,male,60-69,Intermediate death,,6 pieces; mucosa largely autolyzed; muscularis intact,stomach
+GTEX-1O9I2-2826,Stomach,GTEX-1O9I2,male,50-59,Ventilator case,,"6 pieces, advanced autolysis",stomach
+GTEX-1OFPY-1726,Stomach,GTEX-1OFPY,male,60-69,Ventilator case,cyst,6 pieces; 2 pieces have no mucosa; microcystic glands in well preserved mucosa,stomach
+GTEX-1OJC3-1526,Stomach,GTEX-1OJC3,male,20-29,Ventilator case,,6 pieces; 5 with  mucosa and muscularis; one represents muscularis only (outlined),stomach
+GTEX-1OJC4-1926,Stomach,GTEX-1OJC4,female,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa and muscularis are largely autolyzed",stomach
+GTEX-1OKEX-1526,Stomach,GTEX-1OKEX,male,60-69,Ventilator case,,"6 pieces, mucosa well-preserved, up to ~1.5mm, 20-30% thickness",stomach
+GTEX-1OZHM-2626,Stomach,GTEX-1OZHM,male,40-49,Slow death,,"6 pieces (fragmented), target mucosa up to ~0.8mm, advanced autolysis/sloughing",stomach
+GTEX-1P4AB-2826,Stomach,GTEX-1P4AB,male,50-59,Slow death,,6 pieces; completely autolyzed mucosa; no muscularis,stomach
+GTEX-1PAR6-1226,Stomach,GTEX-1PAR6,female,30-39,Ventilator case,,,stomach
+GTEX-1PBJI-1826,Stomach,GTEX-1PBJI,female,20-29,Fast death - violent,,"6 pieces, target mucosa up to ~1mm but with advanced autolysis",stomach
+GTEX-1PBJJ-2326,Stomach,GTEX-1PBJJ,male,30-39,Ventilator case,,6 pieces; full thickness sections with severe mucosal autolysis,stomach
+GTEX-1PDJ9-1926,Stomach,GTEX-1PDJ9,male,20-29,Ventilator case,,"6 pieces; muscularis propria and submucosa only, no mucosa",stomach
+GTEX-1PFEY-1226,Stomach,GTEX-1PFEY,male,30-39,Ventilator case,,"6 pieces, target mucosa up to ~1mm, variably preserved",stomach
+GTEX-1PIEJ-0926,Stomach,GTEX-1PIEJ,female,20-29,Ventilator case,,"6 pieces, mucosal elements sloughed, all muscularis/serosal fat",stomach
+GTEX-1PIGE-1126,Stomach,GTEX-1PIGE,male,20-29,Ventilator case,,"6 pieces; well  dissected, full thickness gastric mucosa and muscularis",stomach
+GTEX-1PIIG-1626,Stomach,GTEX-1PIIG,male,30-39,Ventilator case,congestion,6 pieces; severely autolyzed gastric mucosa; preserved small area of mucosa (arrow) and preserved muscularis; congestion,stomach
+GTEX-1POEN-1926,Stomach,GTEX-1POEN,female,30-39,Fast death - violent,,"5 pieces, muscularis only",stomach
+GTEX-1PPGY-1926,Stomach,GTEX-1PPGY,male,60-69,Fast death - natural causes,congestion,6 piece; mild mucosal autolysis; well preserved muscularis; congestion,stomach
+GTEX-1PPH6-2526,Stomach,GTEX-1PPH6,female,60-69,Fast death - natural causes,,6 pieces; moderately autolyzed mucosa; intact muscularis,stomach
+GTEX-1PPH7-1526,Stomach,GTEX-1PPH7,male,40-49,Ventilator case,,4 pieces; antral rather than body mucosa sampled,stomach
+GTEX-1PPH8-1326,Stomach,GTEX-1PPH8,male,20-29,Ventilator case,,"6 pieces; mucosa up to ~0.8mm, 20-25% thickness",stomach
+GTEX-1PWST-2026,Stomach,GTEX-1PWST,male,70-79,Slow death,,"6 pieces, mucosa up to ~0.7mm, advanced autolysis",stomach
+GTEX-1QAET-1726,Stomach,GTEX-1QAET,male,50-59,Ventilator case,,6 pieces; mucosa totally autolyzed; 2 without muscularis,stomach
+GTEX-1QCLY-1126,Stomach,GTEX-1QCLY,male,30-39,Ventilator case,,"6 pieces, mucosa up to ~1mm, moderately advanced autolysis",stomach
+GTEX-1QCLZ-1826,Stomach,GTEX-1QCLZ,female,60-69,Ventilator case,,6 pieces; mild autolysis of mucosa and submucosa,stomach
+GTEX-1QEPI-2026,Stomach,GTEX-1QEPI,female,60-69,Intermediate death,,6 pieces,stomach
+GTEX-1QL29-1326,Stomach,GTEX-1QL29,male,40-49,Ventilator case,gastritis,"6 pieces, moderate chronic gastritis; mucosa up to ~1mm, ~25% thickness",stomach
+GTEX-1QMI2-2126,Stomach,GTEX-1QMI2,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~1mm, 50-70% thickness, moderately-advanced autolysis",stomach
+GTEX-1QP28-2126,Stomach,GTEX-1QP28,female,50-59,Ventilator case,,"6 pieces, target mucosa up to 0.9m, ~10-20% thickness.  Early surface sloughing",stomach
+GTEX-1QP29-2326,Stomach,GTEX-1QP29,male,50-59,Ventilator case,,6 pieces; mild to focally moderate colonic mucosa autolysis and well preserved muscularis; lymphoid aggregates,stomach
+GTEX-1QP2A-2126,Stomach,GTEX-1QP2A,male,50-59,Ventilator case,,6 pieces; disruption of basal chief cell layer,stomach
+GTEX-1QP67-1026,Stomach,GTEX-1QP67,female,40-49,Ventilator case,cyst,"6 pieces; mucosa up to ~1mm, 30-80% thickness.  Microglandular microcystic changes noted, rep ensquared (PRC consensus)",stomach
+GTEX-1QP6S-2326,Stomach,GTEX-1QP6S,male,40-49,Fast death - natural causes,,6 pieces; severely autolyzed gastric mucosa and preserved muscularis,stomach
+GTEX-1QP9N-0626,Stomach,GTEX-1QP9N,male,30-39,Ventilator case,,"6 pieces; muscularis only, no mucosa",stomach
+GTEX-1QPFJ-1526,Stomach,GTEX-1QPFJ,female,30-39,Ventilator case,edema,"6 pieces; 5 of 6 have full thickness wall, 1 has no muscularis; submucosa edematous",stomach
+GTEX-1QW4Y-0726,Stomach,GTEX-1QW4Y,male,30-39,Ventilator case,,"6 pieces, target mucosa partly sloughed, up to ~0.5mm, moderately autolyzed",stomach
+GTEX-1R46S-2326,Stomach,GTEX-1R46S,female,60-69,Slow death,,"6 pieces, target mucosa up to ~0.7mm, advanced autolysis",stomach
+GTEX-1R7EU-1126,Stomach,GTEX-1R7EU,male,60-69,Ventilator case,,7 pieces; mild to moderate autolysis of mucosa and moderate autolysis of submucosa; preserved muscularis; scattered lymphoid aggregates in submucosa (arrows),stomach
+GTEX-1R7EV-0926,Stomach,GTEX-1R7EV,male,40-49,Ventilator case,,6 pieces;  mainly muscularis and tiny fragments of gastric mucosa (outlined),stomach
+GTEX-1R9JW-1826,Stomach,GTEX-1R9JW,female,30-39,Ventilator case,clean_specimens,"6 pieces, target mucosa well-fixed, good specimen, up to ~1mm, 50-60% thickness",stomach
+GTEX-1R9K4-1726,Stomach,GTEX-1R9K4,male,60-69,Ventilator case,,6 pieces; moderate to severe autolysis of mucosa and preserved muscularis,stomach
+GTEX-1R9K5-1026,Stomach,GTEX-1R9K5,male,50-59,Ventilator case,,"6 pieces, mucosa very well preserved, valuable specimen, up to ~1mm, 30-90% of thickness",stomach
+GTEX-1R9PM-0826,Stomach,GTEX-1R9PM,male,20-29,Ventilator case,,"6 pieces, target mucosa up to ~1mm, ~25-30% thickness.  Luminal surface more autolyzed",stomach
+GTEX-1R9PN-1226,Stomach,GTEX-1R9PN,female,40-49,Ventilator case,,"6 pieces; mucosa largely autolyzed, muscularis intact",stomach
+GTEX-1R9PO-1126,Stomach,GTEX-1R9PO,female,60-69,Intermediate death,,6 pieces; moderate to focally severe autolysis of gastric mucosa; preserved muscularis,stomach
+GTEX-1RAZA-1526,Stomach,GTEX-1RAZA,male,20-29,Ventilator case,,6 pieces; only muscularis; no target gastric mucosa included,stomach
+GTEX-1RAZQ-1926,Stomach,GTEX-1RAZQ,male,30-39,Ventilator case,,"6 pieces, gastric mucosa is ~1mm, 25-30% thickness, reasonably well -preserved",stomach
+GTEX-1RAZR-1526,Stomach,GTEX-1RAZR,male,40-49,Ventilator case,,6 pieces; mucosa ranges from slight to moderate autolysis; muscularis has slight autolysis,stomach
+GTEX-1RAZS-2826,Stomach,GTEX-1RAZS,male,50-59,Intermediate death,,6 pieces; mildly autolyzed gastric mucosa and preserved muscularis,stomach
+GTEX-1RB15-1026,Stomach,GTEX-1RB15,male,60-69,Ventilator case,clean_specimens,"6 pieces, target mucosa extremely well preserved, good specimen, ~40-60% thickness",stomach
+GTEX-1RDX4-2626,Stomach,GTEX-1RDX4,female,50-59,Intermediate death,,"6 pieces; 4 have full thickness mucosa & muscularis; 1 has mucosa only, 1 has muscularis only; mucosa severely autolyzed superficially, slightly autolyzed deeply",stomach
+GTEX-1RLM8-2126,Stomach,GTEX-1RLM8,male,50-59,Slow death,,,stomach
+GTEX-1RMOY-1126,Stomach,GTEX-1RMOY,male,50-59,Ventilator case,,"6 pieces; gastric mucosa, submucosa and muscularis",stomach
+GTEX-1RNSC-2826,Stomach,GTEX-1RNSC,male,60-69,Slow death,,"6 pieces, target mucosa up to ~0.6mm, glandular mucosa sloughed, residual lamina propria only",stomach
+GTEX-1RNTQ-1826,Stomach,GTEX-1RNTQ,female,20-29,Ventilator case,,6 pieces; mild to moderate autolysis of gastric mucosa,stomach
+GTEX-1RQEC-2126,Stomach,GTEX-1RQEC,male,60-69,Fast death - natural causes,,,stomach
+GTEX-1RQED-2326,Stomach,GTEX-1RQED,male,60-69,Intermediate death,,"6 pieces, target mucosa up to ~0.5mm, sloughing, advanced autolysis",stomach
+GTEX-1S3DN-1526,Stomach,GTEX-1S3DN,male,50-59,Ventilator case,,"6 pieces, target mucosa up to ~0.5mm, advanced autolysis/sloughing",stomach
+GTEX-1S5VW-1926,Stomach,GTEX-1S5VW,male,60-69,Intermediate death,,"6 pieces, target mucosa up to ~0.5mm advanced autolysis",stomach
+GTEX-1S5ZA-1226,Stomach,GTEX-1S5ZA,male,20-29,Ventilator case,,"6 pieces, mucosa up to ~0.8mm, partly denuded but well preserved, ~20% thickness",stomach
+GTEX-1S5ZU-2026,Stomach,GTEX-1S5ZU,female,20-29,Ventilator case,,"4 pieces; no mucosa, only muscularis and fat",stomach
+GTEX-1S82P-1726,Stomach,GTEX-1S82P,female,60-69,Ventilator case,,6 pieces; mildly to moderately autolyzed gastric mucosa,stomach
+GTEX-1S82U-0226,Stomach,GTEX-1S82U,female,30-39,Ventilator case,,"5 pieces, muscularis and serosa only, no target mucosa present",stomach
+GTEX-1S82Y-1526,Stomach,GTEX-1S82Y,male,40-49,Ventilator case,,,stomach
+GTEX-1S82Z-1726,Stomach,GTEX-1S82Z,female,30-39,Ventilator case,clean_specimens,"6 pieces, target mucosa well-preserved, ~25-30% thickness, excellent specimen",stomach
+GTEX-1S831-1126,Stomach,GTEX-1S831,male,20-29,Ventilator case,,6 pieces; full thickness gastric wall; preserved gastric mucosa and muscularis; mild to moderate autolysis of submucosa,stomach
+GTEX-1S83E-1126,Stomach,GTEX-1S83E,male,40-49,Ventilator case,,6 pieces; moderate to severe gastric mucosa autolysis; two pieces with trace of muscularis (outlined),stomach
+GTEX-N7MS-1926,Stomach,GTEX-N7MS,male,60-69,Fast death - natural causes,,extensive autolysis in mucosa,stomach
+GTEX-N7MT-1726,Stomach,GTEX-N7MT,female,60-69,Slow death,,"3 pieces, 7x1.6 mm;Autolyzed superficial 2/3 mucosa",stomach
+GTEX-NFK9-1526,Stomach,GTEX-NFK9,male,40-49,Ventilator case,gastritis,Remarkably well preserved; single focus lymphocytic gastritis,stomach
+GTEX-NL3G-2626,Stomach,GTEX-NL3G,female,60-69,Fast death - natural causes,,Mucosa ~80% autolyzed,stomach
+GTEX-NL3H-1726,Stomach,GTEX-NL3H,male,60-69,Intermediate death,,3 pieces up to 10x5 mm. Glands 100% autolyzed,stomach
+GTEX-NL4W-0926,Stomach,GTEX-NL4W,male,50-59,Slow death,,Mucosa ~80% autolyzed,stomach
+GTEX-NPJ7-0426,Stomach,GTEX-NPJ7,female,60-69,Slow death,,Epithelium 100% autolyzed (“Score 3”),stomach
+GTEX-NPJ8-0926,Stomach,GTEX-NPJ8,male,40-49,Slow death,,Epithelium badly autolyzed,stomach
+GTEX-O5YT-1526,Stomach,GTEX-O5YT,male,20-29,Ventilator case,,50% mucosa is hemorrhagic,stomach
+GTEX-O5YU-1926,Stomach,GTEX-O5YU,male,60-69,Slow death,,too autolyzed for mucosal study,stomach
+GTEX-O5YV-1926,Stomach,GTEX-O5YV,female,60-69,Intermediate death,,2 (varies from 1-3),stomach
+GTEX-O5YW-1526,Stomach,GTEX-O5YW,male,50-59,Ventilator case,,"3 pieces, 3.4 mm width; mucosa 0.7 mm thick; mild surface autolysis",stomach
+GTEX-OHPJ-1726,Stomach,GTEX-OHPJ,male,60-69,Ventilator case,,Mucosa is ~25% of specimen thickness,stomach
+GTEX-OHPK-1526,Stomach,GTEX-OHPK,female,50-59,Ventilator case,clean_specimens,"corpus mucosa, good preservation",stomach
+GTEX-OHPL-1526,Stomach,GTEX-OHPL,female,60-69,Ventilator case,"gastritis, metaplasia","Chronic gastritis, intestinal metaplasia; antral mucosa",stomach
+GTEX-OHPM-1526,Stomach,GTEX-OHPM,male,50-59,Ventilator case,,"1, in some areas 0.  Extremely well-preserved mucosa—25-30% of specimen thickness",stomach
+GTEX-OHPN-2126,Stomach,GTEX-OHPN,female,60-69,Ventilator case,,Epithelium totally gone from mucosa; only lamina propria elements remain,stomach
+GTEX-OIZF-1526,Stomach,GTEX-OIZF,male,60-69,Ventilator case,,Gastric body mucosa with little muscle and much mucosa,stomach
+GTEX-OIZG-1726,Stomach,GTEX-OIZG,male,50-59,Ventilator case,,"Mostly mucosa, no muscularis  propria",stomach
+GTEX-OIZH-1526,Stomach,GTEX-OIZH,male,50-59,Ventilator case,,Some areas approach 0—remarkably well-preserved.  Approximately 50% of specimen is ‘pure’ mucosa,stomach
+GTEX-OIZI-1626,Stomach,GTEX-OIZI,male,40-49,Ventilator case,,1 of the 3 pieces has poor mucosal preservation,stomach
+GTEX-OOBJ-1526,Stomach,GTEX-OOBJ,male,60-69,Ventilator case,,"Extremely well preserved. 1 of 4 pieces with little-no mucosa, which averages .8mm thickness in 3 pieces—two of which are 30-50%mucosa in thickness. Focal adipose areas underfixed.",stomach
+GTEX-OOBK-1526,Stomach,GTEX-OOBK,male,40-49,Ventilator case,,1.  ~3x8mm pieces; mucosa is ~25% of specimen thickness. Overall epithelium is well-preserved though luminal surface is autolyzed,stomach
+GTEX-OXRK-1626,Stomach,GTEX-OXRK,female,50-59,Ventilator case,,deep mucosa well preserved; surface autolyzed. 7x3mm,stomach
+GTEX-OXRL-1526,Stomach,GTEX-OXRL,male,50-59,Ventilator case,,Deep glands OK; surface autolyzed.,stomach
+GTEX-OXRN-1926,Stomach,GTEX-OXRN,male,50-59,Ventilator case,,Severely autolyzed mucosa.  Moderately autolyzed muscularis,stomach
+GTEX-OXRO-2426,Stomach,GTEX-OXRO,female,60-69,Slow death,,Mucosa totally autolyzed; wall mod. autolyzed. 3 pieces.  7.4x4.8mm.,stomach
+GTEX-OXRP-1326,Stomach,GTEX-OXRP,female,60-69,Intermediate death,,,stomach
+GTEX-P44G-1926,Stomach,GTEX-P44G,male,30-39,Ventilator case,,Mucosa is 8-10% total thickness.  3 pieces 10x3.3mm,stomach
+GTEX-P44H-2026,Stomach,GTEX-P44H,male,40-49,Slow death,,3  ~6.5mm pieces; mucosa is ~20-25% of specimen thickness,stomach
+GTEX-P4PP-1526,Stomach,GTEX-P4PP,female,30-39,Ventilator case,metaplasia,"3  ~8x3mm pieces.  Foveolar cells focally simulate intestinal metaplasia because of their mucous vacuoles, but they are too regular and apical, rarely barrel-shaped; without dysplasia.  Mucosa is ~20-25% of specimen thickness. No sign of an inflammatory infiltrate or atrophy of the glandular cells.",stomach
+GTEX-P4PQ-1526,Stomach,GTEX-P4PQ,male,60-69,Ventilator case,,"6 pieces; 3 with mucosa, ~1.2x5mm, well preserved",stomach
+GTEX-P4QR-1926,Stomach,GTEX-P4QR,male,60-69,Ventilator case,,6  ~8x3mm pieces. Epithelium totally autolyzed; mucosal stroma partly sloughed. Areas of poor fixation with tears/holes,stomach
+GTEX-P4QS-1526,Stomach,GTEX-P4QS,male,60-69,Ventilator case,,"6   ~6X3.5mm pieces. Epithelium/mucosa poorly preserved ,   ~10-20% specimen thickness",stomach
+GTEX-P4QT-1526,Stomach,GTEX-P4QT,female,50-59,Ventilator case,,"2 pieces.  Mucosa extremely well-preserved, ~10 of thickness.  Focal poor fixation with tears",stomach
+GTEX-P78B-1826,Stomach,GTEX-P78B,female,40-49,Ventilator case,gastritis,6 pieces ~8.5x2mm. Slight to focally moderate chronic gastritis,stomach
+GTEX-PLZ4-2526,Stomach,GTEX-PLZ4,female,50-59,Ventilator case,,"2-3 (mucosa);1-2 (muscularis), 6  ~10x2mm pieces.  Mucosa is ~25% of aliquot thickness; near-total autolysis",stomach
+GTEX-PLZ5-1226,Stomach,GTEX-PLZ5,male,50-59,Ventilator case,,6  ~10x4mm pieces; mucosa is ~25% specimen thickness but with partial-total autolysis,stomach
+GTEX-PLZ6-0826,Stomach,GTEX-PLZ6,male,30-39,Ventilator case,,"6 pieces, ~7x4.5mm. Very good mucosal (0.87mm) preservation in 2 pieces; none in others",stomach
+GTEX-POMQ-0826,Stomach,GTEX-POMQ,female,20-29,Ventilator case,gastritis,"6 pieces, ~8x2.5mm, mucosa 0.8mm, mild chronic gastritis, well-preserved fundic mucosa",stomach
+GTEX-POYW-2026,Stomach,GTEX-POYW,male,60-69,Ventilator case,,"6 pieces, ~6x3.5mm, mucosa is 25-30% of thickness",stomach
+GTEX-PSDG-1726,Stomach,GTEX-PSDG,male,50-59,Ventilator case,,"6 pieces, up to 10x3mm, mucosa 1 mm, well-preserved fundic mucosa except for foveolar",stomach
+GTEX-PVOW-2026,Stomach,GTEX-PVOW,male,40-49,Fast death - natural causes,,"6 pieces,~7.5x2.5mm; mucosa 0.8mm",stomach
+GTEX-PW2O-1226,Stomach,GTEX-PW2O,male,20-29,Ventilator case,,5  ~6.5x3.5mm pieces; mucosa exceptionally well-preserved and ~15-20% of thickness,stomach
+GTEX-PWCY-0926,Stomach,GTEX-PWCY,female,20-29,Ventilator case,,"6 pieces, up to 10x4mm. mucosa varies in preservation from very good to moderate",stomach
+GTEX-PWN1-1526,Stomach,GTEX-PWN1,female,40-49,Ventilator case,,"6 pieces, one not well stained/preserved; mucosa 0.8 mm; ~7x3mm",stomach
+GTEX-PWO3-1926,Stomach,GTEX-PWO3,female,60-69,Slow death,,"3(epithelium); 1-2 (muscularis);  6   ~ 7x2mm pieces; mucosa near totally autolysis,   ~25-30% of thickness",stomach
+GTEX-PWOO-1226,Stomach,GTEX-PWOO,female,40-49,Ventilator case,gastritis,"6    ~7x3.5mm pieces.  Mucosa overall well-preserved, focally with superficial moderate autolysis.  Chronic gastritis (patchy).  Mucosa ranges from    ~30-60% of thickness.",stomach
+GTEX-PX3G-1526,Stomach,GTEX-PX3G,female,20-29,Ventilator case,clean_specimens,"6 pieces, ~10x4 mm; very good and abundant mucosa up to 1 mm thick",stomach
+GTEX-Q2AG-1926,Stomach,GTEX-Q2AG,female,40-49,Fast death - natural causes,,"2 aliquots,  ~8.5x2.5mm.  Mucosa better preserved than usual for an autopsy,  ~50% of thickness",stomach
+GTEX-Q2AH-1126,Stomach,GTEX-Q2AH,male,40-49,Ventilator case,clean_specimens,6 pieces up to 12 x 4.4 mm; good mucosa,stomach
+GTEX-Q2AI-0826,Stomach,GTEX-Q2AI,male,40-49,Ventilator case,,"6 pieces up to 8x4.5 mm; good mucosa; many mucosal tissue tears in every piece, doesn’t appear to be poor fixation",stomach
+GTEX-Q734-0926,Stomach,GTEX-Q734,female,40-49,Ventilator case,,6   ~7.5x2mm pieces of gastric mucosa/submucosa; with mucosa  ~ 30-50% of thickness.  Can be used for GTEx once re-labeled correctly.  No notable Barrett’s metaplasia.  This is either a mis-sample or hi atal hernia.,stomach
+GTEX-Q734-1026,Stomach,GTEX-Q734,female,40-49,Ventilator case,,"6   ~7.5x3mm pieces.  Mucosa is fairly well preserved,   ~20-25% of thickness",stomach
+GTEX-QCQG-0526,Stomach,GTEX-QCQG,female,50-59,Ventilator case,,7 pieces up to 10x4 mm; mucosa ~1 mm thick,stomach
+GTEX-QDT8-2026,Stomach,GTEX-QDT8,female,30-39,Slow death,,6  ~7.5x3mm pieces.  Autolyzed mucosa is   ~3-45% of thickness,stomach
+GTEX-QDVJ-1426,Stomach,GTEX-QDVJ,male,50-59,Ventilator case,,"5 pieces up to 6.6x2 mm; 3 have good mucosal volume (1mm), 2 have very little mucosa",stomach
+GTEX-QDVN-1226,Stomach,GTEX-QDVN,male,50-59,Ventilator case,,6   ~9.5x3.5mm pieces.  Well-preserved mucosa is 20-30% of thickness,stomach
+GTEX-QEG4-2026,Stomach,GTEX-QEG4,male,30-39,Fast death - violent,,"6 ~6.5x2.5mm pieces. Mucosa is 20-25% of thickness, but epithelial component badly autolyzed",stomach
+GTEX-QEG5-2126,Stomach,GTEX-QEG5,male,20-29,Ventilator case,hemorrhage,6 pieces up to 9.6x3.7 mm; severe mucosal hyperemia and superficial hemorrhages,stomach
+GTEX-QEL4-1726,Stomach,GTEX-QEL4,male,50-59,Intermediate death,,"6   ~9x1.5mm pieces.  Mucosa poorly preserved over-all, superficial portions sloughed and badly autolyzed--  ~20-30% of thickness",stomach
+GTEX-QESD-1226,Stomach,GTEX-QESD,male,20-29,Ventilator case,hemorrhage,6 pieces up to ~7x5 mm; mucosa largely autolyzed; focal mucosal surface hemorrhages,stomach
+GTEX-QLQ7-0826,Stomach,GTEX-QLQ7,male,60-69,Ventilator case,,"6   ~8x3mm pieces; mucosa generally well preserved,    ~20-25% of thickness",stomach
+GTEX-QLQW-0726,Stomach,GTEX-QLQW,male,30-39,Ventilator case,,"6 pieces up to 7x2 mm; good oxyntic mucosa on all, up to 0.8 mm; foveolar surface largely sloughed",stomach
+GTEX-QMR6-0726,Stomach,GTEX-QMR6,male,50-59,Slow death,,"6  ~  8x2.5mm  pieces, epithelial component of mucosa completely autolyzed",stomach
+GTEX-QMRM-1126,Stomach,GTEX-QMRM,male,50-59,Ventilator case,clean_specimens,"6 pieces up to 10x4.7 mm; good mucosal preservation, up to 1mm thick",stomach
+GTEX-QV31-0626,Stomach,GTEX-QV31,male,30-39,Ventilator case,,"6   ~6x4mm pieces; mucosa well-preserved,  ~25% of thickness in most pieces",stomach
+GTEX-QV44-1226,Stomach,GTEX-QV44,male,50-59,Ventilator case,clean_specimens,6 pieces up to 9.7x3.4 mm;  excellent fundic mucosa,stomach
+GTEX-QVJO-2126,Stomach,GTEX-QVJO,female,60-69,Slow death,,6   ~8.5x2mm pieces; mucosa nearly totally autolyzed,stomach
+GTEX-QVUS-2326,Stomach,GTEX-QVUS,female,60-69,Slow death,,"6  ~8.5x2.5mm pieces, epithelial portions of mucosa with near total autolysis & partly sloughed, 20-30% of thickness",stomach
+GTEX-QXCU-1926,Stomach,GTEX-QXCU,male,50-59,Fast death - violent,,"6  8x2.5mm pieces; mucosa well preserved generally, 20-30% of thickness",stomach
+GTEX-R3RS-1926,Stomach,GTEX-R3RS,female,40-49,Slow death,,6 pieces up to 6.8x3.6 mm; mucosa severely autolyzed; muscle moderately autolyzed,stomach
+GTEX-R45C-2026,Stomach,GTEX-R45C,female,60-69,Ventilator case,,6 pieces up to 9x4 mm; mucosa largely autolyzed; muscularis slight autolysis,stomach
+GTEX-R53T-1226,Stomach,GTEX-R53T,female,50-59,Ventilator case,,"6 pieces,  ~8.5x3mm.  Mucosa remarkably well preserved,  ~20-25% of thickness",stomach
+GTEX-R55C-1026,Stomach,GTEX-R55C,male,40-49,Ventilator case,,6 pieces up to 8x4.5 mm; all have had their mucosa removed so that only the muscularis and submucosa remain,stomach
+GTEX-R55D-1526,Stomach,GTEX-R55D,male,50-59,Ventilator case,,"6 pieces, mucosa well-preserved, ~25% of thickness",stomach
+GTEX-R55E-2426,Stomach,GTEX-R55E,male,20-29,Fast death - violent,,"6 pieces up to 9x2.6 mm; variable mucosal preservation: overall superficial autolysis, several areas of full thickness autolysis; several pieces with sectioning artifacts",stomach
+GTEX-R55F-0726,Stomach,GTEX-R55F,male,50-59,Slow death,,6 pieces up to 11x3 mm; hemorrhagic and necrotic/autolyzed mucosa; muscle slightly autolyzed,stomach
+GTEX-R55G-1126,Stomach,GTEX-R55G,female,40-49,Ventilator case,,"6 pieces,  ~9x4mm.  Mucosa extremely well preserved,  ~25% of thickness",stomach
+GTEX-REY6-2226,Stomach,GTEX-REY6,male,60-69,Ventilator case,"edema, gastritis","6 pieces up to 11x3.8 mm; largely autolyzed mucosa, patchy preservation; muscle edematous; extensive chronic gastritis",stomach
+GTEX-RM2N-0826,Stomach,GTEX-RM2N,male,50-59,Ventilator case,,"6 pieces, 7.5x1.5mm.  Mucosa extremely well-preserved, 40-50% of thickness",stomach
+GTEX-RN5K-0626,Stomach,GTEX-RN5K,female,50-59,Slow death,,"6 pieces,  ~8x2mm.  Mucosa with near-total autolysis and/or sloughed,  ~30% of thickness",stomach
+GTEX-RN64-1926,Stomach,GTEX-RN64,male,50-59,Fast death - violent,,"6 pieces,  ~8x2.5mm.  Mucosal glands badly autolyzed; mucosa is ~25-30% of thickenss",stomach
+GTEX-RNOR-1926,Stomach,GTEX-RNOR,female,50-59,Fast death - violent,,"6 pieces up to 10x3 mm; mucosa moderately autolyzed, muscularis mildly autolyzed",stomach
+GTEX-RTLS-2626,Stomach,GTEX-RTLS,female,60-69,Slow death,,6 pieces up to 7x2 mm; mucosa moderately autolyzed,stomach
+GTEX-RU1J-0526,Stomach,GTEX-RU1J,female,20-29,Ventilator case,,6 pieces up to 8x5 mm; well preserved oxyntic mucosa with slight surface sloughing,stomach
+GTEX-RU72-2026,Stomach,GTEX-RU72,female,50-59,Fast death - natural causes,,"6 pieces,  ~8x1.5mm.  Mucosa moderately autolyzed; superficial layer completely necrotic, ? relationship to drug overdose",stomach
+GTEX-RUSQ-1126,Stomach,GTEX-RUSQ,male,50-59,Ventilator case,,"6 pieces,  ~7.5x3mm.  Mucosa  up to 700microns thick,  ~20-25% of thickness.  Superficial 10% mucosa badly autolyzed; deeper is excellent.",stomach
+GTEX-RVPU-1726,Stomach,GTEX-RVPU,male,50-59,Fast death - natural causes,,"6 pieces,  ~6x4mm.  Mucosa completely autolyzed",stomach
+GTEX-RVPV-2026,Stomach,GTEX-RVPV,male,60-69,Intermediate death,,6 pieces up to 9x3.8 mm; mucosa largely autolyzed; muscle slightly autolyzed,stomach
+GTEX-RWS6-0926,Stomach,GTEX-RWS6,female,60-69,Ventilator case,clean_specimens,6 pieces up to 9x4.5 mm; good oxyntic mucosa,stomach
+GTEX-RWSA-2226,Stomach,GTEX-RWSA,male,40-49,Fast death - violent,,"6 pieces,  ~6x2.5mm.  Mucosa badly autolyzed,  30-50% of thickness",stomach
+GTEX-S32W-1826,Stomach,GTEX-S32W,female,50-59,Ventilator case,,"7 pieces up to 8x3 mm; all  have mucosa, 4 have muscularis as well",stomach
+GTEX-S33H-2026,Stomach,GTEX-S33H,male,30-39,Fast death - natural causes,,"6 pieces up to 8x3 mm; oxyntic mucosa thick, but moderately autolyzed as is muscularis",stomach
+GTEX-S341-0626,Stomach,GTEX-S341,female,40-49,Ventilator case,,"6 pieces, ~ 10x4mm.  Mucosa extremely well preserved,  ~30% of thickness",stomach
+GTEX-S3LF-2426,Stomach,GTEX-S3LF,male,70-79,Fast death - natural causes,,6 pieces  ~7x3mm.  Mucosa completely autolyzed/sloughed,stomach
+GTEX-S3XE-1026,Stomach,GTEX-S3XE,male,50-59,Ventilator case,gastritis,7 pieces up to 9x3 mm; chronic gastritis; oxyntic mucosa,stomach
+GTEX-S4P3-0726,Stomach,GTEX-S4P3,female,50-59,Ventilator case,,"6 pieces up to 9x4 mm; 4 have well preserved oxyntic mucosa, 2 have only muscularis",stomach
+GTEX-S4Q7-0726,Stomach,GTEX-S4Q7,male,20-29,Ventilator case,,"6 pieces,~10x2.5mm.  Mucosa extremely well preserved, 30-50% of thickness.  Basal lymphoid aggregates encircled",stomach
+GTEX-S4UY-1626,Stomach,GTEX-S4UY,female,40-49,Ventilator case,,"6 pieces,  ~6x4mm pieces.  Mucosa extremely well-preserved,  ~20-30% of thickness",stomach
+GTEX-S4Z8-1226,Stomach,GTEX-S4Z8,male,60-69,Ventilator case,,6 pieces up to 11x5 mm; deep oxyntic mucosa better preserved than surface; varies from piece to piece,stomach
+GTEX-S7PM-2126,Stomach,GTEX-S7PM,male,60-69,Ventilator case,,"6 pieces,  ~7x2mm.  Mucoas toally autolyzed and/or sloughed",stomach
+GTEX-S7SE-2126,Stomach,GTEX-S7SE,male,50-59,Fast death - natural causes,,"6 pieces, 7x2.5mm.  Mucosa is ~30-50% of thickness, poorly preserved",stomach
+GTEX-S7SF-0626,Stomach,GTEX-S7SF,female,20-29,Ventilator case,gastritis,6 pieces up to 10x4.8 mm; 3 have  antral (not body) mucosa with mild chronic gastritis; 3 are only muscularis,stomach
+GTEX-S95S-0826,Stomach,GTEX-S95S,male,60-69,Ventilator case,,"6 pieces,  ~10x2mm.  Mucosa extremely well-preserved, up to 50% of thickness in well-oriented pieces.",stomach
+GTEX-SE5C-1426,Stomach,GTEX-SE5C,female,40-49,Ventilator case,clean_specimens,6 pieces up to 8x5 mm; mucosa  ~ 1mm. good preservation,stomach
+GTEX-SIU7-1426,Stomach,GTEX-SIU7,male,50-59,Ventilator case,,6 pieces up to 10x4 mm; 3 with muscularis; all with mucosa,stomach
+GTEX-SIU8-2026,Stomach,GTEX-SIU8,male,50-59,Fast death - natural causes,,"6 pieces  ~7x3mm, mucosa totally autolyzed",stomach
+GTEX-SJXC-2326,Stomach,GTEX-SJXC,male,60-69,Fast death - natural causes,,"6 pieces  ~8x1.5mm, mucosa up to 50% thickness of some pieces but all badly autolyzed",stomach
+GTEX-SN8G-2826,Stomach,GTEX-SN8G,female,50-59,Fast death - natural causes,,"6 pieces  ~8x3mm.  Mucosa up to ~50% of thickness, badly autolyzed in most aliquots",stomach
+GTEX-SNMC-0626,Stomach,GTEX-SNMC,male,20-29,Ventilator case,,6 pieces up to 9x4 mm; all with well preserved mucosa; gastric gland dilatation.,stomach
+GTEX-SNOS-0826,Stomach,GTEX-SNOS,male,40-49,Ventilator case,clean_specimens,6 pieces up to 8x5 mm; very good mucosal preservation,stomach
+GTEX-SUCS-0926,Stomach,GTEX-SUCS,male,70-79,Ventilator case,,"6 pieces up to 6x4 mm; 3 have mainly mucosa, 1 largely muscle",stomach
+GTEX-T2IS-2826,Stomach,GTEX-T2IS,female,20-29,Fast death - violent,,"6 pieces, ~8x2.5mm.  Mucosa present, moderately autolyzed, ~40-50% of thickness",stomach
+GTEX-T2YK-2026,Stomach,GTEX-T2YK,male,50-59,Slow death,,6 pieces up to 8x2.5 mm; glands completely autolyzed,stomach
+GTEX-T5JC-1926,Stomach,GTEX-T5JC,male,20-29,Fast death - natural causes,,6 pieces up to 10x2.5 mm;,stomach
+GTEX-T5JW-0926,Stomach,GTEX-T5JW,female,20-29,Ventilator case,,"6 pieces, ~8x3mm mucosa well preserved,  ~30-40% thickness",stomach
+GTEX-T6MN-2426,Stomach,GTEX-T6MN,male,50-59,Fast death - natural causes,,6 pieces up to 8x3 mm; only deep mucosa has intact glands,stomach
+GTEX-T6MO-0726,Stomach,GTEX-T6MO,female,40-49,Ventilator case,,"6 pieces  ~8x4mm, mucosa well preserved, 20-40% of thickness",stomach
+GTEX-T8EM-1226,Stomach,GTEX-T8EM,male,40-49,Ventilator case,,,stomach
+GTEX-TKQ1-0526,Stomach,GTEX-TKQ1,male,30-39,Ventilator case,hemorrhage,"6 pieces,   ~10x4mm.  Mucosa well- preserved,   ~20-25% of thickness.  Surface hemorrhage/erosions  ? etiology.",stomach
+GTEX-TKQ2-0926,Stomach,GTEX-TKQ2,male,50-59,Ventilator case,,"6 pieces ~8x3mm.  Mucosa well-presereved but only focally present in 4 aliquots, where prsent ~20% of thickness",stomach
+GTEX-TMMY-1626,Stomach,GTEX-TMMY,female,40-49,Ventilator case,,"6 pieces  ~7x3mm.  Mucosa partly autolyzed on luminal side,  ~20% of thickness",stomach
+GTEX-TSE9-1726,Stomach,GTEX-TSE9,female,60-69,Ventilator case,,6 pieces up to 7x3 mm; mucosa totally autolyzed; wall moderately autolyzed,stomach
+GTEX-U3ZH-1226,Stomach,GTEX-U3ZH,male,30-39,Ventilator case,,"6 pieces  ~9x3.5mm.  Mucosa totally autolyzed, partly sloughed",stomach
+GTEX-U3ZN-2026,Stomach,GTEX-U3ZN,female,30-39,Ventilator case,clean_specimens,6 pieces up to 7x3 mm; good mucosal preservation; 4 of 6 have muscularis,stomach
+GTEX-U412-2426,Stomach,GTEX-U412,male,60-69,Intermediate death,,"6 pieces, mucosa ~40% thickness but badly autolyzed  ~8x2mm",stomach
+GTEX-U4B1-1026,Stomach,GTEX-U4B1,male,40-49,Ventilator case,,"6 pieces, up to 11x1.4 mm; all mucosa & submucosa",stomach
+GTEX-U8T8-1226,Stomach,GTEX-U8T8,male,60-69,Ventilator case,,"6 pieces, up to 3x9.7mm; mucosa partially autolyzed",stomach
+GTEX-U8XE-2126,Stomach,GTEX-U8XE,male,30-39,Slow death,,"6 pieces,  ~8x3mm  Mucosa moderate autolyzed,  ~25% thickness",stomach
+GTEX-UJHI-1026,Stomach,GTEX-UJHI,female,50-59,Ventilator case,,"6 pieces, up to 12x4mm; only 3 have mucosa; one has no muscularis",stomach
+GTEX-UJMC-1226,Stomach,GTEX-UJMC,male,50-59,Ventilator case,,"6 pieces,  ~6x3mm mucosa remarkably well-preserved, up to 600 microns thick",stomach
+GTEX-UPIC-1826,Stomach,GTEX-UPIC,female,20-29,Ventilator case,,"6 pieces, up to 9.5x4mm; 3 are full  thickness, other 3 are muscularis only with adjacent submucosal adipose",stomach
+GTEX-UPJH-2426,Stomach,GTEX-UPJH,male,50-59,Fast death - natural causes,,"6 pieces  ~6x2.5mm.  Mucosa variably well-poorly preserved, up to 30-40 thickness,  ~700 microns",stomach
+GTEX-UPK5-2126,Stomach,GTEX-UPK5,male,40-49,Ventilator case,,"6 pieces, up to 9x2mm; mucosa moderately autolyzed",stomach
+GTEX-UTHO-2126,Stomach,GTEX-UTHO,male,60-69,Intermediate death,,"6 pieces, up to 8x2mm;",stomach
+GTEX-V1D1-1726,Stomach,GTEX-V1D1,male,50-59,Ventilator case,,6 pieces  ~7x1.5mm nearly all mucosa and fairly well preserved-- mucosa is 75-100% of thickness,stomach
+GTEX-V955-1326,Stomach,GTEX-V955,male,60-69,Ventilator case,,"6 pieces  ~9x2mm.  Mucosa extremely well preserved,  ~30-40% thickness",stomach
+GTEX-VJWN-2226,Stomach,GTEX-VJWN,female,50-59,Fast death - natural causes,,"6 pieces, up to 7x4mm; mucosa totally autolyzed; muscle not in good shape either",stomach
+GTEX-VJYA-1026,Stomach,GTEX-VJYA,male,60-69,Ventilator case,,"6 pieces  ~7x4mm, ~20% mucosa, well preserved",stomach
+GTEX-VUSG-1326,Stomach,GTEX-VUSG,male,50-59,Ventilator case,,"6 pieces   ~9x1mm, remarkaby well-preserved; mucosa is 70--95% of thickness",stomach
+GTEX-W5WG-1726,Stomach,GTEX-W5WG,female,50-59,Ventilator case,,"6 pieces  `~7x2mm.  Mucosa variably preserved (1-2), ~30-40% of thickness",stomach
+GTEX-W5X1-1326,Stomach,GTEX-W5X1,female,40-49,Ventilator case,,"6 pieces, up to 6x3mm; mucosa and submucosa, no muscularis",stomach
+GTEX-WEY5-1226,Stomach,GTEX-WEY5,female,40-49,Ventilator case,clean_specimens,"6 pieces, up to 12x6mm; good oxyntic mucosa; well preserved",stomach
+GTEX-WFG7-1326,Stomach,GTEX-WFG7,male,20-29,Ventilator case,,"7 pieces  ~  ~6x1mm.  Mucosa beatifully preserved,  ~30-70% of thickness",stomach
+GTEX-WFG8-1326,Stomach,GTEX-WFG8,male,20-29,Ventilator case,,"6 pieces,  ~9x1.5mm, remarkably well-preserved mucosa 50-70% of thickness",stomach
+GTEX-WFJO-1126,Stomach,GTEX-WFJO,male,30-39,Ventilator case,,"6 pieces, up to 10x5mm; all muscularis, no mucosa",stomach
+GTEX-WFON-1126,Stomach,GTEX-WFON,male,40-49,Ventilator case,,"6 pieces, muscoa is ~20-25% of thickness; remarkably well-preserved",stomach
+GTEX-WH7G-1526,Stomach,GTEX-WH7G,male,40-49,Ventilator case,clean_specimens,"6 pieces, up to 12x5mm; Good well preserved mucosa.",stomach
+GTEX-WHPG-0426,Stomach,GTEX-WHPG,male,50-59,Ventilator case,"atrophy, gastritis","6 pieces, up to 7x6mm; fundic mucosa, chronic gastritis with atrophy, no intestinal metaplasia",stomach
+GTEX-WHSB-1226,Stomach,GTEX-WHSB,male,50-59,Ventilator case,,"6 pieces ~7x2mmm.  Mucosa well-preserved, 20-50% of thickness",stomach
+GTEX-WHSE-2426,Stomach,GTEX-WHSE,male,20-29,Intermediate death,,"6 pieces ~8x2mm.  Muscosa moderately autolyzed, ~3-40% of thickness",stomach
+GTEX-WHWD-1426,Stomach,GTEX-WHWD,male,50-59,Ventilator case,,"4 pieces, up to 8x4mm; good oxyntic glands, but superficial glands sloughed",stomach
+GTEX-WI4N-2826,Stomach,GTEX-WI4N,female,40-49,Ventilator case,,"6  pieces  ~8x1.5mm, near total autolysis, mucosa sloughed",stomach
+GTEX-WK11-2126,Stomach,GTEX-WK11,male,50-59,Fast death - violent,,"6 pieces, up to 8x2mm; superficial half of oxyntic mucosa is sloughed, deeper in better condition",stomach
+GTEX-WL46-2526,Stomach,GTEX-WL46,male,50-59,Fast death - natural causes,,6 pieces ~8x3mm; mucosa is ~20-30% thickness but moderately-severely autolyzed,stomach
+GTEX-WOFL-2226,Stomach,GTEX-WOFL,male,60-69,Ventilator case,,"6 pieces, up to 7x3mm; mucosa=3; muscle =2 (autolysis)",stomach
+GTEX-WOFM-0926,Stomach,GTEX-WOFM,male,20-29,Ventilator case,,6 pieces ~9x5mm.  Mucosa remarkably well-preserved  ~25% of thickness,stomach
+GTEX-WQUQ-2326,Stomach,GTEX-WQUQ,male,60-69,Ventilator case,gastritis,"6 pieces ~8x3mm 10-15% mucosa, moderate-severely autolyzed, diffuse chronic gastritis, pattern suggests H pylori",stomach
+GTEX-WRHK-0626,Stomach,GTEX-WRHK,female,20-29,Ventilator case,,"6 pieces, up to 9x2mm; oxyntic mucosa with sloughed superficial layer; No muscularis propria present",stomach
+GTEX-WRHU-2426,Stomach,GTEX-WRHU,female,50-59,Fast death - violent,,"6 pieces ~9x2.5mm; mucosa moderately-badly autolyzed, ~40-50% thickness",stomach
+GTEX-WVJS-2526,Stomach,GTEX-WVJS,male,50-59,Ventilator case,,"6 pieces, up to 9x2mm; too autolyzed for further study",stomach
+GTEX-WVLH-2226,Stomach,GTEX-WVLH,male,50-59,Fast death - natural causes,,"6 pieces   ~8x3mm,  ~40-50% mucosa, but badly autolyzed",stomach
+GTEX-WWTW-2526,Stomach,GTEX-WWTW,male,50-59,Ventilator case,,"6 pieces ~8x3mm, mucosa ~25% thickness but all autolyzed/sloughing",stomach
+GTEX-WWYW-2426,Stomach,GTEX-WWYW,female,50-59,Intermediate death,,"6 pieces ~8x3mm.  Mucosa moderatly autolyzed but intact, up to 40-50% thickness",stomach
+GTEX-WXYG-1626,Stomach,GTEX-WXYG,female,50-59,Ventilator case,,"6 pieces, up to 8x4mm; mucosa well-preserved; 30-40% of thickness, representatively delineated",stomach
+GTEX-WY7C-1726,Stomach,GTEX-WY7C,male,50-59,Ventilator case,,"6 pieces  ~8x2mm  ~50% mucosa, reasonably well preserved",stomach
+GTEX-WYBS-2926,Stomach,GTEX-WYBS,female,60-69,Ventilator case,,"6 pieces, up to 9x3mm; mucosa is ~30% oof thickness, badly autolyzed",stomach
+GTEX-WYJK-2526,Stomach,GTEX-WYJK,male,50-59,Ventilator case,,"6 pieces, up to 9x4mm;  ~mucosa well preserved, up to ~30% thickness",stomach
+GTEX-WYVS-1326,Stomach,GTEX-WYVS,female,40-49,Ventilator case,,"6 pieces, up to 8x3mm; ~well preserved mucosa, rep delineated, ~25% thickness",stomach
+GTEX-WZTO-2126,Stomach,GTEX-WZTO,male,40-49,Fast death - violent,,"6 pieces, up to 9x4mm; mucosa ~40% thickness, moderately autolyzed",stomach
+GTEX-X15G-1126,Stomach,GTEX-X15G,female,50-59,Ventilator case,,"6 pieces, up to 6x2mm; extremely well preserved mucsoa, delineated, 30-90% of thickness",stomach
+GTEX-X261-2926,Stomach,GTEX-X261,male,50-59,Slow death,,"4 pieces, up to 5x1.5mm; muscle only",stomach
+GTEX-X3Y1-1426,Stomach,GTEX-X3Y1,male,40-49,Ventilator case,,"6 pieces, up to 7x4mm;  all pieces contain mostly muscle; only 2 have minute foci of mucosa",stomach
+GTEX-X4EO-2826,Stomach,GTEX-X4EO,female,60-69,Intermediate death,,"6 pieces, up to 7x1mm; totally autolyzed mucosa; muscle also autolyzed; of limited molecular value",stomach
+GTEX-X4EP-1526,Stomach,GTEX-X4EP,female,60-69,Slow death,,"6 pieces, up to 8x2mm; mucosa is ~30-50% thickness, variably but generally badly autolyzed",stomach
+GTEX-X4LF-0926,Stomach,GTEX-X4LF,male,50-59,Ventilator case,,"6 pieces, up to 12x2.5mm; ~50-70% thickness is well preserved mucosa",stomach
+GTEX-X4XX-2426,Stomach,GTEX-X4XX,male,60-69,Slow death,,"6 pieces, up to 9x3mm;  Well sampled mucosa (3) and muscle (2).",stomach
+GTEX-X4XY-2526,Stomach,GTEX-X4XY,male,60-69,Ventilator case,,"6 pieces, up to 10x3mm; mucosa autolysis= 2 and 3; muscularis = 2",stomach
+GTEX-X585-2326,Stomach,GTEX-X585,male,50-59,Slow death,,"6 pieces, up to 9.5x2mm;  Glands = 3; muscle = 2.",stomach
+GTEX-X5EB-1226,Stomach,GTEX-X5EB,male,40-49,Ventilator case,,"6 pieces, up to 11x5mm; mucosa is well preserved, ~25% of thickness, rep layer delineated",stomach
+GTEX-X62O-2126,Stomach,GTEX-X62O,male,50-59,Ventilator case,,"6 pieces, up to 10x5mm; mucosa completely autolyzed/sloughed",stomach
+GTEX-X8HC-2226,Stomach,GTEX-X8HC,female,50-59,Ventilator case,hemorrhage,"6 pieces, up to 8x3mm;  Mucosa=3; muscle = 2. Mucosal hemorrhage.",stomach
+GTEX-XAJ8-0326,Stomach,GTEX-XAJ8,male,40-49,Ventilator case,,"6 pieces  up to ~6x3mm.  Muscosa either sloughed or absent, muscualris only",stomach
+GTEX-XBEC-2626,Stomach,GTEX-XBEC,male,50-59,Fast death - natural causes,,"6 pieces, up to 9x2mm;  mucosa 40-100% thickness, moderately--poorly preserved",stomach
+GTEX-XBED-1226,Stomach,GTEX-XBED,male,60-69,Ventilator case,,"6 pieces, up to 12x4mm; Well preserved mucosa in all. Muscularis in 4/6.",stomach
+GTEX-XBEW-1826,Stomach,GTEX-XBEW,male,40-49,Ventilator case,clean_specimens,"6 pieces, up to 9x3mm; excellent preservation; mucosa is ~30-60% of thickness",stomach
+GTEX-XK95-2226,Stomach,GTEX-XK95,male,40-49,Ventilator case,,6 pieces. up to 9x3mm; deeper mucosa somewhat better preserved than superficial.,stomach
+GTEX-XLM4-2626,Stomach,GTEX-XLM4,male,60-69,Intermediate death,,"6 pieces, up to 9x3mm; mucosa is ~20-25% thickness but badly autolyzed",stomach
+GTEX-XMD1-2026,Stomach,GTEX-XMD1,male,60-69,Slow death,,6 pieces up to 9x3.5mm; mucosa ~30-40% thickness but badly autolyzed,stomach
+GTEX-XMD2-2426,Stomach,GTEX-XMD2,female,60-69,Ventilator case,,"6 pieces, up to 9x4mm; mucosa=3; muscularis =2",stomach
+GTEX-XMD3-2126,Stomach,GTEX-XMD3,female,50-59,Ventilator case,,6 pieces. up to 8x3mm; mucosa=3;muscle=2 (autolysis),stomach
+GTEX-XMK1-1526,Stomach,GTEX-XMK1,male,40-49,Ventilator case,,"6 pieces. up to 11x4mm; mucosa is ~25% thickness, well-preserved",stomach
+GTEX-XOT4-2226,Stomach,GTEX-XOT4,female,60-69,Fast death - natural causes,,6 pieces. up to 8x3mm; mucosa = 3; muscle = 2,stomach
+GTEX-XOTO-2326,Stomach,GTEX-XOTO,male,50-59,Fast death - natural causes,,6 pieces. up to 9x2mm; mucosa is ~30% thickness but poorly preserved,stomach
+GTEX-XPT6-0726,Stomach,GTEX-XPT6,male,20-29,Ventilator case,,"6 pieces  ~5x5mm, mainly muscularis, mucosa sloughed, focally present, delineated, where present, well-preserved",stomach
+GTEX-XPVG-1526,Stomach,GTEX-XPVG,male,50-59,Ventilator case,,"6 pieces, up to 8x4mm; only 2 with mucosa, 4 with muscularis propria only",stomach
+GTEX-XQ3S-2326,Stomach,GTEX-XQ3S,male,20-29,Fast death - violent,,"6 pieces, up to 9x2mm;  mucosa prservation ranges from score 1 to score 2 ~30--40% thickness",stomach
+GTEX-XQ8I-2026,Stomach,GTEX-XQ8I,male,50-59,Ventilator case,clean_specimens,"6 pieces, up to 8.5x4mm; good thick mucosa",stomach
+GTEX-XUJ4-1226,Stomach,GTEX-XUJ4,female,60-69,Ventilator case,,"6 pieces, up to 9x4mm;  well - preserved mucosa ~30-70% thickness",stomach
+GTEX-XUW1-2126,Stomach,GTEX-XUW1,female,50-59,Ventilator case,,"6 pieces, up to 8x6mm. 3 pieces with well preserved gastric mucosa and muscle. 3 pieces with squamous and mixed squamous and gastric mucosa without muscularis propria (annotated on image-see issues)",stomach
+GTEX-XUZC-0726,Stomach,GTEX-XUZC,female,30-39,Ventilator case,,"6 pieces, up to 8.5x4mm; mucosa remarkably well-preserved, 20-30% thickness",stomach
+GTEX-XV7Q-1326,Stomach,GTEX-XV7Q,female,40-49,Ventilator case,,"6 pieces, up to 10x2mm; ~ up to ~30-70% mucosa in thickness, variably preserved",stomach
+GTEX-XXEK-0826,Stomach,GTEX-XXEK,male,50-59,Ventilator case,,"6 pieces, up to 12x5mm; mucosa well preserved, ~30% total tissue",stomach
+GTEX-XYKS-1926,Stomach,GTEX-XYKS,female,60-69,Ventilator case,,"6 pieces, up to 9x5mm; 5 of 6 are all muscle; only minute pieces of mucosa present",stomach
+GTEX-Y111-2526,Stomach,GTEX-Y111,male,50-59,Fast death - violent,,"5 pieces, up to 6x4mm. All mucosa severely autolyzed. Small amount of moderately autolyzed muscularis.",stomach
+GTEX-Y114-1226,Stomach,GTEX-Y114,female,50-59,Ventilator case,"gastritis, hyperplasia, metaplasia","6 pieces, up to 8x6mm; well preserved.  Marked chronic active gastritis with patchy intestinal metaplasia, gastropathic changes with foveolar hyperplasia, features suggest possible H pylori infection",stomach
+GTEX-Y3I4-1626,Stomach,GTEX-Y3I4,male,50-59,Ventilator case,,"6 pieces, up to 11x3mm; mucosa ~10-15% thickness, mild/moderate autolysis",stomach
+GTEX-Y3IK-1426,Stomach,GTEX-Y3IK,female,50-59,Ventilator case,"gastritis, metaplasia","6 pieces, up to 8x2mm. All have mucosa and submucosa, no muscularis propria.  One piece with small focus of chronic gastritis with intestinal metaplasia (annotated). Autolysis varies from 1 to 2.",stomach
+GTEX-Y5LM-1326,Stomach,GTEX-Y5LM,female,40-49,Ventilator case,,6 pieces. up to 8x3mm; Mucosa and submucosa only.,stomach
+GTEX-Y5V5-1726,Stomach,GTEX-Y5V5,female,60-69,Ventilator case,,"6 pieces, up to 10x2mm; mucosa is 90--100% of thickness, remarkably pure but moderately autolyzed",stomach
+GTEX-Y5V6-1326,Stomach,GTEX-Y5V6,male,60-69,Ventilator case,,"6 pieces, up to 9x3mm; foveolar (surface) glands autolyzed; only 1 of 6 has muscularis",stomach
+GTEX-Y8E4-1526,Stomach,GTEX-Y8E4,male,40-49,Ventilator case,desquamation,1 piece 9x4 mm.  full oxyntic mucosa with mild surface desquamation.,stomach
+GTEX-Y8LW-0826,Stomach,GTEX-Y8LW,female,50-59,Ventilator case,,"1 piece, 7x5mm; mucoa well - preserved, up to 1mm thick",stomach
+GTEX-Y9LG-1026,Stomach,GTEX-Y9LG,male,30-39,Ventilator case,,1 piece. 5x3 mm. Mucosa-submucosa only.  Basilar gland dilatation.,stomach
+GTEX-YB5E-1126,Stomach,GTEX-YB5E,male,40-49,Ventilator case,,"1 piece, 12x2mm; mucosa is well preserved, ~90% thickness, gastric gland dilation",stomach
+GTEX-YB5K-1326,Stomach,GTEX-YB5K,female,40-49,Ventilator case,pigment,1 piece. 8x4mm; Surface glands sloughed.has  mucosa and muscularis. Black pigment on part of surface represents inking at CBR,stomach
+GTEX-YEC3-1426,Stomach,GTEX-YEC3,male,50-59,Ventilator case,,"1 piece, 8x4mm; no mucosa, all muscularis/fat, correlated with 1425",stomach
+GTEX-YEC4-1426,Stomach,GTEX-YEC4,male,40-49,Ventilator case,,"1 piece, all muscularis with minute adherent fragment of well-preserved mucsoa; correlates acceptably with 1425",stomach
+GTEX-YECK-2026,Stomach,GTEX-YECK,male,60-69,Intermediate death,,"1 piece, correlates well with 2025",stomach
+GTEX-YECK-2126,Stomach,GTEX-YECK,male,60-69,Intermediate death,,"5 pieces, from 6x2 to 9x2mm; all gastric mucosa/muscuarlis; may be used for GTEx once relabeled correctly",stomach
+GTEX-YF7O-1126,Stomach,GTEX-YF7O,male,50-59,Ventilator case,,1 piece; comparable to 25 block,stomach
+GTEX-YFC4-2026,Stomach,GTEX-YFC4,female,40-49,Fast death - violent,,"1 piece, correlates with -2025, mucosa is ~25% thickness, modeately-severely autolyzed",stomach
+GTEX-YFCO-0826,Stomach,GTEX-YFCO,male,40-49,Ventilator case,,6 pieces; mucosa and submucosa,stomach
+GTEX-YJ89-2226,Stomach,GTEX-YJ89,male,60-69,Fast death - natural causes,,6 pieces,stomach
+GTEX-YJ8A-1526,Stomach,GTEX-YJ8A,male,20-29,Ventilator case,,6 pieces; surface autolysis; mucosa and muscularis sampled,stomach
+GTEX-YJ8A-1626,Stomach,GTEX-YJ8A,male,20-29,Ventilator case,,6 pieces; all are stomach mucosa and muscularis (not colon),stomach
+GTEX-YJ8O-0626,Stomach,GTEX-YJ8O,female,40-49,Fast death - violent,,"6 pieces, mucosa up to ~1mm thick in areas; generally well preserved but approach a '2' in some foci",stomach
+GTEX-Z93S-1926,Stomach,GTEX-Z93S,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~50% thickness but badly autolyzed",stomach
+GTEX-Z9EW-1026,Stomach,GTEX-Z9EW,male,40-49,Ventilator case,,"6 pieces, mucosa largely sloughed, minute foci remain, delineated",stomach
+GTEX-ZA64-0826,Stomach,GTEX-ZA64,male,20-29,Ventilator case,,"6 pieces, beautifully preserved, mucosa up to 1mm thick in all, 80-100% thickness",stomach
+GTEX-ZAB4-1526,Stomach,GTEX-ZAB4,male,40-49,Slow death,,6 pieces.  Mucosa=3; muscle = 2.,stomach
+GTEX-ZAB5-1326,Stomach,GTEX-ZAB5,male,50-59,Ventilator case,,"6 pieces; muscle only, no mucosa present",stomach
+GTEX-ZAJG-2326,Stomach,GTEX-ZAJG,female,50-59,Intermediate death,,"6 pieces; mucosa is 20-30% thickness, but badly autolzyed/sloughed",stomach
+GTEX-ZAK1-1926,Stomach,GTEX-ZAK1,female,50-59,Fast death - natural causes,,"6 pieces, mucosa moderately autolyzed, 40-60% thickness",stomach
+GTEX-ZC5H-1426,Stomach,GTEX-ZC5H,female,40-49,Ventilator case,,"6 pieces, mucosa is 50-80% thickness but badly autolyzed, focally a '3', and focally sloughed",stomach
+GTEX-ZDTS-2226,Stomach,GTEX-ZDTS,male,60-69,Fast death - natural causes,,"6 pieces; mucosa totally autolyzed, muscle is moderately autolyzed",stomach
+GTEX-ZDTT-1526,Stomach,GTEX-ZDTT,male,60-69,Ventilator case,,"6 pieces, superficial part of mucosa is autolyzed.",stomach
+GTEX-ZDXO-3226,Stomach,GTEX-ZDXO,male,60-69,Fast death - natural causes,,"4 pieces.  Mucosa largely sloughed; where present, badly autolyzed, no visible landmarks",stomach
+GTEX-ZDYS-1926,Stomach,GTEX-ZDYS,male,50-59,Ventilator case,,"6 pieces, mucosa (2), muscularis (1)",stomach
+GTEX-ZE7O-3026,Stomach,GTEX-ZE7O,female,50-59,Fast death - natural causes,,4 pieces; all muscle no mucosa,stomach
+GTEX-ZE9C-1926,Stomach,GTEX-ZE9C,male,60-69,Fast death - natural causes,gastritis,"6 pieces, mucosa up to ~50% thickness, but badly autolyzed.  Evidence of diffuse antemortem/perimortem hemorrhagic event. Intramucosal findings suggest component of ""pill gastrtitis"", too autolyzed for further assessment.",stomach
+GTEX-ZEX8-1626,Stomach,GTEX-ZEX8,male,50-59,Ventilator case,,6 pieces. Severe surface autolysis; some preservation of deep glands.,stomach
+GTEX-ZF28-2726,Stomach,GTEX-ZF28,male,60-69,Slow death,,"6 pieces. Mucosa totally autolyzed, muscularis moderate autolysis",stomach
+GTEX-ZF29-1526,Stomach,GTEX-ZF29,female,60-69,Ventilator case,,"6 pieces, mucosa and submucosa",stomach
+GTEX-ZF2S-1426,Stomach,GTEX-ZF2S,female,50-59,Ventilator case,,6 pieces. Mucosa and submucosa; sloughing of superficial (foveolar) glands,stomach
+GTEX-ZF3C-2426,Stomach,GTEX-ZF3C,female,50-59,Ventilator case,congestion,"6 pieces, markedly autolyzed, congested",stomach
+GTEX-ZG7Y-1726,Stomach,GTEX-ZG7Y,male,50-59,Ventilator case,,"6 pieces, mucosa well-preserved, 40-70% thickness",stomach
+GTEX-ZGAY-1626,Stomach,GTEX-ZGAY,female,40-49,Ventilator case,,"6 pieces, mucosa is generally well prserved with a few ares approaching grade 2 with sloughing (delineated)--mucosa is ~20-30% thickness",stomach
+GTEX-ZLFU-1326,Stomach,GTEX-ZLFU,male,40-49,Ventilator case,,6 pieces. Deep dilated mucosal glands,stomach
+GTEX-ZLV1-0826,Stomach,GTEX-ZLV1,female,60-69,Ventilator case,,"6 pieces, 3 with mucosa, rest denuded (? sectioning/embedding artifact), mucosa up to 1mm thick, well- preserved.",stomach
+GTEX-ZLWG-1526,Stomach,GTEX-ZLWG,female,50-59,Ventilator case,,"6 pieces, well trimmed",stomach
+GTEX-ZP4G-1226,Stomach,GTEX-ZP4G,female,20-29,Ventilator case,clean_specimens,"6 pieces, remarkably well-preserved.  Mucosa is 60-100% of thickness, excellent specimens",stomach
+GTEX-ZPCL-1526,Stomach,GTEX-ZPCL,female,60-69,Ventilator case,,6 pieces. Mucosa only present.,stomach
+GTEX-ZPIC-2026,Stomach,GTEX-ZPIC,female,40-49,Ventilator case,,"6 pieces, mucosa totoally denuded/sloughed, muscularis only",stomach
+GTEX-ZPU1-1626,Stomach,GTEX-ZPU1,male,40-49,Ventilator case,,"6 pieces, all with mucosa",stomach
+GTEX-ZQG8-2326,Stomach,GTEX-ZQG8,female,60-69,Ventilator case,,6 pieces. 5 have mucosa and submucosa; 1 has muscularis propria only,stomach
+GTEX-ZQUD-0826,Stomach,GTEX-ZQUD,male,30-39,Ventilator case,,"6 pieces.  Mucosa is discontinuous but where present is well-preserved, ~20-30% thickness",stomach
+GTEX-ZT9W-1526,Stomach,GTEX-ZT9W,male,50-59,Ventilator case,,"6 pieces. Autolysis varies, focally severe. Mucosa only",stomach
+GTEX-ZT9X-0826,Stomach,GTEX-ZT9X,male,40-49,Ventilator case,,"6 pieces, mucosa ~80-100% thickness, well-preserved",stomach
+GTEX-ZTPG-1826,Stomach,GTEX-ZTPG,female,20-29,Ventilator case,"atrophy, gastritis","6 pieces, mild chronic gastritis with atrophy",stomach
+GTEX-ZTSS-0526,Stomach,GTEX-ZTSS,male,40-49,Ventilator case,,"5 pieces: 2 with muscularis propria, 3 without (only have mucosa-submucosa)",stomach
+GTEX-ZTTD-2326,Stomach,GTEX-ZTTD,male,50-59,Intermediate death,,"6 pieces, mucosa is ~20-40% thickness but moderately to severely autolyzed (mainly score 2, focally 3)",stomach
+GTEX-ZTX8-0426,Stomach,GTEX-ZTX8,male,20-29,Ventilator case,,"6 pieces, only 2 with small regions of mucosa (delineated), predominantly muscle.",stomach
+GTEX-ZU9S-2526,Stomach,GTEX-ZU9S,male,30-39,Fast death - natural causes,,6 pieces.,stomach
+GTEX-ZUA1-2226,Stomach,GTEX-ZUA1,male,40-49,Fast death - natural causes,,6 pieces. 4 have and 2 have not muscularis propria,stomach
+GTEX-ZV68-1226,Stomach,GTEX-ZV68,female,50-59,Fast death - natural causes,,6 pieces; mucosa up to ~1mm thick but badly autolyzed and/or sloughing,stomach
+GTEX-ZV6S-0926,Stomach,GTEX-ZV6S,female,40-49,Ventilator case,,6 pieces,stomach
+GTEX-ZV7C-1626,Stomach,GTEX-ZV7C,male,50-59,Ventilator case,clean_specimens,"3 pieces, excellent specimen, well preserved mucosa is ~50% thickness, ave 1mm",stomach
+GTEX-ZVE1-2026,Stomach,GTEX-ZVE1,female,50-59,Ventilator case,,"6 pieces, mucosa severely autolyzed (3), muscle less so (2)",stomach
+GTEX-ZVE2-2426,Stomach,GTEX-ZVE2,male,50-59,Ventilator case,,6 pieces,stomach
+GTEX-ZVP2-1626,Stomach,GTEX-ZVP2,male,50-59,Ventilator case,,3 pieces,stomach
+GTEX-ZVT2-1626,Stomach,GTEX-ZVT2,female,50-59,Ventilator case,,3 pieces. well preserved mucosa,stomach
+GTEX-ZVT3-2126,Stomach,GTEX-ZVT3,female,60-69,Fast death - natural causes,,"6 pieces, mucosa is ~15-20% thickness but moderately to focally markedly autolyzed",stomach
+GTEX-ZVT4-0926,Stomach,GTEX-ZVT4,female,50-59,Intermediate death,,6 pieces; mucosa ~25-30% thickness but badly autolyzed,stomach
+GTEX-ZVZP-1726,Stomach,GTEX-ZVZP,male,50-59,Ventilator case,,6 pieces; only small groups of glands are preserved [annotated]; of limited value,stomach
+GTEX-ZVZQ-2326,Stomach,GTEX-ZVZQ,female,60-69,Fast death - violent,,"6 pieces, mucosa is up to ~1mm thick but moderately autolyzed",stomach
+GTEX-ZWKS-2626,Stomach,GTEX-ZWKS,male,30-39,Slow death,,"6 pieces, mucosa is ~~1mm thick, ~50%, but totally autolyzed",stomach
+GTEX-ZXES-1426,Stomach,GTEX-ZXES,female,30-39,Ventilator case,,"5 pieces, predominantly autolysis rating of 1, focally 2; 2 of 5 pieces include portion of muscularis",stomach
+GTEX-ZXG5-2626,Stomach,GTEX-ZXG5,male,60-69,Intermediate death,,"6 pieces; totally autolyzed mucosa, partially autolyzed muscularis",stomach
+GTEX-ZY6K-0726,Stomach,GTEX-ZY6K,male,50-59,Ventilator case,,6 pieces,stomach
+GTEX-ZYFC-2326,Stomach,GTEX-ZYFC,male,50-59,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa",stomach
+GTEX-ZYFD-1626,Stomach,GTEX-ZYFD,male,50-59,Intermediate death,,6 pieces; mucosa = 3; muscularis = 1,stomach
+GTEX-ZYFG-1326,Stomach,GTEX-ZYFG,female,60-69,Ventilator case,,6 pieces; mucosa only [should also have muscularis],stomach
+GTEX-ZYT6-1826,Stomach,GTEX-ZYT6,male,30-39,Fast death - violent,,"6 pieces; mucosa up to ~1mm thick, 30-50% thickness, but moderately-severely autolyzed/sloughing",stomach
+GTEX-ZYVF-2726,Stomach,GTEX-ZYVF,female,50-59,Ventilator case,,"6 pieces; mucosa is up to ~0.6mm thick, but essentially totally autolyzed",stomach
+GTEX-ZYW4-1726,Stomach,GTEX-ZYW4,male,60-69,Intermediate death,,"6 pieces, all with completely autolyzed mucosa; muscularis is moderately autolyzed",stomach
+GTEX-ZYWO-1426,Stomach,GTEX-ZYWO,female,40-49,Ventilator case,,"6 pieces, mucosa autolyzed, muscularis less so",stomach
+GTEX-ZYY3-1726,Stomach,GTEX-ZYY3,female,60-69,Slow death,,"6 pieces, mucosa is ~50-80% thickness, moderately-markedly autolyzed",stomach
+GTEX-ZZ64-0426,Stomach,GTEX-ZZ64,male,20-29,Ventilator case,edema,"6 pieces; submucosal edema, full thickness",stomach
+GTEX-ZZPT-2126,Stomach,GTEX-ZZPT,male,50-59,Slow death,,6 pieces.  Mucosa up to ~70% thickness but completely autolyzed,stomach
+GTEX-ZZPU-1426,Stomach,GTEX-ZZPU,female,50-59,Ventilator case,,"6 pieces, 5 with mucosa and muscularis, 1 mucosa only",stomach

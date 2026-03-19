@@ -1,0 +1,959 @@
+Tissue Sample ID,Tissue,Subject ID,Sex,Age Bracket,Hardy Scale,Pathology Categories,Pathology Notes,Tissue ID
+GTEX-1117F-1626,Esophagus - Muscularis,GTEX-1117F,female,60-69,Slow death,,"6 pieces, all muscularis",eso_muscularis
+GTEX-111CU-0626,Esophagus - Muscularis,GTEX-111CU,male,50-59,Ventilator case,,"6 pieces, well trimmed of mucosa",eso_muscularis
+GTEX-111FC-1626,Esophagus - Muscularis,GTEX-111FC,male,60-69,Fast death - violent,,"6 pieces, includes abundant submucosa and submucosal glands",eso_muscularis
+GTEX-111VG-1026,Esophagus - Muscularis,GTEX-111VG,male,60-69,Intermediate death,,6 pieces; well trimmed,eso_muscularis
+GTEX-111YS-1026,Esophagus - Muscularis,GTEX-111YS,male,60-69,Ventilator case,,6 small pieces of muscularis,eso_muscularis
+GTEX-1122O-1626,Esophagus - Muscularis,GTEX-1122O,female,60-69,Ventilator case,,"6 pieces, well trimmed, minute focus of squamous epithelium",eso_muscularis
+GTEX-1128S-1326,Esophagus - Muscularis,GTEX-1128S,female,60-69,Fast death - natural causes,,"6 pieces, all muscularis",eso_muscularis
+GTEX-113JC-0926,Esophagus - Muscularis,GTEX-113JC,female,50-59,Fast death - natural causes,,"6 pieces, well trimmed muscle",eso_muscularis
+GTEX-117XS-1426,Esophagus - Muscularis,GTEX-117XS,male,60-69,Fast death - natural causes,,"6 pieces, all muscularis",eso_muscularis
+GTEX-117YW-2026,Esophagus - Muscularis,GTEX-117YW,male,50-59,Intermediate death,,"6 pieces, trimmed, but with abundant detached squamous (and few glandular) cells",eso_muscularis
+GTEX-117YX-1826,Esophagus - Muscularis,GTEX-117YX,male,50-59,Ventilator case,,"6 pieces, all muscularis, no mucosa",eso_muscularis
+GTEX-1192W-1026,Esophagus - Muscularis,GTEX-1192W,male,60-69,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-1192X-1626,Esophagus - Muscularis,GTEX-1192X,male,50-59,Slow death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11DXX-1026,Esophagus - Muscularis,GTEX-11DXX,female,60-69,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11DXY-1526,Esophagus - Muscularis,GTEX-11DXY,male,60-69,Fast death - natural causes,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11DXZ-1126,Esophagus - Muscularis,GTEX-11DXZ,male,50-59,Ventilator case,,"6 pieces, well trimmed but with few detached fragments of squamous epithelium",eso_muscularis
+GTEX-11DYG-1426,Esophagus - Muscularis,GTEX-11DYG,male,60-69,Fast death - natural causes,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-11DZ1-2126,Esophagus - Muscularis,GTEX-11DZ1,male,50-59,Slow death,,6 pieces,eso_muscularis
+GTEX-11EI6-1626,Esophagus - Muscularis,GTEX-11EI6,male,60-69,Slow death,,"6 pieces, all muscularis",eso_muscularis
+GTEX-11EM3-0726,Esophagus - Muscularis,GTEX-11EM3,female,20-29,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11EMC-2126,Esophagus - Muscularis,GTEX-11EMC,female,60-69,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11EQ8-1926,Esophagus - Muscularis,GTEX-11EQ8,male,60-69,Slow death,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11EQ9-0826,Esophagus - Muscularis,GTEX-11EQ9,male,30-39,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11GS4-1426,Esophagus - Muscularis,GTEX-11GS4,male,60-69,Fast death - natural causes,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11GSO-1326,Esophagus - Muscularis,GTEX-11GSO,male,60-69,Fast death - natural causes,,"6 pieces, well trimmed, small detached strip of squamous mucosa",eso_muscularis
+GTEX-11GSP-1726,Esophagus - Muscularis,GTEX-11GSP,female,60-69,Fast death - natural causes,,6 pieces,eso_muscularis
+GTEX-11I78-1426,Esophagus - Muscularis,GTEX-11I78,female,50-59,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11ILO-1126,Esophagus - Muscularis,GTEX-11ILO,female,40-49,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-11LCK-1626,Esophagus - Muscularis,GTEX-11LCK,male,30-39,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11NSD-1226,Esophagus - Muscularis,GTEX-11NSD,male,20-29,Ventilator case,,"6 pieces, all muscularis; focal stromal connective tissue",eso_muscularis
+GTEX-11NUK-1426,Esophagus - Muscularis,GTEX-11NUK,male,50-59,Fast death - natural causes,,"6 pieces, 2 pieces include ~30% fat, vessels, and nerve",eso_muscularis
+GTEX-11O72-1926,Esophagus - Muscularis,GTEX-11O72,male,40-49,Fast death - natural causes,,6 pieces; prominent (30 & 20%) submucosal fibrous tissue in 2 of 6 pieces (annotated),eso_muscularis
+GTEX-11OF3-2226,Esophagus - Muscularis,GTEX-11OF3,male,60-69,Fast death - natural causes,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-11ONC-1426,Esophagus - Muscularis,GTEX-11ONC,male,60-69,Fast death - natural causes,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-11P7K-1226,Esophagus - Muscularis,GTEX-11P7K,male,30-39,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-11P81-0926,Esophagus - Muscularis,GTEX-11P81,female,30-39,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11P82-0626,Esophagus - Muscularis,GTEX-11P82,male,20-29,Fast death - violent,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11PRG-2726,Esophagus - Muscularis,GTEX-11PRG,male,50-59,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11TT1-0426,Esophagus - Muscularis,GTEX-11TT1,male,20-29,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11TTK-1626,Esophagus - Muscularis,GTEX-11TTK,female,60-69,Slow death,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-11TUW-1226,Esophagus - Muscularis,GTEX-11TUW,male,60-69,Fast death - natural causes,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11UD2-1226,Esophagus - Muscularis,GTEX-11UD2,male,50-59,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11VI4-0626,Esophagus - Muscularis,GTEX-11VI4,female,40-49,Ventilator case,,6 pieces well dissected,eso_muscularis
+GTEX-11VI4-5004,Esophagus - Muscularis,GTEX-11VI4,female,40-49,Ventilator case,,1 piece,eso_muscularis
+GTEX-11WQC-1026,Esophagus - Muscularis,GTEX-11WQC,male,60-69,Fast death - natural causes,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11WQK-1826,Esophagus - Muscularis,GTEX-11WQK,male,50-59,Fast death - natural causes,,4 pieces,eso_muscularis
+GTEX-11XUK-0726,Esophagus - Muscularis,GTEX-11XUK,female,40-49,Ventilator case,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-11ZTS-2526,Esophagus - Muscularis,GTEX-11ZTS,female,60-69,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11ZTT-0926,Esophagus - Muscularis,GTEX-11ZTT,female,60-69,Ventilator case,,6 pieces,eso_muscularis
+GTEX-11ZTT-5006,Esophagus - Muscularis,GTEX-11ZTT,female,60-69,Ventilator case,,1 piece,eso_muscularis
+GTEX-11ZU8-1426,Esophagus - Muscularis,GTEX-11ZU8,male,60-69,Slow death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-11ZUS-0926,Esophagus - Muscularis,GTEX-11ZUS,male,30-39,Fast death - violent,,"6 pieces, well trimmed",eso_muscularis
+GTEX-11ZVC-1726,Esophagus - Muscularis,GTEX-11ZVC,female,50-59,Fast death - natural causes,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-1211K-1026,Esophagus - Muscularis,GTEX-1211K,female,60-69,Ventilator case,,"6 pieces, all muscularis",eso_muscularis
+GTEX-1211K-5012,Esophagus - Muscularis,GTEX-1211K,female,60-69,Ventilator case,,1 piece correlates with PGT-fixed aliquot,eso_muscularis
+GTEX-1212Z-2026,Esophagus - Muscularis,GTEX-1212Z,male,60-69,Fast death - natural causes,,"6 pieces, well trimmed",eso_muscularis
+GTEX-12584-1926,Esophagus - Muscularis,GTEX-12584,male,40-49,Intermediate death,,"6 pieces: 3 well trimmed muscle, 3 with 20 - 50% adventitial fat",eso_muscularis
+GTEX-12696-1426,Esophagus - Muscularis,GTEX-12696,male,60-69,Intermediate death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-1269C-1126,Esophagus - Muscularis,GTEX-1269C,female,60-69,Fast death - natural causes,,"6 pieces, well trimmed",eso_muscularis
+GTEX-1269W-1526,Esophagus - Muscularis,GTEX-1269W,male,60-69,Slow death,,,eso_muscularis
+GTEX-12BJ1-1426,Esophagus - Muscularis,GTEX-12BJ1,male,60-69,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-12C56-1126,Esophagus - Muscularis,GTEX-12C56,male,20-29,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-12C56-5010,Esophagus - Muscularis,GTEX-12C56,male,20-29,Ventilator case,,1 piece,eso_muscularis
+GTEX-12KS4-1026,Esophagus - Muscularis,GTEX-12KS4,male,30-39,Ventilator case,,"6 pieces, all muscularis",eso_muscularis
+GTEX-12WS9-1626,Esophagus - Muscularis,GTEX-12WS9,female,50-59,Intermediate death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-12WSA-1526,Esophagus - Muscularis,GTEX-12WSA,male,60-69,Slow death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-12WSB-1426,Esophagus - Muscularis,GTEX-12WSB,female,60-69,Slow death,,6 pieces; well trimmed-all muscle,eso_muscularis
+GTEX-12WSC-1426,Esophagus - Muscularis,GTEX-12WSC,male,50-59,Fast death - natural causes,,"6 pieces, predominantly muscularis, but with some residual mucosa",eso_muscularis
+GTEX-12WSD-1926,Esophagus - Muscularis,GTEX-12WSD,female,60-69,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-12WSE-1526,Esophagus - Muscularis,GTEX-12WSE,male,20-29,Fast death - natural causes,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-12WSF-1826,Esophagus - Muscularis,GTEX-12WSF,male,70-79,Slow death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-12WSG-1726,Esophagus - Muscularis,GTEX-12WSG,female,50-59,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-12WSG-5010,Esophagus - Muscularis,GTEX-12WSG,female,50-59,Ventilator case,,1 piece,eso_muscularis
+GTEX-12WSH-1726,Esophagus - Muscularis,GTEX-12WSH,male,50-59,Fast death - natural causes,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-12WSI-1126,Esophagus - Muscularis,GTEX-12WSI,male,50-59,Fast death - natural causes,,"6 pieces, all muscularis",eso_muscularis
+GTEX-12WSJ-0726,Esophagus - Muscularis,GTEX-12WSJ,female,40-49,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-12WSK-1226,Esophagus - Muscularis,GTEX-12WSK,female,40-49,Ventilator case,clean_specimens,"6 pieces, all muscularis; trace adherent fat/serosa, rep delineated, good specimens",eso_muscularis
+GTEX-12WSL-1326,Esophagus - Muscularis,GTEX-12WSL,male,50-59,Ventilator case,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-12WSN-1626,Esophagus - Muscularis,GTEX-12WSN,male,40-49,Ventilator case,,5 pieces; well trimmed muscle,eso_muscularis
+GTEX-12WSN-5016,Esophagus - Muscularis,GTEX-12WSN,male,40-49,Ventilator case,,1 piece,eso_muscularis
+GTEX-12ZZW-1826,Esophagus - Muscularis,GTEX-12ZZW,male,50-59,Slow death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-12ZZX-1426,Esophagus - Muscularis,GTEX-12ZZX,female,40-49,Fast death - violent,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-12ZZY-1526,Esophagus - Muscularis,GTEX-12ZZY,male,60-69,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-12ZZZ-2526,Esophagus - Muscularis,GTEX-12ZZZ,male,60-69,Fast death - natural causes,,6 pieces; well dissected muscle with limited amount of extraneous fat,eso_muscularis
+GTEX-13111-0926,Esophagus - Muscularis,GTEX-13111,male,50-59,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-13112-1026,Esophagus - Muscularis,GTEX-13112,male,50-59,Fast death - natural causes,,6 pieces; well trimmed muscularis,eso_muscularis
+GTEX-13113-1026,Esophagus - Muscularis,GTEX-13113,female,60-69,Ventilator case,,"6 pieces, all muscularis",eso_muscularis
+GTEX-13113-5010,Esophagus - Muscularis,GTEX-13113,female,60-69,Ventilator case,,1 piece c/w PGT,eso_muscularis
+GTEX-1313W-1326,Esophagus - Muscularis,GTEX-1313W,female,50-59,Fast death - natural causes,,"6 pieces, well trimmed, admixture of skeletal and smooth muscle indicating sample of upper esophagus",eso_muscularis
+GTEX-1314G-0926,Esophagus - Muscularis,GTEX-1314G,male,30-39,Ventilator case,,6 pieces; major admixture of skeletal and smooth muscle indicates sampling from upper esophagus.,eso_muscularis
+GTEX-1314G-5010,Esophagus - Muscularis,GTEX-1314G,male,30-39,Ventilator case,,1 piece; can't distinguish skeletal from smooth muscle in this frozen section,eso_muscularis
+GTEX-131XE-1226,Esophagus - Muscularis,GTEX-131XE,male,50-59,Ventilator case,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-131XF-0926,Esophagus - Muscularis,GTEX-131XF,male,60-69,Ventilator case,,"6 pieces; well preserved, well dissected",eso_muscularis
+GTEX-131XF-5007,Esophagus - Muscularis,GTEX-131XF,male,60-69,Ventilator case,,1 piece,eso_muscularis
+GTEX-131XG-0926,Esophagus - Muscularis,GTEX-131XG,female,50-59,Ventilator case,,"6 pieces, muscularis, adherent fat layer, up to ~1mm, delineated",eso_muscularis
+GTEX-131XH-1126,Esophagus - Muscularis,GTEX-131XH,male,50-59,Fast death - natural causes,,"6 pieces, all muscularis, switch with 1225",eso_muscularis
+GTEX-131XW-1426,Esophagus - Muscularis,GTEX-131XW,female,50-59,Slow death,,"6 pieces, well trimmed, admixture of smooth and skeletal muscle (skeletal muscle component is <10%)",eso_muscularis
+GTEX-131YS-1526,Esophagus - Muscularis,GTEX-131YS,female,60-69,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-132AR-2326,Esophagus - Muscularis,GTEX-132AR,female,50-59,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-132NY-1926,Esophagus - Muscularis,GTEX-132NY,male,60-69,Fast death - violent,clean_specimens,"6 pieces, muscularis, good speicmens",eso_muscularis
+GTEX-132Q8-1926,Esophagus - Muscularis,GTEX-132Q8,male,60-69,Slow death,,6 pieces; well trimmed,eso_muscularis
+GTEX-132QS-1526,Esophagus - Muscularis,GTEX-132QS,male,60-69,Ventilator case,clean_specimens,"4 pieces, muscularis, adherent fat/serosa up to ~1mm, rep. delineated, good specimens",eso_muscularis
+GTEX-1339X-1326,Esophagus - Muscularis,GTEX-1339X,male,40-49,Ventilator case,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-133LE-0726,Esophagus - Muscularis,GTEX-133LE,female,20-29,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-1399Q-1226,Esophagus - Muscularis,GTEX-1399Q,male,40-49,Ventilator case,,"6 pieces; admixture of smooth muscle and skeletal muscle, two pieces with 10-20% attached fat",eso_muscularis
+GTEX-1399R-0726,Esophagus - Muscularis,GTEX-1399R,male,30-39,Ventilator case,,7 pieces; well dissected,eso_muscularis
+GTEX-1399S-1226,Esophagus - Muscularis,GTEX-1399S,female,30-39,Ventilator case,,"6 pieces all muscularis, focal attached serosal adipose tissues, delineated",eso_muscularis
+GTEX-1399T-1426,Esophagus - Muscularis,GTEX-1399T,male,60-69,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-1399U-1226,Esophagus - Muscularis,GTEX-1399U,female,50-59,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-139D8-1426,Esophagus - Muscularis,GTEX-139D8,female,30-39,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-139T6-0726,Esophagus - Muscularis,GTEX-139T6,male,50-59,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-139TS-0926,Esophagus - Muscularis,GTEX-139TS,male,60-69,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-139TU-1326,Esophagus - Muscularis,GTEX-139TU,male,60-69,Intermediate death,,6 pieces; well trimmed,eso_muscularis
+GTEX-139UC-1026,Esophagus - Muscularis,GTEX-139UC,male,60-69,Fast death - natural causes,,"6 pieces, all muscularis",eso_muscularis
+GTEX-139UW-1226,Esophagus - Muscularis,GTEX-139UW,male,60-69,Fast death - natural causes,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-139YR-1626,Esophagus - Muscularis,GTEX-139YR,male,50-59,Ventilator case,,6 pieces,eso_muscularis
+GTEX-13CF2-1226,Esophagus - Muscularis,GTEX-13CF2,male,60-69,Fast death - natural causes,,"6 pieces, all muscularis, unusually autolyzed",eso_muscularis
+GTEX-13CF3-1526,Esophagus - Muscularis,GTEX-13CF3,female,60-69,Ventilator case,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-13CIG-1826,Esophagus - Muscularis,GTEX-13CIG,male,50-59,Fast death - natural causes,,6 pieces; well trimmed muscularis,eso_muscularis
+GTEX-13CZU-0526,Esophagus - Muscularis,GTEX-13CZU,male,20-29,Ventilator case,,4 pieces; well dissected,eso_muscularis
+GTEX-13CZV-1926,Esophagus - Muscularis,GTEX-13CZV,male,60-69,Fast death - natural causes,,6 pieces; 1 mm carry-over from spleen [annotated],eso_muscularis
+GTEX-13D11-1826,Esophagus - Muscularis,GTEX-13D11,female,50-59,Ventilator case,,"6 pieces, all muscularis, trace serosa, delineated",eso_muscularis
+GTEX-13FH7-0726,Esophagus - Muscularis,GTEX-13FH7,female,50-59,Ventilator case,,"4 pieces; well trimmed, 2 include significant nerve and vessels",eso_muscularis
+GTEX-13FHO-1826,Esophagus - Muscularis,GTEX-13FHO,male,60-69,Ventilator case,,6 pieces; muscularis with some residual attached fat and nerve,eso_muscularis
+GTEX-13FHP-1626,Esophagus - Muscularis,GTEX-13FHP,male,50-59,Slow death,,6 pieces; well trimmed,eso_muscularis
+GTEX-13FLV-1226,Esophagus - Muscularis,GTEX-13FLV,male,50-59,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13FLW-1026,Esophagus - Muscularis,GTEX-13FLW,male,50-59,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13FTW-1526,Esophagus - Muscularis,GTEX-13FTW,male,40-49,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-13FTX-0426,Esophagus - Muscularis,GTEX-13FTX,female,20-29,Ventilator case,,"6 pieces; 5 of 6 include muscularis, but ~50% of each is residual fat, vessels and significant component of nerve, one piece is entirely fat/incidental lymph node/vessels",eso_muscularis
+GTEX-13FTY-1226,Esophagus - Muscularis,GTEX-13FTY,female,40-49,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13FTZ-1626,Esophagus - Muscularis,GTEX-13FTZ,male,60-69,Fast death - natural causes,,"6 pieces; 3 are predominantly muscularis with residual submucosa/submucosal glands, 3 are mostly fat/less muscularis",eso_muscularis
+GTEX-13FXS-1926,Esophagus - Muscularis,GTEX-13FXS,male,50-59,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13G51-1026,Esophagus - Muscularis,GTEX-13G51,male,60-69,Fast death - natural causes,,"6 pieces; up to 20% of attached fat, nerve, and vessels",eso_muscularis
+GTEX-13IVO-1826,Esophagus - Muscularis,GTEX-13IVO,male,70-79,Slow death,,6 pieces; up to 1.6mm external fat,eso_muscularis
+GTEX-13JUV-1426,Esophagus - Muscularis,GTEX-13JUV,female,40-49,Ventilator case,,6 pieces; muscularis with few foci of submucosal glands,eso_muscularis
+GTEX-13JVG-1926,Esophagus - Muscularis,GTEX-13JVG,male,60-69,Fast death - natural causes,,"6 pieces; well trimmed, but significant portion of 3 of 6 is skeletal muscle admixed with smooth muscle, suggesting sampling of upper esophagus",eso_muscularis
+GTEX-13N11-2426,Esophagus - Muscularis,GTEX-13N11,female,50-59,Ventilator case,,"6 pieces; 4 are muscularis with some skeletal muscle, 2 are gastric mucosa",eso_muscularis
+GTEX-13N1W-1826,Esophagus - Muscularis,GTEX-13N1W,male,70-79,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-13N2G-1326,Esophagus - Muscularis,GTEX-13N2G,male,60-69,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13NYB-0826,Esophagus - Muscularis,GTEX-13NYB,male,40-49,Fast death - natural causes,,"6 pieces, all muscularis",eso_muscularis
+GTEX-13NYC-1226,Esophagus - Muscularis,GTEX-13NYC,male,60-69,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13NYS-2226,Esophagus - Muscularis,GTEX-13NYS,male,60-69,Slow death,,6 pieces; well dissected,eso_muscularis
+GTEX-13NZ8-1126,Esophagus - Muscularis,GTEX-13NZ8,female,60-69,Slow death,,6 pieces; well trimmed,eso_muscularis
+GTEX-13NZ9-1826,Esophagus - Muscularis,GTEX-13NZ9,male,50-59,Ventilator case,,"6 pieces, all muscularis, unusually poorly preserved",eso_muscularis
+GTEX-13NZA-2126,Esophagus - Muscularis,GTEX-13NZA,male,60-69,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13NZB-1126,Esophagus - Muscularis,GTEX-13NZB,male,30-39,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-13O1R-1526,Esophagus - Muscularis,GTEX-13O1R,male,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-13O21-0826,Esophagus - Muscularis,GTEX-13O21,male,50-59,Ventilator case,,"6 pieces, one with adherent fat/serosa, delineated",eso_muscularis
+GTEX-13O3O-1326,Esophagus - Muscularis,GTEX-13O3O,female,60-69,Intermediate death,,6 pieces; well dissected,eso_muscularis
+GTEX-13O3P-1326,Esophagus - Muscularis,GTEX-13O3P,male,50-59,Slow death,,6 pieces,eso_muscularis
+GTEX-13O3Q-0726,Esophagus - Muscularis,GTEX-13O3Q,male,50-59,Fast death - natural causes,,6 pieces; 30% admixed skeletal muscle,eso_muscularis
+GTEX-13O61-1026,Esophagus - Muscularis,GTEX-13O61,male,60-69,Ventilator case,,4 pieces; submucosal gland in 2 pieces [outlined],eso_muscularis
+GTEX-13OVG-0926,Esophagus - Muscularis,GTEX-13OVG,male,60-69,Ventilator case,,"7 pieces, all muscularis, adherent nubbin serosa in one section, delineated",eso_muscularis
+GTEX-13OVG-5010,Esophagus - Muscularis,GTEX-13OVG,male,60-69,Ventilator case,,"1 piece, correlates with PGT fixed tissue.",eso_muscularis
+GTEX-13OVH-2026,Esophagus - Muscularis,GTEX-13OVH,male,70-79,Fast death - natural causes,,"6 pieces, all muscularis, adherent serosa/fat up to~1.5mm",eso_muscularis
+GTEX-13OVI-2526,Esophagus - Muscularis,GTEX-13OVI,female,60-69,Ventilator case,clean_specimens,"6 pieces, all muscularis, good speicmens",eso_muscularis
+GTEX-13OVJ-1326,Esophagus - Muscularis,GTEX-13OVJ,female,50-59,Fast death - natural causes,,"6 pieces; well trimmed, small detached fragment of squamous epithelium",eso_muscularis
+GTEX-13OVK-1226,Esophagus - Muscularis,GTEX-13OVK,male,40-49,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-13OVL-1926,Esophagus - Muscularis,GTEX-13OVL,male,50-59,Fast death - natural causes,,6 pieces; 3 with 20% submucosal stroma,eso_muscularis
+GTEX-13OW5-1326,Esophagus - Muscularis,GTEX-13OW5,male,60-69,Intermediate death,clean_specimens,"6 pieces, ~0.5mm adherent rim of fat, several sections (delineated); otherwise all muscularis, good specimens",eso_muscularis
+GTEX-13OW6-1426,Esophagus - Muscularis,GTEX-13OW6,male,50-59,Fast death - natural causes,,6 pieces; focal fibrovascular tissue and nerves (less than 10%),eso_muscularis
+GTEX-13OW7-2026,Esophagus - Muscularis,GTEX-13OW7,male,50-59,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-13OW8-2226,Esophagus - Muscularis,GTEX-13OW8,male,60-69,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13PDP-1726,Esophagus - Muscularis,GTEX-13PDP,male,60-69,Slow death,,6 pieces; well trimmed,eso_muscularis
+GTEX-13PL6-2626,Esophagus - Muscularis,GTEX-13PL6,female,40-49,Intermediate death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-13PL7-0326,Esophagus - Muscularis,GTEX-13PL7,female,60-69,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-13PVQ-1826,Esophagus - Muscularis,GTEX-13PVQ,male,50-59,Fast death - natural causes,,6 pieces,eso_muscularis
+GTEX-13QBU-0926,Esophagus - Muscularis,GTEX-13QBU,female,40-49,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-13QIC-2126,Esophagus - Muscularis,GTEX-13QIC,female,60-69,Fast death - natural causes,,6 pieces; small residual fragment of squamous epithelium (outlined),eso_muscularis
+GTEX-13QJ3-1826,Esophagus - Muscularis,GTEX-13QJ3,male,50-59,Ventilator case,clean_specimens,"6 pieces, all muscularis; good specimens",eso_muscularis
+GTEX-13QJC-1626,Esophagus - Muscularis,GTEX-13QJC,female,60-69,Fast death - natural causes,,6 pieces,eso_muscularis
+GTEX-13RTJ-1426,Esophagus - Muscularis,GTEX-13RTJ,male,60-69,Slow death,clean_specimens,"6 pieces muscularis, good specimens",eso_muscularis
+GTEX-13RTK-0626,Esophagus - Muscularis,GTEX-13RTK,male,20-29,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-13S7M-2726,Esophagus - Muscularis,GTEX-13S7M,female,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-13S86-0726,Esophagus - Muscularis,GTEX-13S86,male,40-49,Ventilator case,,5 pieces; well dissected,eso_muscularis
+GTEX-13SLW-2026,Esophagus - Muscularis,GTEX-13SLW,male,70-79,Fast death - natural causes,,"6 pieces, all muscularis",eso_muscularis
+GTEX-13SLX-1926,Esophagus - Muscularis,GTEX-13SLX,female,50-59,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13U4I-1226,Esophagus - Muscularis,GTEX-13U4I,female,40-49,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-13VXT-2526,Esophagus - Muscularis,GTEX-13VXT,female,20-29,Ventilator case,,6 pieces; muscularis (not mucosa); 3 pieces have 50-50 mixture of skeletal and smooth  muscle; 3 pieces have only smooth muscle. LCM possible,eso_muscularis
+GTEX-13VXU-1226,Esophagus - Muscularis,GTEX-13VXU,male,50-59,Fast death - natural causes,,6 pieces; 2 pieces have 10% external fat,eso_muscularis
+GTEX-13W3W-1726,Esophagus - Muscularis,GTEX-13W3W,female,60-69,Ventilator case,,"6 pieces, all muscularis",eso_muscularis
+GTEX-13W46-2026,Esophagus - Muscularis,GTEX-13W46,male,50-59,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-13X6H-1426,Esophagus - Muscularis,GTEX-13X6H,female,50-59,Ventilator case,,6 pieces; excessive fibrofatty tissue up to 2 mm thick,eso_muscularis
+GTEX-13X6I-1126,Esophagus - Muscularis,GTEX-13X6I,male,60-69,Slow death,,6 pieces; well trimmed,eso_muscularis
+GTEX-13X6J-1626,Esophagus - Muscularis,GTEX-13X6J,male,50-59,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-13X6K-2226,Esophagus - Muscularis,GTEX-13X6K,female,60-69,Slow death,,"6 pieces, all muscularis",eso_muscularis
+GTEX-13YAN-2026,Esophagus - Muscularis,GTEX-13YAN,male,60-69,Ventilator case,,"6 pieces, all muscularis",eso_muscularis
+GTEX-1445S-1826,Esophagus - Muscularis,GTEX-1445S,male,60-69,Intermediate death,clean_specimens,"6 pieces, all muscularis, good specimen",eso_muscularis
+GTEX-144FL-2526,Esophagus - Muscularis,GTEX-144FL,male,50-59,Fast death - natural causes,clean_specimens,"6 pieces, target muscularis, good specimen",eso_muscularis
+GTEX-144GL-2226,Esophagus - Muscularis,GTEX-144GL,male,50-59,Fast death - natural causes,,6 pieces; very well trimmed,eso_muscularis
+GTEX-144GM-1526,Esophagus - Muscularis,GTEX-144GM,male,20-29,Ventilator case,clean_specimens,"6 pieces, target muscularis, good specimens",eso_muscularis
+GTEX-144GN-0926,Esophagus - Muscularis,GTEX-144GN,male,50-59,Ventilator case,,6 pieces; 3 pieces have mucosa & muscle; 3 have only muscle. LCM,eso_muscularis
+GTEX-144GO-2826,Esophagus - Muscularis,GTEX-144GO,male,60-69,Slow death,,6 pieces; well trimmed,eso_muscularis
+GTEX-145LS-1926,Esophagus - Muscularis,GTEX-145LS,female,60-69,Slow death,,6 pieces; well trimmed,eso_muscularis
+GTEX-145LT-1226,Esophagus - Muscularis,GTEX-145LT,male,40-49,Ventilator case,clean_specimens,"6 pieces, target muscularis, good specimens",eso_muscularis
+GTEX-145LU-1026,Esophagus - Muscularis,GTEX-145LU,male,50-59,Fast death - natural causes,,6 pieces; well dissected pure muscularis,eso_muscularis
+GTEX-145LV-1426,Esophagus - Muscularis,GTEX-145LV,male,50-59,Ventilator case,,4 pieces; no sign  of fibrosis,eso_muscularis
+GTEX-145ME-0626,Esophagus - Muscularis,GTEX-145ME,female,40-49,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-145ME-5007,Esophagus - Muscularis,GTEX-145ME,female,40-49,Ventilator case,,"1 piece, correlates with PFPE specimen",eso_muscularis
+GTEX-145MF-1326,Esophagus - Muscularis,GTEX-145MF,male,50-59,Fast death - natural causes,clean_specimens,"6 pieces, all target muscularis, good specimens",eso_muscularis
+GTEX-145MG-2526,Esophagus - Muscularis,GTEX-145MG,male,50-59,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-145MH-1226,Esophagus - Muscularis,GTEX-145MH,male,50-59,Fast death - violent,,6 pieces; well trimmed,eso_muscularis
+GTEX-145MI-1526,Esophagus - Muscularis,GTEX-145MI,female,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-145MN-1126,Esophagus - Muscularis,GTEX-145MN,male,30-39,Ventilator case,,6 pieces; well trimmed except for submucosal glands in 1 piece (5%) [annotated],eso_muscularis
+GTEX-145MO-1526,Esophagus - Muscularis,GTEX-145MO,male,60-69,Intermediate death,,"6 pieces, all target  muscularis.",eso_muscularis
+GTEX-146FH-1626,Esophagus - Muscularis,GTEX-146FH,female,50-59,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-146FQ-1126,Esophagus - Muscularis,GTEX-146FQ,male,30-39,Ventilator case,,6 pieces (one of them fragmented); well trimmed,eso_muscularis
+GTEX-146FR-0526,Esophagus - Muscularis,GTEX-146FR,female,60-69,Ventilator case,clean_specimens,"6 pieces, all target muscularis, good specimens",eso_muscularis
+GTEX-14753-1926,Esophagus - Muscularis,GTEX-14753,male,60-69,Slow death,,6 pieces; well trimmed,eso_muscularis
+GTEX-1477Z-2526,Esophagus - Muscularis,GTEX-1477Z,male,60-69,Slow death,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-147F3-0926,Esophagus - Muscularis,GTEX-147F3,female,50-59,Ventilator case,,5 pieces; mostly adipose and fibrovascular tissue with outlined minimal fragment of muscularis,eso_muscularis
+GTEX-147F4-1626,Esophagus - Muscularis,GTEX-147F4,male,50-59,Fast death - natural causes,,"6 pieces, target muscularis, trace adherent fat, delineated",eso_muscularis
+GTEX-147GR-1926,Esophagus - Muscularis,GTEX-147GR,male,60-69,Fast death - natural causes,,2 pieces; 5% fat,eso_muscularis
+GTEX-147JS-1826,Esophagus - Muscularis,GTEX-147JS,male,60-69,Fast death - natural causes,,"6 pieces, target muscularis",eso_muscularis
+GTEX-148VI-1126,Esophagus - Muscularis,GTEX-148VI,female,60-69,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-148VJ-1126,Esophagus - Muscularis,GTEX-148VJ,male,70-79,Fast death - natural causes,clean_specimens,"6 pieces, all targetr muscularis, good specimens",eso_muscularis
+GTEX-1497J-2526,Esophagus - Muscularis,GTEX-1497J,male,60-69,Ventilator case,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-14A5H-1926,Esophagus - Muscularis,GTEX-14A5H,male,60-69,Fast death - natural causes,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-14A5I-1626,Esophagus - Muscularis,GTEX-14A5I,female,50-59,Slow death,,"6 pieces, all target muscualaris",eso_muscularis
+GTEX-14A6H-1426,Esophagus - Muscularis,GTEX-14A6H,male,30-39,Ventilator case,,6 pieces; includes collection of lymphoid tissue,eso_muscularis
+GTEX-14A6H-5013,Esophagus - Muscularis,GTEX-14A6H,male,30-39,Ventilator case,,1 piece,eso_muscularis
+GTEX-14ABY-2326,Esophagus - Muscularis,GTEX-14ABY,male,50-59,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-14AS3-0726,Esophagus - Muscularis,GTEX-14AS3,female,40-49,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-14ASI-1426,Esophagus - Muscularis,GTEX-14ASI,male,60-69,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-14B4R-0426,Esophagus - Muscularis,GTEX-14B4R,male,30-39,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-14BIL-1726,Esophagus - Muscularis,GTEX-14BIL,male,50-59,Fast death - natural causes,inflammation,6 pieces; well trimmed; inflammation around ganglion cells,eso_muscularis
+GTEX-14BIM-1226,Esophagus - Muscularis,GTEX-14BIM,female,60-69,Intermediate death,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-14BIN-2626,Esophagus - Muscularis,GTEX-14BIN,female,50-59,Fast death - natural causes,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-14BMU-0826,Esophagus - Muscularis,GTEX-14BMU,female,20-29,Ventilator case,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-14BMV-1426,Esophagus - Muscularis,GTEX-14BMV,male,50-59,Fast death - natural causes,,6 pieces; well trimmed except for small submucosal gland,eso_muscularis
+GTEX-14C38-2226,Esophagus - Muscularis,GTEX-14C38,male,50-59,Ventilator case,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-14C39-1226,Esophagus - Muscularis,GTEX-14C39,male,40-49,Fast death - natural causes,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-14C5O-1726,Esophagus - Muscularis,GTEX-14C5O,male,60-69,Slow death,,"6 pieces; predominantly well trimmed, few with attachments of fat and nerve",eso_muscularis
+GTEX-14DAQ-1526,Esophagus - Muscularis,GTEX-14DAQ,female,60-69,Slow death,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-14DAR-0626,Esophagus - Muscularis,GTEX-14DAR,male,50-59,Ventilator case,,"7 pieces, all taraget muscularis",eso_muscularis
+GTEX-14E1K-1126,Esophagus - Muscularis,GTEX-14E1K,male,50-59,Ventilator case,,"6 pieces, all target muscularis; incidental mucus gland noted, delineated",eso_muscularis
+GTEX-14E6C-0926,Esophagus - Muscularis,GTEX-14E6C,male,40-49,Slow death,,6 pieces; well trimmed,eso_muscularis
+GTEX-14E6D-1826,Esophagus - Muscularis,GTEX-14E6D,male,50-59,Fast death - natural causes,,"6 pieces; essentially well trimmed with small amounts of fat on one piece (outlined), fragments of food",eso_muscularis
+GTEX-14E6E-0626,Esophagus - Muscularis,GTEX-14E6E,male,30-39,Ventilator case,,6 pieces; mostly muscle with some submucosal stroma,eso_muscularis
+GTEX-14E7W-1826,Esophagus - Muscularis,GTEX-14E7W,male,70-79,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-14H4A-1726,Esophagus - Muscularis,GTEX-14H4A,female,40-49,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-14ICK-2126,Esophagus - Muscularis,GTEX-14ICK,male,40-49,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-14ICL-0626,Esophagus - Muscularis,GTEX-14ICL,male,30-39,Ventilator case,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-14JFF-1926,Esophagus - Muscularis,GTEX-14JFF,male,60-69,Slow death,clean_specimens,"6 pieces, target muscularis, good specimens",eso_muscularis
+GTEX-14JG1-2026,Esophagus - Muscularis,GTEX-14JG1,male,40-49,Fast death - natural causes,,6 pieces; well trimmed muscle except for 2 pieces with 40% fat,eso_muscularis
+GTEX-14JG6-1126,Esophagus - Muscularis,GTEX-14JG6,female,30-39,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-14JIY-1026,Esophagus - Muscularis,GTEX-14JIY,male,60-69,Fast death - natural causes,,"6 pieces, target muscularis",eso_muscularis
+GTEX-14LLW-1426,Esophagus - Muscularis,GTEX-14LLW,female,70-79,Slow death,,6 pieces; well dissected,eso_muscularis
+GTEX-14LZ3-1826,Esophagus - Muscularis,GTEX-14LZ3,female,60-69,Intermediate death,,6 pieces; well trimmed,eso_muscularis
+GTEX-14PHW-1526,Esophagus - Muscularis,GTEX-14PHW,female,60-69,Slow death,,"6 pieces, all target muscularis",eso_muscularis
+GTEX-14PHX-0826,Esophagus - Muscularis,GTEX-14PHX,male,50-59,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-14PHY-0726,Esophagus - Muscularis,GTEX-14PHY,female,60-69,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-14PII-1426,Esophagus - Muscularis,GTEX-14PII,male,60-69,Slow death,,"6 pieces, all target muscularis, a few with up to ~1mm ahderent fat",eso_muscularis
+GTEX-14PJ2-2726,Esophagus - Muscularis,GTEX-14PJ2,male,50-59,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-14PJ3-0826,Esophagus - Muscularis,GTEX-14PJ3,male,50-59,Ventilator case,,3 pieces; well trimmed,eso_muscularis
+GTEX-14PJ4-1426,Esophagus - Muscularis,GTEX-14PJ4,male,60-69,Ventilator case,,8 pieces; some pieces are over-sized,eso_muscularis
+GTEX-14PJ5-0626,Esophagus - Muscularis,GTEX-14PJ5,female,60-69,Ventilator case,,"6 pieces, target muscularis",eso_muscularis
+GTEX-14PJ5-5007,Esophagus - Muscularis,GTEX-14PJ5,female,60-69,Ventilator case,,"1 piece, correltates with PFPE",eso_muscularis
+GTEX-14PJ6-1126,Esophagus - Muscularis,GTEX-14PJ6,female,60-69,Ventilator case,clean_specimens,"6 pieces, target muscularis, good specimens",eso_muscularis
+GTEX-14PJM-1626,Esophagus - Muscularis,GTEX-14PJM,female,50-59,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-14PJN-0426,Esophagus - Muscularis,GTEX-14PJN,male,30-39,Ventilator case,,"6 pieces, target muscularis",eso_muscularis
+GTEX-14PJO-1426,Esophagus - Muscularis,GTEX-14PJO,male,60-69,Slow death,,6 pieces; well dissected,eso_muscularis
+GTEX-14PK6-1126,Esophagus - Muscularis,GTEX-14PK6,female,70-79,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-14PKU-0926,Esophagus - Muscularis,GTEX-14PKU,female,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-14PKV-1526,Esophagus - Muscularis,GTEX-14PKV,female,20-29,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-14PN3-1126,Esophagus - Muscularis,GTEX-14PN3,female,60-69,Ventilator case,,4 pieces,eso_muscularis
+GTEX-14PN4-2026,Esophagus - Muscularis,GTEX-14PN4,male,50-59,Fast death - natural causes,,6 pieces; targeted muscularis present; two pieces contain ~5 to 10% external fat (outlined),eso_muscularis
+GTEX-14PQA-2226,Esophagus - Muscularis,GTEX-14PQA,female,50-59,Slow death,,"4 pieces; well trimmed, detached fragment of squamous epithelium",eso_muscularis
+GTEX-14XAO-1426,Esophagus - Muscularis,GTEX-14XAO,female,60-69,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-15CHC-1426,Esophagus - Muscularis,GTEX-15CHC,female,60-69,Ventilator case,,6 pieces with up to 40% submucosal fibrovascular stroma,eso_muscularis
+GTEX-15CHQ-2026,Esophagus - Muscularis,GTEX-15CHQ,male,60-69,Slow death,,6 pieces; well trimmed muscle with 1 submucosal gland [outlined],eso_muscularis
+GTEX-15CHR-0926,Esophagus - Muscularis,GTEX-15CHR,male,50-59,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-15CHS-2426,Esophagus - Muscularis,GTEX-15CHS,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-15D1Q-1926,Esophagus - Muscularis,GTEX-15D1Q,male,40-49,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-15D79-1526,Esophagus - Muscularis,GTEX-15D79,male,50-59,Fast death - natural causes,,6 pieces; well trimmed muscularis,eso_muscularis
+GTEX-15DCD-1726,Esophagus - Muscularis,GTEX-15DCD,female,70-79,Fast death - natural causes,,"6 pieces; target muscularis present, few pieces include portion of larger nerves",eso_muscularis
+GTEX-15DCE-1426,Esophagus - Muscularis,GTEX-15DCE,male,20-29,Ventilator case,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-15DCZ-2526,Esophagus - Muscularis,GTEX-15DCZ,female,20-29,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-15DDE-1426,Esophagus - Muscularis,GTEX-15DDE,female,50-59,Intermediate death,,"6 pieces, target muscularis, trace adherent squamous mucosa (delineated), <5%",eso_muscularis
+GTEX-15DYW-1926,Esophagus - Muscularis,GTEX-15DYW,female,60-69,Fast death - natural causes,,6 pieces; nerves in adventitia of 3 pieces comprise 10% [circled]; well dissected,eso_muscularis
+GTEX-15DZA-0526,Esophagus - Muscularis,GTEX-15DZA,female,30-39,Ventilator case,,6 pieces target muscularis,eso_muscularis
+GTEX-15EO6-1126,Esophagus - Muscularis,GTEX-15EO6,male,50-59,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-15EOM-1926,Esophagus - Muscularis,GTEX-15EOM,female,20-29,Ventilator case,,7 pieces; includes some attached submucosal glands and larger vessels,eso_muscularis
+GTEX-15EOM-5016,Esophagus - Muscularis,GTEX-15EOM,female,20-29,Ventilator case,,1 piece; muscularis,eso_muscularis
+GTEX-15ER7-2226,Esophagus - Muscularis,GTEX-15ER7,female,20-29,Fast death - violent,,6 pieces; well trimmed,eso_muscularis
+GTEX-15ETS-2026,Esophagus - Muscularis,GTEX-15ETS,female,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-15EU6-1526,Esophagus - Muscularis,GTEX-15EU6,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis, adherent fibroadipose nubbins, rep delineated",eso_muscularis
+GTEX-15F5U-0826,Esophagus - Muscularis,GTEX-15F5U,male,40-49,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-15F5U-5007,Esophagus - Muscularis,GTEX-15F5U,male,40-49,Ventilator case,,1 piece; comparable to PAXgene sample,eso_muscularis
+GTEX-15FZZ-1126,Esophagus - Muscularis,GTEX-15FZZ,female,30-39,Ventilator case,,6 pieces; well trimmed except for 2 pieces with 30% submucosa,eso_muscularis
+GTEX-15G19-2026,Esophagus - Muscularis,GTEX-15G19,male,60-69,Fast death - natural causes,,6 pieces; predominantly muscularis with few larger vessels/nerve and focus of submucosal glands,eso_muscularis
+GTEX-15G1A-0526,Esophagus - Muscularis,GTEX-15G1A,male,30-39,Ventilator case,,"4 pieces, confirmed target muscularis",eso_muscularis
+GTEX-15RIE-0726,Esophagus - Muscularis,GTEX-15RIE,male,60-69,Ventilator case,,"6 pieces, muscularis; switched with 0825",eso_muscularis
+GTEX-15RIF-0926,Esophagus - Muscularis,GTEX-15RIF,male,20-29,Ventilator case,,"4 pieces, target mucsuclaris obtained",eso_muscularis
+GTEX-15RJ7-2726,Esophagus - Muscularis,GTEX-15RJ7,male,40-49,Ventilator case,,6 pieces; target muscularis present,eso_muscularis
+GTEX-15RJE-1226,Esophagus - Muscularis,GTEX-15RJE,male,40-49,Slow death,,6 pieces; all contain skeletal muscle [marked] up to 20% of content; samples taken too proximal; LCM,eso_muscularis
+GTEX-15SB6-0826,Esophagus - Muscularis,GTEX-15SB6,female,50-59,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-15SDE-0726,Esophagus - Muscularis,GTEX-15SDE,female,50-59,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-15SHU-1526,Esophagus - Muscularis,GTEX-15SHU,female,40-49,Fast death - natural causes,,6 pieces; 2 of 6 have fibrofatty submucosal stroma,eso_muscularis
+GTEX-15SHV-1126,Esophagus - Muscularis,GTEX-15SHV,male,60-69,Ventilator case,,6 pieces; submucosal stroma on 2 pieces,eso_muscularis
+GTEX-15SHW-1926,Esophagus - Muscularis,GTEX-15SHW,male,60-69,Ventilator case,,6 pieces; muscularis with rare cluster of submucosal glands,eso_muscularis
+GTEX-15SKB-1326,Esophagus - Muscularis,GTEX-15SKB,male,60-69,Ventilator case,,6 pieces confirmed target muscularis,eso_muscularis
+GTEX-15SZO-2326,Esophagus - Muscularis,GTEX-15SZO,male,50-59,Fast death - natural causes,,"6 pieces, unusally advanced autolysis",eso_muscularis
+GTEX-15TU5-1626,Esophagus - Muscularis,GTEX-15TU5,male,60-69,Slow death,,"6 pieces; owing to probability of gastric origin of 1525, 1625 should be regarded as gastric rather than esophageal; therefore not target tissue",eso_muscularis
+GTEX-15UF6-2426,Esophagus - Muscularis,GTEX-15UF6,female,70-79,Slow death,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-15UF7-1026,Esophagus - Muscularis,GTEX-15UF7,male,40-49,Ventilator case,,6 pieces; major admixture of skeletal and smooth muscle indicating sampling of upper esophagus,eso_muscularis
+GTEX-15UKP-2026,Esophagus - Muscularis,GTEX-15UKP,male,20-29,Ventilator case,fibrosis,6 pieces; some residual attached fibrous/vascular tissue,eso_muscularis
+GTEX-169BO-0626,Esophagus - Muscularis,GTEX-169BO,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-16A39-1126,Esophagus - Muscularis,GTEX-16A39,female,30-39,Ventilator case,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-16AAH-0926,Esophagus - Muscularis,GTEX-16AAH,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-16BQI-1626,Esophagus - Muscularis,GTEX-16BQI,female,30-39,Ventilator case,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-16GPK-1626,Esophagus - Muscularis,GTEX-16GPK,male,60-69,Fast death - natural causes,,6 pieces; target muscularis well trimmed,eso_muscularis
+GTEX-16MT8-1426,Esophagus - Muscularis,GTEX-16MT8,female,60-69,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-16MT9-1326,Esophagus - Muscularis,GTEX-16MT9,female,60-69,Ventilator case,,"6 pieces; target muscularis, well trimmed, unusual cylindrical muscle bundles",eso_muscularis
+GTEX-16MTA-0526,Esophagus - Muscularis,GTEX-16MTA,male,50-59,Ventilator case,,"6 pieces; well trimmed, focal collections of lymphocytes",eso_muscularis
+GTEX-16NFA-1226,Esophagus - Muscularis,GTEX-16NFA,male,50-59,Ventilator case,,6 pieces;,eso_muscularis
+GTEX-16NGA-1326,Esophagus - Muscularis,GTEX-16NGA,female,40-49,Ventilator case,,6 pieces; target muscularis with small amounts of attached loose connective tissue,eso_muscularis
+GTEX-16NPV-1526,Esophagus - Muscularis,GTEX-16NPV,female,50-59,Slow death,,6 pieces; well dissected: pure muscle,eso_muscularis
+GTEX-16NPX-1726,Esophagus - Muscularis,GTEX-16NPX,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-16XZY-1126,Esophagus - Muscularis,GTEX-16XZY,male,70-79,Ventilator case,inflammation,"6 pieces; confirmed target muscularis propria, however, one piece contains only small fragment (outlined); fibrofatty tissue (all pieces), up to ~2mm, focal collections of inflammatory cells",eso_muscularis
+GTEX-16XZZ-1926,Esophagus - Muscularis,GTEX-16XZZ,male,60-69,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-16YQH-2026,Esophagus - Muscularis,GTEX-16YQH,male,30-39,Fast death - violent,,6 pieces. confirmed target muscularis,eso_muscularis
+GTEX-16Z82-2026,Esophagus - Muscularis,GTEX-16Z82,male,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-178AV-0926,Esophagus - Muscularis,GTEX-178AV,male,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-17EUY-1326,Esophagus - Muscularis,GTEX-17EUY,male,20-29,Ventilator case,,"6 pieces; target muscularis, one piece with attached fat/vessels, single focus of skeletal muscle fibers",eso_muscularis
+GTEX-17EVP-2126,Esophagus - Muscularis,GTEX-17EVP,male,40-49,Fast death - natural causes,,6 pieces; target muscularis and focus of submucosal glands (labeled),eso_muscularis
+GTEX-17EVQ-2026,Esophagus - Muscularis,GTEX-17EVQ,male,70-79,Fast death - violent,,"6 pieces trace 'contaminant' squamous mcuosa, delineated",eso_muscularis
+GTEX-17F96-2626,Esophagus - Muscularis,GTEX-17F96,male,70-79,Ventilator case,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-17F97-1426,Esophagus - Muscularis,GTEX-17F97,male,50-59,Slow death,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-17F98-1926,Esophagus - Muscularis,GTEX-17F98,female,40-49,Ventilator case,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-17F9E-2126,Esophagus - Muscularis,GTEX-17F9E,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-17F9E-5013,Esophagus - Muscularis,GTEX-17F9E,male,50-59,Ventilator case,,"1 piece, correleates with PFPE aliquot.",eso_muscularis
+GTEX-17F9Y-1826,Esophagus - Muscularis,GTEX-17F9Y,female,70-79,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-17GQL-1126,Esophagus - Muscularis,GTEX-17GQL,male,60-69,Ventilator case,,"6 pieces, mainly muscularis--focal squamous mucosa present",eso_muscularis
+GTEX-17GQL-5013,Esophagus - Muscularis,GTEX-17GQL,male,60-69,Ventilator case,,"1 piece, correlates with PGT aliquot",eso_muscularis
+GTEX-17HG3-0926,Esophagus - Muscularis,GTEX-17HG3,female,30-39,Fast death - natural causes,,6 pieces; skeletal muscle indicating sampling of upper esophagus,eso_muscularis
+GTEX-17HGU-1526,Esophagus - Muscularis,GTEX-17HGU,male,50-59,Ventilator case,,6 pieces; well dissected; lymphoid aggregates around ganglion cells,eso_muscularis
+GTEX-17HHE-0726,Esophagus - Muscularis,GTEX-17HHE,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-17HHY-1726,Esophagus - Muscularis,GTEX-17HHY,male,50-59,Fast death - natural causes,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-17HII-1626,Esophagus - Muscularis,GTEX-17HII,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-17JCI-1326,Esophagus - Muscularis,GTEX-17JCI,female,60-69,Ventilator case,,6 pieces; scattered skeletal muscle fibers in 1 piece [circled] <1%,eso_muscularis
+GTEX-17KNJ-1226,Esophagus - Muscularis,GTEX-17KNJ,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-17MF6-1526,Esophagus - Muscularis,GTEX-17MF6,male,40-49,Fast death - natural causes,congestion,6 pieces; congestion and accentuation of interstitial connective tissue,eso_muscularis
+GTEX-17MFQ-0626,Esophagus - Muscularis,GTEX-17MFQ,male,20-29,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-183FY-1326,Esophagus - Muscularis,GTEX-183FY,male,20-29,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-183WM-1826,Esophagus - Muscularis,GTEX-183WM,female,70-79,Slow death,,"6 pieces, confirmed muscularis",eso_muscularis
+GTEX-18464-1826,Esophagus - Muscularis,GTEX-18464,male,50-59,Slow death,,6 pieces; target muscularis,eso_muscularis
+GTEX-18465-1226,Esophagus - Muscularis,GTEX-18465,male,50-59,Fast death - natural causes,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-18A66-1526,Esophagus - Muscularis,GTEX-18A66,male,60-69,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-18A67-2126,Esophagus - Muscularis,GTEX-18A67,male,50-59,Ventilator case,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-18A6Q-1326,Esophagus - Muscularis,GTEX-18A6Q,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-18A7A-2426,Esophagus - Muscularis,GTEX-18A7A,female,50-59,Fast death - natural causes,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-18A7B-2526,Esophagus - Muscularis,GTEX-18A7B,male,70-79,Intermediate death,,6 pieces; well  trimmed muscle,eso_muscularis
+GTEX-18D9A-0326,Esophagus - Muscularis,GTEX-18D9A,female,30-39,Ventilator case,fibrosis,6 pieces; well trimmed muscle except for 20% fibrous submucosa on 2 pieces,eso_muscularis
+GTEX-18D9B-2126,Esophagus - Muscularis,GTEX-18D9B,male,60-69,Ventilator case,,6 pieces; 1 piece contains 70% adventitial nerves; another piece contains focus of mucosal carry-over,eso_muscularis
+GTEX-18D9U-1726,Esophagus - Muscularis,GTEX-18D9U,male,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-18QFQ-1126,Esophagus - Muscularis,GTEX-18QFQ,male,30-39,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-19HZE-1126,Esophagus - Muscularis,GTEX-19HZE,female,70-79,Intermediate death,,6 pieces; well trimmed,eso_muscularis
+GTEX-1A32A-1926,Esophagus - Muscularis,GTEX-1A32A,female,50-59,Fast death - natural causes,,6 pieces; well trimmed muscularis,eso_muscularis
+GTEX-1A3MV-1526,Esophagus - Muscularis,GTEX-1A3MV,male,30-39,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1A3MW-1726,Esophagus - Muscularis,GTEX-1A3MW,female,60-69,Slow death,,6 pieces; well trimmed muscularis,eso_muscularis
+GTEX-1A3MX-2126,Esophagus - Muscularis,GTEX-1A3MX,male,60-69,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1A8FM-1426,Esophagus - Muscularis,GTEX-1A8FM,female,50-59,Fast death - natural causes,,6 pieces; 3 pieces have 5-10% skeletal muscle admixed (several foci labeled),eso_muscularis
+GTEX-1A8G6-1226,Esophagus - Muscularis,GTEX-1A8G6,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1A8G7-1826,Esophagus - Muscularis,GTEX-1A8G7,male,60-69,Fast death - natural causes,,6 pieces; target muscularis,eso_muscularis
+GTEX-1AMEY-0326,Esophagus - Muscularis,GTEX-1AMEY,female,30-39,Ventilator case,,"6 pieces; well dissected muscle, small amount of adjacent stroma",eso_muscularis
+GTEX-1AMFI-0326,Esophagus - Muscularis,GTEX-1AMFI,female,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1AX8Y-1426,Esophagus - Muscularis,GTEX-1AX8Y,male,40-49,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1AX8Z-1926,Esophagus - Muscularis,GTEX-1AX8Z,male,60-69,Ventilator case,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-1AX9I-1526,Esophagus - Muscularis,GTEX-1AX9I,male,60-69,Fast death - natural causes,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-1AX9J-1926,Esophagus - Muscularis,GTEX-1AX9J,male,60-69,Ventilator case,,"6 pieces, confirmed target muscularis, few peripheral nerve elements noted/encircled",eso_muscularis
+GTEX-1AX9K-1226,Esophagus - Muscularis,GTEX-1AX9K,male,50-59,Ventilator case,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-1AYCT-1526,Esophagus - Muscularis,GTEX-1AYCT,male,50-59,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1AYD5-1026,Esophagus - Muscularis,GTEX-1AYD5,male,50-59,Ventilator case,,"6 pieces; well trimmed, but 3 of 6 include admixture of smooth and skeletal muscle suggesting sampling of upper esophagus",eso_muscularis
+GTEX-1B8KE-1626,Esophagus - Muscularis,GTEX-1B8KE,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis, single mucus gland, delineated.",eso_muscularis
+GTEX-1B8KZ-0826,Esophagus - Muscularis,GTEX-1B8KZ,male,50-59,Ventilator case,,6 pieces; well dissected target muscularis; one piece contains ~20% fibrofatty submucosa,eso_muscularis
+GTEX-1B8L1-1126,Esophagus - Muscularis,GTEX-1B8L1,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1B8SF-1526,Esophagus - Muscularis,GTEX-1B8SF,male,60-69,Fast death - natural causes,,6 pieces; 3 of 6 represent well trimmed muscularis; remaining three pieces are mostly fibrovascular/fat/and nerves with focal residual muscularis on one (arrow),eso_muscularis
+GTEX-1B932-2626,Esophagus - Muscularis,GTEX-1B932,female,40-49,Ventilator case,fibrosis,"6 pieces; target muscularis, but includes significant portion of residual fat/nerve/fibrous tissue and (? detached) small fragment of skeletal muscle (arrow)",eso_muscularis
+GTEX-1B933-1926,Esophagus - Muscularis,GTEX-1B933,female,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1B97I-1026,Esophagus - Muscularis,GTEX-1B97I,male,40-49,Ventilator case,,"6 pieces, few foci of squamous mucosa, confiremd target muscularis. Rep. mucos glands delineated",eso_muscularis
+GTEX-1B97J-0926,Esophagus - Muscularis,GTEX-1B97J,female,50-59,Ventilator case,,"6 pieces, confirmed target muscularis, nubbins of adherent fat/fascia up to ~1.5mm",eso_muscularis
+GTEX-1B98T-1826,Esophagus - Muscularis,GTEX-1B98T,male,60-69,Fast death - natural causes,,"5 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1B996-1626,Esophagus - Muscularis,GTEX-1B996,male,60-69,Fast death - natural causes,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1BAJH-1926,Esophagus - Muscularis,GTEX-1BAJH,male,70-79,Fast death - natural causes,,"6 pieces; well trimmed target muscularis, few tiny fragments of squamous epithelium (typically detached, rep outlined)",eso_muscularis
+GTEX-1C2JI-1226,Esophagus - Muscularis,GTEX-1C2JI,male,50-59,Ventilator case,,6 pieces; target musculairs,eso_muscularis
+GTEX-1C475-0726,Esophagus - Muscularis,GTEX-1C475,female,40-49,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1C4CL-1526,Esophagus - Muscularis,GTEX-1C4CL,male,30-39,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1C64N-1826,Esophagus - Muscularis,GTEX-1C64N,male,50-59,Fast death - natural causes,congestion,6 pieces; target muscularis; congested submucosa on 3 of 6 (arrows),eso_muscularis
+GTEX-1C64O-1926,Esophagus - Muscularis,GTEX-1C64O,male,60-69,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1C6VQ-1926,Esophagus - Muscularis,GTEX-1C6VQ,male,50-59,Fast death - natural causes,,6 pieces; target muscularis,eso_muscularis
+GTEX-1C6VR-0926,Esophagus - Muscularis,GTEX-1C6VR,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1C6VS-1926,Esophagus - Muscularis,GTEX-1C6VS,male,60-69,Fast death - natural causes,,6 pieces;  well dissected target muscularis,eso_muscularis
+GTEX-1C6WA-2126,Esophagus - Muscularis,GTEX-1C6WA,male,60-69,Fast death - natural causes,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1CAMQ-2526,Esophagus - Muscularis,GTEX-1CAMQ,male,40-49,Fast death - natural causes,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1CAMR-0526,Esophagus - Muscularis,GTEX-1CAMR,male,20-29,Ventilator case,,"5 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1CAMS-1526,Esophagus - Muscularis,GTEX-1CAMS,female,40-49,Ventilator case,,"6 pieces; rare crystalline structures in small amount of submucosa, as described in the stomach",eso_muscularis
+GTEX-1CAMS-5016,Esophagus - Muscularis,GTEX-1CAMS,female,40-49,Ventilator case,,1 piece; skeletal muscle with minimal fat content; no sign of crystalline contaminants,eso_muscularis
+GTEX-1CAV2-1126,Esophagus - Muscularis,GTEX-1CAV2,female,40-49,Fast death - natural causes,,"6 pieces; submucosal fibrovascular tissue in all, up to 3.5 mm across, 1 with submucosal glands [labeled]",eso_muscularis
+GTEX-1CB4E-1126,Esophagus - Muscularis,GTEX-1CB4E,male,60-69,Ventilator case,,"6 pieces; 2 pieces have 4 foci of vegetable material, ~0.2mm, embedded in submucosa [labeled] consistent with carry-over as they are not present in submucosa of 1025",eso_muscularis
+GTEX-1CB4F-1426,Esophagus - Muscularis,GTEX-1CB4F,male,60-69,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1CB4G-1426,Esophagus - Muscularis,GTEX-1CB4G,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1CB4H-1626,Esophagus - Muscularis,GTEX-1CB4H,female,60-69,Slow death,,6 pieces; well dissected muscle with minimal submucosa,eso_muscularis
+GTEX-1CB4I-1126,Esophagus - Muscularis,GTEX-1CB4I,male,50-59,Ventilator case,,6 pieces; 20% admixture with skeletal muscle; up to 30% fibrovascular and fatty content in submucosal portion,eso_muscularis
+GTEX-1CB4J-2226,Esophagus - Muscularis,GTEX-1CB4J,male,60-69,Intermediate death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1E1VI-1626,Esophagus - Muscularis,GTEX-1E1VI,male,50-59,Fast death - natural causes,,6 pieces; target muscularis,eso_muscularis
+GTEX-1E2YA-1826,Esophagus - Muscularis,GTEX-1E2YA,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1EH9U-2526,Esophagus - Muscularis,GTEX-1EH9U,male,60-69,Slow death,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-1EKGG-1526,Esophagus - Muscularis,GTEX-1EKGG,male,60-69,Fast death - natural causes,,6 pieces; 3 of 6 include a significant portion of skeletal muscle admixed with smooth muscle indicating sampling too high,eso_muscularis
+GTEX-1EMGI-2126,Esophagus - Muscularis,GTEX-1EMGI,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1EN7A-1326,Esophagus - Muscularis,GTEX-1EN7A,male,40-49,Fast death - natural causes,,"6 pieces; small surface deposits of sloughed squamous epithelial cells on all pieces (carry-over), [labeled]; otherwise well trimmed muscle",eso_muscularis
+GTEX-1EU9M-2426,Esophagus - Muscularis,GTEX-1EU9M,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis.",eso_muscularis
+GTEX-1EWIQ-1626,Esophagus - Muscularis,GTEX-1EWIQ,female,70-79,Fast death - natural causes,,"6 pieces; target muscularis, small amount of residual attached fat/nerve",eso_muscularis
+GTEX-1EX96-2126,Esophagus - Muscularis,GTEX-1EX96,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1F48J-1626,Esophagus - Muscularis,GTEX-1F48J,female,50-59,Slow death,,6 pieces; well dissected,eso_muscularis
+GTEX-1F52S-1526,Esophagus - Muscularis,GTEX-1F52S,female,60-69,Slow death,,6 pieces; well trimmed muscle,eso_muscularis
+GTEX-1F5PK-1626,Esophagus - Muscularis,GTEX-1F5PK,male,50-59,Ventilator case,,"6 pieces; 2 pieces are pure muscularis, 4 have 100%, 80%, 70% & 20% submucosal stroma; 1 has 1 mm squamous carry-over",eso_muscularis
+GTEX-1F5PL-1126,Esophagus - Muscularis,GTEX-1F5PL,female,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1F6I4-2226,Esophagus - Muscularis,GTEX-1F6I4,male,60-69,Fast death - natural causes,,6 pieces; mostly target muscularis with small portions of residual attached fat/vessels/nerve/submucosal glands,eso_muscularis
+GTEX-1F6IF-2126,Esophagus - Muscularis,GTEX-1F6IF,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis; trace 'contaminant' squamous mucosa, delineated",eso_muscularis
+GTEX-1F6RS-1526,Esophagus - Muscularis,GTEX-1F6RS,female,60-69,Slow death,,6  pieces; muscle fibers fragmented; well dissected,eso_muscularis
+GTEX-1F75A-1326,Esophagus - Muscularis,GTEX-1F75A,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1F75B-2026,Esophagus - Muscularis,GTEX-1F75B,male,50-59,Slow death,fibrosis,6 pieces; target muscularis; 3 pieces with attached residual loose fibrous tissue (outlined),eso_muscularis
+GTEX-1F75I-1626,Esophagus - Muscularis,GTEX-1F75I,male,40-49,Ventilator case,,"6 pieces, well trimmed target muscularis",eso_muscularis
+GTEX-1F75W-2026,Esophagus - Muscularis,GTEX-1F75W,male,60-69,Fast death - natural causes,,6 pieces; well dissected muscularis in general,eso_muscularis
+GTEX-1F7RK-1626,Esophagus - Muscularis,GTEX-1F7RK,female,20-29,Fast death - violent,,6 pieces; target muscularis,eso_muscularis
+GTEX-1F88E-1326,Esophagus - Muscularis,GTEX-1F88E,female,60-69,Slow death,,"6 pieces, all target muscularis.  (Switch with -1425)",eso_muscularis
+GTEX-1F88F-1026,Esophagus - Muscularis,GTEX-1F88F,female,60-69,Fast death - natural causes,,6 pieces; up to 50% admixed skeletal muscle,eso_muscularis
+GTEX-1FIGZ-0526,Esophagus - Muscularis,GTEX-1FIGZ,male,40-49,Ventilator case,,6 pieces; target muscularis with some attached fat/vessels/nerve,eso_muscularis
+GTEX-1GF9U-0926,Esophagus - Muscularis,GTEX-1GF9U,female,40-49,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1GF9V-2126,Esophagus - Muscularis,GTEX-1GF9V,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1GF9W-1626,Esophagus - Muscularis,GTEX-1GF9W,male,60-69,Intermediate death,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1GF9X-0726,Esophagus - Muscularis,GTEX-1GF9X,female,40-49,Ventilator case,,"4 small pieces, 2 are muscle, 2 are fat",eso_muscularis
+GTEX-1GL5R-1426,Esophagus - Muscularis,GTEX-1GL5R,male,50-59,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1GMR2-1626,Esophagus - Muscularis,GTEX-1GMR2,male,50-59,Ventilator case,,6 pieces; muscularis propria,eso_muscularis
+GTEX-1GMR3-1426,Esophagus - Muscularis,GTEX-1GMR3,male,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1GMR8-2026,Esophagus - Muscularis,GTEX-1GMR8,female,50-59,Intermediate death,,6 pieces; well trimmed muscularis,eso_muscularis
+GTEX-1GMRU-1826,Esophagus - Muscularis,GTEX-1GMRU,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1GN1U-1926,Esophagus - Muscularis,GTEX-1GN1U,female,50-59,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1GN1V-2126,Esophagus - Muscularis,GTEX-1GN1V,male,60-69,Fast death - natural causes,,6 pieces; muscularis,eso_muscularis
+GTEX-1GN1W-2326,Esophagus - Muscularis,GTEX-1GN1W,female,50-59,Ventilator case,,6 pieces; well dissected muscularis propria,eso_muscularis
+GTEX-1GN2E-1626,Esophagus - Muscularis,GTEX-1GN2E,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1GN73-2026,Esophagus - Muscularis,GTEX-1GN73,male,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-1GPI7-1126,Esophagus - Muscularis,GTEX-1GPI7,male,20-29,Ventilator case,,6 pieces; submucosa,eso_muscularis
+GTEX-1GTWX-1426,Esophagus - Muscularis,GTEX-1GTWX,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1GZ2Q-2126,Esophagus - Muscularis,GTEX-1GZ2Q,male,40-49,Fast death - natural causes,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1GZ4I-1426,Esophagus - Muscularis,GTEX-1GZ4I,male,50-59,Fast death - natural causes,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1GZHY-1826,Esophagus - Muscularis,GTEX-1GZHY,female,50-59,Fast death - violent,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1H11D-1926,Esophagus - Muscularis,GTEX-1H11D,male,40-49,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1H1CY-1426,Esophagus - Muscularis,GTEX-1H1CY,female,60-69,Fast death - natural causes,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1H1DE-0926,Esophagus - Muscularis,GTEX-1H1DE,male,20-29,Ventilator case,,"6 pieces, confirmed target muscularis; trace 'contaminant squamous mcuosa, ~5-10% total, rep delineated",eso_muscularis
+GTEX-1H1DF-1826,Esophagus - Muscularis,GTEX-1H1DF,female,40-49,Fast death - natural causes,,6 pieces; well dissected; not so well preserved,eso_muscularis
+GTEX-1H1DG-1326,Esophagus - Muscularis,GTEX-1H1DG,male,70-79,Ventilator case,,"6 pieces, confirmed target muscularis; minute focus of trace squamous mucosa, delineated",eso_muscularis
+GTEX-1H1E6-1326,Esophagus - Muscularis,GTEX-1H1E6,male,30-39,Ventilator case,"hemorrhage, inflammation",6 pieces; target muscularis with focal acute inflammation and hemorrhage within adventitia,eso_muscularis
+GTEX-1H1ZS-1626,Esophagus - Muscularis,GTEX-1H1ZS,male,70-79,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1H23P-1526,Esophagus - Muscularis,GTEX-1H23P,male,60-69,Slow death,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1H2FU-1626,Esophagus - Muscularis,GTEX-1H2FU,female,60-69,Slow death,,6 pieces; target muscularis,eso_muscularis
+GTEX-1H3NZ-1426,Esophagus - Muscularis,GTEX-1H3NZ,male,60-69,Slow death,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1H3VE-1326,Esophagus - Muscularis,GTEX-1H3VE,male,40-49,Slow death,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1H3VY-2126,Esophagus - Muscularis,GTEX-1H3VY,male,50-59,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1H4P4-0926,Esophagus - Muscularis,GTEX-1H4P4,male,50-59,Fast death - natural causes,,"6 pieces; predominantly target muscularis, small amount of residual fat/vessels and detached squamous epithelial cells",eso_muscularis
+GTEX-1HB9E-1626,Esophagus - Muscularis,GTEX-1HB9E,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1HBPH-1226,Esophagus - Muscularis,GTEX-1HBPH,female,40-49,Slow death,,6 pieces; well dissected,eso_muscularis
+GTEX-1HBPI-0426,Esophagus - Muscularis,GTEX-1HBPI,male,50-59,Fast death - natural causes,,6 pieces; 3 pieces have up to 40% skeletal muscle admixed,eso_muscularis
+GTEX-1HBPM-1526,Esophagus - Muscularis,GTEX-1HBPM,female,60-69,Slow death,,6 pieces; target musculairs,eso_muscularis
+GTEX-1HBPN-1426,Esophagus - Muscularis,GTEX-1HBPN,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1HC8U-1626,Esophagus - Muscularis,GTEX-1HC8U,female,40-49,Ventilator case,fibrosis,"6 pieces, 1 is all fibrovascular tissue; others have up to 10% fibrous content",eso_muscularis
+GTEX-1HCU6-1426,Esophagus - Muscularis,GTEX-1HCU6,female,60-69,Fast death - natural causes,fibrosis,6 pieces; 30% fibrous stroma on 2 pieces,eso_muscularis
+GTEX-1HCU7-2226,Esophagus - Muscularis,GTEX-1HCU7,male,50-59,Ventilator case,,6 pieces; well dissected; large adventitial artery in 1 piece (arrowed),eso_muscularis
+GTEX-1HCU8-2326,Esophagus - Muscularis,GTEX-1HCU8,female,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1HCU9-0926,Esophagus - Muscularis,GTEX-1HCU9,male,20-29,Ventilator case,,6 pieces; well dissected with small foci of submucosal stroma,eso_muscularis
+GTEX-1HCUA-1526,Esophagus - Muscularis,GTEX-1HCUA,female,50-59,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1HCVE-1326,Esophagus - Muscularis,GTEX-1HCVE,male,50-59,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1HFI6-1126,Esophagus - Muscularis,GTEX-1HFI6,male,40-49,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1HFI7-1326,Esophagus - Muscularis,GTEX-1HFI7,female,50-59,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1HGF4-0826,Esophagus - Muscularis,GTEX-1HGF4,male,60-69,Fast death - natural causes,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1HKZK-1326,Esophagus - Muscularis,GTEX-1HKZK,male,40-49,Ventilator case,,"6 pieces; target muscularis, attached vessels/fat",eso_muscularis
+GTEX-1HR98-1226,Esophagus - Muscularis,GTEX-1HR98,male,60-69,Slow death,,6 pieces; well dissected muscle,eso_muscularis
+GTEX-1HR9M-1226,Esophagus - Muscularis,GTEX-1HR9M,male,60-69,Slow death,fibrosis,6 pieces; foci of interstitial fibrosis [labeled] consistent with scleroderma,eso_muscularis
+GTEX-1HSEH-1226,Esophagus - Muscularis,GTEX-1HSEH,male,60-69,Ventilator case,,"6 pieces, confirmed target muscularis, adherent tags of fibroadipose tissue up to ~1mm",eso_muscularis
+GTEX-1HSGN-1726,Esophagus - Muscularis,GTEX-1HSGN,female,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1HSKV-2626,Esophagus - Muscularis,GTEX-1HSKV,male,60-69,Fast death - natural causes,,6 pieces; 3 of 6 include strips of mucosa and clusters of submucosal glands,eso_muscularis
+GTEX-1HSMO-1926,Esophagus - Muscularis,GTEX-1HSMO,male,60-69,Intermediate death,,6 pieces; submucosal and adventitial stroma account for up to 30% content,eso_muscularis
+GTEX-1HSMP-1626,Esophagus - Muscularis,GTEX-1HSMP,male,70-79,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1HSMQ-2126,Esophagus - Muscularis,GTEX-1HSMQ,male,50-59,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1HT8W-2026,Esophagus - Muscularis,GTEX-1HT8W,male,30-39,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1HUB1-2326,Esophagus - Muscularis,GTEX-1HUB1,male,60-69,Ventilator case,hypereosinophilia,"6 pieces; half show eosinophilic edge artifact: drying, stabilizer before fixative?",eso_muscularis
+GTEX-1I19N-1426,Esophagus - Muscularis,GTEX-1I19N,male,70-79,Slow death,,6 pieces; mild to moderate autolysis; well trimmed target muscularis,eso_muscularis
+GTEX-1I1CD-1826,Esophagus - Muscularis,GTEX-1I1CD,female,60-69,Slow death,,6 pieces; target muscularis,eso_muscularis
+GTEX-1I1GP-1126,Esophagus - Muscularis,GTEX-1I1GP,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis.  Incidental ~1.5mm mucus gland, delineated",eso_muscularis
+GTEX-1I1GQ-1826,Esophagus - Muscularis,GTEX-1I1GQ,male,50-59,Fast death - natural causes,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1I1GR-1426,Esophagus - Muscularis,GTEX-1I1GR,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1I1GS-2226,Esophagus - Muscularis,GTEX-1I1GS,male,60-69,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1I1GT-1526,Esophagus - Muscularis,GTEX-1I1GT,female,60-69,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1I1GU-1326,Esophagus - Muscularis,GTEX-1I1GU,male,40-49,Ventilator case,,6 pieces; well dissected muscle with thin [0.6mm] layer of submucosal stroma,eso_muscularis
+GTEX-1I1GV-2026,Esophagus - Muscularis,GTEX-1I1GV,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis; myenteric plexus ganglion cells well-seen; rep encircled",eso_muscularis
+GTEX-1I1HK-1626,Esophagus - Muscularis,GTEX-1I1HK,male,60-69,Intermediate death,,6 pieces; target muscularis,eso_muscularis
+GTEX-1I4MK-0526,Esophagus - Muscularis,GTEX-1I4MK,female,50-59,Ventilator case,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1I6K6-1326,Esophagus - Muscularis,GTEX-1I6K6,male,30-39,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1I6K6-5013,Esophagus - Muscularis,GTEX-1I6K6,male,30-39,Ventilator case,,1 piece,eso_muscularis
+GTEX-1I6K7-1526,Esophagus - Muscularis,GTEX-1I6K7,male,40-49,Ventilator case,,6 pieces; well dissected except for 2 small squamous remnants up to 1 mm [labeled],eso_muscularis
+GTEX-1ICG6-2026,Esophagus - Muscularis,GTEX-1ICG6,female,70-79,Ventilator case,,6 pieces; muscle with small amount of submucosa,eso_muscularis
+GTEX-1ICG6-5013,Esophagus - Muscularis,GTEX-1ICG6,female,70-79,Ventilator case,,1 piece; 20% fatty stroma at 1 edge,eso_muscularis
+GTEX-1ICLY-2226,Esophagus - Muscularis,GTEX-1ICLY,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis6",eso_muscularis
+GTEX-1ICLZ-1426,Esophagus - Muscularis,GTEX-1ICLZ,male,60-69,Intermediate death,,6 pieces; well dissected muscle layer,eso_muscularis
+GTEX-1IDFM-1226,Esophagus - Muscularis,GTEX-1IDFM,male,60-69,Slow death,,"6 pieces; target muscularis, few with small attachment of fat/nerve",eso_muscularis
+GTEX-1IDJC-0726,Esophagus - Muscularis,GTEX-1IDJC,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1IDJD-1726,Esophagus - Muscularis,GTEX-1IDJD,male,30-39,Ventilator case,,6 pieces; target muscularis with attached serosa up to 3.5mm,eso_muscularis
+GTEX-1IDJD-5016,Esophagus - Muscularis,GTEX-1IDJD,male,30-39,Ventilator case,,1 piece,eso_muscularis
+GTEX-1IDJE-0726,Esophagus - Muscularis,GTEX-1IDJE,female,50-59,Ventilator case,,6 pieces; trachea sampled,eso_muscularis
+GTEX-1IDJF-1326,Esophagus - Muscularis,GTEX-1IDJF,male,20-29,Ventilator case,,6 pieces; well trimmed muscularis,eso_muscularis
+GTEX-1IDJH-1926,Esophagus - Muscularis,GTEX-1IDJH,male,70-79,Fast death - violent,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1IDJI-1626,Esophagus - Muscularis,GTEX-1IDJI,female,50-59,Ventilator case,,"6 pieces; target muscularis, two small fragments of residual mucosa",eso_muscularis
+GTEX-1IDJU-1226,Esophagus - Muscularis,GTEX-1IDJU,female,60-69,Ventilator case,,6 pieces; well trimmed muscularis,eso_muscularis
+GTEX-1IDJV-1426,Esophagus - Muscularis,GTEX-1IDJV,male,60-69,Intermediate death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1IE54-1926,Esophagus - Muscularis,GTEX-1IE54,female,40-49,Ventilator case,,6 pieces; muscularis,eso_muscularis
+GTEX-1IGQW-1426,Esophagus - Muscularis,GTEX-1IGQW,male,60-69,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1IKJJ-1326,Esophagus - Muscularis,GTEX-1IKJJ,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis.",eso_muscularis
+GTEX-1IKK5-1226,Esophagus - Muscularis,GTEX-1IKK5,male,60-69,Fast death - natural causes,,6 pieces; admixture with skeletal muscle [outlined]; specimen taken too proximally,eso_muscularis
+GTEX-1IKOE-1626,Esophagus - Muscularis,GTEX-1IKOE,female,30-39,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1IKOH-1726,Esophagus - Muscularis,GTEX-1IKOH,female,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1IL2U-1526,Esophagus - Muscularis,GTEX-1IL2U,male,60-69,Fast death - natural causes,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1IL2V-2226,Esophagus - Muscularis,GTEX-1IL2V,male,70-79,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1IOXB-1826,Esophagus - Muscularis,GTEX-1IOXB,male,50-59,Fast death - natural causes,,6 pieces; 1 piece has 25% submucosal fat; well preserved ganglion cells,eso_muscularis
+GTEX-1IY9M-1726,Esophagus - Muscularis,GTEX-1IY9M,male,60-69,Fast death - violent,,"6 pieces; muscularis, well trimmed",eso_muscularis
+GTEX-1J1OQ-2426,Esophagus - Muscularis,GTEX-1J1OQ,female,40-49,Slow death,,"6 pieces, confirmed target musculairs",eso_muscularis
+GTEX-1J1R8-0426,Esophagus - Muscularis,GTEX-1J1R8,male,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1J8EW-1226,Esophagus - Muscularis,GTEX-1J8EW,female,60-69,Fast death - natural causes,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1J8JJ-1526,Esophagus - Muscularis,GTEX-1J8JJ,female,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1J8Q2-1726,Esophagus - Muscularis,GTEX-1J8Q2,male,60-69,Intermediate death,,6 pieces; target muscularis with some residual adventitia,eso_muscularis
+GTEX-1J8Q3-2026,Esophagus - Muscularis,GTEX-1J8Q3,male,60-69,Ventilator case,,6 pieces; well dissected,eso_muscularis
+GTEX-1J8QM-1726,Esophagus - Muscularis,GTEX-1J8QM,female,60-69,Ventilator case,,6 pieces; well trimmed  target muscularis,eso_muscularis
+GTEX-1JJ6O-1426,Esophagus - Muscularis,GTEX-1JJ6O,male,60-69,Slow death,,6 pieces; muscularis,eso_muscularis
+GTEX-1JJE9-1626,Esophagus - Muscularis,GTEX-1JJE9,male,70-79,Intermediate death,,6 pieces; well dissected except for up to 1.3mm submucosal stroma,eso_muscularis
+GTEX-1JJEA-2226,Esophagus - Muscularis,GTEX-1JJEA,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1JK1U-1926,Esophagus - Muscularis,GTEX-1JK1U,male,60-69,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1JK1U-5013,Esophagus - Muscularis,GTEX-1JK1U,male,60-69,Ventilator case,,1 piece; correlates with PFPE sections,eso_muscularis
+GTEX-1JKYN-1426,Esophagus - Muscularis,GTEX-1JKYN,male,30-39,Ventilator case,,6 pieces; includes major admixture of smooth and skeletal muscle indicating sampling of upper esophagus,eso_muscularis
+GTEX-1JKYR-1426,Esophagus - Muscularis,GTEX-1JKYR,male,20-29,Ventilator case,,6 pieces; all with both mucosa & muscularis propria,eso_muscularis
+GTEX-1JMLX-2126,Esophagus - Muscularis,GTEX-1JMLX,male,50-59,Fast death - natural causes,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1JMOU-2326,Esophagus - Muscularis,GTEX-1JMOU,female,60-69,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1JMPY-0626,Esophagus - Muscularis,GTEX-1JMPY,male,30-39,Ventilator case,,6 pieces; muscularis with significant admixture of smooth and skeletal muscle suggesting sampling of upper esophagus,eso_muscularis
+GTEX-1JMPZ-1926,Esophagus - Muscularis,GTEX-1JMPZ,male,30-39,Slow death,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1JMQI-0826,Esophagus - Muscularis,GTEX-1JMQI,male,50-59,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1JMQJ-1026,Esophagus - Muscularis,GTEX-1JMQJ,male,50-59,Fast death - natural causes,,6 pieces; target muscularis,eso_muscularis
+GTEX-1JMQK-1826,Esophagus - Muscularis,GTEX-1JMQK,male,60-69,Ventilator case,,6 pieces; well dissected but not well preserved,eso_muscularis
+GTEX-1JMQL-1426,Esophagus - Muscularis,GTEX-1JMQL,female,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1JN1M-2026,Esophagus - Muscularis,GTEX-1JN1M,female,60-69,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1JN6P-2326,Esophagus - Muscularis,GTEX-1JN6P,male,60-69,Ventilator case,,"6 pieces; well dissected muscularis, but not well preserved",eso_muscularis
+GTEX-1K2DA-0726,Esophagus - Muscularis,GTEX-1K2DA,male,50-59,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1K2DU-1626,Esophagus - Muscularis,GTEX-1K2DU,male,20-29,Ventilator case,,"2 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1K9T9-2126,Esophagus - Muscularis,GTEX-1K9T9,female,50-59,Ventilator case,,"6 pieces, conifrmed target muscularis",eso_muscularis
+GTEX-1KAFJ-0526,Esophagus - Muscularis,GTEX-1KAFJ,male,50-59,Intermediate death,,6 pieces; up to 20% external fibrofatty content,eso_muscularis
+GTEX-1KAFJ-5004,Esophagus - Muscularis,GTEX-1KAFJ,male,50-59,Intermediate death,,"1 piece; prostate sampled, not esophagus muscularis",eso_muscularis
+GTEX-1KANA-0526,Esophagus - Muscularis,GTEX-1KANA,male,20-29,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1KANB-1926,Esophagus - Muscularis,GTEX-1KANB,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1KD4Q-1226,Esophagus - Muscularis,GTEX-1KD4Q,male,40-49,Fast death - natural causes,,6 pieces; well dissected generally,eso_muscularis
+GTEX-1KWVE-1826,Esophagus - Muscularis,GTEX-1KWVE,male,30-39,Fast death - violent,fibrosis,6 pieces; up to 40% fibrous and fatty content,eso_muscularis
+GTEX-1KXAM-0626,Esophagus - Muscularis,GTEX-1KXAM,male,60-69,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1L5NE-1326,Esophagus - Muscularis,GTEX-1L5NE,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1LB8K-1426,Esophagus - Muscularis,GTEX-1LB8K,male,50-59,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-1LBAC-1326,Esophagus - Muscularis,GTEX-1LBAC,male,20-29,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1LC46-0726,Esophagus - Muscularis,GTEX-1LC46,male,30-39,Ventilator case,"esophagitis, hyperplasia","6 pieces; mucosa, not muscularis, squamous hyperplasia and intraepithelial eosinophils and lymphocytes consistent with reflux",eso_muscularis
+GTEX-1LC47-1926,Esophagus - Muscularis,GTEX-1LC47,male,60-69,Intermediate death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1LG7Y-1826,Esophagus - Muscularis,GTEX-1LG7Y,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1LG7Z-1026,Esophagus - Muscularis,GTEX-1LG7Z,male,30-39,Ventilator case,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1LGOU-0626,Esophagus - Muscularis,GTEX-1LGOU,female,20-29,Ventilator case,,,eso_muscularis
+GTEX-1LGRB-1326,Esophagus - Muscularis,GTEX-1LGRB,female,50-59,Ventilator case,,"6 pieces; admixture of skeletal and smooth muscle suggesting sampling of upper esophagus, few clusters of submucosal glands",eso_muscularis
+GTEX-1LH75-0826,Esophagus - Muscularis,GTEX-1LH75,female,50-59,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1LKK1-1226,Esophagus - Muscularis,GTEX-1LKK1,female,50-59,Slow death,,"6 pieces, unusually advanced autolysis",eso_muscularis
+GTEX-1LNCM-0726,Esophagus - Muscularis,GTEX-1LNCM,female,50-59,Ventilator case,,6 pieces,eso_muscularis
+GTEX-1LSNL-2126,Esophagus - Muscularis,GTEX-1LSNL,male,50-59,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1LSNM-1226,Esophagus - Muscularis,GTEX-1LSNM,male,50-59,Ventilator case,,"6 pieces; mucosa, not muscularis",eso_muscularis
+GTEX-1LSVX-1126,Esophagus - Muscularis,GTEX-1LSVX,male,60-69,Slow death,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1LVA9-2226,Esophagus - Muscularis,GTEX-1LVA9,male,50-59,Fast death - natural causes,,6 pieces; target muscularis,eso_muscularis
+GTEX-1LVAM-1226,Esophagus - Muscularis,GTEX-1LVAM,female,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1LVAN-2026,Esophagus - Muscularis,GTEX-1LVAN,female,50-59,Ventilator case,,6 pieces; well dissected muscularis propria,eso_muscularis
+GTEX-1LVAO-2226,Esophagus - Muscularis,GTEX-1LVAO,male,60-69,Slow death,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1M4P7-1726,Esophagus - Muscularis,GTEX-1M4P7,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1M5QR-0626,Esophagus - Muscularis,GTEX-1M5QR,male,40-49,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1MA7W-0326,Esophagus - Muscularis,GTEX-1MA7W,female,20-29,Ventilator case,,"6 pieces, confirmed target muscularis; incidental mucus gland delineated",eso_muscularis
+GTEX-1MA7X-0826,Esophagus - Muscularis,GTEX-1MA7X,male,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-1MCC2-2026,Esophagus - Muscularis,GTEX-1MCC2,female,30-39,Ventilator case,,6 pieces; target muscularis with attached rim of serosa,eso_muscularis
+GTEX-1MCQQ-1126,Esophagus - Muscularis,GTEX-1MCQQ,male,60-69,Intermediate death,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1MCYP-0826,Esophagus - Muscularis,GTEX-1MCYP,female,20-29,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1MGNQ-1726,Esophagus - Muscularis,GTEX-1MGNQ,male,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1MJIX-0926,Esophagus - Muscularis,GTEX-1MJIX,male,40-49,Ventilator case,,"6 pieces; predominantly muscularis, some residual submucosa/fat",eso_muscularis
+GTEX-1MJK2-2426,Esophagus - Muscularis,GTEX-1MJK2,male,50-59,Fast death - natural causes,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1MJK3-1326,Esophagus - Muscularis,GTEX-1MJK3,male,20-29,Ventilator case,,6 pieces; foci of squamous epithelium and glandular carry-over [labeled] <5% area,eso_muscularis
+GTEX-1MUQO-1626,Esophagus - Muscularis,GTEX-1MUQO,male,60-69,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1N2DV-2126,Esophagus - Muscularis,GTEX-1N2DV,male,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1N2DW-1526,Esophagus - Muscularis,GTEX-1N2DW,male,50-59,Fast death - natural causes,hemorrhage,"6 pieces; target muscularis and small amounts of attached serosa, focally hemorrhagic with hemosiderinophages  (arrows)",eso_muscularis
+GTEX-1N2EE-2326,Esophagus - Muscularis,GTEX-1N2EE,male,60-69,Fast death - violent,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1N2EF-2426,Esophagus - Muscularis,GTEX-1N2EF,male,60-69,Intermediate death,,6 pieces; submucosal remnant [20%] on 1 piece,eso_muscularis
+GTEX-1N5O9-2026,Esophagus - Muscularis,GTEX-1N5O9,male,60-69,Fast death - natural causes,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1N7R6-1126,Esophagus - Muscularis,GTEX-1N7R6,female,20-29,Slow death,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1NHNU-1826,Esophagus - Muscularis,GTEX-1NHNU,male,50-59,Ventilator case,fibrosis,6 pieces; well dissected muscularis except for a 50% fibrous submucosa in 1 piece,eso_muscularis
+GTEX-1NSGN-2226,Esophagus - Muscularis,GTEX-1NSGN,male,50-59,Ventilator case,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1NT2E-1526,Esophagus - Muscularis,GTEX-1NT2E,female,40-49,Ventilator case,,,eso_muscularis
+GTEX-1NUQO-1226,Esophagus - Muscularis,GTEX-1NUQO,female,20-29,Ventilator case,,6 pieces; target muscularis persent,eso_muscularis
+GTEX-1NV5F-2626,Esophagus - Muscularis,GTEX-1NV5F,female,60-69,Slow death,,6 pieces; well dissected muscularis propria,eso_muscularis
+GTEX-1NV88-2626,Esophagus - Muscularis,GTEX-1NV88,male,50-59,Slow death,,,eso_muscularis
+GTEX-1NV8Z-1426,Esophagus - Muscularis,GTEX-1NV8Z,male,60-69,Fast death - natural causes,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1O97I-1226,Esophagus - Muscularis,GTEX-1O97I,male,60-69,Intermediate death,,4 pieces; 2 contain 50% fibrofatty stroma,eso_muscularis
+GTEX-1O9I2-1826,Esophagus - Muscularis,GTEX-1O9I2,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1OFPY-1426,Esophagus - Muscularis,GTEX-1OFPY,male,60-69,Ventilator case,,6 pieces; 5-20% stromal content,eso_muscularis
+GTEX-1OJC3-0926,Esophagus - Muscularis,GTEX-1OJC3,male,20-29,Ventilator case,,6 piece; essentially well trimmed with a narrow  rim of serosa (arrows),eso_muscularis
+GTEX-1OJC4-1426,Esophagus - Muscularis,GTEX-1OJC4,female,50-59,Fast death - natural causes,,"6 pieces; some represent denuded mucosa, some muscularis",eso_muscularis
+GTEX-1OKEX-1426,Esophagus - Muscularis,GTEX-1OKEX,male,60-69,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1OZHM-2926,Esophagus - Muscularis,GTEX-1OZHM,male,40-49,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1P4AB-2226,Esophagus - Muscularis,GTEX-1P4AB,male,50-59,Slow death,,6 pieces; well dissected,eso_muscularis
+GTEX-1PAR6-0926,Esophagus - Muscularis,GTEX-1PAR6,female,30-39,Ventilator case,,,eso_muscularis
+GTEX-1PBJI-1626,Esophagus - Muscularis,GTEX-1PBJI,female,20-29,Fast death - violent,,"6 pieces, confirmed target muscularis; adherent serosa/fat up to ~1mm, rep delineated",eso_muscularis
+GTEX-1PBJJ-1826,Esophagus - Muscularis,GTEX-1PBJJ,male,30-39,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1PDJ9-1726,Esophagus - Muscularis,GTEX-1PDJ9,male,20-29,Ventilator case,,6 pieces; well dissected muscle with slight stromal content,eso_muscularis
+GTEX-1PFEY-0926,Esophagus - Muscularis,GTEX-1PFEY,male,30-39,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1PIEJ-1326,Esophagus - Muscularis,GTEX-1PIEJ,female,20-29,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1PIGE-1026,Esophagus - Muscularis,GTEX-1PIGE,male,20-29,Ventilator case,,6 pieces; well dissected; no lesions,eso_muscularis
+GTEX-1PIIG-0926,Esophagus - Muscularis,GTEX-1PIIG,male,30-39,Ventilator case,,6 pieces; target muscularis and adherent serosa,eso_muscularis
+GTEX-1POEN-1426,Esophagus - Muscularis,GTEX-1POEN,female,30-39,Fast death - violent,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1PPGY-1326,Esophagus - Muscularis,GTEX-1PPGY,male,60-69,Fast death - natural causes,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1PPH6-1526,Esophagus - Muscularis,GTEX-1PPH6,female,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_muscularis
+GTEX-1PPH7-1326,Esophagus - Muscularis,GTEX-1PPH7,male,40-49,Ventilator case,,4 pieces; high stromal content [up to 50%],eso_muscularis
+GTEX-1PPH8-1826,Esophagus - Muscularis,GTEX-1PPH8,male,20-29,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1PWST-1826,Esophagus - Muscularis,GTEX-1PWST,male,70-79,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1QAET-1426,Esophagus - Muscularis,GTEX-1QAET,male,50-59,Ventilator case,,"6 pieces; well dissected muscularis propria; several very small foci of skeletal muscle up to 0.05mmsq in 3 pieces [labeled], <1% area",eso_muscularis
+GTEX-1QCLY-1426,Esophagus - Muscularis,GTEX-1QCLY,male,30-39,Ventilator case,,"6 pieces, confirmed target muscularis; few adherent nubbins of serosal fat, delineated, ~1-2mm",eso_muscularis
+GTEX-1QCLZ-1726,Esophagus - Muscularis,GTEX-1QCLZ,female,60-69,Ventilator case,,6 pieces; target muscularis and fibrovascular tissue of submucosa (arrows),eso_muscularis
+GTEX-1QEPI-1926,Esophagus - Muscularis,GTEX-1QEPI,female,60-69,Intermediate death,,6 pieces; well dissected,eso_muscularis
+GTEX-1QL29-1726,Esophagus - Muscularis,GTEX-1QL29,male,40-49,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1QMI2-2326,Esophagus - Muscularis,GTEX-1QMI2,male,60-69,Fast death - natural causes,,6 pieces; confirmed target muscularis,eso_muscularis
+GTEX-1QP28-1926,Esophagus - Muscularis,GTEX-1QP28,female,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1QP29-2026,Esophagus - Muscularis,GTEX-1QP29,male,50-59,Ventilator case,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1QP2A-1826,Esophagus - Muscularis,GTEX-1QP2A,male,50-59,Ventilator case,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1QP66-0526,Esophagus - Muscularis,GTEX-1QP66,male,50-59,Ventilator case,,6 pieces; target muscularis and serosa,eso_muscularis
+GTEX-1QP67-0826,Esophagus - Muscularis,GTEX-1QP67,female,40-49,Ventilator case,,"6 pieces, confirmed target muscularis; adherent rims of serosa up to ~1mm",eso_muscularis
+GTEX-1QP6S-2026,Esophagus - Muscularis,GTEX-1QP6S,male,40-49,Fast death - natural causes,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1QPFJ-1326,Esophagus - Muscularis,GTEX-1QPFJ,female,30-39,Ventilator case,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1QW4Y-0426,Esophagus - Muscularis,GTEX-1QW4Y,male,30-39,Ventilator case,,"6 pieces, target muscularis; no mucosa. Switch with -0525",eso_muscularis
+GTEX-1R46S-2026,Esophagus - Muscularis,GTEX-1R46S,female,60-69,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1R7EU-0926,Esophagus - Muscularis,GTEX-1R7EU,male,60-69,Ventilator case,,6 pieces; target muscularis and up to 1.12mm attached moderately autolyzed serosa,eso_muscularis
+GTEX-1R7EV-0726,Esophagus - Muscularis,GTEX-1R7EV,male,40-49,Ventilator case,,6 pieces; non target stratified squamous epithelium with lamina propria (outlined)  and target muscularis,eso_muscularis
+GTEX-1R9JW-1626,Esophagus - Muscularis,GTEX-1R9JW,female,30-39,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1R9K4-1826,Esophagus - Muscularis,GTEX-1R9K4,male,60-69,Ventilator case,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1R9K5-1626,Esophagus - Muscularis,GTEX-1R9K5,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1R9PM-1026,Esophagus - Muscularis,GTEX-1R9PM,male,20-29,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1R9PN-1026,Esophagus - Muscularis,GTEX-1R9PN,female,40-49,Ventilator case,,6 pieces; well dissected muscularis except for a 0.4mm focus of epithelium in 1 [circled],eso_muscularis
+GTEX-1R9PO-1226,Esophagus - Muscularis,GTEX-1R9PO,female,60-69,Intermediate death,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1RAZA-1426,Esophagus - Muscularis,GTEX-1RAZA,male,20-29,Ventilator case,,6 pieces; target muscularis; 3 pieces contain esophageal mucosa (arrows),eso_muscularis
+GTEX-1RAZQ-1626,Esophagus - Muscularis,GTEX-1RAZQ,male,30-39,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1RAZR-1326,Esophagus - Muscularis,GTEX-1RAZR,male,40-49,Ventilator case,,4 pieces; well dissected muscularis,eso_muscularis
+GTEX-1RAZS-2326,Esophagus - Muscularis,GTEX-1RAZS,male,50-59,Intermediate death,,6 pieces; target muscularis,eso_muscularis
+GTEX-1RB15-0826,Esophagus - Muscularis,GTEX-1RB15,male,60-69,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1RDX4-2226,Esophagus - Muscularis,GTEX-1RDX4,female,50-59,Intermediate death,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-1RLM8-0826,Esophagus - Muscularis,GTEX-1RLM8,male,50-59,Slow death,,,eso_muscularis
+GTEX-1RMOY-0926,Esophagus - Muscularis,GTEX-1RMOY,male,50-59,Ventilator case,,6 pieces; target muscularis,eso_muscularis
+GTEX-1RNSC-2526,Esophagus - Muscularis,GTEX-1RNSC,male,60-69,Slow death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1RNTQ-1126,Esophagus - Muscularis,GTEX-1RNTQ,female,20-29,Ventilator case,,"6 pieces; target muscularis; 3 pieces with squamous epithelium (arrows), submucosa and submucosal glands (outlined)",eso_muscularis
+GTEX-1RQEC-1726,Esophagus - Muscularis,GTEX-1RQEC,male,60-69,Fast death - natural causes,,,eso_muscularis
+GTEX-1RQED-2126,Esophagus - Muscularis,GTEX-1RQED,male,60-69,Intermediate death,,"6 pieces, confirmed target muscularis, ~25% fat",eso_muscularis
+GTEX-1S3DN-1326,Esophagus - Muscularis,GTEX-1S3DN,male,50-59,Ventilator case,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1S5VW-1726,Esophagus - Muscularis,GTEX-1S5VW,male,60-69,Intermediate death,,"6 pieces, confirmed target muscularis",eso_muscularis
+GTEX-1S5ZU-1826,Esophagus - Muscularis,GTEX-1S5ZU,female,20-29,Ventilator case,fibrosis,5 pieces; well dissected except 1 piece has 20% fibrous stroma,eso_muscularis
+GTEX-1S82P-1526,Esophagus - Muscularis,GTEX-1S82P,female,60-69,Ventilator case,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1S82U-0426,Esophagus - Muscularis,GTEX-1S82U,female,30-39,Ventilator case,,"6 pieces, sections of large elastic artery c/w aorta, not esophageal muscularis",eso_muscularis
+GTEX-1S82Y-1326,Esophagus - Muscularis,GTEX-1S82Y,male,40-49,Ventilator case,,,eso_muscularis
+GTEX-1S82Z-0626,Esophagus - Muscularis,GTEX-1S82Z,female,30-39,Ventilator case,,"6 pieces, confirmed target muscularis; few ~1.5mm nubbins of adherent serosa, delineated",eso_muscularis
+GTEX-1S831-0826,Esophagus - Muscularis,GTEX-1S831,male,20-29,Ventilator case,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-1S83E-0926,Esophagus - Muscularis,GTEX-1S83E,male,40-49,Ventilator case,,6 pieces; well trimmed target muscularis,eso_muscularis
+GTEX-N7MS-1126,Esophagus - Muscularis,GTEX-N7MS,male,60-69,Fast death - natural causes,,OK for analysis,eso_muscularis
+GTEX-N7MT-0226,Esophagus - Muscularis,GTEX-N7MT,female,60-69,Slow death,,"MUCOSA, NOT MUSCULARIS; 3 pieces 8.5x2 mm",eso_muscularis
+GTEX-NFK9-1226,Esophagus - Muscularis,GTEX-NFK9,male,40-49,Ventilator case,,OK for analysis,eso_muscularis
+GTEX-NL3G-1726,Esophagus - Muscularis,GTEX-NL3G,female,60-69,Fast death - natural causes,,3 pieces,eso_muscularis
+GTEX-NL3H-1326,Esophagus - Muscularis,GTEX-NL3H,male,60-69,Intermediate death,,"3 pieces, up to 7x4 mm",eso_muscularis
+GTEX-NL4W-0526,Esophagus - Muscularis,GTEX-NL4W,male,50-59,Slow death,clean_specimens,Reasonably good preservation,eso_muscularis
+GTEX-NPJ7-2226,Esophagus - Muscularis,GTEX-NPJ7,female,60-69,Slow death,,Minute focus of epithelium noted.,eso_muscularis
+GTEX-NPJ8-2026,Esophagus - Muscularis,GTEX-NPJ8,male,40-49,Slow death,,"6 pieces, adequate for evaluation",eso_muscularis
+GTEX-O5YT-0726,Esophagus - Muscularis,GTEX-O5YT,male,20-29,Ventilator case,,3 pieces,eso_muscularis
+GTEX-O5YU-1826,Esophagus - Muscularis,GTEX-O5YU,male,60-69,Slow death,,3 pieces; separation of muscle bundles,eso_muscularis
+GTEX-O5YV-0926,Esophagus - Muscularis,GTEX-O5YV,female,60-69,Intermediate death,edema,mild edema,eso_muscularis
+GTEX-OHPJ-1326,Esophagus - Muscularis,GTEX-OHPJ,male,60-69,Ventilator case,,6 pieces,eso_muscularis
+GTEX-OHPK-0626,Esophagus - Muscularis,GTEX-OHPK,female,50-59,Ventilator case,,This has well-preserved epithelium. It also has some muscularis (<½ of section area). It also has mucous glands. 625 and 725 have been switched and should be relabeled. 625 is muscularis propria. 725 is mucosa (the muscle present is muscularis mucosae). Inform BSS and LDACC of switch.,eso_muscularis
+GTEX-OHPL-0626,Esophagus - Muscularis,GTEX-OHPL,female,60-69,Ventilator case,,3 pieces.,eso_muscularis
+GTEX-OHPM-0726,Esophagus - Muscularis,GTEX-OHPM,male,50-59,Ventilator case,,Adequate for study,eso_muscularis
+GTEX-OHPN-0926,Esophagus - Muscularis,GTEX-OHPN,female,60-69,Ventilator case,,Muscularis only; no mucosa,eso_muscularis
+GTEX-OIZF-0726,Esophagus - Muscularis,GTEX-OIZF,male,60-69,Ventilator case,,3 pieces: 13x3 mm.,eso_muscularis
+GTEX-OIZG-0926,Esophagus - Muscularis,GTEX-OIZG,male,50-59,Ventilator case,,"2 pieces, 9x4 mm",eso_muscularis
+GTEX-OIZH-0726,Esophagus - Muscularis,GTEX-OIZH,male,50-59,Ventilator case,,Aliquots average 8 x 4mm,eso_muscularis
+GTEX-OIZI-1326,Esophagus - Muscularis,GTEX-OIZI,male,40-49,Ventilator case,,well-visualized ganglion cells,eso_muscularis
+GTEX-OOBJ-0726,Esophagus - Muscularis,GTEX-OOBJ,male,60-69,Ventilator case,,"4x9mm.  Poor fixation, cracks and separation of sections.",eso_muscularis
+GTEX-OOBK-0726,Esophagus - Muscularis,GTEX-OOBK,male,40-49,Ventilator case,,"0-1.  One of three pieces with poor central fixation, sizes average 9x4mm",eso_muscularis
+GTEX-OXRK-1426,Esophagus - Muscularis,GTEX-OXRK,female,50-59,Ventilator case,,Fracture defects,eso_muscularis
+GTEX-OXRL-0726,Esophagus - Muscularis,GTEX-OXRL,male,50-59,Ventilator case,,Cassette pressure marks. 9.8x5mm,eso_muscularis
+GTEX-OXRN-1826,Esophagus - Muscularis,GTEX-OXRN,male,50-59,Ventilator case,,7.9x3.2mm,eso_muscularis
+GTEX-OXRO-0526,Esophagus - Muscularis,GTEX-OXRO,female,60-69,Slow death,,3 pieces: 8.4x3.8mm. 1 with two large nerves.,eso_muscularis
+GTEX-OXRP-1026,Esophagus - Muscularis,GTEX-OXRP,female,60-69,Intermediate death,,,eso_muscularis
+GTEX-P44G-1326,Esophagus - Muscularis,GTEX-P44G,male,30-39,Ventilator case,,"3  ~8x3.5mm pieces of fibro connective tissue, uncertain provenance.",eso_muscularis
+GTEX-P44H-1426,Esophagus - Muscularis,GTEX-P44H,male,40-49,Slow death,,3 ~ 6.5x2.5mm pieces.  Poorly fixed,eso_muscularis
+GTEX-P4PP-0726,Esophagus - Muscularis,GTEX-P4PP,female,30-39,Ventilator case,,3   ~8.5x3.5mm pieces;  small floater of ?bronchial mucosa,eso_muscularis
+GTEX-P4PQ-0726,Esophagus - Muscularis,GTEX-P4PQ,male,60-69,Ventilator case,,4  ~8x4.5mm pieces,eso_muscularis
+GTEX-P4QR-2026,Esophagus - Muscularis,GTEX-P4QR,male,60-69,Ventilator case,,6  ~8x3mm pieces,eso_muscularis
+GTEX-P4QS-0726,Esophagus - Muscularis,GTEX-P4QS,male,60-69,Ventilator case,,6  ~6.5x4mm pieces,eso_muscularis
+GTEX-P4QT-0726,Esophagus - Muscularis,GTEX-P4QT,female,50-59,Ventilator case,,"6 pieces,  ~5-10x4mm.",eso_muscularis
+GTEX-P78B-1126,Esophagus - Muscularis,GTEX-P78B,female,40-49,Ventilator case,,"6 pieces,  ~8.5x3 mm. well-oriented specimens.",eso_muscularis
+GTEX-PLZ4-1526,Esophagus - Muscularis,GTEX-PLZ4,female,50-59,Ventilator case,,"6   ~9x3.5mm pieces.  Areas of under-fixation, tears and holes",eso_muscularis
+GTEX-PLZ5-0826,Esophagus - Muscularis,GTEX-PLZ5,male,50-59,Ventilator case,,6   ~8x4mm pieces,eso_muscularis
+GTEX-PLZ6-0626,Esophagus - Muscularis,GTEX-PLZ6,male,30-39,Ventilator case,,"5 pieces,  ~9x4.5 mm. well-oriented specimens.",eso_muscularis
+GTEX-POMQ-0626,Esophagus - Muscularis,GTEX-POMQ,female,20-29,Ventilator case,,"6 pieces, ~8x3mm; 5 of the 6 have major muscle fragmentation/tears;",eso_muscularis
+GTEX-POYW-1426,Esophagus - Muscularis,GTEX-POYW,male,60-69,Ventilator case,,6 pieces ~ 8x2.5mm,eso_muscularis
+GTEX-PSDG-1426,Esophagus - Muscularis,GTEX-PSDG,male,50-59,Ventilator case,,"6 pieces, ~7x3.5 mm; 4 aliquots contain prominent submucosal glands and dilated ducts; ganglion cells well preserved",eso_muscularis
+GTEX-PVOW-1526,Esophagus - Muscularis,GTEX-PVOW,male,40-49,Fast death - natural causes,,"6 pieces, ~6.8x4.6mm; largest have cassette markings",eso_muscularis
+GTEX-PW2O-0726,Esophagus - Muscularis,GTEX-PW2O,male,20-29,Ventilator case,,"6 pieces with mucosa,  ~4 x 7mm, mucosa  ~25% of thickness",eso_muscularis
+GTEX-PWCY-0826,Esophagus - Muscularis,GTEX-PWCY,female,20-29,Ventilator case,,"6 pieces, up to 7x3mm",eso_muscularis
+GTEX-PWN1-0726,Esophagus - Muscularis,GTEX-PWN1,female,40-49,Ventilator case,,"6 pieces, up to 7.7x4 mm",eso_muscularis
+GTEX-PWO3-2226,Esophagus - Muscularis,GTEX-PWO3,female,60-69,Slow death,clean_specimens,6     ~8x3mm pieces. Clean specimens,eso_muscularis
+GTEX-PWOO-1026,Esophagus - Muscularis,GTEX-PWOO,female,40-49,Ventilator case,,6   ~7x3.5mm pieces.  Single 0.6mm focus of sub mucosa mucous/serous glands noted in one piece,eso_muscularis
+GTEX-PX3G-0726,Esophagus - Muscularis,GTEX-PX3G,female,20-29,Ventilator case,,"6 pieces, up to ~9x3 mm; 1 has small <1mm of squamous mucosa",eso_muscularis
+GTEX-Q2AG-1226,Esophagus - Muscularis,GTEX-Q2AG,female,40-49,Fast death - natural causes,,6   ~7x2.5mm pieces,eso_muscularis
+GTEX-Q2AH-1026,Esophagus - Muscularis,GTEX-Q2AH,male,40-49,Ventilator case,,5 pieces up to 9x3 mm; numerous tissue tears in mucosa of 4 of 5 aliquots,eso_muscularis
+GTEX-Q734-0826,Esophagus - Muscularis,GTEX-Q734,female,40-49,Ventilator case,,6   ~9x3mm pieces,eso_muscularis
+GTEX-QCQG-0726,Esophagus - Muscularis,GTEX-QCQG,female,50-59,Ventilator case,,5 pieces up to 7x5mm,eso_muscularis
+GTEX-QDT8-1326,Esophagus - Muscularis,GTEX-QDT8,female,30-39,Slow death,,6   ~6.5x2.5mm pieces,eso_muscularis
+GTEX-QDVJ-0826,Esophagus - Muscularis,GTEX-QDVJ,male,50-59,Ventilator case,,6 pieces up to 8.7x4mm,eso_muscularis
+GTEX-QDVN-1126,Esophagus - Muscularis,GTEX-QDVN,male,50-59,Ventilator case,,6   ~5x4mm pieces,eso_muscularis
+GTEX-QEG4-0826,Esophagus - Muscularis,GTEX-QEG4,male,30-39,Fast death - violent,,6 ~7x2mm pieces,eso_muscularis
+GTEX-QEG5-1326,Esophagus - Muscularis,GTEX-QEG5,male,20-29,Ventilator case,,6 pieces up to 7x3 mm; all are muscularis propria; re-label as Esophagus - muscularis,eso_muscularis
+GTEX-QEL4-1526,Esophagus - Muscularis,GTEX-QEL4,male,50-59,Intermediate death,,6  ~7x4mm pieces,eso_muscularis
+GTEX-QESD-0726,Esophagus - Muscularis,GTEX-QESD,male,20-29,Ventilator case,clean_specimens,6 pieces up to 8.5x4.9 mm; good muscle layer,eso_muscularis
+GTEX-QLQ7-1026,Esophagus - Muscularis,GTEX-QLQ7,male,60-69,Ventilator case,,6  ~8x2.5mm pieces,eso_muscularis
+GTEX-QLQW-0626,Esophagus - Muscularis,GTEX-QLQW,male,30-39,Ventilator case,,6 pieces up to 8.7x4.3 mm,eso_muscularis
+GTEX-QMR6-0626,Esophagus - Muscularis,GTEX-QMR6,male,50-59,Slow death,,6   ~7.5x2mm pieces.,eso_muscularis
+GTEX-QMRM-0926,Esophagus - Muscularis,GTEX-QMRM,male,50-59,Ventilator case,clean_specimens,6 pieces ~ 8x4 mm; good neurons,eso_muscularis
+GTEX-QV31-0526,Esophagus - Muscularis,GTEX-QV31,male,30-39,Ventilator case,,6    ~6x4mm pieces,eso_muscularis
+GTEX-QV44-1026,Esophagus - Muscularis,GTEX-QV44,male,50-59,Ventilator case,,6 pieces 10.5x3.3 mm;  moderate tissue tears,eso_muscularis
+GTEX-QVJO-0626,Esophagus - Muscularis,GTEX-QVJO,female,60-69,Slow death,,"6  6.5x3mm pieces.  Foci of squamous mucosa, more than above? Switched aliquots?",eso_muscularis
+GTEX-QVUS-0726,Esophagus - Muscularis,GTEX-QVUS,female,60-69,Slow death,,6   ~ 5.5x3mm pieces,eso_muscularis
+GTEX-QXCU-1126,Esophagus - Muscularis,GTEX-QXCU,male,50-59,Fast death - violent,,6    ~8x3mm pieces,eso_muscularis
+GTEX-R3RS-1426,Esophagus - Muscularis,GTEX-R3RS,female,40-49,Slow death,,6 pieces up to 9x2 mm,eso_muscularis
+GTEX-R45C-1326,Esophagus - Muscularis,GTEX-R45C,female,60-69,Ventilator case,,6 pieces up to 9x4 mm,eso_muscularis
+GTEX-R53T-1026,Esophagus - Muscularis,GTEX-R53T,female,50-59,Ventilator case,,"6 pieces, ~8.5x3mm",eso_muscularis
+GTEX-R55C-0726,Esophagus - Muscularis,GTEX-R55C,male,40-49,Ventilator case,,6 pieces up to 10x5.6 mm;,eso_muscularis
+GTEX-R55D-1226,Esophagus - Muscularis,GTEX-R55D,male,50-59,Ventilator case,,6 pieces,eso_muscularis
+GTEX-R55E-1426,Esophagus - Muscularis,GTEX-R55E,male,20-29,Fast death - violent,,6 pieces up to 7.7x3.4 mm;,eso_muscularis
+GTEX-R55F-0426,Esophagus - Muscularis,GTEX-R55F,male,50-59,Slow death,,6 pieces up to 8x4 mm;,eso_muscularis
+GTEX-R55G-0926,Esophagus - Muscularis,GTEX-R55G,female,40-49,Ventilator case,,"6 pieces,  ~9x3mm",eso_muscularis
+GTEX-REY6-1426,Esophagus - Muscularis,GTEX-REY6,male,60-69,Ventilator case,,"6 pieces, up to 7.5x2 mm;",eso_muscularis
+GTEX-RM2N-0626,Esophagus - Muscularis,GTEX-RM2N,male,50-59,Ventilator case,,"6 pieces,  ~8x5mm",eso_muscularis
+GTEX-RN5K-2126,Esophagus - Muscularis,GTEX-RN5K,female,50-59,Slow death,,"6 pieces,  ~8x2mm",eso_muscularis
+GTEX-RN64-1126,Esophagus - Muscularis,GTEX-RN64,male,50-59,Fast death - violent,,6 pieces  ~7x3mm,eso_muscularis
+GTEX-RNOR-1326,Esophagus - Muscularis,GTEX-RNOR,female,50-59,Fast death - violent,,6 pieces up to 7x4 mm;,eso_muscularis
+GTEX-RTLS-1226,Esophagus - Muscularis,GTEX-RTLS,female,60-69,Slow death,,6 pieces up to 7x3 mm;,eso_muscularis
+GTEX-RU1J-0426,Esophagus - Muscularis,GTEX-RU1J,female,20-29,Ventilator case,,6 pieces up to 7x3 mm;,eso_muscularis
+GTEX-RU72-0826,Esophagus - Muscularis,GTEX-RU72,female,50-59,Fast death - natural causes,,"6 pieces, 8x4mm",eso_muscularis
+GTEX-RUSQ-0926,Esophagus - Muscularis,GTEX-RUSQ,male,50-59,Ventilator case,,"6 pieces,  ~7x4mm",eso_muscularis
+GTEX-RVPU-2126,Esophagus - Muscularis,GTEX-RVPU,male,50-59,Fast death - natural causes,,"6 pieces,  ~7x2.5mm",eso_muscularis
+GTEX-RVPV-0626,Esophagus - Muscularis,GTEX-RVPV,male,60-69,Intermediate death,,6 pieces up to 9x2.7 mm;,eso_muscularis
+GTEX-RWS6-0726,Esophagus - Muscularis,GTEX-RWS6,female,60-69,Ventilator case,,6 pieces up to 8x4 mm;,eso_muscularis
+GTEX-RWSA-1326,Esophagus - Muscularis,GTEX-RWSA,male,40-49,Fast death - violent,,"6 pieces,  ~5.5x1.5mm",eso_muscularis
+GTEX-S32W-1026,Esophagus - Muscularis,GTEX-S32W,female,50-59,Ventilator case,,6 pieces up to 10x4 mm;,eso_muscularis
+GTEX-S33H-0926,Esophagus - Muscularis,GTEX-S33H,male,30-39,Fast death - natural causes,,6 pieces up to 7x3 mm;,eso_muscularis
+GTEX-S341-0426,Esophagus - Muscularis,GTEX-S341,female,40-49,Ventilator case,,"6 pieces, ~ 7x4mm",eso_muscularis
+GTEX-S3LF-1426,Esophagus - Muscularis,GTEX-S3LF,male,70-79,Fast death - natural causes,,6 pieces  ~7x2.5mm,eso_muscularis
+GTEX-S3XE-0826,Esophagus - Muscularis,GTEX-S3XE,male,50-59,Ventilator case,,6 pieces up to 10x4.4 mm;,eso_muscularis
+GTEX-S4P3-0526,Esophagus - Muscularis,GTEX-S4P3,female,50-59,Ventilator case,,6 pieces up to 9x4 mm;,eso_muscularis
+GTEX-S4Q7-0526,Esophagus - Muscularis,GTEX-S4Q7,male,20-29,Ventilator case,,"6 pieces,   ~9x3mm.",eso_muscularis
+GTEX-S4Z8-0726,Esophagus - Muscularis,GTEX-S4Z8,male,60-69,Ventilator case,,6 pieces up to 10x3.8 mm; all muscle no mucosa; Relabel as muscularis,eso_muscularis
+GTEX-S7PM-2026,Esophagus - Muscularis,GTEX-S7PM,male,60-69,Ventilator case,,"6 pieces,  ~8x3.5mm",eso_muscularis
+GTEX-S7SE-1626,Esophagus - Muscularis,GTEX-S7SE,male,50-59,Fast death - natural causes,,"6 pieces,  ~8x3mm",eso_muscularis
+GTEX-S7SF-1026,Esophagus - Muscularis,GTEX-S7SF,female,20-29,Ventilator case,,6 pieces up to 7x4 mm; 1 has a 2.8 mm circular focus of fibrotic submucosa,eso_muscularis
+GTEX-S95S-0326,Esophagus - Muscularis,GTEX-S95S,male,60-69,Ventilator case,,"6 pieces,  ~7x3mm",eso_muscularis
+GTEX-SE5C-1326,Esophagus - Muscularis,GTEX-SE5C,female,40-49,Ventilator case,,6 pieces up to 6x3 mm;3 are muscularis 3 are adventitia,eso_muscularis
+GTEX-SIU7-1326,Esophagus - Muscularis,GTEX-SIU7,male,50-59,Ventilator case,,6 pieces up to 9x5 mm;,eso_muscularis
+GTEX-SIU8-1626,Esophagus - Muscularis,GTEX-SIU8,male,50-59,Fast death - natural causes,,6 pieces  ~7x2.5mm,eso_muscularis
+GTEX-SJXC-1526,Esophagus - Muscularis,GTEX-SJXC,male,60-69,Fast death - natural causes,,6 pieces   ~6x3mm,eso_muscularis
+GTEX-SN8G-1426,Esophagus - Muscularis,GTEX-SN8G,female,50-59,Fast death - natural causes,,"6 pieces,  ~7x2.5mm",eso_muscularis
+GTEX-SNMC-0426,Esophagus - Muscularis,GTEX-SNMC,male,20-29,Ventilator case,clean_specimens,6 pieces up to 5x4 mm; clean no adipose or submucosa,eso_muscularis
+GTEX-SNOS-0726,Esophagus - Muscularis,GTEX-SNOS,male,40-49,Ventilator case,,6 pieces up to 8x4 mm;,eso_muscularis
+GTEX-SUCS-0826,Esophagus - Muscularis,GTEX-SUCS,male,70-79,Ventilator case,,6 pieces up to 8x4 mm; 5 have mucosa and muscularis propria; 1 has only muscularis,eso_muscularis
+GTEX-T2IS-0926,Esophagus - Muscularis,GTEX-T2IS,female,20-29,Fast death - violent,,6 pieces  ~7x7mm,eso_muscularis
+GTEX-T2YK-1426,Esophagus - Muscularis,GTEX-T2YK,male,50-59,Slow death,,6 pieces up to 7x3 mm; 2 have submucosal glands <10% of each aliquot,eso_muscularis
+GTEX-T5JC-1826,Esophagus - Muscularis,GTEX-T5JC,male,20-29,Fast death - natural causes,clean_specimens,6 pieces up to 8x3 mm; good clean muscular specimens,eso_muscularis
+GTEX-T5JW-1426,Esophagus - Muscularis,GTEX-T5JW,female,20-29,Ventilator case,,"6 pieces, ~ 7x2.5mm",eso_muscularis
+GTEX-T6MN-1526,Esophagus - Muscularis,GTEX-T6MN,male,50-59,Fast death - natural causes,,6 pieces up to 7x3 mm; no extraneous adipose,eso_muscularis
+GTEX-T6MO-0626,Esophagus - Muscularis,GTEX-T6MO,female,40-49,Ventilator case,,"6 pieces,  ~5x5mm",eso_muscularis
+GTEX-T8EM-0626,Esophagus - Muscularis,GTEX-T8EM,male,40-49,Ventilator case,,,eso_muscularis
+GTEX-TKQ1-0426,Esophagus - Muscularis,GTEX-TKQ1,male,30-39,Ventilator case,,6 pieces  ~8x3mm,eso_muscularis
+GTEX-TKQ2-1226,Esophagus - Muscularis,GTEX-TKQ2,male,50-59,Ventilator case,,"6 pieces  7x4mm.  No mucosa, just muscle.  May be used once relabeled",eso_muscularis
+GTEX-TML8-1426,Esophagus - Muscularis,GTEX-TML8,female,40-49,Ventilator case,clean_specimens,6 pieces up to 10x4 mm; good muscle,eso_muscularis
+GTEX-TMMY-1226,Esophagus - Muscularis,GTEX-TMMY,female,40-49,Ventilator case,,"6 pieces, ~7x2.5mm",eso_muscularis
+GTEX-TSE9-1326,Esophagus - Muscularis,GTEX-TSE9,female,60-69,Ventilator case,clean_specimens,6 pieces up to 7x3 mm; clean adventitia,eso_muscularis
+GTEX-U3ZH-1126,Esophagus - Muscularis,GTEX-U3ZH,male,30-39,Ventilator case,,6 pieces  ~10x4mm,eso_muscularis
+GTEX-U3ZM-0626,Esophagus - Muscularis,GTEX-U3ZM,male,40-49,Ventilator case,,6 pieces  ~9x4mm,eso_muscularis
+GTEX-U3ZN-1826,Esophagus - Muscularis,GTEX-U3ZN,female,30-39,Ventilator case,,6 pieces up to 6x3 mm;,eso_muscularis
+GTEX-U412-1326,Esophagus - Muscularis,GTEX-U412,male,60-69,Intermediate death,,"6 pieces,several with badly autolyzed ? mucosa/ inflammatory debris; unusually severe autolysis makes assessment impossible",eso_muscularis
+GTEX-U4B1-0926,Esophagus - Muscularis,GTEX-U4B1,male,40-49,Ventilator case,,"6 pieces, up to 11.3x3.5 mm;  muscle with focal submucosa",eso_muscularis
+GTEX-U8T8-2026,Esophagus - Muscularis,GTEX-U8T8,male,60-69,Ventilator case,clean_specimens,"6 pieces, up to 7x3.4mm; 'clean' specimen without extraneous stroma or adipose",eso_muscularis
+GTEX-U8XE-1826,Esophagus - Muscularis,GTEX-U8XE,male,30-39,Slow death,,6 pieces  ~7x3.5mm,eso_muscularis
+GTEX-UJHI-0926,Esophagus - Muscularis,GTEX-UJHI,female,50-59,Ventilator case,clean_specimens,"6 pieces, up to 11x5mm; good clean specimens",eso_muscularis
+GTEX-UJMC-1026,Esophagus - Muscularis,GTEX-UJMC,male,50-59,Ventilator case,,7 pieces  ~8x4mm,eso_muscularis
+GTEX-UPIC-0626,Esophagus - Muscularis,GTEX-UPIC,female,20-29,Ventilator case,clean_specimens,"6 pieces, up to 8x4mm; good muscle and neural tissue",eso_muscularis
+GTEX-UPJH-1126,Esophagus - Muscularis,GTEX-UPJH,male,50-59,Fast death - natural causes,,6 pieces  ~7x3mm,eso_muscularis
+GTEX-UPK5-1326,Esophagus - Muscularis,GTEX-UPK5,male,40-49,Ventilator case,clean_specimens,"6 pieces, up to 8x4mm; good specimen, minimal adipose",eso_muscularis
+GTEX-UTHO-1626,Esophagus - Muscularis,GTEX-UTHO,male,60-69,Intermediate death,,"6 pieces, up to 6x2mm;",eso_muscularis
+GTEX-V1D1-1126,Esophagus - Muscularis,GTEX-V1D1,male,50-59,Ventilator case,,6 pieces  ~6x3mm,eso_muscularis
+GTEX-V955-1026,Esophagus - Muscularis,GTEX-V955,male,60-69,Ventilator case,,"6 pieces, ~10x3mm",eso_muscularis
+GTEX-VJWN-1726,Esophagus - Muscularis,GTEX-VJWN,female,50-59,Fast death - natural causes,,"6 pieces, up to 8x3mm; muscle show loss of cohesion",eso_muscularis
+GTEX-VJYA-0626,Esophagus - Muscularis,GTEX-VJYA,male,60-69,Ventilator case,,6  ~9x4 mm pieces,eso_muscularis
+GTEX-VUSG-1126,Esophagus - Muscularis,GTEX-VUSG,male,50-59,Ventilator case,,6  ~8x2mm pieces,eso_muscularis
+GTEX-W5WG-1526,Esophagus - Muscularis,GTEX-W5WG,female,50-59,Ventilator case,,6 pieces  ~7x5mm.,eso_muscularis
+GTEX-W5X1-1026,Esophagus - Muscularis,GTEX-W5X1,female,40-49,Ventilator case,,"6 pieces, up to 8x3mm; all muscle; well preserved neurons",eso_muscularis
+GTEX-WEY5-1026,Esophagus - Muscularis,GTEX-WEY5,female,40-49,Ventilator case,,"6 pieces, up to 8x5mm; well sampled",eso_muscularis
+GTEX-WFG7-1026,Esophagus - Muscularis,GTEX-WFG7,male,20-29,Ventilator case,,6 pieces  ~7x4mm,eso_muscularis
+GTEX-WFG8-1026,Esophagus - Muscularis,GTEX-WFG8,male,20-29,Ventilator case,clean_specimens,"6 pieces  ~9x3mm, good specimens, all muscle",eso_muscularis
+GTEX-WFJO-0726,Esophagus - Muscularis,GTEX-WFJO,male,30-39,Ventilator case,,"6 pieces, up to 7x6mm; well sampled muscularis",eso_muscularis
+GTEX-WFON-0926,Esophagus - Muscularis,GTEX-WFON,male,40-49,Ventilator case,,"6 pieces  ~9x3mm, all muscularis, presumed switch with 0825",eso_muscularis
+GTEX-WH7G-1026,Esophagus - Muscularis,GTEX-WH7G,male,40-49,Ventilator case,,"6 pieces, up to 10x6mm; Well sampled muscularis propria",eso_muscularis
+GTEX-WHPG-1226,Esophagus - Muscularis,GTEX-WHPG,male,50-59,Ventilator case,clean_specimens,"4 pieces, up to 8x5mm; all muscularis, good specimen",eso_muscularis
+GTEX-WHSB-0526,Esophagus - Muscularis,GTEX-WHSB,male,50-59,Ventilator case,,"6 pieces  ~8x4mm, rare submucosal glands noted, rep ones encircled",eso_muscularis
+GTEX-WHSE-1626,Esophagus - Muscularis,GTEX-WHSE,male,20-29,Intermediate death,,"6 pieces ~7x2.5mm, all muscularis",eso_muscularis
+GTEX-WHWD-1026,Esophagus - Muscularis,GTEX-WHWD,male,50-59,Ventilator case,,"4 pieces, up to 6x3mm; 2 have 10-20% fibrous stroma",eso_muscularis
+GTEX-WI4N-1326,Esophagus - Muscularis,GTEX-WI4N,female,40-49,Ventilator case,,"6 pieces ~7x3mm, all muscularis",eso_muscularis
+GTEX-WK11-1126,Esophagus - Muscularis,GTEX-WK11,male,50-59,Fast death - violent,,"6 pieces, up to 7x3mm; well trimmed  muscle",eso_muscularis
+GTEX-WL46-1426,Esophagus - Muscularis,GTEX-WL46,male,50-59,Fast death - natural causes,,"6 pieces  ~7x2mm, all muscuarlis",eso_muscularis
+GTEX-WOFL-2326,Esophagus - Muscularis,GTEX-WOFL,male,60-69,Ventilator case,,"6 pieces, up to 9x4mm;",eso_muscularis
+GTEX-WOFM-0526,Esophagus - Muscularis,GTEX-WOFM,male,20-29,Ventilator case,,"6 pieces  ~6x5mm, all muscularis, should be labeled as such",eso_muscularis
+GTEX-WQUQ-1726,Esophagus - Muscularis,GTEX-WQUQ,male,60-69,Ventilator case,clean_specimens,"6 pieces ~10x3mm, all muscularis, good specimens",eso_muscularis
+GTEX-WRHK-0426,Esophagus - Muscularis,GTEX-WRHK,female,20-29,Ventilator case,,"6 pieces, up to 8x4mm; all have well trimmed muscle",eso_muscularis
+GTEX-WRHU-1626,Esophagus - Muscularis,GTEX-WRHU,female,50-59,Fast death - violent,clean_specimens,"6 pieces ~7x3mm, all muscularis, good specimens",eso_muscularis
+GTEX-WVJS-1926,Esophagus - Muscularis,GTEX-WVJS,male,50-59,Ventilator case,,"6 pieces, up to 7x4mm; all muscle",eso_muscularis
+GTEX-WVLH-1326,Esophagus - Muscularis,GTEX-WVLH,male,50-59,Fast death - natural causes,,"6 pieces  ~8x3mm, all muscularis",eso_muscularis
+GTEX-WWTW-1826,Esophagus - Muscularis,GTEX-WWTW,male,50-59,Ventilator case,,"6 pieces~5x2mm, only minimal sloughing badly autolyzed squamous mucosa.  Can be used if re-labeled as muscularis",eso_muscularis
+GTEX-WWTW-1926,Esophagus - Muscularis,GTEX-WWTW,male,50-59,Ventilator case,,6 pieces ~~7x2mm,eso_muscularis
+GTEX-WWYW-1626,Esophagus - Muscularis,GTEX-WWYW,female,50-59,Intermediate death,,"6 pieces ~8x2mm, all muscle",eso_muscularis
+GTEX-WXYG-1126,Esophagus - Muscularis,GTEX-WXYG,female,50-59,Ventilator case,clean_specimens,"6 pieces, up to 7x5mm; all muscularis; good specimens",eso_muscularis
+GTEX-WY7C-1326,Esophagus - Muscularis,GTEX-WY7C,male,50-59,Ventilator case,clean_specimens,"6 pieces ~8x4mm, all muscularis, good specimens",eso_muscularis
+GTEX-WYBS-1826,Esophagus - Muscularis,GTEX-WYBS,female,60-69,Ventilator case,,"6 pieces, up to 8x2mm all msucle",eso_muscularis
+GTEX-WYJK-2026,Esophagus - Muscularis,GTEX-WYJK,male,50-59,Ventilator case,clean_specimens,"6 pieces, up to 9x3mm; good specimens",eso_muscularis
+GTEX-WYVS-0826,Esophagus - Muscularis,GTEX-WYVS,female,40-49,Ventilator case,clean_specimens,"6 pieces, up to 9x4mm; all muscle good specimens",eso_muscularis
+GTEX-WZTO-1526,Esophagus - Muscularis,GTEX-WZTO,male,40-49,Fast death - violent,,"6 pieces, up to 8x5mm; all muscularis",eso_muscularis
+GTEX-X15G-0926,Esophagus - Muscularis,GTEX-X15G,female,50-59,Ventilator case,clean_specimens,"6 pieces, up to 7.5x4mm; all muscularis, good specimens",eso_muscularis
+GTEX-X261-2626,Esophagus - Muscularis,GTEX-X261,male,50-59,Slow death,,"4 pieces, up to 5x2.5mm;",eso_muscularis
+GTEX-X3Y1-1226,Esophagus - Muscularis,GTEX-X3Y1,male,40-49,Ventilator case,clean_specimens,"6 pieces, up to 8x3mm; good pure muscularis propria in all",eso_muscularis
+GTEX-X4EO-1326,Esophagus - Muscularis,GTEX-X4EO,female,60-69,Intermediate death,,"6 pieces, up to 7x2.5mm; no extraneous tissue",eso_muscularis
+GTEX-X4EP-1726,Esophagus - Muscularis,GTEX-X4EP,female,60-69,Slow death,clean_specimens,"6 pieces, up to 8x3mm; all muscuarlis; good specimens",eso_muscularis
+GTEX-X4LF-0726,Esophagus - Muscularis,GTEX-X4LF,male,50-59,Ventilator case,clean_specimens,"6 pieces, up to 10x5mm; all muscularis, good specimens",eso_muscularis
+GTEX-X4XX-1626,Esophagus - Muscularis,GTEX-X4XX,male,60-69,Slow death,,"6 pieces, up to 9x5mm;  All muscle (target)",eso_muscularis
+GTEX-X4XY-1826,Esophagus - Muscularis,GTEX-X4XY,male,60-69,Ventilator case,,"6 pieces, up to 10x2.5mm; all muscle",eso_muscularis
+GTEX-X585-1326,Esophagus - Muscularis,GTEX-X585,male,50-59,Slow death,,"6 pieces, up to 8x3mm;  Well trimmed,  muscularis free of adipose.",eso_muscularis
+GTEX-X5EB-1426,Esophagus - Muscularis,GTEX-X5EB,male,40-49,Ventilator case,clean_specimens,"6 pieces, up to 9x4mm; all muscularis; good specimens",eso_muscularis
+GTEX-X62O-2326,Esophagus - Muscularis,GTEX-X62O,male,50-59,Ventilator case,,"6 pieces, up to 8x2mm; all muscularis",eso_muscularis
+GTEX-X8HC-1526,Esophagus - Muscularis,GTEX-X8HC,female,50-59,Ventilator case,,"6 pieces, up to 8x4mm;  Well dissected muscle.",eso_muscularis
+GTEX-XBEC-1726,Esophagus - Muscularis,GTEX-XBEC,male,50-59,Fast death - natural causes,,"6 pieces, up to 11x4mm;",eso_muscularis
+GTEX-XBED-0926,Esophagus - Muscularis,GTEX-XBED,male,60-69,Ventilator case,,"6 pieces, up to 11x5mm; Well trimmed muscularis.",eso_muscularis
+GTEX-XBEW-1426,Esophagus - Muscularis,GTEX-XBEW,male,40-49,Ventilator case,,"6 pieces, up to 6x3mm; trace adherent serosal connective tissue, delineated (rep)",eso_muscularis
+GTEX-XGQ4-1426,Esophagus - Muscularis,GTEX-XGQ4,male,50-59,Ventilator case,,"6 pieces up to 10x4.5mm, all muscularis",eso_muscularis
+GTEX-XK95-1126,Esophagus - Muscularis,GTEX-XK95,male,40-49,Ventilator case,,6 pieces. up to 7x3mm; Well dissected muscularis.,eso_muscularis
+GTEX-XLM4-2426,Esophagus - Muscularis,GTEX-XLM4,male,60-69,Intermediate death,clean_specimens,"6 pieces, up to 9x3mm; all muscularis, good specimens",eso_muscularis
+GTEX-XMD1-1426,Esophagus - Muscularis,GTEX-XMD1,male,60-69,Slow death,,6 pieces up to 8x3mm; more poorly preserved than usual,eso_muscularis
+GTEX-XMD2-1426,Esophagus - Muscularis,GTEX-XMD2,female,60-69,Ventilator case,,"6 pieces, up to 8x4mm; well trimmed muscularis",eso_muscularis
+GTEX-XMD3-1426,Esophagus - Muscularis,GTEX-XMD3,female,50-59,Ventilator case,,6 pieces. up to 8x3.5mm; well trimmed muscle,eso_muscularis
+GTEX-XMK1-1226,Esophagus - Muscularis,GTEX-XMK1,male,40-49,Ventilator case,,6 pieces. up to 9x4mm;,eso_muscularis
+GTEX-XOT4-2026,Esophagus - Muscularis,GTEX-XOT4,female,60-69,Fast death - natural causes,,6 pieces. up to 8x3.5mm; well dissected muscle,eso_muscularis
+GTEX-XOTO-2226,Esophagus - Muscularis,GTEX-XOTO,male,50-59,Fast death - natural causes,,6 pieces. up to 8x4mm;,eso_muscularis
+GTEX-XPT6-0626,Esophagus - Muscularis,GTEX-XPT6,male,20-29,Ventilator case,,"6 pieces, With 5-10% adherent squamous mucosa",eso_muscularis
+GTEX-XPVG-1326,Esophagus - Muscularis,GTEX-XPVG,male,50-59,Ventilator case,,"6 pieces, up to 9x3.5mm; all with muscle (target) , 2 with mucosal remnants",eso_muscularis
+GTEX-XQ3S-1226,Esophagus - Muscularis,GTEX-XQ3S,male,20-29,Fast death - violent,clean_specimens,"6 pieces, up to 9x3mm; all muscularis, good specimens",eso_muscularis
+GTEX-XQ8I-1626,Esophagus - Muscularis,GTEX-XQ8I,male,50-59,Ventilator case,,"6 pieces, up to 8x4mm; well dissected, no mucosa, no adipose",eso_muscularis
+GTEX-XUJ4-0926,Esophagus - Muscularis,GTEX-XUJ4,female,60-69,Ventilator case,clean_specimens,"6 pieces, up to 11x5mm;  all muscularis, good specimens",eso_muscularis
+GTEX-XUW1-1526,Esophagus - Muscularis,GTEX-XUW1,female,50-59,Ventilator case,clean_specimens,"6 pieces, up to 9x5mm; well trimmed musc. propria; good ganglion cells",eso_muscularis
+GTEX-XUZC-0326,Esophagus - Muscularis,GTEX-XUZC,female,30-39,Ventilator case,clean_specimens,"6 pieces, up to 12x4mm; all muscularis; good specimens",eso_muscularis
+GTEX-XV7Q-1026,Esophagus - Muscularis,GTEX-XV7Q,female,40-49,Ventilator case,,"6 pieces, up to 10x6mm; all muscularis",eso_muscularis
+GTEX-XXEK-0426,Esophagus - Muscularis,GTEX-XXEK,male,50-59,Ventilator case,clean_specimens,"6 pieces, up to 7.5x5mm; all muscularis, good specimens",eso_muscularis
+GTEX-XYKS-1126,Esophagus - Muscularis,GTEX-XYKS,female,60-69,Ventilator case,,"6 pieces, up to 8x4mm; 3 muscularis only; 2 mucosa only; 1 fibromuscular tissue",eso_muscularis
+GTEX-Y111-1726,Esophagus - Muscularis,GTEX-Y111,male,50-59,Fast death - violent,,"6 pieces, up to 10x4mm; well dissected muscularis",eso_muscularis
+GTEX-Y114-1026,Esophagus - Muscularis,GTEX-Y114,female,50-59,Ventilator case,clean_specimens,"6 pieces, up to 8x5mm; all muscularis, good specimens",eso_muscularis
+GTEX-Y3I4-1026,Esophagus - Muscularis,GTEX-Y3I4,male,50-59,Ventilator case,clean_specimens,"6 pieces, up to 10x5mm; all muscularis, good specimens",eso_muscularis
+GTEX-Y3IK-1226,Esophagus - Muscularis,GTEX-Y3IK,female,50-59,Ventilator case,,"6 pieces, up to 6x4mm. Well dissected.",eso_muscularis
+GTEX-Y5LM-1126,Esophagus - Muscularis,GTEX-Y5LM,female,40-49,Ventilator case,,6 pieces. up to 11.5x7mm; Up to 2mm of periesophageal extraneous fibrous stroma,eso_muscularis
+GTEX-Y5V5-1426,Esophagus - Muscularis,GTEX-Y5V5,female,60-69,Ventilator case,clean_specimens,"6 pieces, up to 12x4mm;  all muscle; good specimens",eso_muscularis
+GTEX-Y5V6-1126,Esophagus - Muscularis,GTEX-Y5V6,male,60-69,Ventilator case,,"6 pieces, up to 7x5mm; well  dissected; prominent focus of ganglion cell marked",eso_muscularis
+GTEX-Y8E4-1826,Esophagus - Muscularis,GTEX-Y8E4,male,40-49,Ventilator case,,"6 pieces, up to 9x5mm; well dissected.",eso_muscularis
+GTEX-Y8LW-0626,Esophagus - Muscularis,GTEX-Y8LW,female,50-59,Ventilator case,clean_specimens,"6 pieces, up to 9x4.5mm; all muscularis, good specimens",eso_muscularis
+GTEX-Y9LG-0826,Esophagus - Muscularis,GTEX-Y9LG,male,30-39,Ventilator case,,"6 pieces, up to 11x5mm;   Well trimmed.",eso_muscularis
+GTEX-YB5E-0826,Esophagus - Muscularis,GTEX-YB5E,male,40-49,Ventilator case,clean_specimens,"6 pieces, up to 9x4.5mm; all muccualris, good specimens",eso_muscularis
+GTEX-YB5K-0726,Esophagus - Muscularis,GTEX-YB5K,female,40-49,Ventilator case,,6 pieces. up to 10x5mm; Well trimmed.,eso_muscularis
+GTEX-YEC3-1926,Esophagus - Muscularis,GTEX-YEC3,male,50-59,Ventilator case,,"6 pieces, up to 10x4mm; all muscularis",eso_muscularis
+GTEX-YEC4-1126,Esophagus - Muscularis,GTEX-YEC4,male,40-49,Ventilator case,,"6 pieces, up to 9x4mm; mainly muscularis, a few with adherent serosa containing vessels (delineated) or peripheral nerve (ensquared)",eso_muscularis
+GTEX-YECK-1726,Esophagus - Muscularis,GTEX-YECK,male,60-69,Intermediate death,clean_specimens,"6 pieces, from 6x3 to 9x4mm; all muscularis, good specimens",eso_muscularis
+GTEX-YF7O-0826,Esophagus - Muscularis,GTEX-YF7O,male,50-59,Ventilator case,,"6 pieces, from 7x4 to 9x5mm; well trimmed",eso_muscularis
+GTEX-YFC4-1326,Esophagus - Muscularis,GTEX-YFC4,female,40-49,Fast death - violent,clean_specimens,"6 pieces, all muscularis, excellent specimens",eso_muscularis
+GTEX-YFCO-0526,Esophagus - Muscularis,GTEX-YFCO,male,40-49,Ventilator case,,6 pieces; relatively well-trimmed with small focus of mucous glands,eso_muscularis
+GTEX-YJ89-1626,Esophagus - Muscularis,GTEX-YJ89,male,60-69,Fast death - natural causes,,6 pieces; no residual mucosa,eso_muscularis
+GTEX-YJ8A-1226,Esophagus - Muscularis,GTEX-YJ8A,male,20-29,Ventilator case,,6 pieces; well trimmed,eso_muscularis
+GTEX-YJ8O-0526,Esophagus - Muscularis,GTEX-YJ8O,female,40-49,Fast death - violent,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-Z93S-1526,Esophagus - Muscularis,GTEX-Z93S,male,50-59,Fast death - natural causes,,"6 pieces, generally all muscularis.  Up to ~0.7mm adherent fatty layer on several sections",eso_muscularis
+GTEX-Z9EW-0626,Esophagus - Muscularis,GTEX-Z9EW,male,40-49,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZA64-0526,Esophagus - Muscularis,GTEX-ZA64,male,20-29,Ventilator case,,"6 pieces, well preserved, all muscularis; switched with 0625; relabel for use",eso_muscularis
+GTEX-ZAB4-1226,Esophagus - Muscularis,GTEX-ZAB4,male,40-49,Slow death,,6  pieces. Well trimmed except for 3 mucosal remnants (marked),eso_muscularis
+GTEX-ZAB5-1026,Esophagus - Muscularis,GTEX-ZAB5,male,50-59,Ventilator case,,"6 pieces, well-trimmed",eso_muscularis
+GTEX-ZAJG-1426,Esophagus - Muscularis,GTEX-ZAJG,female,50-59,Intermediate death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZAK1-1626,Esophagus - Muscularis,GTEX-ZAK1,female,50-59,Fast death - natural causes,,"6 pieces, all muscularis, minimal fat",eso_muscularis
+GTEX-ZC5H-1126,Esophagus - Muscularis,GTEX-ZC5H,female,40-49,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZDTS-1526,Esophagus - Muscularis,GTEX-ZDTS,male,60-69,Fast death - natural causes,,6 pieces; well trimmed,eso_muscularis
+GTEX-ZDTT-1226,Esophagus - Muscularis,GTEX-ZDTT,male,60-69,Ventilator case,clean_specimens,"6 pieces, good specimens, no mucosa seen",eso_muscularis
+GTEX-ZDXO-2026,Esophagus - Muscularis,GTEX-ZDXO,male,60-69,Fast death - natural causes,,"6 pieces, all muscularis",eso_muscularis
+GTEX-ZDYS-0926,Esophagus - Muscularis,GTEX-ZDYS,male,50-59,Ventilator case,,"6 pieces, no residual mucosa",eso_muscularis
+GTEX-ZE7O-1626,Esophagus - Muscularis,GTEX-ZE7O,female,50-59,Fast death - natural causes,,6 pieces,eso_muscularis
+GTEX-ZE9C-1226,Esophagus - Muscularis,GTEX-ZE9C,male,60-69,Fast death - natural causes,,"6 pieces, all muscularis",eso_muscularis
+GTEX-ZEX8-1326,Esophagus - Muscularis,GTEX-ZEX8,male,50-59,Ventilator case,,6 pieces. Well trimmed muscularis.,eso_muscularis
+GTEX-ZF28-1226,Esophagus - Muscularis,GTEX-ZF28,male,60-69,Slow death,,6 pieces. well dissected,eso_muscularis
+GTEX-ZF29-1226,Esophagus - Muscularis,GTEX-ZF29,female,60-69,Ventilator case,,"6 pieces, well-trimmed of mucosa",eso_muscularis
+GTEX-ZF2S-1126,Esophagus - Muscularis,GTEX-ZF2S,female,50-59,Ventilator case,,"6 pieces, well dissected",eso_muscularis
+GTEX-ZF3C-1726,Esophagus - Muscularis,GTEX-ZF3C,female,50-59,Ventilator case,,6 pieces well trimmed,eso_muscularis
+GTEX-ZG7Y-1326,Esophagus - Muscularis,GTEX-ZG7Y,male,50-59,Ventilator case,,"6 pieces, all muscularis, switch with -1125, can use after labeling is corrected",eso_muscularis
+GTEX-ZGAY-1226,Esophagus - Muscularis,GTEX-ZGAY,female,40-49,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZLFU-1026,Esophagus - Muscularis,GTEX-ZLFU,male,40-49,Ventilator case,,6 pieces. Up to 30% fibrous stroma.,eso_muscularis
+GTEX-ZLV1-0626,Esophagus - Muscularis,GTEX-ZLV1,female,60-69,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZLWG-1226,Esophagus - Muscularis,GTEX-ZLWG,female,50-59,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-ZP4G-0926,Esophagus - Muscularis,GTEX-ZP4G,female,20-29,Ventilator case,clean_specimens,"6 pieces, a few with up to 0.5mm strips of adherent serosa, delineated.  All muscularis, good specimens",eso_muscularis
+GTEX-ZPCL-1226,Esophagus - Muscularis,GTEX-ZPCL,female,60-69,Ventilator case,,6 pieces. Well dissected.,eso_muscularis
+GTEX-ZPIC-1626,Esophagus - Muscularis,GTEX-ZPIC,female,40-49,Ventilator case,,"6 pieces, all muscularis a switch with 1525",eso_muscularis
+GTEX-ZPU1-1326,Esophagus - Muscularis,GTEX-ZPU1,male,40-49,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-ZQG8-1826,Esophagus - Muscularis,GTEX-ZQG8,female,60-69,Ventilator case,,6 pieces. 2 pieces have 20% external fat,eso_muscularis
+GTEX-ZQUD-0326,Esophagus - Muscularis,GTEX-ZQUD,male,30-39,Ventilator case,,"6 pieces, all muscularis, adherent nubbins of fat on most, rep ones delineated",eso_muscularis
+GTEX-ZT9W-1226,Esophagus - Muscularis,GTEX-ZT9W,male,50-59,Ventilator case,,6 pieces. Well trimmed.,eso_muscularis
+GTEX-ZT9X-0626,Esophagus - Muscularis,GTEX-ZT9X,male,40-49,Ventilator case,,"5 pieces, all muscularis",eso_muscularis
+GTEX-ZTPG-1526,Esophagus - Muscularis,GTEX-ZTPG,female,20-29,Ventilator case,,"6 pieces, 10% external fat",eso_muscularis
+GTEX-ZTSS-0726,Esophagus - Muscularis,GTEX-ZTSS,male,40-49,Ventilator case,,"6 pieces, 1 with 50% fibroadipose",eso_muscularis
+GTEX-ZTTD-1426,Esophagus - Muscularis,GTEX-ZTTD,male,50-59,Intermediate death,,"6 pieces, muscularis, adherent rim of fat on a few aliquots up to ~1mm, rep foci delineated",eso_muscularis
+GTEX-ZTX8-0326,Esophagus - Muscularis,GTEX-ZTX8,male,20-29,Ventilator case,,6 pieces,eso_muscularis
+GTEX-ZU9S-1526,Esophagus - Muscularis,GTEX-ZU9S,male,30-39,Fast death - natural causes,,6 pieces. Slide labeled 1625 in CBR's  External Case ID list; should be 1525,eso_muscularis
+GTEX-ZUA1-1326,Esophagus - Muscularis,GTEX-ZUA1,male,40-49,Fast death - natural causes,,6 pieces. Well dissected.,eso_muscularis
+GTEX-ZV68-1126,Esophagus - Muscularis,GTEX-ZV68,female,50-59,Fast death - natural causes,,"6 pieces, actually all muscularis, switch with 0925",eso_muscularis
+GTEX-ZV6S-0526,Esophagus - Muscularis,GTEX-ZV6S,female,40-49,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-ZV7C-1126,Esophagus - Muscularis,GTEX-ZV7C,male,50-59,Ventilator case,clean_specimens,"3 pieces, all muscularis, trace adherent serosa, good specimens",eso_muscularis
+GTEX-ZVE1-1526,Esophagus - Muscularis,GTEX-ZVE1,female,50-59,Ventilator case,,"6 pieces, few submucosal glands (delineated)",eso_muscularis
+GTEX-ZVE2-1426,Esophagus - Muscularis,GTEX-ZVE2,male,50-59,Ventilator case,,"6 pieces, well trimmed, focal detached fragmented squamous epithelium",eso_muscularis
+GTEX-ZVP2-1226,Esophagus - Muscularis,GTEX-ZVP2,male,50-59,Ventilator case,,"3 pieces, few submucosal glands delineated",eso_muscularis
+GTEX-ZVT2-1226,Esophagus - Muscularis,GTEX-ZVT2,female,50-59,Ventilator case,,3 pieces,eso_muscularis
+GTEX-ZVT3-1526,Esophagus - Muscularis,GTEX-ZVT3,female,60-69,Fast death - natural causes,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZVT4-1926,Esophagus - Muscularis,GTEX-ZVT4,female,50-59,Intermediate death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZVZP-1426,Esophagus - Muscularis,GTEX-ZVZP,male,50-59,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-ZVZQ-1126,Esophagus - Muscularis,GTEX-ZVZQ,female,60-69,Fast death - violent,,"6 pieces, all muscularis",eso_muscularis
+GTEX-ZWKS-1526,Esophagus - Muscularis,GTEX-ZWKS,male,30-39,Slow death,clean_specimens,"6  pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZXES-1226,Esophagus - Muscularis,GTEX-ZXES,female,30-39,Ventilator case,,"6 pieces, well trimmed, detached fragment of squamous mucosa",eso_muscularis
+GTEX-ZXG5-1326,Esophagus - Muscularis,GTEX-ZXG5,male,60-69,Intermediate death,,6 pieces; well trimmed,eso_muscularis
+GTEX-ZY6K-0526,Esophagus - Muscularis,GTEX-ZY6K,male,50-59,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-ZYFC-1726,Esophagus - Muscularis,GTEX-ZYFC,male,50-59,Fast death - natural causes,,"6 pieces, well trimmed",eso_muscularis
+GTEX-ZYFD-2626,Esophagus - Muscularis,GTEX-ZYFD,male,50-59,Intermediate death,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-ZYFG-1026,Esophagus - Muscularis,GTEX-ZYFG,female,60-69,Ventilator case,,6 pieces; well dissected muscularis,eso_muscularis
+GTEX-ZYT6-1226,Esophagus - Muscularis,GTEX-ZYT6,male,30-39,Fast death - violent,,"6 pieces, all muscularis",eso_muscularis
+GTEX-ZYVF-2326,Esophagus - Muscularis,GTEX-ZYVF,female,50-59,Ventilator case,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZYW4-1426,Esophagus - Muscularis,GTEX-ZYW4,male,60-69,Intermediate death,,"6 pieces, well trimmed",eso_muscularis
+GTEX-ZYWO-0926,Esophagus - Muscularis,GTEX-ZYWO,female,40-49,Ventilator case,,"6 pieces, well trimmed",eso_muscularis
+GTEX-ZYY3-1626,Esophagus - Muscularis,GTEX-ZYY3,female,60-69,Slow death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZZ64-0326,Esophagus - Muscularis,GTEX-ZZ64,male,20-29,Ventilator case,,"4 pieces; muscularis, not mucosa",eso_muscularis
+GTEX-ZZPT-1526,Esophagus - Muscularis,GTEX-ZZPT,male,50-59,Slow death,clean_specimens,"6 pieces, all muscularis, good specimens",eso_muscularis
+GTEX-ZZPU-1826,Esophagus - Muscularis,GTEX-ZZPU,female,50-59,Ventilator case,,"6 pieces, well trimmed",eso_muscularis

@@ -1,0 +1,964 @@
+Tissue Sample ID,Tissue,Subject ID,Sex,Age Bracket,Hardy Scale,Pathology Categories,Pathology Notes,Tissue ID
+GTEX-1117F-1526,Esophagus - Mucosa,GTEX-1117F,female,60-69,Slow death,,"4 pieces, markedly autolyzed; mucosa largely sloughed",eso_mucosa
+GTEX-111CU-0726,Esophagus - Mucosa,GTEX-111CU,male,50-59,Ventilator case,,"6 pieces, well trimmed of muscularis, few submucosal glands (some delineated)",eso_mucosa
+GTEX-111FC-1826,Esophagus - Mucosa,GTEX-111FC,male,60-69,Fast death - violent,,5 pieces,eso_mucosa
+GTEX-111VG-1126,Esophagus - Mucosa,GTEX-111VG,male,60-69,Intermediate death,,6 pieces; epithelium totally sloughed,eso_mucosa
+GTEX-111YS-0926,Esophagus - Mucosa,GTEX-111YS,male,60-69,Ventilator case,,"6 pieces, all mucosa",eso_mucosa
+GTEX-1122O-1726,Esophagus - Mucosa,GTEX-1122O,female,60-69,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1128S-1426,Esophagus - Mucosa,GTEX-1128S,female,60-69,Fast death - natural causes,,"6 pieces, near- total autolysis/mucosa completely sloughed",eso_mucosa
+GTEX-113JC-1126,Esophagus - Mucosa,GTEX-113JC,female,50-59,Fast death - natural causes,,"6 pieces, well trimmed mucosa",eso_mucosa
+GTEX-117XS-1626,Esophagus - Mucosa,GTEX-117XS,male,60-69,Fast death - natural causes,congestion,"6 pieces, congestion",eso_mucosa
+GTEX-117YW-1926,Esophagus - Mucosa,GTEX-117YW,male,50-59,Intermediate death,,"6 pieces, epithelium sloughing, muscularis focally present",eso_mucosa
+GTEX-117YX-1626,Esophagus - Mucosa,GTEX-117YX,male,50-59,Ventilator case,,"6 pieces, mucosa and muscularis, 2 with sufficient squamous epithelium; others may have epithelium deeper in blocks",eso_mucosa
+GTEX-1192W-0926,Esophagus - Mucosa,GTEX-1192W,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa ~0.3-0.4 mm",eso_mucosa
+GTEX-1192X-1726,Esophagus - Mucosa,GTEX-1192X,male,50-59,Slow death,,"6 pieces, squamous mucosa ~5-10% thickness, partially sloughing",eso_mucosa
+GTEX-11DXX-1126,Esophagus - Mucosa,GTEX-11DXX,female,60-69,Ventilator case,"esophagitis, metaplasia","6 pieces, acute erosive esophagitis, oncocytic metaplasia of submucosal glands",eso_mucosa
+GTEX-11DXY-1426,Esophagus - Mucosa,GTEX-11DXY,male,60-69,Fast death - natural causes,congestion,"4 pieces, congested",eso_mucosa
+GTEX-11DXZ-1226,Esophagus - Mucosa,GTEX-11DXZ,male,50-59,Ventilator case,,"7 pieces, includes few submucosal glands with oncocytic change",eso_mucosa
+GTEX-11DYG-1326,Esophagus - Mucosa,GTEX-11DYG,male,60-69,Fast death - natural causes,"cyst, esophagitis",6 pieces; chronic esophagitis with cystic submucosal ducts [pseudodiverticulosis],eso_mucosa
+GTEX-11DZ1-2026,Esophagus - Mucosa,GTEX-11DZ1,male,50-59,Slow death,desquamation,6 pieces; desquamation,eso_mucosa
+GTEX-11EI6-1526,Esophagus - Mucosa,GTEX-11EI6,male,60-69,Slow death,,"6 pieces, squamous mucosa is ~10% thickness, beginning to slough, autolysis score is '2' in some areas",eso_mucosa
+GTEX-11EM3-0826,Esophagus - Mucosa,GTEX-11EM3,female,20-29,Ventilator case,,"6 pieces, few submucosal glands (some marked)",eso_mucosa
+GTEX-11EMC-2226,Esophagus - Mucosa,GTEX-11EMC,female,60-69,Fast death - natural causes,,"3 pieces, squamous mucosa up to ~50-70% thickness, partially sloughing",eso_mucosa
+GTEX-11EQ8-1826,Esophagus - Mucosa,GTEX-11EQ8,male,60-69,Slow death,esophagitis,"6 pieces, acute and chronic esophagitis with erosion, includes muscularis",eso_mucosa
+GTEX-11EQ9-0726,Esophagus - Mucosa,GTEX-11EQ9,male,30-39,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.5mm thick, numberous mubmucosal mucous glands present, rep. delineated",eso_mucosa
+GTEX-11GS4-1526,Esophagus - Mucosa,GTEX-11GS4,male,60-69,Fast death - natural causes,,"6 pieces, epithelium partially sloughing, few submucosal glands (some delineated)",eso_mucosa
+GTEX-11GSO-1426,Esophagus - Mucosa,GTEX-11GSO,male,60-69,Fast death - natural causes,,"6 pieces, predominantly mucosa with few detached fragments of muscularis and fat, squamous epithelium sloughing, few collections of lymphocytes",eso_mucosa
+GTEX-11GSP-1826,Esophagus - Mucosa,GTEX-11GSP,female,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_mucosa
+GTEX-11I78-1526,Esophagus - Mucosa,GTEX-11I78,female,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.3mm, ~25-30% thickness",eso_mucosa
+GTEX-11ILO-1026,Esophagus - Mucosa,GTEX-11ILO,female,40-49,Ventilator case,"atrophy, metaplasia",4 pieces; partial sloughing of epithelium; glandular atrophy and squamous metaplasia of glandular ducts,eso_mucosa
+GTEX-11LCK-1726,Esophagus - Mucosa,GTEX-11LCK,male,30-39,Ventilator case,,"6 pieces, squamous mucosa is ~0.25mm, ~10-15% total thickness",eso_mucosa
+GTEX-11NSD-1126,Esophagus - Mucosa,GTEX-11NSD,male,20-29,Ventilator case,,6 pieces; squamous mucosa is ~10% thickness,eso_mucosa
+GTEX-11NUK-1326,Esophagus - Mucosa,GTEX-11NUK,male,50-59,Fast death - natural causes,,"6 pieces, epithelium partially sloughing, some submucosal glands",eso_mucosa
+GTEX-11O72-1826,Esophagus - Mucosa,GTEX-11O72,male,40-49,Fast death - natural causes,desquamation,6 pieces; squamous desquamation,eso_mucosa
+GTEX-11OF3-2126,Esophagus - Mucosa,GTEX-11OF3,male,60-69,Fast death - natural causes,,6 pieces; mucosa sloughed; only muscularis mucosae and submucosa remain,eso_mucosa
+GTEX-11ONC-1526,Esophagus - Mucosa,GTEX-11ONC,male,60-69,Fast death - natural causes,,6 pieces; well dissected mucosa,eso_mucosa
+GTEX-11P7K-1326,Esophagus - Mucosa,GTEX-11P7K,male,30-39,Ventilator case,,6 pieces,eso_mucosa
+GTEX-11P81-0826,Esophagus - Mucosa,GTEX-11P81,female,30-39,Ventilator case,,"4 pieces, includes few submucosal glands (marked)",eso_mucosa
+GTEX-11P82-0526,Esophagus - Mucosa,GTEX-11P82,male,20-29,Fast death - violent,,"6 pieces; squamous mucosa well preserved, up to~0.5mm thick",eso_mucosa
+GTEX-11PRG-2626,Esophagus - Mucosa,GTEX-11PRG,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa is ~0.2mm, in some foci approaching autolysis score 2, early separation/sloughing noted",eso_mucosa
+GTEX-11TT1-0526,Esophagus - Mucosa,GTEX-11TT1,male,20-29,Ventilator case,,"6 pieces, few groups of submucosal glands (marked), detached fragment of adrenal tissue",eso_mucosa
+GTEX-11TTK-1526,Esophagus - Mucosa,GTEX-11TTK,female,60-69,Slow death,esophagitis,6 pieces; partial epithelial sloughing; prominent glandular ducts [c/w/ reflux],eso_mucosa
+GTEX-11TUW-1326,Esophagus - Mucosa,GTEX-11TUW,male,60-69,Fast death - natural causes,,"6 pieces, few clusters of submucosal glands",eso_mucosa
+GTEX-11UD2-1426,Esophagus - Mucosa,GTEX-11UD2,male,50-59,Fast death - natural causes,,"4 pieces, squamous mucosa well preserved, ~0.4mm",eso_mucosa
+GTEX-11VI4-0526,Esophagus - Mucosa,GTEX-11VI4,female,40-49,Ventilator case,,"6 pieces; well preserved, well dissected",eso_mucosa
+GTEX-11VI4-5001,Esophagus - Mucosa,GTEX-11VI4,female,40-49,Ventilator case,,1 piece,eso_mucosa
+GTEX-11WQC-1126,Esophagus - Mucosa,GTEX-11WQC,male,60-69,Fast death - natural causes,,"6 pieces, epithelium predominantly sloughed, some submucosal glands and dilated ducts",eso_mucosa
+GTEX-11WQK-1726,Esophagus - Mucosa,GTEX-11WQK,male,50-59,Fast death - natural causes,,"6 pieces, badly autolyzed, no mucosa",eso_mucosa
+GTEX-11XUK-0826,Esophagus - Mucosa,GTEX-11XUK,female,40-49,Ventilator case,,6 pieces; prominent submucosal glands (1 mm) [annotated],eso_mucosa
+GTEX-11ZTS-2626,Esophagus - Mucosa,GTEX-11ZTS,female,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa is ~10% thickness",eso_mucosa
+GTEX-11ZTT-0826,Esophagus - Mucosa,GTEX-11ZTT,female,60-69,Ventilator case,,"6 pieces, 5 include squamous epithelium and muscularis mucosae, one piece is all muscle",eso_mucosa
+GTEX-11ZTT-5005,Esophagus - Mucosa,GTEX-11ZTT,female,60-69,Ventilator case,,2 pieces,eso_mucosa
+GTEX-11ZU8-1526,Esophagus - Mucosa,GTEX-11ZU8,male,60-69,Slow death,,"6 pieces, squamous mucosa is ~5% thickness",eso_mucosa
+GTEX-11ZUS-1026,Esophagus - Mucosa,GTEX-11ZUS,male,30-39,Fast death - violent,congestion,"4 pieces, epithelium partially sloughed, congested",eso_mucosa
+GTEX-11ZVC-1626,Esophagus - Mucosa,GTEX-11ZVC,female,50-59,Fast death - natural causes,,4 pieces; partly sloughed epithelium; small samples,eso_mucosa
+GTEX-1211K-0926,Esophagus - Mucosa,GTEX-1211K,female,60-69,Ventilator case,,"6 pieces, squamous mucosa is ~10% thickness",eso_mucosa
+GTEX-1211K-5008,Esophagus - Mucosa,GTEX-1211K,female,60-69,Ventilator case,,"1 piece, correlates with PGT-fixed aliquot",eso_mucosa
+GTEX-1212Z-2126,Esophagus - Mucosa,GTEX-1212Z,male,60-69,Fast death - natural causes,,6 pieces,eso_mucosa
+GTEX-12584-1626,Esophagus - Mucosa,GTEX-12584,male,40-49,Intermediate death,,6 pieces; completely sloughed epithelium,eso_mucosa
+GTEX-12696-1326,Esophagus - Mucosa,GTEX-12696,male,60-69,Intermediate death,,"6 pieces, squamous mucosa ~20% thickness, prominent submucosal glands noted, encircled",eso_mucosa
+GTEX-1269C-1026,Esophagus - Mucosa,GTEX-1269C,female,60-69,Fast death - natural causes,,6 pieces,eso_mucosa
+GTEX-1269W-1426,Esophagus - Mucosa,GTEX-1269W,male,60-69,Slow death,,,eso_mucosa
+GTEX-12BJ1-1626,Esophagus - Mucosa,GTEX-12BJ1,male,60-69,Ventilator case,,"6 pieces, squamous mucosa is ~0.5mm thick, ~20% total; a few submucosal mucus glands noted, delineated",eso_mucosa
+GTEX-12C56-1226,Esophagus - Mucosa,GTEX-12C56,male,20-29,Ventilator case,,4 pieces,eso_mucosa
+GTEX-12C56-5004,Esophagus - Mucosa,GTEX-12C56,male,20-29,Ventilator case,,2 pieces,eso_mucosa
+GTEX-12KS4-0926,Esophagus - Mucosa,GTEX-12KS4,male,30-39,Ventilator case,,"6 pieces, squamous mucosa is ~0.2mm, ~15% thickness.  Focally early superficial sloughing is beginning (ie, early score'2;)",eso_mucosa
+GTEX-12WS9-1526,Esophagus - Mucosa,GTEX-12WS9,female,50-59,Intermediate death,,"6 pieces, squamous mucosa is 5% thickness, sloughed in some areas",eso_mucosa
+GTEX-12WSA-1426,Esophagus - Mucosa,GTEX-12WSA,male,60-69,Slow death,,"6 pieces, Squamous mucosa is ~0.2mm, ~10% thickness",eso_mucosa
+GTEX-12WSB-1326,Esophagus - Mucosa,GTEX-12WSB,female,60-69,Slow death,desquamation,6 pieces; focal surface desquamation,eso_mucosa
+GTEX-12WSC-1326,Esophagus - Mucosa,GTEX-12WSC,male,50-59,Fast death - natural causes,,"6 pieces, epithelium sloughing",eso_mucosa
+GTEX-12WSD-1826,Esophagus - Mucosa,GTEX-12WSD,female,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa is ~0.3-0.6 mm, ~30-70% total thickness",eso_mucosa
+GTEX-12WSE-1426,Esophagus - Mucosa,GTEX-12WSE,male,20-29,Fast death - natural causes,,6 pieces; submucosal gland in 3 pieces up to 1 mm,eso_mucosa
+GTEX-12WSF-1726,Esophagus - Mucosa,GTEX-12WSF,male,70-79,Slow death,,"6 pieces, squamous mucosa is ~20-30% thickness",eso_mucosa
+GTEX-12WSG-1526,Esophagus - Mucosa,GTEX-12WSG,female,50-59,Ventilator case,,"6 pieces, predominantly include gastric mucosa (not target)",eso_mucosa
+GTEX-12WSG-5007,Esophagus - Mucosa,GTEX-12WSG,female,50-59,Ventilator case,,"1 piece, consistent with GE junction",eso_mucosa
+GTEX-12WSH-1426,Esophagus - Mucosa,GTEX-12WSH,male,50-59,Fast death - natural causes,desquamation,6 pieces; surface desquamation,eso_mucosa
+GTEX-12WSI-1226,Esophagus - Mucosa,GTEX-12WSI,male,50-59,Fast death - natural causes,,"6 pieces, markedly autolyzed, mucosa sloughed, submucosal lymphoid aggregates present, delineated",eso_mucosa
+GTEX-12WSJ-0626,Esophagus - Mucosa,GTEX-12WSJ,female,40-49,Ventilator case,esophagitis,"6 pieces, erosive esophagitis, probably fungal",eso_mucosa
+GTEX-12WSK-1126,Esophagus - Mucosa,GTEX-12WSK,female,40-49,Ventilator case,,"6 pieces, squamous mucosa well preserved; ~0.5mm, ~25% thickness",eso_mucosa
+GTEX-12WSL-1526,Esophagus - Mucosa,GTEX-12WSL,male,50-59,Ventilator case,,5 pieces; well dissected mucosa with prominent muscularis mucosae,eso_mucosa
+GTEX-12WSN-1526,Esophagus - Mucosa,GTEX-12WSN,male,40-49,Ventilator case,,6 pieces; gastric mucosa with mucosal  lymphoplasmacytic infiltrate; no squamous epithelium,eso_mucosa
+GTEX-12WSN-5013,Esophagus - Mucosa,GTEX-12WSN,male,40-49,Ventilator case,,1 piece; squamous epithelium present; unacceptable based on  PAXgene unacceptability,eso_mucosa
+GTEX-12ZZW-1726,Esophagus - Mucosa,GTEX-12ZZW,male,50-59,Slow death,,"7 pieces squamous mucosa sloughing, <5% thickness",eso_mucosa
+GTEX-12ZZX-1326,Esophagus - Mucosa,GTEX-12ZZX,female,40-49,Fast death - violent,,"6 pieces, squamous mucosa up to ~0.3mm thick",eso_mucosa
+GTEX-12ZZY-1426,Esophagus - Mucosa,GTEX-12ZZY,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.4mm, ~20% thickness.  Submucosa mucus glands noted, rep delineated",eso_mucosa
+GTEX-12ZZZ-2626,Esophagus - Mucosa,GTEX-12ZZZ,male,60-69,Fast death - natural causes,,6 pieces; mucosa largely sloughed; several submucosal glands annotated for possible LCM study,eso_mucosa
+GTEX-13111-0826,Esophagus - Mucosa,GTEX-13111,male,50-59,Ventilator case,,6 pieces; small aggregates of lymphocytes in lamina propria; squamous epithelium measures 315.6um,eso_mucosa
+GTEX-13112-0926,Esophagus - Mucosa,GTEX-13112,male,50-59,Fast death - natural causes,congestion,7 pieces; moderate vascular congestion,eso_mucosa
+GTEX-13113-0926,Esophagus - Mucosa,GTEX-13113,female,60-69,Ventilator case,,"6 pieces.  Squamous mucosa is 5-10% thickness.  Submucosa mucous glands present, encircled (rep)",eso_mucosa
+GTEX-13113-5007,Esophagus - Mucosa,GTEX-13113,female,60-69,Ventilator case,,"1 piece, c/w PGT",eso_mucosa
+GTEX-1313W-1226,Esophagus - Mucosa,GTEX-1313W,female,50-59,Fast death - natural causes,,"6 pieces, several pieces include muscularis propria (some marked)",eso_mucosa
+GTEX-1314G-0826,Esophagus - Mucosa,GTEX-1314G,male,30-39,Ventilator case,esophagitis,"6 pieces; chronic esophagitis, squamous epithelium largely sloughed",eso_mucosa
+GTEX-1314G-5007,Esophagus - Mucosa,GTEX-1314G,male,30-39,Ventilator case,,1 piece; submucosal glands occupy 10%,eso_mucosa
+GTEX-131XE-1426,Esophagus - Mucosa,GTEX-131XE,male,50-59,Ventilator case,,2 pieces; esophageal mucosa NOT prostate,eso_mucosa
+GTEX-131XF-0826,Esophagus - Mucosa,GTEX-131XF,male,60-69,Ventilator case,,"6 pieces; well preserved, well dissected mucosa",eso_mucosa
+GTEX-131XF-5004,Esophagus - Mucosa,GTEX-131XF,male,60-69,Ventilator case,,1 piece,eso_mucosa
+GTEX-131XG-1026,Esophagus - Mucosa,GTEX-131XG,female,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.5mm, ~20-25% thickness",eso_mucosa
+GTEX-131XH-1226,Esophagus - Mucosa,GTEX-131XH,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa, switch with 1125",eso_mucosa
+GTEX-131XW-1326,Esophagus - Mucosa,GTEX-131XW,female,50-59,Slow death,,4 pieces,eso_mucosa
+GTEX-131YS-1426,Esophagus - Mucosa,GTEX-131YS,female,60-69,Fast death - natural causes,,6 pieces,eso_mucosa
+GTEX-132AR-2226,Esophagus - Mucosa,GTEX-132AR,female,50-59,Ventilator case,,6 pieces; well dissected,eso_mucosa
+GTEX-132NY-1826,Esophagus - Mucosa,GTEX-132NY,male,60-69,Fast death - violent,,"6 pieces. squamous mucosa ~0.3mm, submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-132Q8-1826,Esophagus - Mucosa,GTEX-132Q8,male,60-69,Slow death,congestion,"6 pieces; some dilated and congested vessels, epithelium partially sloughing",eso_mucosa
+GTEX-132QS-1426,Esophagus - Mucosa,GTEX-132QS,male,60-69,Ventilator case,clean_specimens,"4 pieces, squamous mucosa up to ~ 0.3mm, ~10% thickness, good specimens",eso_mucosa
+GTEX-1339X-1226,Esophagus - Mucosa,GTEX-1339X,male,40-49,Ventilator case,,6 pieces; z3 have 2 mm of muscularis propria,eso_mucosa
+GTEX-133LE-0626,Esophagus - Mucosa,GTEX-133LE,female,20-29,Ventilator case,,6 pieces; well dissected,eso_mucosa
+GTEX-1399Q-1126,Esophagus - Mucosa,GTEX-1399Q,male,40-49,Ventilator case,congestion,6 pieces; congestion and few lymphocytic aggregates,eso_mucosa
+GTEX-1399R-0826,Esophagus - Mucosa,GTEX-1399R,male,30-39,Ventilator case,,7 pieces; well dissected,eso_mucosa
+GTEX-1399S-1326,Esophagus - Mucosa,GTEX-1399S,female,30-39,Ventilator case,,"6 pieces, squamous mucosa is ~0.5mm  ~25% thickness",eso_mucosa
+GTEX-1399T-1626,Esophagus - Mucosa,GTEX-1399T,male,60-69,Fast death - natural causes,,6 pieces,eso_mucosa
+GTEX-1399U-1026,Esophagus - Mucosa,GTEX-1399U,female,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.5mm, ~15/20% thickness",eso_mucosa
+GTEX-139D8-1326,Esophagus - Mucosa,GTEX-139D8,female,30-39,Ventilator case,,6 pieces; squamous epithelium partly fragmented; well trimmed,eso_mucosa
+GTEX-139T6-0626,Esophagus - Mucosa,GTEX-139T6,male,50-59,Ventilator case,,"6 pieces, squamous mucosa 0.4-0.5mm, ~20-25% thickness.  Submucosal lymphoid aggregates; rep encircled",eso_mucosa
+GTEX-139TS-1026,Esophagus - Mucosa,GTEX-139TS,male,60-69,Fast death - natural causes,,"6 pieces, no squamous epithelium seen, pseudodiverticulosis",eso_mucosa
+GTEX-139TU-1226,Esophagus - Mucosa,GTEX-139TU,male,60-69,Intermediate death,,"6 pieces; mucosa with partial epithelial sloughing, small portion of muscularis propria (marked)",eso_mucosa
+GTEX-139UC-0926,Esophagus - Mucosa,GTEX-139UC,male,60-69,Fast death - natural causes,,"6 pieces squamous mucosa is 0.3-0.4mm, ~30% thickness",eso_mucosa
+GTEX-139UW-1126,Esophagus - Mucosa,GTEX-139UW,male,60-69,Fast death - natural causes,esophagitis,6 pieces; chronic esophagitis; superficial epithelium sloughed,eso_mucosa
+GTEX-139YR-1726,Esophagus - Mucosa,GTEX-139YR,male,50-59,Ventilator case,,6 pieces,eso_mucosa
+GTEX-13CF2-1326,Esophagus - Mucosa,GTEX-13CF2,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa unusually significantly autolyzed, residucal foci are ~0.1mm, largely sloughed",eso_mucosa
+GTEX-13CF3-1626,Esophagus - Mucosa,GTEX-13CF3,female,60-69,Ventilator case,esophagitis,6 pieces; mucosa and abundant submucosa up to 2.7 mm thick; mild chronic esophagitis,eso_mucosa
+GTEX-13CIG-1926,Esophagus - Mucosa,GTEX-13CIG,male,50-59,Fast death - natural causes,,6 pieces; epithelium largely sloughed; muscularis propria [not target] sampled on 2 of 6 [annotated],eso_mucosa
+GTEX-13CZU-0426,Esophagus - Mucosa,GTEX-13CZU,male,20-29,Ventilator case,esophagitis,4 pieces; 2 erosions [annotated]; focal mild esophagitis,eso_mucosa
+GTEX-13CZV-2026,Esophagus - Mucosa,GTEX-13CZV,male,60-69,Fast death - natural causes,,"6 pieces; too autolyzed, surface sloughed",eso_mucosa
+GTEX-13D11-1926,Esophagus - Mucosa,GTEX-13D11,female,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.5mm, ~20-25% thickness",eso_mucosa
+GTEX-13FH7-0526,Esophagus - Mucosa,GTEX-13FH7,female,50-59,Ventilator case,,5 pieces; includes fragments of vegetable matter,eso_mucosa
+GTEX-13FHO-1726,Esophagus - Mucosa,GTEX-13FHO,male,60-69,Ventilator case,congestion,"6 pieces; congested, few clusters of submucosal glands",eso_mucosa
+GTEX-13FHP-1526,Esophagus - Mucosa,GTEX-13FHP,male,50-59,Slow death,congestion,4 pieces; moderate venous vascular congestiopn,eso_mucosa
+GTEX-13FLV-1126,Esophagus - Mucosa,GTEX-13FLV,male,50-59,Fast death - natural causes,,4 pieces,eso_mucosa
+GTEX-13FLW-0926,Esophagus - Mucosa,GTEX-13FLW,male,50-59,Fast death - natural causes,,6 pieces; includes several clusters of submucosal glands,eso_mucosa
+GTEX-13FTW-1626,Esophagus - Mucosa,GTEX-13FTW,male,40-49,Ventilator case,,6 pieces; eosinophilic squamous surface may indicate significant alcohol ingestion,eso_mucosa
+GTEX-13FTX-0526,Esophagus - Mucosa,GTEX-13FTX,female,20-29,Ventilator case,,4 pieces,eso_mucosa
+GTEX-13FTY-1126,Esophagus - Mucosa,GTEX-13FTY,female,40-49,Fast death - natural causes,,"6 pieces; chronically inflammed lamina propria, muscularis mucosae and submucosal glands; no squamous epithelium",eso_mucosa
+GTEX-13FTZ-1526,Esophagus - Mucosa,GTEX-13FTZ,male,60-69,Fast death - natural causes,,"6 pieces; muscularis mucosae, submucosal glands and lymphoid aggregates with only minimal squamous epithelium present",eso_mucosa
+GTEX-13FXS-2026,Esophagus - Mucosa,GTEX-13FXS,male,50-59,Fast death - natural causes,,"6 pieces; few strips include small portion of muscularis, epithelium sloughing, few lymphoid aggregates, rare dilated submucosal gland (pseudodiverticulosis)",eso_mucosa
+GTEX-13G51-0926,Esophagus - Mucosa,GTEX-13G51,male,60-69,Fast death - natural causes,,6 pieces; pseudodiverticulosis (outlined); few pieces include small portion of muscularis propria,eso_mucosa
+GTEX-13IVO-1726,Esophagus - Mucosa,GTEX-13IVO,male,70-79,Slow death,,6 pieces; mucosa and muscularis mucosae present; focal epithelial sloughing,eso_mucosa
+GTEX-13JUV-1526,Esophagus - Mucosa,GTEX-13JUV,female,40-49,Ventilator case,,"6 pieces; esophageal mucosa, few clusters of submucosal glands",eso_mucosa
+GTEX-13JVG-2026,Esophagus - Mucosa,GTEX-13JVG,male,60-69,Fast death - natural causes,,6 pieces,eso_mucosa
+GTEX-13N11-1226,Esophagus - Mucosa,GTEX-13N11,female,50-59,Ventilator case,,"6 pieces; pseudodiverticulosis, includes small portion of muscularis propria (not target)",eso_mucosa
+GTEX-13N1W-1726,Esophagus - Mucosa,GTEX-13N1W,male,70-79,Ventilator case,inflammation,5 pieces; only one piece includes squamous epithelium which is fragmented and detached; patchy chronic inflammation and focal lymphocytic aggregate with foreign body giant cell (outlined),eso_mucosa
+GTEX-13N2G-1226,Esophagus - Mucosa,GTEX-13N2G,male,60-69,Fast death - natural causes,congestion,6 pieces; congestion; missing and attenuation of squamous epithelium in places,eso_mucosa
+GTEX-13NYB-0926,Esophagus - Mucosa,GTEX-13NYB,male,40-49,Fast death - natural causes,,"6 pieces, squamous mucosa is ~0.2mm, ~10% thickness; submucosal mucus glands present, rep. encircled",eso_mucosa
+GTEX-13NYC-1326,Esophagus - Mucosa,GTEX-13NYC,male,60-69,Fast death - natural causes,,6 pieces; no squamous epithelium,eso_mucosa
+GTEX-13NYS-2326,Esophagus - Mucosa,GTEX-13NYS,male,60-69,Slow death,,6 pieces; totally autolyzed epithelium,eso_mucosa
+GTEX-13NZ8-1026,Esophagus - Mucosa,GTEX-13NZ8,female,60-69,Slow death,,5 pieces; 3 have fragmented epithelium; 2 have no epithelium,eso_mucosa
+GTEX-13NZ9-1726,Esophagus - Mucosa,GTEX-13NZ9,male,50-59,Ventilator case,esophagitis,"6 pieces, mucosa markedly and unusually autolyzed, sloughing, ~ 0.1mm residual, with chronic esophagitis",eso_mucosa
+GTEX-13NZA-2026,Esophagus - Mucosa,GTEX-13NZA,male,60-69,Fast death - natural causes,,"6 pieces; squamous epithelium is partially sloughed, several pieces include portion of muscularis propria (not target)",eso_mucosa
+GTEX-13NZB-1226,Esophagus - Mucosa,GTEX-13NZB,male,30-39,Ventilator case,inflammation,"5 pieces; several clusters of submucosal glands present, patchy mild chronic inflammation and eosinophilic squamous surface",eso_mucosa
+GTEX-13O1R-1326,Esophagus - Mucosa,GTEX-13O1R,male,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_mucosa
+GTEX-13O21-0626,Esophagus - Mucosa,GTEX-13O21,male,50-59,Ventilator case,,"6 pieces; squamous mucosa is ~0.5mm, ~10% thickness",eso_mucosa
+GTEX-13O3O-1226,Esophagus - Mucosa,GTEX-13O3O,female,60-69,Intermediate death,,6 pieces; largely sloughed squamous mucosa; may be used for LCM,eso_mucosa
+GTEX-13O3P-1226,Esophagus - Mucosa,GTEX-13O3P,male,50-59,Slow death,,6 pieces; largely sloughed glandular mucosa consistent with Barrett esophagus (clinical history),eso_mucosa
+GTEX-13O3Q-0826,Esophagus - Mucosa,GTEX-13O3Q,male,50-59,Fast death - natural causes,"congestion, desquamation",6 pieces; focal desquamation; 3 pieces are moderately congested,eso_mucosa
+GTEX-13O61-0926,Esophagus - Mucosa,GTEX-13O61,male,60-69,Ventilator case,"hyperplasia, inflammation",4 pieces; squamous hyperplasia and chronic inflammation especially in subepithelial glands (elevated lymphoid content) in 2 of 4 pieces [outlined],eso_mucosa
+GTEX-13OVG-0626,Esophagus - Mucosa,GTEX-13OVG,male,60-69,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm, ~30% thickness; few submucosal mucus glands noted, rep encircled",eso_mucosa
+GTEX-13OVG-5008,Esophagus - Mucosa,GTEX-13OVG,male,60-69,Ventilator case,,"1 piece, correlates with PGT fixed tissue.",eso_mucosa
+GTEX-13OVH-1926,Esophagus - Mucosa,GTEX-13OVH,male,70-79,Fast death - natural causes,,"6 pieces, remarkably advanced autolysis, mucosa completely sloughed",eso_mucosa
+GTEX-13OVI-2626,Esophagus - Mucosa,GTEX-13OVI,female,60-69,Ventilator case,,"6 pieces, squamous mucosa is ~0.3mm, 15-20% of total thickness",eso_mucosa
+GTEX-13OVJ-1226,Esophagus - Mucosa,GTEX-13OVJ,female,50-59,Fast death - natural causes,,7 pieces (fragmented),eso_mucosa
+GTEX-13OVK-1126,Esophagus - Mucosa,GTEX-13OVK,male,40-49,Ventilator case,hyperplasia,6 pieces; squamous hyperplasia,eso_mucosa
+GTEX-13OVL-2126,Esophagus - Mucosa,GTEX-13OVL,male,50-59,Fast death - natural causes,,6 pieces; superficial epithelial sloughing; well dissected,eso_mucosa
+GTEX-13OW5-1426,Esophagus - Mucosa,GTEX-13OW5,male,60-69,Intermediate death,,"6 pieces, unusually markedly autolyzed; squamous mucosa totally sloughed; submucosal mucus glands prominent, rep. delineated",eso_mucosa
+GTEX-13OW6-1326,Esophagus - Mucosa,GTEX-13OW6,male,50-59,Fast death - natural causes,"congestion, inflammation","6 pieces; squamous mucosa is partially sloughed, congestion and chronic inflammation, all pieces include muscularis propria (not target)",eso_mucosa
+GTEX-13OW7-2126,Esophagus - Mucosa,GTEX-13OW7,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.3mm, ~15% thickness.  Few submucosal mucus glands encircled",eso_mucosa
+GTEX-13OW8-2326,Esophagus - Mucosa,GTEX-13OW8,male,60-69,Fast death - natural causes,congestion,6 pieces; congested vessels,eso_mucosa
+GTEX-13PDP-1626,Esophagus - Mucosa,GTEX-13PDP,male,60-69,Slow death,,4 pieces,eso_mucosa
+GTEX-13PL6-2526,Esophagus - Mucosa,GTEX-13PL6,female,40-49,Intermediate death,,"6 pieces, unusually advanced autolysis; squamous mucosa totally sloughed.  Residual submucosal mucus glands present but poorly preserved; rep delineated.",eso_mucosa
+GTEX-13PL7-0226,Esophagus - Mucosa,GTEX-13PL7,female,60-69,Ventilator case,,"6 pieces, squamous mucosa well-preserved, ~0.4mm, 30-40% thicknes",eso_mucosa
+GTEX-13PVQ-1726,Esophagus - Mucosa,GTEX-13PVQ,male,50-59,Fast death - natural causes,,4 pieces; partially sloughed,eso_mucosa
+GTEX-13PVR-1826,Esophagus - Mucosa,GTEX-13PVR,female,60-69,Ventilator case,,"6 pieces, squamous mucosa hyperplastic, up to 0.8mm, 20-40% thickness",eso_mucosa
+GTEX-13PVR-1926,Esophagus - Mucosa,GTEX-13PVR,female,60-69,Ventilator case,,"6 pieces, squamous mucosa up to ~0.6mm, ~30-40% thickness.",eso_mucosa
+GTEX-13QBU-1026,Esophagus - Mucosa,GTEX-13QBU,female,40-49,Ventilator case,,"6 pieces, squamous mucosa is ~15% thickness",eso_mucosa
+GTEX-13QIC-2226,Esophagus - Mucosa,GTEX-13QIC,female,60-69,Fast death - natural causes,,"6 pieces; squamous mucosa is incomplete, measures 0.42 mm thick",eso_mucosa
+GTEX-13QJ3-1726,Esophagus - Mucosa,GTEX-13QJ3,male,50-59,Ventilator case,,"6 pieces, squmaous mucoa up to ~0.5mm, ~50% thickness.  Submucosal mucus glands prominent; rep delineated",eso_mucosa
+GTEX-13QJC-1426,Esophagus - Mucosa,GTEX-13QJC,female,60-69,Fast death - natural causes,,6 pieces,eso_mucosa
+GTEX-13RTJ-1526,Esophagus - Mucosa,GTEX-13RTJ,male,60-69,Slow death,,"6 pieces, mucosa completely sloughed/autolyzed",eso_mucosa
+GTEX-13RTK-0526,Esophagus - Mucosa,GTEX-13RTK,male,20-29,Ventilator case,,"6 pieces, squamous mucosa is ~0.3mm, ~5-10% thickness",eso_mucosa
+GTEX-13S7M-2626,Esophagus - Mucosa,GTEX-13S7M,female,60-69,Fast death - natural causes,,4 pieces; epithelium largely sloughed,eso_mucosa
+GTEX-13S86-0826,Esophagus - Mucosa,GTEX-13S86,male,40-49,Ventilator case,,6 pieces; well preserved,eso_mucosa
+GTEX-13SLW-1926,Esophagus - Mucosa,GTEX-13SLW,male,70-79,Fast death - natural causes,,"6 pieces, squamous mucosa beginning to slough, up to~0.3mm, 20-30% thickness",eso_mucosa
+GTEX-13SLX-1726,Esophagus - Mucosa,GTEX-13SLX,female,50-59,Fast death - natural causes,congestion,"6 pieces; congestion, squamous epithelium up to 0.3mm",eso_mucosa
+GTEX-13U4I-1126,Esophagus - Mucosa,GTEX-13U4I,female,40-49,Ventilator case,,"6 pieces, squamous mucosa well-preserved, ~0.3mm, 25-30% thickness",eso_mucosa
+GTEX-13VXT-2626,Esophagus - Mucosa,GTEX-13VXT,female,20-29,Ventilator case,,6 pieces; mucosa (not muscularis); all have total autolysis of epithelium. Submucosa & muscularis mucosae preserved; LCM possible.,eso_mucosa
+GTEX-13VXU-1326,Esophagus - Mucosa,GTEX-13VXU,male,50-59,Fast death - natural causes,,6 pieces; well dissected; partial epithelial sloughing,eso_mucosa
+GTEX-13W3W-1626,Esophagus - Mucosa,GTEX-13W3W,female,60-69,Ventilator case,,"6 pieces, squamous mucosa up to ~ 0.3mm, ~10% thickness.  Submucosal mucus glands present; rep delineated",eso_mucosa
+GTEX-13W46-1926,Esophagus - Mucosa,GTEX-13W46,male,50-59,Ventilator case,,"6 pieces; sloughing of superficial epithelium, rare submucosal glands",eso_mucosa
+GTEX-13X6H-1326,Esophagus - Mucosa,GTEX-13X6H,female,50-59,Ventilator case,,6 pieces; well preserved,eso_mucosa
+GTEX-13X6I-1026,Esophagus - Mucosa,GTEX-13X6I,male,60-69,Slow death,,6 pieces; epithelium discontinuous in some pieces,eso_mucosa
+GTEX-13X6J-1526,Esophagus - Mucosa,GTEX-13X6J,male,50-59,Fast death - natural causes,,"6 pieces; 329um thick squamous epithelium, several clusters of submucosal glands",eso_mucosa
+GTEX-13X6K-2126,Esophagus - Mucosa,GTEX-13X6K,female,60-69,Slow death,,"6 pieces, squamous mucosa is ~20% thickness",eso_mucosa
+GTEX-13YAN-1926,Esophagus - Mucosa,GTEX-13YAN,male,60-69,Ventilator case,,"6 pieces, squamous mucosa is ~1520% thickness; submucosal mucus glands noted, rep. delineated",eso_mucosa
+GTEX-1445S-1726,Esophagus - Mucosa,GTEX-1445S,male,60-69,Intermediate death,,"6 pieces, squamous mucosa is ~10-15% thickness",eso_mucosa
+GTEX-144FL-2726,Esophagus - Mucosa,GTEX-144FL,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa ~120-150 microns, submucosal mucus glands present; rep delineated",eso_mucosa
+GTEX-144GL-2126,Esophagus - Mucosa,GTEX-144GL,male,50-59,Fast death - natural causes,,6 pieces; focal sloughing of epithelium; vegetable remnants outlined,eso_mucosa
+GTEX-144GM-1426,Esophagus - Mucosa,GTEX-144GM,male,20-29,Ventilator case,,"6 pieces, squamous mucosa is ~0.3mm, ~20% thickness",eso_mucosa
+GTEX-144GN-0626,Esophagus - Mucosa,GTEX-144GN,male,50-59,Ventilator case,esophagitis,6 pieces; moderate chronic esophagitis,eso_mucosa
+GTEX-144GO-2726,Esophagus - Mucosa,GTEX-144GO,male,60-69,Slow death,,"6 pieces; few dilated glands, squamous epithelium incomplete, focal ulceration",eso_mucosa
+GTEX-145LS-1826,Esophagus - Mucosa,GTEX-145LS,female,60-69,Slow death,,4 pieces; moderate sloughing of squamous epithelium,eso_mucosa
+GTEX-145LT-1126,Esophagus - Mucosa,GTEX-145LT,male,40-49,Ventilator case,,"6 pieces, Squamous mucosa is ~0.6mm, ~15-20% thickness; submucosal lymphoid aggregates are prominent, rep delineated",eso_mucosa
+GTEX-145LU-0926,Esophagus - Mucosa,GTEX-145LU,male,50-59,Fast death - natural causes,,6 pieces; 2 mm focus of glycogenic acanthosis in 3 sections [annotated],eso_mucosa
+GTEX-145LV-1326,Esophagus - Mucosa,GTEX-145LV,male,50-59,Ventilator case,,6 pieces;,eso_mucosa
+GTEX-145ME-0526,Esophagus - Mucosa,GTEX-145ME,female,40-49,Ventilator case,,"6 pieces, squamous mucosa up to ~0.3mm, ~10% thickness",eso_mucosa
+GTEX-145ME-5004,Esophagus - Mucosa,GTEX-145ME,female,40-49,Ventilator case,,"1 piece, correlates with PFPE specimen",eso_mucosa
+GTEX-145MF-1426,Esophagus - Mucosa,GTEX-145MF,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa is ~0.3mm, 20-25% thickness",eso_mucosa
+GTEX-145MG-2626,Esophagus - Mucosa,GTEX-145MG,male,50-59,Fast death - natural causes,,6 pieces; considerable epithelial sloughing,eso_mucosa
+GTEX-145MH-1126,Esophagus - Mucosa,GTEX-145MH,male,50-59,Fast death - violent,,6 pieces; squamous epithelium is largely sloughed and partially autolyzed,eso_mucosa
+GTEX-145MI-1426,Esophagus - Mucosa,GTEX-145MI,female,60-69,Fast death - natural causes,,6 pieces,eso_mucosa
+GTEX-145MN-1026,Esophagus - Mucosa,GTEX-145MN,male,30-39,Ventilator case,,6 pieces; prominent submucosal mucous glands in 4 pieces up to 10% area [annotated],eso_mucosa
+GTEX-145MO-1426,Esophagus - Mucosa,GTEX-145MO,male,60-69,Intermediate death,,"6 pieces, squamous mucosa is ~0.3mm, superficial sloughing.  Submucosal mucus glands incidentally present, rep encircled.",eso_mucosa
+GTEX-146FH-1726,Esophagus - Mucosa,GTEX-146FH,female,50-59,Ventilator case,,6 pieces; well dissected,eso_mucosa
+GTEX-146FQ-1026,Esophagus - Mucosa,GTEX-146FQ,male,30-39,Ventilator case,,4 pieces; squamous epithelim up to 224.4um thick; submucosal mucus glands occupy up to 20%,eso_mucosa
+GTEX-146FR-0426,Esophagus - Mucosa,GTEX-146FR,female,60-69,Ventilator case,,"6 pieces, squamous mucosa is ~0.3mm, ~10-15% thickness.  Submucosal mucus glands noted, rep encircled",eso_mucosa
+GTEX-14753-2026,Esophagus - Mucosa,GTEX-14753,male,60-69,Slow death,,6 pieces; moderate sloughing of epithelium,eso_mucosa
+GTEX-1477Z-2326,Esophagus - Mucosa,GTEX-1477Z,male,60-69,Slow death,,"6 pieces, unusually poorly preserved, squamous mucosa partly to in some areas totally sloughed, residual is ~50-100 microns thick",eso_mucosa
+GTEX-147F3-0826,Esophagus - Mucosa,GTEX-147F3,female,50-59,Ventilator case,,5 pieces; several clusters of submucosal glands; squamous epithelium measures up to 339.5um,eso_mucosa
+GTEX-147F4-1526,Esophagus - Mucosa,GTEX-147F4,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa badly autolyzed, largely sloughed",eso_mucosa
+GTEX-147GR-2026,Esophagus - Mucosa,GTEX-147GR,male,60-69,Fast death - natural causes,,6 pieces; most epithelium sloughed,eso_mucosa
+GTEX-147JS-1726,Esophagus - Mucosa,GTEX-147JS,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa is ~0.25mm, 40-50% thickness",eso_mucosa
+GTEX-148VI-1026,Esophagus - Mucosa,GTEX-148VI,female,60-69,Ventilator case,,6 pieces; few fragments of muscularis (not target),eso_mucosa
+GTEX-148VJ-1026,Esophagus - Mucosa,GTEX-148VJ,male,70-79,Fast death - natural causes,,"6 pieces, squmaous mucosa up to ~0.25mm, 40-50% thickness",eso_mucosa
+GTEX-1497J-2726,Esophagus - Mucosa,GTEX-1497J,male,60-69,Ventilator case,,"6 pieces, squamous mucosa up to ~0.3mm, 20-30% thickness.  Few submucosal mucus glands noted, rep delineated",eso_mucosa
+GTEX-14A5H-1826,Esophagus - Mucosa,GTEX-14A5H,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.2mm, ~30-40% thickness, unusually advance autolysis, partially sloughing",eso_mucosa
+GTEX-14A5I-1526,Esophagus - Mucosa,GTEX-14A5I,female,50-59,Slow death,,"6 pieces, sqaumous mucosa markedly and unusually autolyzed/sloughed",eso_mucosa
+GTEX-14A6H-1326,Esophagus - Mucosa,GTEX-14A6H,male,30-39,Ventilator case,,6 pieces; patchy eosinophilic squamous surface (?irritation),eso_mucosa
+GTEX-14A6H-5010,Esophagus - Mucosa,GTEX-14A6H,male,30-39,Ventilator case,,1 piece,eso_mucosa
+GTEX-14ABY-2526,Esophagus - Mucosa,GTEX-14ABY,male,50-59,Fast death - natural causes,,6 pieces; autolysed grade 3 gastric mucosa (arrows) and congested muscularis and submucosa; esophageal mucosa (squamous epithelium) not present,eso_mucosa
+GTEX-14AS3-0626,Esophagus - Mucosa,GTEX-14AS3,female,40-49,Ventilator case,,6 pieces,eso_mucosa
+GTEX-14ASI-1326,Esophagus - Mucosa,GTEX-14ASI,male,60-69,Fast death - natural causes,congestion,4 pieces; surface sloughing; congestion,eso_mucosa
+GTEX-14B4R-0326,Esophagus - Mucosa,GTEX-14B4R,male,30-39,Ventilator case,,6 pieces; includes several clusters of submucosal glands,eso_mucosa
+GTEX-14BIL-1626,Esophagus - Mucosa,GTEX-14BIL,male,50-59,Fast death - natural causes,,6 pieces; totally autolyzed,eso_mucosa
+GTEX-14BIM-1326,Esophagus - Mucosa,GTEX-14BIM,female,60-69,Intermediate death,,"6 pieces, squamous mucosa sloughling, unusually poorly preserved, residual basal portions less than ~0.1mm",eso_mucosa
+GTEX-14BIN-2726,Esophagus - Mucosa,GTEX-14BIN,female,50-59,Fast death - natural causes,,6 pieces; partially sloughed epithelium,eso_mucosa
+GTEX-14BMU-0926,Esophagus - Mucosa,GTEX-14BMU,female,20-29,Ventilator case,,"6 pieces, squamous mucosa up to ~0.35mm, ~30-40% thickness",eso_mucosa
+GTEX-14BMV-1326,Esophagus - Mucosa,GTEX-14BMV,male,50-59,Fast death - natural causes,inflammation,6 pieces; 1 focus of chronic inflammation [marked],eso_mucosa
+GTEX-14C38-2126,Esophagus - Mucosa,GTEX-14C38,male,50-59,Ventilator case,,"4 pieces, squamous mucosa up to ~0.4mm, 10-20% thickness",eso_mucosa
+GTEX-14C39-1326,Esophagus - Mucosa,GTEX-14C39,male,40-49,Fast death - natural causes,,"6 pieces, mucosa completely sloughed save for minute fragment, unusually poorly preserved",eso_mucosa
+GTEX-14C5O-1626,Esophagus - Mucosa,GTEX-14C5O,male,60-69,Slow death,,6 pieces; superficially sloughing,eso_mucosa
+GTEX-14DAQ-1426,Esophagus - Mucosa,GTEX-14DAQ,female,60-69,Slow death,,"6 pieces, squamous mucosa up to ~0.4mm, 20-30% thickness",eso_mucosa
+GTEX-14DAR-0826,Esophagus - Mucosa,GTEX-14DAR,male,50-59,Ventilator case,,"6 pieces, well preserved; squamous mcuosa is ~0.3mm, 20-30% thickness. Submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-14E1K-1226,Esophagus - Mucosa,GTEX-14E1K,male,50-59,Ventilator case,,"6 pieces, Squamous mucosa up to ~0.4mm, ~15% thickness; numerous submucosal mucus glands, rep delineated",eso_mucosa
+GTEX-14E6C-0826,Esophagus - Mucosa,GTEX-14E6C,male,40-49,Slow death,,4 pieces; partly sloughed epithelium,eso_mucosa
+GTEX-14E6D-1726,Esophagus - Mucosa,GTEX-14E6D,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; squamous epithelium up to 0.5mm thick,eso_mucosa
+GTEX-14E6E-0726,Esophagus - Mucosa,GTEX-14E6E,male,30-39,Ventilator case,,6 pieces; well preserved and well dissected,eso_mucosa
+GTEX-14E7W-1726,Esophagus - Mucosa,GTEX-14E7W,male,70-79,Fast death - natural causes,congestion,"4 pieces; large [up to 1.8x0.5mm] submucosal glands in 3 pieces, congestion and 161um thick squamous epithelium",eso_mucosa
+GTEX-14H4A-1626,Esophagus - Mucosa,GTEX-14H4A,female,40-49,Ventilator case,,6 pieces,eso_mucosa
+GTEX-14ICK-2026,Esophagus - Mucosa,GTEX-14ICK,male,40-49,Ventilator case,,7 pieces; prominent submucosal glands comprise 5% to 50%.,eso_mucosa
+GTEX-14ICL-0526,Esophagus - Mucosa,GTEX-14ICL,male,30-39,Ventilator case,,"8 pieces, squamous mucosa up to ~0.3mm, ~10-20% thickness",eso_mucosa
+GTEX-14JFF-1826,Esophagus - Mucosa,GTEX-14JFF,male,60-69,Slow death,,"6 pieces, Squamous mucosa is ~0.2mm, ~20-25% thickness",eso_mucosa
+GTEX-14JG1-1926,Esophagus - Mucosa,GTEX-14JG1,male,40-49,Fast death - natural causes,congestion,6 pieces; moderate venous congestion,eso_mucosa
+GTEX-14JG6-0926,Esophagus - Mucosa,GTEX-14JG6,female,30-39,Ventilator case,,"6 pieces; squamous mucosa up to 376 microns, well dissected",eso_mucosa
+GTEX-14JIY-0926,Esophagus - Mucosa,GTEX-14JIY,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa is ~0.5mm, ~20% thickness",eso_mucosa
+GTEX-14LLW-1326,Esophagus - Mucosa,GTEX-14LLW,female,70-79,Slow death,,6 pieces; epithelium 'fractured',eso_mucosa
+GTEX-14LZ3-1726,Esophagus - Mucosa,GTEX-14LZ3,female,60-69,Intermediate death,,"6 pieces; chronically inflammed, epithelium sloughing",eso_mucosa
+GTEX-14PHW-1426,Esophagus - Mucosa,GTEX-14PHW,female,60-69,Slow death,,"6 pieces, squamous mucosa sloughing",eso_mucosa
+GTEX-14PHX-0726,Esophagus - Mucosa,GTEX-14PHX,male,50-59,Ventilator case,esophagitis,6 pieces; mild focal chronic esophagitis,eso_mucosa
+GTEX-14PHY-0626,Esophagus - Mucosa,GTEX-14PHY,female,60-69,Ventilator case,inflammation,5 pieces; pseudodiverticulosis with active chronic inflammation,eso_mucosa
+GTEX-14PII-1326,Esophagus - Mucosa,GTEX-14PII,male,60-69,Slow death,,"6 pieces, squamous mucosa 100-200 microns, 10-20% thickness; superficialy sloughing beginning.  Submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-14PJ2-2626,Esophagus - Mucosa,GTEX-14PJ2,male,50-59,Ventilator case,calcification,6 pieces; one focus of possible submucosal calcification below muscularis (outlined),eso_mucosa
+GTEX-14PJ3-0626,Esophagus - Mucosa,GTEX-14PJ3,male,50-59,Ventilator case,,"6 pieces; well trimmed, few clusters of submucosal glands (some marked)",eso_mucosa
+GTEX-14PJ4-1526,Esophagus - Mucosa,GTEX-14PJ4,male,60-69,Ventilator case,,6 pieces; well preserved squamous epithelium up to 448 microns in thickness,eso_mucosa
+GTEX-14PJ5-0526,Esophagus - Mucosa,GTEX-14PJ5,female,60-69,Ventilator case,,"6 pieces, squamous mucosa is ~0.4mm, 15-20% thickness",eso_mucosa
+GTEX-14PJ5-5004,Esophagus - Mucosa,GTEX-14PJ5,female,60-69,Ventilator case,,"1 piece, correlates with PFPE",eso_mucosa
+GTEX-14PJ6-1026,Esophagus - Mucosa,GTEX-14PJ6,female,60-69,Ventilator case,,"6 pieces, aquamous mucosa up to ~0.3 mm, 30% thickness",eso_mucosa
+GTEX-14PJM-1526,Esophagus - Mucosa,GTEX-14PJM,female,50-59,Fast death - natural causes,,6 pieces; well dissected,eso_mucosa
+GTEX-14PJN-0526,Esophagus - Mucosa,GTEX-14PJN,male,30-39,Ventilator case,,6 pieces Squamous mucosa up to ~0.3-0.4mm,eso_mucosa
+GTEX-14PJO-1326,Esophagus - Mucosa,GTEX-14PJO,male,60-69,Slow death,,5 pieces; only 2 of 5 pieces have epithelium [marked]; submucosal glands prominent in 1 piece [marked],eso_mucosa
+GTEX-14PK6-1326,Esophagus - Mucosa,GTEX-14PK6,female,70-79,Ventilator case,,"6 pieces, squamous mucosa is ~0.2-0.3mm",eso_mucosa
+GTEX-14PKU-0826,Esophagus - Mucosa,GTEX-14PKU,female,40-49,Ventilator case,,"2 pieces, squamous mucosa up to ~0.3mm; incidental submucosal mucus glands noted, rep delineated",eso_mucosa
+GTEX-14PKV-1726,Esophagus - Mucosa,GTEX-14PKV,female,20-29,Ventilator case,,"6 pieces, squamous mucosa is ~0.3-0.4mm, ~25-50% thickness",eso_mucosa
+GTEX-14PN3-1026,Esophagus - Mucosa,GTEX-14PN3,female,60-69,Ventilator case,,6 pieces; focal surface sloughing,eso_mucosa
+GTEX-14PN4-2126,Esophagus - Mucosa,GTEX-14PN4,male,50-59,Fast death - natural causes,,"6 pieces; autolyzed mucosa, predominantly smooth muscle/submucosa",eso_mucosa
+GTEX-14PQA-2326,Esophagus - Mucosa,GTEX-14PQA,female,50-59,Slow death,,4 pieces; submucosal glands in three pieces (outlined),eso_mucosa
+GTEX-14XAO-1526,Esophagus - Mucosa,GTEX-14XAO,female,60-69,Ventilator case,,"6 pieces, squamous mucosa is ~0.5mm, ~30% thickness",eso_mucosa
+GTEX-15CHC-1526,Esophagus - Mucosa,GTEX-15CHC,female,60-69,Ventilator case,,"6 pieces; only muscularis propria, no mucosa (target)",eso_mucosa
+GTEX-15CHQ-1926,Esophagus - Mucosa,GTEX-15CHQ,male,60-69,Slow death,,6 pieces; slightly fragmented epithelium,eso_mucosa
+GTEX-15CHR-0826,Esophagus - Mucosa,GTEX-15CHR,male,50-59,Ventilator case,,"6 pieces; 3 are muscularis, 3 are mucosa with portion of muscularis",eso_mucosa
+GTEX-15CHS-2326,Esophagus - Mucosa,GTEX-15CHS,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa upt to ~0.25mm, approaching autolysis score in foci, rare mucus glands present, delineated",eso_mucosa
+GTEX-15D1Q-1826,Esophagus - Mucosa,GTEX-15D1Q,male,40-49,Fast death - natural causes,,"6 pieces, squamous mucosa competely sloughed; residual submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-15D79-1426,Esophagus - Mucosa,GTEX-15D79,male,50-59,Fast death - natural causes,inflammation,6 pieces; 3 with and 3 without epithelium; several foci of chronic inflammation,eso_mucosa
+GTEX-15DCD-1626,Esophagus - Mucosa,GTEX-15DCD,female,70-79,Fast death - natural causes,congestion,6 pieces; mucosa partially autolyzed and sloughed; congestion,eso_mucosa
+GTEX-15DCE-1326,Esophagus - Mucosa,GTEX-15DCE,male,20-29,Ventilator case,"esophagitis, hyperplasia, inflammation",6 pieces; chronic inflammation and squamous hyperplasia consistent with reflux,eso_mucosa
+GTEX-15DCZ-2426,Esophagus - Mucosa,GTEX-15DCZ,female,20-29,Ventilator case,,"6 pieces, squamous mucosa is ~0.1-0.2mm, moderate sloughing",eso_mucosa
+GTEX-15DDE-1526,Esophagus - Mucosa,GTEX-15DDE,female,50-59,Intermediate death,esophagitis,"6 pieces, squamous mucosa largely sloughed, few mucus glands, rep delineated; chronic esophagitis (ref foci ensquared)",eso_mucosa
+GTEX-15DYW-1826,Esophagus - Mucosa,GTEX-15DYW,female,60-69,Fast death - natural causes,"congestion, desquamation",6 pieces; slight surface desquamation; moderate vascular congestion; well dissected,eso_mucosa
+GTEX-15DZA-0426,Esophagus - Mucosa,GTEX-15DZA,female,30-39,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm, ~50% thickness",eso_mucosa
+GTEX-15EO6-1026,Esophagus - Mucosa,GTEX-15EO6,male,50-59,Slow death,,"6 pieces, unusually poorly preserved, target squamous mucosa sloughing, ~0.15mm where visible, chronically inflamed",eso_mucosa
+GTEX-15EOM-1826,Esophagus - Mucosa,GTEX-15EOM,female,20-29,Ventilator case,,"6 pieces; 2 of 6 pieces include muscularis propria, many clusters of submucosal glands",eso_mucosa
+GTEX-15EOM-5013,Esophagus - Mucosa,GTEX-15EOM,female,20-29,Ventilator case,,1 piece; includes few clusters of submucosal glands,eso_mucosa
+GTEX-15ER7-2126,Esophagus - Mucosa,GTEX-15ER7,female,20-29,Fast death - violent,inflammation,6 pieces; focal chronic inflammation,eso_mucosa
+GTEX-15ETS-1926,Esophagus - Mucosa,GTEX-15ETS,female,40-49,Ventilator case,,"5 pieces, squamous mucosa up to~0.4mm",eso_mucosa
+GTEX-15EU6-1626,Esophagus - Mucosa,GTEX-15EU6,male,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.3mm, ~10-20% thickness; prominent submucosal mucus glands, rep delineated",eso_mucosa
+GTEX-15F5U-0926,Esophagus - Mucosa,GTEX-15F5U,male,40-49,Ventilator case,,6 pieces; submucosal glands comprise up to 10%; well dissected,eso_mucosa
+GTEX-15F5U-5010,Esophagus - Mucosa,GTEX-15F5U,male,40-49,Ventilator case,,1 piece; comparable to PAXgene sample,eso_mucosa
+GTEX-15FZZ-1226,Esophagus - Mucosa,GTEX-15FZZ,female,30-39,Ventilator case,edema,6 pieces; edematous lamina propria and submucosa,eso_mucosa
+GTEX-15G19-1926,Esophagus - Mucosa,GTEX-15G19,male,60-69,Fast death - natural causes,,"6 pieces; target squamous mucosa with sloughing surface measures up to ~ 0.18mm, 2 include muscularis (not target)",eso_mucosa
+GTEX-15G1A-0626,Esophagus - Mucosa,GTEX-15G1A,male,30-39,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm, ~20% thickness.  Numerous submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-15RIE-0826,Esophagus - Mucosa,GTEX-15RIE,male,60-69,Ventilator case,,"5 pieces, squamous mucosa up to ~0.5mm,  focal submucosal mucus glands delineated.  Switched with 0725",eso_mucosa
+GTEX-15RIF-0826,Esophagus - Mucosa,GTEX-15RIF,male,20-29,Ventilator case,,"2 pieces, squamous mucosa up to ~0.3mm",eso_mucosa
+GTEX-15RJ7-0926,Esophagus - Mucosa,GTEX-15RJ7,male,40-49,Ventilator case,,"6 pieces; squamous mucosa up to 0.3mm, submucosal mucus glands noted (outlined)",eso_mucosa
+GTEX-15RJE-0926,Esophagus - Mucosa,GTEX-15RJE,male,40-49,Slow death,,6 pieces,eso_mucosa
+GTEX-15SB6-0726,Esophagus - Mucosa,GTEX-15SB6,female,50-59,Ventilator case,,6 pieces; includes small portion of muscularis propria,eso_mucosa
+GTEX-15SDE-0626,Esophagus - Mucosa,GTEX-15SDE,female,50-59,Ventilator case,hyperplasia,6 pieces; moderate squamous hyperplasia,eso_mucosa
+GTEX-15SHU-1426,Esophagus - Mucosa,GTEX-15SHU,female,40-49,Fast death - natural causes,,6 pieces; well dissected,eso_mucosa
+GTEX-15SHV-1026,Esophagus - Mucosa,GTEX-15SHV,male,60-69,Ventilator case,,6 pieces; prominent submucosal glands; thick submucosa up to 2 mm thick,eso_mucosa
+GTEX-15SHW-1826,Esophagus - Mucosa,GTEX-15SHW,male,60-69,Ventilator case,,"6 pieces; some sloughing of squamous epithelium, numerous clusters of submucosal glands, few dilated ducts (pseudodiverticulosis)",eso_mucosa
+GTEX-15SKB-1226,Esophagus - Mucosa,GTEX-15SKB,male,60-69,Ventilator case,,"6 pieces, squamous mucosa is ~0.3mm, ~20% thickness",eso_mucosa
+GTEX-15SZO-2226,Esophagus - Mucosa,GTEX-15SZO,male,50-59,Fast death - natural causes,,"6 pieces, mucosa markedly autolyzed/sloughed",eso_mucosa
+GTEX-15TU5-1526,Esophagus - Mucosa,GTEX-15TU5,male,60-69,Slow death,gastritis,6 pieces; autolyzed gastric fundic mucosa with chronic gastritis; likely represents gastric mucosa in a hiatus hernia rather than glandular metaplasia or sampling error,eso_mucosa
+GTEX-15UF6-2326,Esophagus - Mucosa,GTEX-15UF6,female,70-79,Slow death,,6 pieces; moderate epithelium sloughing,eso_mucosa
+GTEX-15UF7-0926,Esophagus - Mucosa,GTEX-15UF7,male,40-49,Ventilator case,,6 pieces; includes few clusters of submucosal glands and lymphoid aggregates,eso_mucosa
+GTEX-15UKP-2126,Esophagus - Mucosa,GTEX-15UKP,male,20-29,Ventilator case,,6 pieces; minimal residual squamous epithelium,eso_mucosa
+GTEX-169BO-0526,Esophagus - Mucosa,GTEX-169BO,male,50-59,Ventilator case,,"6 pieces, squamous mucosa up to ~0.25mm, ~15% thickness",eso_mucosa
+GTEX-16A39-1026,Esophagus - Mucosa,GTEX-16A39,female,30-39,Ventilator case,desquamation,"6 pieces; surface epithelium desquamation and focal epithelial dissociation; squamous mucosa ~ 0.3mm thick; submucosal mucus glands and focal lymphocytic aggregates in submucosa; taken at GE junction (not target region 4 cm above), small leiomyoma",eso_mucosa
+GTEX-16AAH-0726,Esophagus - Mucosa,GTEX-16AAH,male,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.15mm, ~10-15% thickness",eso_mucosa
+GTEX-16BQI-1526,Esophagus - Mucosa,GTEX-16BQI,female,30-39,Ventilator case,,6 pieces; well dissected; prominent submucosal glands,eso_mucosa
+GTEX-16GPK-1526,Esophagus - Mucosa,GTEX-16GPK,male,60-69,Fast death - natural causes,,6 pieces; includes submucosal glands in 5 pieces; squamous mucosa up to 0.15mm,eso_mucosa
+GTEX-16MT8-1326,Esophagus - Mucosa,GTEX-16MT8,female,60-69,Slow death,,"6 pieces squamous mucosa is ~0.3mm, 20-50% thickness; incidental submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-16MT9-1426,Esophagus - Mucosa,GTEX-16MT9,female,60-69,Ventilator case,congestion,6 pieces; ~0.25mm  squamous epithelium; congestion,eso_mucosa
+GTEX-16MTA-0826,Esophagus - Mucosa,GTEX-16MTA,male,50-59,Ventilator case,"esophagitis, hypereosinophilia",6 pieces; esophagitis (c/w reflux) with eosinophilic squamous surface focally,eso_mucosa
+GTEX-16NFA-1026,Esophagus - Mucosa,GTEX-16NFA,male,50-59,Ventilator case,,6 pieces; submucosal glands and ducts are prominent making up 10%,eso_mucosa
+GTEX-16NGA-1426,Esophagus - Mucosa,GTEX-16NGA,female,40-49,Ventilator case,,6 pieces; target squamus mucosa and muscularis with submucosal glands  in 4 of 6 pieces (outlined),eso_mucosa
+GTEX-16NPV-1426,Esophagus - Mucosa,GTEX-16NPV,female,50-59,Slow death,,6 pieces; well dissected; no submucosal glands,eso_mucosa
+GTEX-16NPX-1626,Esophagus - Mucosa,GTEX-16NPX,male,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.4mm, ~30-40% thickness",eso_mucosa
+GTEX-16XZY-0926,Esophagus - Mucosa,GTEX-16XZY,male,70-79,Ventilator case,"desquamation, esophagitis","6 pieces; superficial epithelial desquamation; squamous epithelium  ~0.3mm thick, esophagitis, small portion of muscularis",eso_mucosa
+GTEX-16XZZ-1826,Esophagus - Mucosa,GTEX-16XZZ,male,60-69,Ventilator case,,6 pieces; epithelium severely autolyzed; muscularis mucosae too dispersed for adequate sampling,eso_mucosa
+GTEX-16YQH-1926,Esophagus - Mucosa,GTEX-16YQH,male,30-39,Fast death - violent,hemorrhage,"6 pieces, mucosa largely sloughed; hemorrhagic stroma.  Submucosal mucus glands intact; rep delineated",eso_mucosa
+GTEX-16Z82-1926,Esophagus - Mucosa,GTEX-16Z82,male,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_mucosa
+GTEX-178AV-0526,Esophagus - Mucosa,GTEX-178AV,male,40-49,Ventilator case,,"6 pieces, squamous mucosa is 0.2-0.4mm, ~20-25% thickness; submucosal mucus glands delineated (rep)",eso_mucosa
+GTEX-17EUY-1426,Esophagus - Mucosa,GTEX-17EUY,male,20-29,Ventilator case,,6 pieces; includes small portion of muscularis (marked),eso_mucosa
+GTEX-17EVP-2026,Esophagus - Mucosa,GTEX-17EVP,male,40-49,Fast death - natural causes,,6 pieces; sloughed & autolyzed mucosa,eso_mucosa
+GTEX-17EVQ-1926,Esophagus - Mucosa,GTEX-17EVQ,male,70-79,Fast death - violent,,"6 pieces, squamous mucosa up to ~0.5mm, ~50% thickness",eso_mucosa
+GTEX-17F96-2526,Esophagus - Mucosa,GTEX-17F96,male,70-79,Ventilator case,,6 pieces; 1 large (1 mm) submucosal gland,eso_mucosa
+GTEX-17F97-1326,Esophagus - Mucosa,GTEX-17F97,male,50-59,Slow death,,6 pieces; epithelial sloughing,eso_mucosa
+GTEX-17F98-1726,Esophagus - Mucosa,GTEX-17F98,female,40-49,Ventilator case,,6 pieces; prominent submucosal glands in most pieces,eso_mucosa
+GTEX-17F9E-1926,Esophagus - Mucosa,GTEX-17F9E,male,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.15mm, ~2-5% thickness",eso_mucosa
+GTEX-17F9E-5010,Esophagus - Mucosa,GTEX-17F9E,male,50-59,Ventilator case,,"1 piece, correleates with PFPE aliquot.",eso_mucosa
+GTEX-17F9Y-1726,Esophagus - Mucosa,GTEX-17F9Y,female,70-79,Ventilator case,,"6 pieces squamous mucosa is ~ 150 microns, slouging, unusually poorly preserved",eso_mucosa
+GTEX-17GQL-1026,Esophagus - Mucosa,GTEX-17GQL,male,60-69,Ventilator case,,"6 pieces, muscular fragemntes/adipose tissue, not correct GTEx target or obvious switch",eso_mucosa
+GTEX-17GQL-5010,Esophagus - Mucosa,GTEX-17GQL,male,60-69,Ventilator case,,"1 piece fibroadipose tissue, as with PGT aliquot, incorrect target--coorrelates.",eso_mucosa
+GTEX-17HG3-0826,Esophagus - Mucosa,GTEX-17HG3,female,30-39,Fast death - natural causes,,6 pieces; epithelium partially sloughed,eso_mucosa
+GTEX-17HGU-1426,Esophagus - Mucosa,GTEX-17HGU,male,50-59,Ventilator case,"inflammation, metaplasia",6 pieces; in 2 pieces prominent submucosal glands and inflamed dilated squamous metaplastic ducts; well dissected,eso_mucosa
+GTEX-17HHE-0926,Esophagus - Mucosa,GTEX-17HHE,male,50-59,Ventilator case,,"6 pieces, squamous mucosa up to ~0.8mm, 20-30% thickness.  Few submucosal mucus glands, encircled",eso_mucosa
+GTEX-17HHY-1626,Esophagus - Mucosa,GTEX-17HHY,male,50-59,Fast death - natural causes,,6 pieces; largely sloughed epithelium; muscularis mucosae adequate for LCM,eso_mucosa
+GTEX-17HII-1526,Esophagus - Mucosa,GTEX-17HII,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa ~0.5mm, ~ 50% thickness. Incidental submucosal mucus gland encircled",eso_mucosa
+GTEX-17JCI-1226,Esophagus - Mucosa,GTEX-17JCI,female,60-69,Ventilator case,,6 pieces; well preserved; submucosal glands occupy 5-10% in each piece,eso_mucosa
+GTEX-17KNJ-1326,Esophagus - Mucosa,GTEX-17KNJ,male,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.2-0.3mm, ~20-50% thickness.  Submucosal mucus glands present, rep. delineated",eso_mucosa
+GTEX-17MF6-1626,Esophagus - Mucosa,GTEX-17MF6,male,40-49,Fast death - natural causes,esophagitis,"6 pieces; autolyzed mucosa,  severe chronic esophagitis; focus of  glands (outlined)",eso_mucosa
+GTEX-17MFQ-0526,Esophagus - Mucosa,GTEX-17MFQ,male,20-29,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm, 10-25% thickness",eso_mucosa
+GTEX-183FY-1526,Esophagus - Mucosa,GTEX-183FY,male,20-29,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm,  ~30% thickness",eso_mucosa
+GTEX-183WM-1726,Esophagus - Mucosa,GTEX-183WM,female,70-79,Slow death,,"6 pieces, squamous mucosa up to ~ 0.25mm, early sloughing",eso_mucosa
+GTEX-18464-1726,Esophagus - Mucosa,GTEX-18464,male,50-59,Slow death,,6 pieces; includes few clusters of submucosal glands,eso_mucosa
+GTEX-18465-1126,Esophagus - Mucosa,GTEX-18465,male,50-59,Fast death - natural causes,esophagitis,6 pieces; partially sloughed epithelium; foci of chronic esophagitis,eso_mucosa
+GTEX-18A66-1426,Esophagus - Mucosa,GTEX-18A66,male,60-69,Slow death,,"6 pieces, squamous mucosa is ~0.5mm, ~20-25% total thickness",eso_mucosa
+GTEX-18A67-2426,Esophagus - Mucosa,GTEX-18A67,male,50-59,Ventilator case,,6 pieces; target squamous mucosa and prominent muscularis mucosae,eso_mucosa
+GTEX-18A6Q-1226,Esophagus - Mucosa,GTEX-18A6Q,male,60-69,Fast death - natural causes,,"6 pieces, squamousmucosa is ~0.3mm, 25-30% thickness; a few submucosal mucus glands present, rep. delineated",eso_mucosa
+GTEX-18A7A-2326,Esophagus - Mucosa,GTEX-18A7A,female,50-59,Fast death - natural causes,inflammation,6 pieces; chronic inflammation; partially sloughed epithelium; focus of carry-over debris on deep surface of 1 piece [annotated],eso_mucosa
+GTEX-18A7B-2426,Esophagus - Mucosa,GTEX-18A7B,male,70-79,Intermediate death,,6 pieces; submucosal mucous glands up to 1 mm diameter in 3 pieces (arrowed); epithelium partially sloughed in all; 1 piece without epithelium,eso_mucosa
+GTEX-18D9A-0526,Esophagus - Mucosa,GTEX-18D9A,female,30-39,Ventilator case,"esophagitis, hyperplasia",6 pieces; basal epithelial hyperplasia (?reflux); superficial epithelial sloughing,eso_mucosa
+GTEX-18D9B-2026,Esophagus - Mucosa,GTEX-18D9B,male,60-69,Ventilator case,"esophagitis, hyperplasia",6 pieces; squamous hyperplasia consistent with reflux; superficial sloughing,eso_mucosa
+GTEX-18D9U-2126,Esophagus - Mucosa,GTEX-18D9U,male,40-49,Ventilator case,,"6 pieces, squamous mucosa is ~0.25-0.5mm, ~25% thickness",eso_mucosa
+GTEX-18QFQ-1026,Esophagus - Mucosa,GTEX-18QFQ,male,30-39,Ventilator case,,6 pieces; 2 pieces include submucosal glands (~25%),eso_mucosa
+GTEX-19HZE-1026,Esophagus - Mucosa,GTEX-19HZE,female,70-79,Intermediate death,,6 pieces; completely autolyzed,eso_mucosa
+GTEX-1A32A-1826,Esophagus - Mucosa,GTEX-1A32A,female,50-59,Fast death - natural causes,esophagitis,6 pieces; surface sloughing; reactive squamous thickening consistent with gastric reflux,eso_mucosa
+GTEX-1A3MV-1326,Esophagus - Mucosa,GTEX-1A3MV,male,30-39,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1A3MW-1626,Esophagus - Mucosa,GTEX-1A3MW,female,60-69,Slow death,esophagitis,6 pieces; surface epithelium largely sloughed; chronic esophagitis (reflux history),eso_mucosa
+GTEX-1A3MX-2026,Esophagus - Mucosa,GTEX-1A3MX,male,60-69,Slow death,,"6 pieces, mucosa completely sloughed, unusually advanced autolysis",eso_mucosa
+GTEX-1A8FM-1526,Esophagus - Mucosa,GTEX-1A8FM,female,50-59,Fast death - natural causes,,6 pieces; partially sloughed superficial epithelium; well dissected,eso_mucosa
+GTEX-1A8G6-1126,Esophagus - Mucosa,GTEX-1A8G6,male,60-69,Fast death - natural causes,,"6 pieces ,squamous mucosa up to ~0.3mm, ~20% thickness, but variably sloughing, degenerating",eso_mucosa
+GTEX-1A8G7-1726,Esophagus - Mucosa,GTEX-1A8G7,male,60-69,Fast death - natural causes,,"6 pieces; includes portion of muscularis, few dilated glands",eso_mucosa
+GTEX-1AMEY-0226,Esophagus - Mucosa,GTEX-1AMEY,female,30-39,Ventilator case,,6 pieces; prominent muscularis mucosae in 5 of 6 pieces; well dissected,eso_mucosa
+GTEX-1AMFI-0226,Esophagus - Mucosa,GTEX-1AMFI,female,50-59,Ventilator case,,"6 pieces, squamous mucosa up to ~0.7mm, few submucosal mucus glands noted, rep encircled",eso_mucosa
+GTEX-1AX8Y-1326,Esophagus - Mucosa,GTEX-1AX8Y,male,40-49,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1AX8Z-2026,Esophagus - Mucosa,GTEX-1AX8Z,male,60-69,Ventilator case,inflammation,6 pieces; 3 pieces have 20% submucosal gland content; foci of chronic inflammation,eso_mucosa
+GTEX-1AX9I-1426,Esophagus - Mucosa,GTEX-1AX9I,male,60-69,Fast death - natural causes,,6 pieces; well preserved epithelium; submucosal glands in 2 pieces up to 10% area [labeled],eso_mucosa
+GTEX-1AX9J-1826,Esophagus - Mucosa,GTEX-1AX9J,male,60-69,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm, well preserved; few submucosal mucus glands, encircled",eso_mucosa
+GTEX-1AX9K-1126,Esophagus - Mucosa,GTEX-1AX9K,male,50-59,Ventilator case,,6 pieces; well preserved mucosa; 4 pieces contain submucosal mucous glands up to 10%,eso_mucosa
+GTEX-1AYCT-1626,Esophagus - Mucosa,GTEX-1AYCT,male,50-59,Ventilator case,esophagitis,"5 pieces; severe erosive esophagitis with limited intact squamous epithelium, few fragments of muscularis",eso_mucosa
+GTEX-1AYD5-0926,Esophagus - Mucosa,GTEX-1AYD5,male,50-59,Ventilator case,,5 pieces; squamous mucosa and submucosal glands in 4 of 5 pieces (outlined); squamous epithelium ~0.35mm thick,eso_mucosa
+GTEX-1B8KE-1826,Esophagus - Mucosa,GTEX-1B8KE,male,50-59,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm, 10-15% thickness.  Prominent submucosal mucus glands present, rep. delineated",eso_mucosa
+GTEX-1B8KZ-0726,Esophagus - Mucosa,GTEX-1B8KZ,male,50-59,Ventilator case,,6 pieces; squamous epithelium ~345 to 414 um in thickness; well trimmed,eso_mucosa
+GTEX-1B8L1-1226,Esophagus - Mucosa,GTEX-1B8L1,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.25mm, 20-30% thickness",eso_mucosa
+GTEX-1B8SF-1226,Esophagus - Mucosa,GTEX-1B8SF,male,60-69,Fast death - natural causes,desquamation,"6 pieces with some fragmentation;  squamous epithelium with superficial desquamation; few pieces contain submucosal glands, small portion of muscularis propria",eso_mucosa
+GTEX-1B932-1826,Esophagus - Mucosa,GTEX-1B932,female,40-49,Ventilator case,inflammation,"6 pieces; ~0.5mm thick squamous epithelium; submucosal chronic inflammatory cell infiltrate (arrows); small amount of residual muscularis (not target, attached and detached)",eso_mucosa
+GTEX-1B933-2026,Esophagus - Mucosa,GTEX-1B933,female,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.4mm, submucosal mucusa glands delineated",eso_mucosa
+GTEX-1B97I-0926,Esophagus - Mucosa,GTEX-1B97I,male,40-49,Ventilator case,,"6 pieces, squamous mucosa beginning to slough, approaching score 2.  Submucosal mucus glands present, rep. delineated",eso_mucosa
+GTEX-1B97J-1026,Esophagus - Mucosa,GTEX-1B97J,female,50-59,Ventilator case,,"6 pieces, mucosa up to ~0.3mm, 15-20% thickness",eso_mucosa
+GTEX-1B98T-1726,Esophagus - Mucosa,GTEX-1B98T,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.25mm, submucosal mucus glands present, rep delineated. Superficial early sloughing.",eso_mucosa
+GTEX-1B996-1826,Esophagus - Mucosa,GTEX-1B996,male,60-69,Fast death - natural causes,desquamation,6 pieces; very superficial focal desquamation; ~0.25mm thick squamous epithelium,eso_mucosa
+GTEX-1BAJH-2026,Esophagus - Mucosa,GTEX-1BAJH,male,70-79,Fast death - natural causes,congestion,"6 pieces; epithelium is partially sloughed, scattered aggregates of lymphocytes (arrows), rare cluster of submucosal glands (outlined), congestion",eso_mucosa
+GTEX-1C2JI-1126,Esophagus - Mucosa,GTEX-1C2JI,male,50-59,Ventilator case,,"6 pieces; epithelium is partially sloughed/detached, few clusters of submucosal glands and lymphoid aggregates",eso_mucosa
+GTEX-1C475-0926,Esophagus - Mucosa,GTEX-1C475,female,40-49,Ventilator case,esophagitis,6 pieces; erosive esophagitis,eso_mucosa
+GTEX-1C4CL-1326,Esophagus - Mucosa,GTEX-1C4CL,male,30-39,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm, beginning to slough; submucosal mucus glands, delineated",eso_mucosa
+GTEX-1C64N-1726,Esophagus - Mucosa,GTEX-1C64N,male,50-59,Fast death - natural causes,congestion,6 pieces; congestion; ~0.28mm thick  squamous epithelium,eso_mucosa
+GTEX-1C64O-1826,Esophagus - Mucosa,GTEX-1C64O,male,60-69,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm, submucosal mucusa glands present, rep delineated",eso_mucosa
+GTEX-1C6VQ-1826,Esophagus - Mucosa,GTEX-1C6VQ,male,50-59,Fast death - natural causes,,6 pieces; squamous epithelium is partially sloughed,eso_mucosa
+GTEX-1C6VR-0826,Esophagus - Mucosa,GTEX-1C6VR,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.2mm, ~10% thicknesss--few submucosal mucus glands noted, rep. delineated",eso_mucosa
+GTEX-1C6VS-2126,Esophagus - Mucosa,GTEX-1C6VS,male,60-69,Fast death - natural causes,,6 pieces; squamous epithelium ~0.3mm  thick; well dissected mucosa,eso_mucosa
+GTEX-1C6WA-1926,Esophagus - Mucosa,GTEX-1C6WA,male,60-69,Fast death - natural causes,,6 pieces; epithelium moderately fragmented,eso_mucosa
+GTEX-1CAMQ-2726,Esophagus - Mucosa,GTEX-1CAMQ,male,40-49,Fast death - natural causes,,6 pieces;~0.2mm thick squamous epithelium ; submucosal glands in 3 of 6 samples (outlined); well dissected,eso_mucosa
+GTEX-1CAMR-0426,Esophagus - Mucosa,GTEX-1CAMR,male,20-29,Ventilator case,,"5 pieces, no target squamous mucosa",eso_mucosa
+GTEX-1CAMS-1726,Esophagus - Mucosa,GTEX-1CAMS,female,40-49,Ventilator case,,6 pieces; ~0.25mm squamous epithelium; 2 pieces have some muscularis propria; crystals like those in stomach also in submucosa of esophagus,eso_mucosa
+GTEX-1CAMS-5019,Esophagus - Mucosa,GTEX-1CAMS,female,40-49,Ventilator case,,1 piece; squamous mucosa without submucosa; no sign of crystalline contaminants,eso_mucosa
+GTEX-1CAV2-1026,Esophagus - Mucosa,GTEX-1CAV2,female,40-49,Fast death - natural causes,,6 pieces; prominent submucosal mucous glands in 5 pieces occupying up to 25%,eso_mucosa
+GTEX-1CB4E-1026,Esophagus - Mucosa,GTEX-1CB4E,male,60-69,Ventilator case,fibrosis,6 pieces; prominent fibrous submucosa up to 40%,eso_mucosa
+GTEX-1CB4F-1526,Esophagus - Mucosa,GTEX-1CB4F,male,60-69,Ventilator case,,6 pieces; few pieces include small portion of muscularis propria (not target),eso_mucosa
+GTEX-1CB4G-1326,Esophagus - Mucosa,GTEX-1CB4G,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.4mm, 40-50% thickness",eso_mucosa
+GTEX-1CB4H-1526,Esophagus - Mucosa,GTEX-1CB4H,female,60-69,Slow death,,6 pieces; well dissected; no submucosa,eso_mucosa
+GTEX-1CB4I-1026,Esophagus - Mucosa,GTEX-1CB4I,male,50-59,Ventilator case,,6 pieces; up to 50% fibrovascular and fatty content in submucosal portion,eso_mucosa
+GTEX-1CB4J-2426,Esophagus - Mucosa,GTEX-1CB4J,male,60-69,Intermediate death,,"6 pieces, squamous mucosa up to ~0.7mm, ~50-70% thickness",eso_mucosa
+GTEX-1E1VI-1526,Esophagus - Mucosa,GTEX-1E1VI,male,50-59,Fast death - natural causes,,6 pieces; partial sloughing of squamous epithelium,eso_mucosa
+GTEX-1E2YA-1726,Esophagus - Mucosa,GTEX-1E2YA,male,50-59,Fast death - natural causes,,"6 pieces, moderately advanced autolysis with sloughing squamous mucosa up to ~0.2mm, numerous submucosal mucus glands, fairly well preserved; rep delineated",eso_mucosa
+GTEX-1EH9U-2426,Esophagus - Mucosa,GTEX-1EH9U,male,60-69,Slow death,,6 pieces; well dissected mucosa with prominent muscularis mucosae,eso_mucosa
+GTEX-1EKGG-1726,Esophagus - Mucosa,GTEX-1EKGG,male,60-69,Fast death - natural causes,,6 pieces,eso_mucosa
+GTEX-1EMGI-1926,Esophagus - Mucosa,GTEX-1EMGI,male,60-69,Fast death - natural causes,,"6 pieces, sqaumous mucosa 0.3-0.4mm thick, ~20% total thickness",eso_mucosa
+GTEX-1EN7A-1226,Esophagus - Mucosa,GTEX-1EN7A,male,40-49,Fast death - natural causes,,6 pieces; squamous epithelium partially sloughed,eso_mucosa
+GTEX-1EU9M-2326,Esophagus - Mucosa,GTEX-1EU9M,male,60-69,Fast death - natural causes,,"6 pieces.  Squamous mucosa is ~0.1-0.2mm, ~10-20% thickness",eso_mucosa
+GTEX-1EWIQ-1526,Esophagus - Mucosa,GTEX-1EWIQ,female,70-79,Fast death - natural causes,,6 pieces,eso_mucosa
+GTEX-1EX96-2226,Esophagus - Mucosa,GTEX-1EX96,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.5mm, ~30% thickness",eso_mucosa
+GTEX-1F48J-1526,Esophagus - Mucosa,GTEX-1F48J,female,50-59,Slow death,,6 pieces; moderate epithelial sloughing,eso_mucosa
+GTEX-1F52S-1426,Esophagus - Mucosa,GTEX-1F52S,female,60-69,Slow death,,6 pieces; moderately sloughed epithelium with several large bare spots,eso_mucosa
+GTEX-1F5PK-1526,Esophagus - Mucosa,GTEX-1F5PK,male,50-59,Ventilator case,,"2 pieces; muscularis propria makes up 20 to 30% in 4 of 6 pieces [labeled]; large submucosal gland comprises 10% of 1 piece, 5% of another piece [labeled]",eso_mucosa
+GTEX-1F5PL-1726,Esophagus - Mucosa,GTEX-1F5PL,female,40-49,Ventilator case,,"6 pieces, squamous mucosa is ~0.17mm, 10-15% thickness",eso_mucosa
+GTEX-1F6I4-2026,Esophagus - Mucosa,GTEX-1F6I4,male,60-69,Fast death - natural causes,congestion,"6 pieces; congestion, includes several clusters of submucosal glands",eso_mucosa
+GTEX-1F6IF-2226,Esophagus - Mucosa,GTEX-1F6IF,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa is up to ~0.3mm, 100-25% thickness",eso_mucosa
+GTEX-1F6RS-1426,Esophagus - Mucosa,GTEX-1F6RS,female,60-69,Slow death,,6 pieces; epithelium largely sloughed,eso_mucosa
+GTEX-1F75A-1426,Esophagus - Mucosa,GTEX-1F75A,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa badly autolyzed, largelky sloughed.  Unusually poorly preserved",eso_mucosa
+GTEX-1F75B-1926,Esophagus - Mucosa,GTEX-1F75B,male,50-59,Slow death,,"6 pieces; mucosa absent/autolyzed and moderately autolyzed submucosa, submucosal glands (outlined), minute fragments of residual squamous epithelium (arrows); scattered lymphoid aggregates in submucosa",eso_mucosa
+GTEX-1F75I-1726,Esophagus - Mucosa,GTEX-1F75I,male,40-49,Ventilator case,,6 pieces; ~0.4 mm thick squamous epithelium; many submucosal glands,eso_mucosa
+GTEX-1F75W-1926,Esophagus - Mucosa,GTEX-1F75W,male,60-69,Fast death - natural causes,,6 pieces; partial separation of epithelium from stroma,eso_mucosa
+GTEX-1F7RK-1526,Esophagus - Mucosa,GTEX-1F7RK,female,20-29,Fast death - violent,,"6 pieces; squamous epithelium is largely sloughed, ? portion of muscularis",eso_mucosa
+GTEX-1F88E-1426,Esophagus - Mucosa,GTEX-1F88E,female,60-69,Slow death,,"6 pieces,  squamous mucosa up to ~0.6mm , ~50% thickness, rare submucosal mucus glands, delineated. (Switch with -1325)",eso_mucosa
+GTEX-1F88F-1126,Esophagus - Mucosa,GTEX-1F88F,female,60-69,Fast death - natural causes,congestion,6 pieces; moderate vascular congestion; 2 mm fatty carry-over on surface [labeled],eso_mucosa
+GTEX-1FIGZ-0426,Esophagus - Mucosa,GTEX-1FIGZ,male,40-49,Ventilator case,,"6 pieces; muscularis, not mucosa; single focus of submucosal glands and detached fragment of squamous epithelium",eso_mucosa
+GTEX-1GF9U-0826,Esophagus - Mucosa,GTEX-1GF9U,female,40-49,Ventilator case,inflammation,6 pieces (fragmented); focal inflammatory cells in epithelial layer,eso_mucosa
+GTEX-1GF9V-2326,Esophagus - Mucosa,GTEX-1GF9V,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.2mm, partly sloughing, ~15-20% thickness",eso_mucosa
+GTEX-1GF9W-1726,Esophagus - Mucosa,GTEX-1GF9W,male,60-69,Intermediate death,inflammation,6 pieces; autolyzed squamous epithelium and chronic inflammation in submucosa with scattered small aggregates of lymphocytes,eso_mucosa
+GTEX-1GF9X-0626,Esophagus - Mucosa,GTEX-1GF9X,female,40-49,Ventilator case,"esophagitis, metaplasia",6 pieces; squamous & glandular mucosa with intestinal metaplasia (Barrett esophagus) no dysplasia,eso_mucosa
+GTEX-1GL5R-1526,Esophagus - Mucosa,GTEX-1GL5R,male,50-59,Ventilator case,hypereosinophilia,6 pieces; patchy eosinophilic squamous surface (?irritation),eso_mucosa
+GTEX-1GMR2-1526,Esophagus - Mucosa,GTEX-1GMR2,male,50-59,Ventilator case,,"6 pieces; squamous mucosa & submucosa, not muscularis propria (esophagus-mucosa)",eso_mucosa
+GTEX-1GMR3-1526,Esophagus - Mucosa,GTEX-1GMR3,male,40-49,Ventilator case,,"6 pieces, squamous mucosa is ~0.5mm, ~50-60% thickness.",eso_mucosa
+GTEX-1GMR8-1826,Esophagus - Mucosa,GTEX-1GMR8,female,50-59,Intermediate death,,6 pieces; 60% epithelium sloughed,eso_mucosa
+GTEX-1GMRU-1726,Esophagus - Mucosa,GTEX-1GMRU,male,50-59,Fast death - natural causes,,"6 pieces, autolyzing sloughing mucosa",eso_mucosa
+GTEX-1GN1U-1826,Esophagus - Mucosa,GTEX-1GN1U,female,50-59,Slow death,,"6 pieces, target squamous mucosa up to ~0.2mm, ~20-25% thickness, focally sloughing, approaching score 2. Submucosal mucus gland delineated",eso_mucosa
+GTEX-1GN1V-2226,Esophagus - Mucosa,GTEX-1GN1V,male,60-69,Fast death - natural causes,,6 pieces; mucosa denuded,eso_mucosa
+GTEX-1GN1W-2226,Esophagus - Mucosa,GTEX-1GN1W,female,50-59,Ventilator case,,6 pieces; well preserved mucosa and submucosa,eso_mucosa
+GTEX-1GN2E-1926,Esophagus - Mucosa,GTEX-1GN2E,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.2mm,  ~10-15% thickness, moderate-severe sloughing",eso_mucosa
+GTEX-1GN73-1926,Esophagus - Mucosa,GTEX-1GN73,male,60-69,Fast death - natural causes,,6 pieces; well dissected,eso_mucosa
+GTEX-1GPI7-1026,Esophagus - Mucosa,GTEX-1GPI7,male,20-29,Ventilator case,,"6 pieces; mucosa, not muscularis",eso_mucosa
+GTEX-1GTWX-1326,Esophagus - Mucosa,GTEX-1GTWX,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa is up to ~0.4mm, ~40-50% thickness",eso_mucosa
+GTEX-1GZ2Q-2026,Esophagus - Mucosa,GTEX-1GZ2Q,male,40-49,Fast death - natural causes,congestion,"6 pieces; mucosa largely autolyzed/sloughed, outlined submucosal glands, preserved muscularis, congestion",eso_mucosa
+GTEX-1GZ4I-1326,Esophagus - Mucosa,GTEX-1GZ4I,male,50-59,Fast death - natural causes,,6 pieces; moderate epithelial fragmentation; well dissected,eso_mucosa
+GTEX-1GZHY-1726,Esophagus - Mucosa,GTEX-1GZHY,female,50-59,Fast death - violent,,"6 pieces, squamous mucosa up to ~0.2mm, sloughing",eso_mucosa
+GTEX-1H11D-2126,Esophagus - Mucosa,GTEX-1H11D,male,40-49,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1H1CY-1326,Esophagus - Mucosa,GTEX-1H1CY,female,60-69,Fast death - natural causes,,5 pieces; partially sloughed epithelium; prominent submucosal glands comprise up to 20%,eso_mucosa
+GTEX-1H1DE-1026,Esophagus - Mucosa,GTEX-1H1DE,male,20-29,Ventilator case,,"6 pieces, squamous mucosa up to ~0.2mm, 10-15% thickness",eso_mucosa
+GTEX-1H1DF-1726,Esophagus - Mucosa,GTEX-1H1DF,female,40-49,Fast death - natural causes,,6 pieces; epithelium largely sloughed,eso_mucosa
+GTEX-1H1DG-1226,Esophagus - Mucosa,GTEX-1H1DG,male,70-79,Ventilator case,,"5 pieces, squamous mucosa up to ~0.2mm, ~10-30% thickness",eso_mucosa
+GTEX-1H1E6-1226,Esophagus - Mucosa,GTEX-1H1E6,male,30-39,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1H1ZS-1526,Esophagus - Mucosa,GTEX-1H1ZS,male,70-79,Slow death,,"6 pieces squamous mucosa up to ~0.5mm, ~40-50% thickness",eso_mucosa
+GTEX-1H23P-1426,Esophagus - Mucosa,GTEX-1H23P,male,60-69,Slow death,,"6 pieces; well dissected, well preserved",eso_mucosa
+GTEX-1H2FU-1526,Esophagus - Mucosa,GTEX-1H2FU,female,60-69,Slow death,inflammation,"6 pieces; minimal residual squamous mucosa, mild inflammation",eso_mucosa
+GTEX-1H3NZ-1326,Esophagus - Mucosa,GTEX-1H3NZ,male,60-69,Slow death,inflammation,6 pieces; foci of chronic inflammation; partial sloughing of epithelium,eso_mucosa
+GTEX-1H3VE-1726,Esophagus - Mucosa,GTEX-1H3VE,male,40-49,Slow death,congestion,6 pieces; moderate to severe autolysis; largely sloughed mucosa; thick-walled vessels in submucosa; congestion,eso_mucosa
+GTEX-1H3VY-2026,Esophagus - Mucosa,GTEX-1H3VY,male,50-59,Ventilator case,esophagitis,"6 pieces; erosive esophagitis, fungal organisms present",eso_mucosa
+GTEX-1H4P4-1126,Esophagus - Mucosa,GTEX-1H4P4,male,50-59,Fast death - natural causes,,"6 pieces; epithelium is partially sloughed, few clusters of submucosal glands",eso_mucosa
+GTEX-1HB9E-1526,Esophagus - Mucosa,GTEX-1HB9E,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.5mm, ~20-30% thickness",eso_mucosa
+GTEX-1HBPH-1126,Esophagus - Mucosa,GTEX-1HBPH,female,40-49,Slow death,,6 pieces; well dissected; slight epithelial sloughing,eso_mucosa
+GTEX-1HBPI-0626,Esophagus - Mucosa,GTEX-1HBPI,male,50-59,Fast death - natural causes,inflammation,6 pieces; several prominent submucosal glands with dilated chronically inflamed ducts,eso_mucosa
+GTEX-1HBPM-1426,Esophagus - Mucosa,GTEX-1HBPM,female,60-69,Slow death,,"6 pieces; epithelium is partially sloughing, small focus of muscularis (not target); ectatic, thick-walled vessels c/w varices",eso_mucosa
+GTEX-1HBPN-1326,Esophagus - Mucosa,GTEX-1HBPN,male,50-59,Ventilator case,,"6 pieces; squamous mucosa up to ~0.3mm, ~20-30% thickness",eso_mucosa
+GTEX-1HC8U-1526,Esophagus - Mucosa,GTEX-1HC8U,female,40-49,Ventilator case,,6 pieces; well dissected squamous mucosa,eso_mucosa
+GTEX-1HCU6-1326,Esophagus - Mucosa,GTEX-1HCU6,female,60-69,Fast death - natural causes,,6 pieces; moderately sloughed epithelium; engorged blood vessels,eso_mucosa
+GTEX-1HCU7-2126,Esophagus - Mucosa,GTEX-1HCU7,male,50-59,Ventilator case,inflammation,6 pieces; chronic inflammation; considerable epithelial sloughing,eso_mucosa
+GTEX-1HCU8-2226,Esophagus - Mucosa,GTEX-1HCU8,female,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.35mm, ~15% of thickness",eso_mucosa
+GTEX-1HCU9-0826,Esophagus - Mucosa,GTEX-1HCU9,male,20-29,Ventilator case,,6 pieces; submucosal glands in 3 pieces,eso_mucosa
+GTEX-1HCUA-1426,Esophagus - Mucosa,GTEX-1HCUA,female,50-59,Ventilator case,,6 pieces; includes few lymphoid aggregates and clusters of submucosal glands,eso_mucosa
+GTEX-1HCVE-1226,Esophagus - Mucosa,GTEX-1HCVE,male,50-59,Slow death,,"6 pieces; squamous mucosa is ~0.5mm, ~50-60% thickness.  A few submucosal mucus glands present, rep. delineated",eso_mucosa
+GTEX-1HFI6-1226,Esophagus - Mucosa,GTEX-1HFI6,male,40-49,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.5mm, ~30-40% thickness.  Submucosal mucus glands present, rep. delineated",eso_mucosa
+GTEX-1HFI7-1226,Esophagus - Mucosa,GTEX-1HFI7,female,50-59,Ventilator case,esophagitis,6 pieces; esophagitis with rare focus of invasive fungal elements,eso_mucosa
+GTEX-1HGF4-0926,Esophagus - Mucosa,GTEX-1HGF4,male,60-69,Fast death - natural causes,,6 pieces; epithelium focally fragmented,eso_mucosa
+GTEX-1HKZK-1426,Esophagus - Mucosa,GTEX-1HKZK,male,40-49,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1HR98-1326,Esophagus - Mucosa,GTEX-1HR98,male,60-69,Slow death,esophagitis,6 pieces; severe sloughing of epithelium; chronic esophagitis,eso_mucosa
+GTEX-1HR9M-1126,Esophagus - Mucosa,GTEX-1HR9M,male,60-69,Slow death,esophagitis,6 fragmented pieces; chronic esophagitis,eso_mucosa
+GTEX-1HSEH-1126,Esophagus - Mucosa,GTEX-1HSEH,male,60-69,Ventilator case,metaplasia,"6 pieces, mucosa sloughing; no squamous mucosa, extensive intestinal/Barrett metaplasia",eso_mucosa
+GTEX-1HSGN-1626,Esophagus - Mucosa,GTEX-1HSGN,female,40-49,Ventilator case,,"6 pieces, squamous mucosa up to ~0.3mm, ~10-15% thickness.  Submucosal mucuis glands  present; rep. delineated",eso_mucosa
+GTEX-1HSKV-2426,Esophagus - Mucosa,GTEX-1HSKV,male,60-69,Fast death - natural causes,,6 pieces; includes few clusters of submucosal glands,eso_mucosa
+GTEX-1HSMO-1826,Esophagus - Mucosa,GTEX-1HSMO,male,60-69,Intermediate death,,6 pieces; epithelium totally sloughed,eso_mucosa
+GTEX-1HSMP-1526,Esophagus - Mucosa,GTEX-1HSMP,male,70-79,Ventilator case,,"6 pieces, squamous mucosa up to ~0.4mm, ~15-20% thickness",eso_mucosa
+GTEX-1HSMQ-2026,Esophagus - Mucosa,GTEX-1HSMQ,male,50-59,Ventilator case,,6 pieces; includes several clusters of submucosal glands,eso_mucosa
+GTEX-1HT8W-1926,Esophagus - Mucosa,GTEX-1HT8W,male,30-39,Fast death - natural causes,,"6 pieces, squamous mucosa sloughing, residual thickness up to ~0.15m",eso_mucosa
+GTEX-1HUB1-2126,Esophagus - Mucosa,GTEX-1HUB1,male,60-69,Ventilator case,,"7 pieces; partially sloughed epithelium, remainder is well preserved",eso_mucosa
+GTEX-1I19N-1326,Esophagus - Mucosa,GTEX-1I19N,male,70-79,Slow death,,6 pieces; epithelium sloughing/absent in some sections; muscularis (not target) also present,eso_mucosa
+GTEX-1I1CD-1726,Esophagus - Mucosa,GTEX-1I1CD,female,60-69,Slow death,,6 pieces,eso_mucosa
+GTEX-1I1GP-1026,Esophagus - Mucosa,GTEX-1I1GP,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.2mm, partially sloughing.  Submucosa mucus glands abundant, rep. delineated",eso_mucosa
+GTEX-1I1GQ-1726,Esophagus - Mucosa,GTEX-1I1GQ,male,50-59,Fast death - natural causes,congestion,6 pieces; congested mucosa; ~0.3mm thick squamous epithelium,eso_mucosa
+GTEX-1I1GR-1326,Esophagus - Mucosa,GTEX-1I1GR,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.5mm, ~50-60% thickness",eso_mucosa
+GTEX-1I1GS-2126,Esophagus - Mucosa,GTEX-1I1GS,male,60-69,Slow death,,"6 pieces, squamous mucosa partially sloughing, up to~0.3mm, ~10-15% thickness; submucosal mucus glands present, rep. delineated",eso_mucosa
+GTEX-1I1GT-1426,Esophagus - Mucosa,GTEX-1I1GT,female,60-69,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1I1GU-1426,Esophagus - Mucosa,GTEX-1I1GU,male,40-49,Ventilator case,hyperplasia,6 pieces; slightly hyperplastic squamous layer,eso_mucosa
+GTEX-1I1GV-2226,Esophagus - Mucosa,GTEX-1I1GV,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.35mm, ~15-20% thickness; prominent submucosal mucus glands present; rep delineated",eso_mucosa
+GTEX-1I1HK-1526,Esophagus - Mucosa,GTEX-1I1HK,male,60-69,Intermediate death,,"6 pieces; submucosa, muscularis mucosae vs propria, no significant intact epithelium",eso_mucosa
+GTEX-1I4MK-0426,Esophagus - Mucosa,GTEX-1I4MK,female,50-59,Ventilator case,"desquamation, esophagitis",6 pieces; mild chronic esophagitis; focal surface desquamation,eso_mucosa
+GTEX-1I6K6-1226,Esophagus - Mucosa,GTEX-1I6K6,male,30-39,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1I6K6-5007,Esophagus - Mucosa,GTEX-1I6K6,male,30-39,Ventilator case,,1 piece,eso_mucosa
+GTEX-1I6K7-1426,Esophagus - Mucosa,GTEX-1I6K7,male,40-49,Ventilator case,"hyperplasia, inflammation",6 pieces; well dissected; mild chronic inflammation with squamous  hyperplasia; 1 submucosal gland,eso_mucosa
+GTEX-1ICG6-1926,Esophagus - Mucosa,GTEX-1ICG6,female,70-79,Ventilator case,,6 pieces partially sloughed epithelium,eso_mucosa
+GTEX-1ICG6-5010,Esophagus - Mucosa,GTEX-1ICG6,female,70-79,Ventilator case,,1 piece,eso_mucosa
+GTEX-1ICLY-2126,Esophagus - Mucosa,GTEX-1ICLY,male,50-59,Ventilator case,,"6 pieces, squamous mucosa up to ~0.8mm, 25-30% thickness",eso_mucosa
+GTEX-1ICLZ-1326,Esophagus - Mucosa,GTEX-1ICLZ,male,60-69,Intermediate death,,6 pieces; completely sloughed epithelium; moderately autolyzed muscularis mucosae and submucosa with  mucous glands,eso_mucosa
+GTEX-1IDFM-1126,Esophagus - Mucosa,GTEX-1IDFM,male,60-69,Slow death,,"6 pieces; epithelium is sloughing, one piece includes small portion of muscularis (not target)",eso_mucosa
+GTEX-1IDJC-0626,Esophagus - Mucosa,GTEX-1IDJC,male,50-59,Ventilator case,,"6 pieces, squamous mucosa up to ~0.4mm, ~20-25% of thickness",eso_mucosa
+GTEX-1IDJD-1626,Esophagus - Mucosa,GTEX-1IDJD,male,30-39,Ventilator case,,6 pieces; ~ 207um squamous epithelium with parakeratosis; 3 pieces contain submucosal glands (outlined),eso_mucosa
+GTEX-1IDJD-5013,Esophagus - Mucosa,GTEX-1IDJD,male,30-39,Ventilator case,,1 piece,eso_mucosa
+GTEX-1IDJE-0626,Esophagus - Mucosa,GTEX-1IDJE,female,50-59,Ventilator case,,6 pieces; trachea sampled,eso_mucosa
+GTEX-1IDJF-1226,Esophagus - Mucosa,GTEX-1IDJF,male,20-29,Ventilator case,esophagitis,6 pieces; several foci of chronic esophagitis [circled] with lymphoid infiltrates,eso_mucosa
+GTEX-1IDJH-2026,Esophagus - Mucosa,GTEX-1IDJH,male,70-79,Fast death - violent,,"6 pieces, squamous mucosa up to ~0.35mm, ~40-50% thickness",eso_mucosa
+GTEX-1IDJI-0826,Esophagus - Mucosa,GTEX-1IDJI,female,50-59,Ventilator case,,6 pieces; all include significant component of muscularis (not target),eso_mucosa
+GTEX-1IDJU-1426,Esophagus - Mucosa,GTEX-1IDJU,female,60-69,Ventilator case,hyperplasia,6 pieces; mild to modereate squamous hyperplasia with parakeratosis,eso_mucosa
+GTEX-1IDJV-1526,Esophagus - Mucosa,GTEX-1IDJV,male,60-69,Intermediate death,,"6  pieces, squamous mucosa sloughing, residual up to ~150 microns",eso_mucosa
+GTEX-1IE54-1826,Esophagus - Mucosa,GTEX-1IE54,female,40-49,Ventilator case,congestion,"6 pieces; congested, partially autolyzed gastric mucosa",eso_mucosa
+GTEX-1IGQW-1326,Esophagus - Mucosa,GTEX-1IGQW,male,60-69,Slow death,,"6 pieces, squamous mucosa up to ~0.6mm, 30-40% thickness.  Submucosal mucus gland delineated.  Few foci with more moderate autolysis, early sloughing, encircled",eso_mucosa
+GTEX-1IKJJ-1426,Esophagus - Mucosa,GTEX-1IKJJ,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa is ~0.35mm, ~10-15% thickness.",eso_mucosa
+GTEX-1IKK5-1326,Esophagus - Mucosa,GTEX-1IKK5,male,60-69,Fast death - natural causes,inflammation,6 pieces; small foci of chronic inflammation,eso_mucosa
+GTEX-1IKOE-1526,Esophagus - Mucosa,GTEX-1IKOE,female,30-39,Ventilator case,,6 pieces; numerous submucosal glands,eso_mucosa
+GTEX-1IKOH-1826,Esophagus - Mucosa,GTEX-1IKOH,female,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa sloughing, residual up to ~0.1mm",eso_mucosa
+GTEX-1IL2U-1426,Esophagus - Mucosa,GTEX-1IL2U,male,60-69,Fast death - natural causes,,6 pieces; well preserved stratified squamous epithelium ~0.4um thick and muscularis mucosae,eso_mucosa
+GTEX-1IL2V-2326,Esophagus - Mucosa,GTEX-1IL2V,male,70-79,Fast death - natural causes,,"6 pieces, squamous mucosa partially sloughing, poorly preserved, few submucosal mucus glands delineated",eso_mucosa
+GTEX-1IOXB-2026,Esophagus - Mucosa,GTEX-1IOXB,male,50-59,Fast death - natural causes,,6 pieces; totally autolyzed,eso_mucosa
+GTEX-1IY9M-1626,Esophagus - Mucosa,GTEX-1IY9M,male,60-69,Fast death - violent,congestion,"6 pieces; 0.5mm thick stratified squamous epithelium and muscularis mucosae, congestion",eso_mucosa
+GTEX-1J1OQ-2526,Esophagus - Mucosa,GTEX-1J1OQ,female,40-49,Slow death,,"6 pieces, squamous mucosa up to ~0.3mm, 20-40% of thickness",eso_mucosa
+GTEX-1J1R8-0326,Esophagus - Mucosa,GTEX-1J1R8,male,40-49,Ventilator case,,"6 pieces, squamous mucosa up ot ~0.4mm, ~30-50% of thickness.  Submucosal mucus gland delineated",eso_mucosa
+GTEX-1J8EW-1326,Esophagus - Mucosa,GTEX-1J8EW,female,60-69,Fast death - natural causes,congestion,6 pieces; venous congestion,eso_mucosa
+GTEX-1J8JJ-1626,Esophagus - Mucosa,GTEX-1J8JJ,female,60-69,Fast death - natural causes,,"6 pieces, target mucosa largely sloughed, trace residual up to ~50 microns",eso_mucosa
+GTEX-1J8Q2-1826,Esophagus - Mucosa,GTEX-1J8Q2,male,60-69,Intermediate death,,"6 pieces; pseudodiverticulosis, several clusters of submucosal glands",eso_mucosa
+GTEX-1J8Q3-2226,Esophagus - Mucosa,GTEX-1J8Q3,male,60-69,Ventilator case,desquamation,6 pieces; well dissected; slight surface desquamation,eso_mucosa
+GTEX-1J8QM-1926,Esophagus - Mucosa,GTEX-1J8QM,female,60-69,Ventilator case,,6 pieces; well preserved mucosa with scattered submucosal glands (outlined),eso_mucosa
+GTEX-1JJ6O-1326,Esophagus - Mucosa,GTEX-1JJ6O,male,60-69,Slow death,,6 pieces; autolyzed glandular mucosa,eso_mucosa
+GTEX-1JJE9-1926,Esophagus - Mucosa,GTEX-1JJE9,male,70-79,Intermediate death,congestion,6 pieces; limited amount of squamous lining varying from 0 to 85% coverage; lamina  propria moderately congested,eso_mucosa
+GTEX-1JJEA-2326,Esophagus - Mucosa,GTEX-1JJEA,male,60-69,Fast death - natural causes,,6 pieces gastric cardiac mucosa; no squamous mucosa present,eso_mucosa
+GTEX-1JK1U-1726,Esophagus - Mucosa,GTEX-1JK1U,male,60-69,Ventilator case,,"6 pieces squamous mucosa up to ~0.4mm, ~15% of thckness.  Submucosal mucus glands  present, rep.delineated",eso_mucosa
+GTEX-1JK1U-5010,Esophagus - Mucosa,GTEX-1JK1U,male,60-69,Ventilator case,,1 piece; correlates with PFPE sections,eso_mucosa
+GTEX-1JKYN-1526,Esophagus - Mucosa,GTEX-1JKYN,male,30-39,Ventilator case,,"6 pieces; intact with prominent muscularis mucosae, rare cluster of submucosal glands",eso_mucosa
+GTEX-1JKYR-2126,Esophagus - Mucosa,GTEX-1JKYR,male,20-29,Ventilator case,esophagitis,6 pieces; moderate chronic esophagitis (focal lymphoid deposits in lamina propria),eso_mucosa
+GTEX-1JMLX-2326,Esophagus - Mucosa,GTEX-1JMLX,male,50-59,Fast death - natural causes,,6 pieces; mucosa well preserved; severe submucosal ductal dilatation with focal lymphoid aggregates,eso_mucosa
+GTEX-1JMOU-2226,Esophagus - Mucosa,GTEX-1JMOU,female,60-69,Slow death,,"6 pieces, squamous mucosa with advanced autolysis/sloughed; few residual submucosal mucus glands present, delineated",eso_mucosa
+GTEX-1JMPY-0826,Esophagus - Mucosa,GTEX-1JMPY,male,30-39,Ventilator case,,6 pieces; includes few lymphoid aggregates and clusters of submucosal glands,eso_mucosa
+GTEX-1JMPZ-2026,Esophagus - Mucosa,GTEX-1JMPZ,male,30-39,Slow death,,6 pieces; well preserved epithelium; several submucosal glands,eso_mucosa
+GTEX-1JMQI-0726,Esophagus - Mucosa,GTEX-1JMQI,male,50-59,Ventilator case,,6 pieces; essentially no intact epithelium,eso_mucosa
+GTEX-1JMQJ-1226,Esophagus - Mucosa,GTEX-1JMQJ,male,50-59,Fast death - natural causes,,"6 pieces; mucosa, prominent muscularis mucosae",eso_mucosa
+GTEX-1JMQK-2026,Esophagus - Mucosa,GTEX-1JMQK,male,60-69,Ventilator case,,6 pieces; epithelium partially sloughed,eso_mucosa
+GTEX-1JMQL-1526,Esophagus - Mucosa,GTEX-1JMQL,female,50-59,Ventilator case,,"6 pieces, target squamous mucosa largely sloughed, residual islands up <0.1mm, rep delineated",eso_mucosa
+GTEX-1JN1M-1926,Esophagus - Mucosa,GTEX-1JN1M,female,60-69,Ventilator case,,"6 pieces, squamous mucosa largely sloughed; residual submucosal mucus glands delineated; a few sqauamous mucosal herniations noted",eso_mucosa
+GTEX-1JN6P-2226,Esophagus - Mucosa,GTEX-1JN6P,male,60-69,Ventilator case,,6 pieces; epithelium autolyzed and largely sloughed,eso_mucosa
+GTEX-1K2DA-0626,Esophagus - Mucosa,GTEX-1K2DA,male,50-59,Ventilator case,"esophagitis, hyperplasia",6 pieces; parakeratosis with focal superficial exudate with possible fungal organisms; squamous hyperplasia (possible reflux),eso_mucosa
+GTEX-1K2DU-1726,Esophagus - Mucosa,GTEX-1K2DU,male,20-29,Ventilator case,,"6 pieces; squamous mucosa up to ~0.4mm, ~25% of thickness",eso_mucosa
+GTEX-1K9T9-2026,Esophagus - Mucosa,GTEX-1K9T9,female,50-59,Ventilator case,,"6 pieces, partial sloughing of squamous mucosa, residual up to ~0.25mm",eso_mucosa
+GTEX-1KAFJ-0626,Esophagus - Mucosa,GTEX-1KAFJ,male,50-59,Intermediate death,,6 pieces; well dissected; only 1 small extraneous submucosal gland,eso_mucosa
+GTEX-1KAFJ-5007,Esophagus - Mucosa,GTEX-1KAFJ,male,50-59,Intermediate death,,1 piece,eso_mucosa
+GTEX-1KANA-0626,Esophagus - Mucosa,GTEX-1KANA,male,20-29,Ventilator case,"esophagitis, hyperplasia","6 pieces;  predominantly mucosa, muscularis mucosae, submucosa, with few submucosal glands and rare portion of muscularis propria, some squamous hyperplasia suggestive of reflux",eso_mucosa
+GTEX-1KANB-1826,Esophagus - Mucosa,GTEX-1KANB,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.2 mm; abundant submucosal mucus glands, rep delineated",eso_mucosa
+GTEX-1KD4Q-1126,Esophagus - Mucosa,GTEX-1KD4Q,male,40-49,Fast death - natural causes,desquamation,6 pieces; largely desquamated squamous lining; better preserved prominent muscularis mucosae,eso_mucosa
+GTEX-1KWVE-1926,Esophagus - Mucosa,GTEX-1KWVE,male,30-39,Fast death - violent,,6 pieces; squamous surface partially sloughed; round bubble-like submucosal artefactual defects,eso_mucosa
+GTEX-1KXAM-0826,Esophagus - Mucosa,GTEX-1KXAM,male,60-69,Ventilator case,,"6 pieces, squamous mucosa up to ~0.7mm, ~30% of thickness. Rare submucosal mucus glands present, encircled",eso_mucosa
+GTEX-1L5NE-1426,Esophagus - Mucosa,GTEX-1L5NE,male,50-59,Ventilator case,,"6 pieces, squamous mucosa up to ~0.6mm, ~20-30% thickness",eso_mucosa
+GTEX-1LB8K-1326,Esophagus - Mucosa,GTEX-1LB8K,male,50-59,Fast death - natural causes,"esophagitis, hyperplasia",6 pieces; squamous hyperplasia consistent with reflux; several small subepithelial lymphoid collections; partially sloughed epithelium,eso_mucosa
+GTEX-1LBAC-1226,Esophagus - Mucosa,GTEX-1LBAC,male,20-29,Ventilator case,,6 pieces; includes several clusters of submucosal glands and few lymphoid aggregates,eso_mucosa
+GTEX-1LC46-0826,Esophagus - Mucosa,GTEX-1LC46,male,30-39,Ventilator case,,"6 pieces; 3 are muscularis, 3 are mucosa",eso_mucosa
+GTEX-1LC47-1826,Esophagus - Mucosa,GTEX-1LC47,male,60-69,Intermediate death,,"6 pieces, squamous mucosa up to ~0.2mm, sloughing; prominent submucosal mucus glands, rep encircled",eso_mucosa
+GTEX-1LG7Y-1726,Esophagus - Mucosa,GTEX-1LG7Y,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa  with early separation, up to ~0.4mm, 20-30% of thickness",eso_mucosa
+GTEX-1LG7Z-0926,Esophagus - Mucosa,GTEX-1LG7Z,male,30-39,Ventilator case,inflammation,6 pieces; 5 with submucosal mucous glands; 1 with periductal chronic inflammatory cells [labeled],eso_mucosa
+GTEX-1LGOU-0526,Esophagus - Mucosa,GTEX-1LGOU,female,20-29,Ventilator case,,,eso_mucosa
+GTEX-1LGRB-1626,Esophagus - Mucosa,GTEX-1LGRB,female,50-59,Ventilator case,,"6 pieces; includes several clusters of submucosal glands and few lymphoid aggregates, focal acute exudate with apparent fungal organisms, 1.9mm leiomyoma",eso_mucosa
+GTEX-1LH75-0726,Esophagus - Mucosa,GTEX-1LH75,female,50-59,Slow death,,"4 pieces, target squamous mucosa up to ~0.25mm, sloughing",eso_mucosa
+GTEX-1LKK1-1326,Esophagus - Mucosa,GTEX-1LKK1,female,50-59,Slow death,,"6 pieces, advanced autolysis",eso_mucosa
+GTEX-1LNCM-0626,Esophagus - Mucosa,GTEX-1LNCM,female,50-59,Ventilator case,,6 pieces; mucosa is entirely sloughed on 1 piece which predominantly consists of autolyzed submucosal glands,eso_mucosa
+GTEX-1LSNL-2226,Esophagus - Mucosa,GTEX-1LSNL,male,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa, early surface sloughing, up to ~0.2mm, submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-1LSNM-1126,Esophagus - Mucosa,GTEX-1LSNM,male,50-59,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1LSVX-1226,Esophagus - Mucosa,GTEX-1LSVX,male,60-69,Slow death,,6 pieces; focal sloughing of epithelium; prominent muscularis mucosae,eso_mucosa
+GTEX-1LVA9-2126,Esophagus - Mucosa,GTEX-1LVA9,male,50-59,Fast death - natural causes,,5 pieces; squamous mucosa is largely sloughed,eso_mucosa
+GTEX-1LVAM-1126,Esophagus - Mucosa,GTEX-1LVAM,female,50-59,Ventilator case,,"6 pieces, squamous mucosa up to ~0.5mm, ~20-30% thickness",eso_mucosa
+GTEX-1LVAN-2326,Esophagus - Mucosa,GTEX-1LVAN,female,50-59,Ventilator case,,6 pieces; focal submucosal glands in 2 pieces,eso_mucosa
+GTEX-1LVAO-2326,Esophagus - Mucosa,GTEX-1LVAO,male,60-69,Slow death,,6 pieces; well preserved; 1 small [0.8mm] submucosal gland on 1 deep edge,eso_mucosa
+GTEX-1M4P7-1826,Esophagus - Mucosa,GTEX-1M4P7,male,60-69,Fast death - natural causes,,"6 pieces, no residual target mucosa",eso_mucosa
+GTEX-1M5QR-0726,Esophagus - Mucosa,GTEX-1M5QR,male,40-49,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1MA7W-0426,Esophagus - Mucosa,GTEX-1MA7W,female,20-29,Ventilator case,,"6 pieces, squamous mucosa up to ~0.4mm; ~15-20% thickness;incidental submucosal mucus glands delineated(rep)",eso_mucosa
+GTEX-1MA7X-0726,Esophagus - Mucosa,GTEX-1MA7X,male,60-69,Fast death - natural causes,,6 pieces; half of the specimens have high mucosal glycogen content;,eso_mucosa
+GTEX-1MCC2-1926,Esophagus - Mucosa,GTEX-1MCC2,female,30-39,Ventilator case,desquamation,6 pieces; three pieces contain target squamous epithelium measuring ~ 0.3mm in  thickness; focal superficial desquamation; well preserved muscularis,eso_mucosa
+GTEX-1MCQQ-1026,Esophagus - Mucosa,GTEX-1MCQQ,male,60-69,Intermediate death,esophagitis,6 pieces; focal chronic esophagitis; partial epithelial sloughing; well dissected mucosa,eso_mucosa
+GTEX-1MCYP-1026,Esophagus - Mucosa,GTEX-1MCYP,female,20-29,Ventilator case,,6 pieces,eso_mucosa
+GTEX-1MGNQ-1626,Esophagus - Mucosa,GTEX-1MGNQ,male,40-49,Ventilator case,,"6 pieces; squamous mucosa up to ~0.35mm, ~25% thickness.  Rare mucus glands present; rep delineated",eso_mucosa
+GTEX-1MJIX-0826,Esophagus - Mucosa,GTEX-1MJIX,male,40-49,Ventilator case,"esophagitis, hypereosinophilia, hyperplasia, inflammation","6 pieces; patchy eosinophilic squamous surface, chronic inflammation, and hyperplasia c/w reflux, fragment of mucosa of GE junction",eso_mucosa
+GTEX-1MJK2-1826,Esophagus - Mucosa,GTEX-1MJK2,male,50-59,Fast death - natural causes,,6 pieces; target mucosa not present; well preserved muscularis,eso_mucosa
+GTEX-1MJK3-1226,Esophagus - Mucosa,GTEX-1MJK3,male,20-29,Ventilator case,inflammation,6 pieces; foci of chronic inflammation in lamina propria,eso_mucosa
+GTEX-1MUQO-1826,Esophagus - Mucosa,GTEX-1MUQO,male,60-69,Ventilator case,,"9 pieces, ~squamous mucosa up to ~0.5mm, ~30% of thickness",eso_mucosa
+GTEX-1N2DV-2026,Esophagus - Mucosa,GTEX-1N2DV,male,40-49,Ventilator case,,"6 pieces squamous mucosa up to ~0.4mm, ~20% of thickness",eso_mucosa
+GTEX-1N2DW-1426,Esophagus - Mucosa,GTEX-1N2DW,male,50-59,Fast death - natural causes,,6 pieces; squamous mucosa up to 0.4mm; submucosal glands (outlined),eso_mucosa
+GTEX-1N2EE-2426,Esophagus - Mucosa,GTEX-1N2EE,male,60-69,Fast death - violent,,"6 pieces, squamous mucosa up to ~0.3mm, ~20-25% of thickness. Submucosal mucus glands present, rep encircled",eso_mucosa
+GTEX-1N2EF-2526,Esophagus - Mucosa,GTEX-1N2EF,male,60-69,Intermediate death,,6 pieces; autolyzed glandular mucosa & submucosa; no squamous epithelium,eso_mucosa
+GTEX-1N5O9-2326,Esophagus - Mucosa,GTEX-1N5O9,male,60-69,Fast death - natural causes,congestion,6 pieces; congestion; submucosal glands (arrows); small lymphocytic aggregates (outlined),eso_mucosa
+GTEX-1N7R6-1026,Esophagus - Mucosa,GTEX-1N7R6,female,20-29,Slow death,metaplasia,"6 pieces; large numbers of metaplastic/ectopic sebaceous glands, several pieces include muscularis propria",eso_mucosa
+GTEX-1NHNU-1926,Esophagus - Mucosa,GTEX-1NHNU,male,50-59,Ventilator case,,6 pieces; largely sloughed squamous surface,eso_mucosa
+GTEX-1NSGN-2026,Esophagus - Mucosa,GTEX-1NSGN,male,50-59,Ventilator case,,6 pieces; several submucosal glands (outlined); ~400 microns  stratified squamous epithelium,eso_mucosa
+GTEX-1NT2E-1326,Esophagus - Mucosa,GTEX-1NT2E,female,40-49,Ventilator case,,,eso_mucosa
+GTEX-1NUQO-1126,Esophagus - Mucosa,GTEX-1NUQO,female,20-29,Ventilator case,,"6 pieces; stratified squamous epithelium, submucosa with couple of glands (outlined) and muscularis",eso_mucosa
+GTEX-1NV5F-2826,Esophagus - Mucosa,GTEX-1NV5F,female,60-69,Slow death,,6 pieces; well dissected mucosa; focally sloughed mucosa,eso_mucosa
+GTEX-1NV88-2526,Esophagus - Mucosa,GTEX-1NV88,male,50-59,Slow death,,,eso_mucosa
+GTEX-1NV8Z-1726,Esophagus - Mucosa,GTEX-1NV8Z,male,60-69,Fast death - natural causes,,"6 pieces target squamous mucosa up to ~0.15mm, ~20% thickness, early surface sloughing",eso_mucosa
+GTEX-1O97I-1126,Esophagus - Mucosa,GTEX-1O97I,male,60-69,Intermediate death,,6 pieces; 3 well preserved; 3 have squamous fragmentation,eso_mucosa
+GTEX-1O9I2-1726,Esophagus - Mucosa,GTEX-1O9I2,male,50-59,Ventilator case,,"6 pieces, sqaumous mucosa up to ~0.4mm, ~40-50% of thickness",eso_mucosa
+GTEX-1OFPY-1626,Esophagus - Mucosa,GTEX-1OFPY,male,60-69,Ventilator case,,6 pieces; well dissected; prominent muscularis mucosae,eso_mucosa
+GTEX-1OJC3-0826,Esophagus - Mucosa,GTEX-1OJC3,male,20-29,Ventilator case,,6 pieces; mild to focally moderate autolysis; ~0.3mm thick epithelium: numerous submucosal glands,eso_mucosa
+GTEX-1OJC4-1326,Esophagus - Mucosa,GTEX-1OJC4,female,50-59,Fast death - natural causes,,"6 pieces; some represent denuded mucosa, some are muscularis",eso_mucosa
+GTEX-1OKEX-1326,Esophagus - Mucosa,GTEX-1OKEX,male,60-69,Ventilator case,,"6 piece, squamous mucosa up to ~0.3mm, ~25% thicknesss",eso_mucosa
+GTEX-1OZHM-2826,Esophagus - Mucosa,GTEX-1OZHM,male,40-49,Slow death,,"6 pieces; target squamous mucosa up to ~0.5mm, ~15-20% of thickness",eso_mucosa
+GTEX-1P4AB-2326,Esophagus - Mucosa,GTEX-1P4AB,male,50-59,Slow death,,6 pieces; epithelium totally sloughed; remainder consists mainly of submucosa,eso_mucosa
+GTEX-1PAR6-1126,Esophagus - Mucosa,GTEX-1PAR6,female,30-39,Ventilator case,,,eso_mucosa
+GTEX-1PBJI-1926,Esophagus - Mucosa,GTEX-1PBJI,female,20-29,Fast death - violent,,"6 pieces, target squamous mucosa up to ~0.2mm, moderately advanced autolysis, partial sloughing",eso_mucosa
+GTEX-1PBJJ-2126,Esophagus - Mucosa,GTEX-1PBJJ,male,30-39,Ventilator case,,6 pieces; mucosa is predominantly autolyzed/denuded,eso_mucosa
+GTEX-1PDJ9-1626,Esophagus - Mucosa,GTEX-1PDJ9,male,20-29,Ventilator case,,6 pieces; prominent muscularis mucosae; no submucosal glands,eso_mucosa
+GTEX-1PFEY-0826,Esophagus - Mucosa,GTEX-1PFEY,male,30-39,Ventilator case,,"6 pieces, squamous mucosa up to ~0.2mm, ~20% thickness",eso_mucosa
+GTEX-1PIEJ-1226,Esophagus - Mucosa,GTEX-1PIEJ,female,20-29,Ventilator case,,"6 pieces, squamous mucosa up to ~0.25mm, ~15-20% thickness",eso_mucosa
+GTEX-1PIGE-0926,Esophagus - Mucosa,GTEX-1PIGE,male,20-29,Ventilator case,"esophagitis, hyperplasia",6 pieces; well dissected; mild to moderate squamous hyperplasia with focal lymphoid aggregates consistent with gastric reflux; no submucosal glands,eso_mucosa
+GTEX-1PIIG-0826,Esophagus - Mucosa,GTEX-1PIIG,male,30-39,Ventilator case,,6 pieces; stratified squamous epithelium  up to 0.25mm; submucosal seromucous glands (outlined); small aggregates of lymphocytes (arrows),eso_mucosa
+GTEX-1POEN-1226,Esophagus - Mucosa,GTEX-1POEN,female,30-39,Fast death - violent,,"6 pieces, target squamous mucosa partially sloughing, ~70 microns, <10% thickness",eso_mucosa
+GTEX-1PPGY-1726,Esophagus - Mucosa,GTEX-1PPGY,male,60-69,Fast death - natural causes,desquamation,6 pieces; superficial desquamation; squamous epithelium up to 0.42mm,eso_mucosa
+GTEX-1PPH6-1426,Esophagus - Mucosa,GTEX-1PPH6,female,60-69,Fast death - natural causes,,6 pieces; partly fragmented epithelium,eso_mucosa
+GTEX-1PPH7-1226,Esophagus - Mucosa,GTEX-1PPH7,male,40-49,Ventilator case,,"5 pieces; no epithelial layer, only muscularis mucosae & stroma",eso_mucosa
+GTEX-1PPH8-1626,Esophagus - Mucosa,GTEX-1PPH8,male,20-29,Ventilator case,,"6 pieces, squamous mucosa up to ~0.3mm, ~10-15% thickness; submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-1PWST-1926,Esophagus - Mucosa,GTEX-1PWST,male,70-79,Slow death,esophagitis,"6 pieces, mucosa extensively sloughed; erosive esophagitis",eso_mucosa
+GTEX-1QAET-1626,Esophagus - Mucosa,GTEX-1QAET,male,50-59,Ventilator case,,6 pieces; 90% squamous epithelium sloughed,eso_mucosa
+GTEX-1QCLY-1526,Esophagus - Mucosa,GTEX-1QCLY,male,30-39,Ventilator case,,"6 pieces, squamous mucosa is ~0.5mm, 20-50% thickness, submucosal mucus glands present, rep delineated.",eso_mucosa
+GTEX-1QCLZ-1626,Esophagus - Mucosa,GTEX-1QCLZ,female,60-69,Ventilator case,,6 pieces; stratified squamous epithelium up to 0.27 mm,eso_mucosa
+GTEX-1QEPI-1826,Esophagus - Mucosa,GTEX-1QEPI,female,60-69,Intermediate death,,6 pieces; moderate sloughing of squamous epithelium; well dissected,eso_mucosa
+GTEX-1QL29-1626,Esophagus - Mucosa,GTEX-1QL29,male,40-49,Ventilator case,,"6 pieces, squamous mucosa up to ~0.35mm, 10-20% of thickness",eso_mucosa
+GTEX-1QMI2-2226,Esophagus - Mucosa,GTEX-1QMI2,male,60-69,Fast death - natural causes,,"6 pieces, squamous mucosa up to ~0.4mm, ~15-20% thickness",eso_mucosa
+GTEX-1QP28-1826,Esophagus - Mucosa,GTEX-1QP28,female,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.2mm, ~10% of thickness, prominent submucosal mucus gland present, rep delineated",eso_mucosa
+GTEX-1QP29-2126,Esophagus - Mucosa,GTEX-1QP29,male,50-59,Ventilator case,"calcification, desquamation",6 pieces; only focal superficial desquamation; stratified squamous epithelium measures ~ 0.2mm in thickness; submucosal glands (outlined) and dystrophic calcifications (arrows),eso_mucosa
+GTEX-1QP2A-1926,Esophagus - Mucosa,GTEX-1QP2A,male,50-59,Ventilator case,,6 pieces; 1 piece has dilated submucosal ducts with inspissated material,eso_mucosa
+GTEX-1QP66-0426,Esophagus - Mucosa,GTEX-1QP66,male,50-59,Ventilator case,congestion,"6 pieces;congested fibrovascular tissue, nerves and fat; target mucosa not present",eso_mucosa
+GTEX-1QP67-0726,Esophagus - Mucosa,GTEX-1QP67,female,40-49,Ventilator case,,"6 pieces, squamous mucosa up to ~0.4mm, ~20% thickness; submucosal mucus glands numerous, rep encircled",eso_mucosa
+GTEX-1QP6S-2226,Esophagus - Mucosa,GTEX-1QP6S,male,40-49,Fast death - natural causes,,6 pieces; only remnants of autolyzed mucosa (arrows) and preserved muscularis mucosa,eso_mucosa
+GTEX-1QP9N-0326,Esophagus - Mucosa,GTEX-1QP9N,male,30-39,Ventilator case,,"6 pieces; 3 pieces have no mucosa, only muscularis propria, but with >90% striated muscle, not smooth muscle; 3 smaller pieces are largely fibrofatty",eso_mucosa
+GTEX-1QP9N-0926,Esophagus - Mucosa,GTEX-1QP9N,male,30-39,Ventilator case,,"6 pieces; esophagus mucosa, not muscularis; all have prominent submucosal glands occupying 10%",eso_mucosa
+GTEX-1QPFJ-1226,Esophagus - Mucosa,GTEX-1QPFJ,female,30-39,Ventilator case,"edema, fibrosis","4 pieces; slight sloughing of surface on 2 pieces; slightly edematous stroma; abundant submucosal fibrous stroma, without glands",eso_mucosa
+GTEX-1QW4Y-0526,Esophagus - Mucosa,GTEX-1QW4Y,male,30-39,Ventilator case,,"6 pieces target squamous mucosa is partly sloughing, ~0.2mm, ~5-10% thickness.  Chronic lymphoid aggregates in lamina propria.  Switch with -0425",eso_mucosa
+GTEX-1R46S-2126,Esophagus - Mucosa,GTEX-1R46S,female,60-69,Slow death,,"6 pieces, target squamous mucosa poorly preserved, sloughing, up to ~0.1mm, ~5-10% thickness",eso_mucosa
+GTEX-1R7EU-0826,Esophagus - Mucosa,GTEX-1R7EU,male,60-69,Ventilator case,desquamation,6 pieces; focal desquamation of the surface; ~0.3mm thick squamous epithelium; submucosa with focal lymphoid aggregates (arrows);  submucosal gland (outlined),eso_mucosa
+GTEX-1R7EV-0626,Esophagus - Mucosa,GTEX-1R7EV,male,40-49,Ventilator case,,6 pieces; target mucosa not present; well trimmed muscularis,eso_mucosa
+GTEX-1R9JW-1526,Esophagus - Mucosa,GTEX-1R9JW,female,30-39,Ventilator case,,"6 pieces, squamous mucosa up to ~0.4mm, ~15-20% thickness",eso_mucosa
+GTEX-1R9K4-1926,Esophagus - Mucosa,GTEX-1R9K4,male,60-69,Ventilator case,,6 pieces; stratified squamous epithelium  ~0.5mm thick; submucosal glands (outlined),eso_mucosa
+GTEX-1R9K5-1526,Esophagus - Mucosa,GTEX-1R9K5,male,50-59,Ventilator case,,"4 pieces, squamous mucosa up to ~0.4mm, ~30% thickness",eso_mucosa
+GTEX-1R9PM-0926,Esophagus - Mucosa,GTEX-1R9PM,male,20-29,Ventilator case,,"6 pieces, squamous mucosa up to ~0.4mm, ~10-20% thickness.  Few submucosal mucus glands present, rep encircled",eso_mucosa
+GTEX-1R9PN-0926,Esophagus - Mucosa,GTEX-1R9PN,female,40-49,Ventilator case,,5 pieces; 2 with prominent submucosal glands [10%][arrowed],eso_mucosa
+GTEX-1R9PO-1326,Esophagus - Mucosa,GTEX-1R9PO,female,60-69,Intermediate death,desquamation,6 pieces; generalized desquamation of  2/3 of stratified squamous epithelium; submucosal glands (outlined),eso_mucosa
+GTEX-1RAZA-1326,Esophagus - Mucosa,GTEX-1RAZA,male,20-29,Ventilator case,desquamation,6 pieces; focal superficial desquamation of stratified squamous epithelium; ~0.4mm thick epithelium; submucosal glands (outlined),eso_mucosa
+GTEX-1RAZQ-1726,Esophagus - Mucosa,GTEX-1RAZQ,male,30-39,Ventilator case,,"5 pieces, Squamous mucosa is ~0.4mm, ~25-30% thickness approaching score 2, surface sloughing.",eso_mucosa
+GTEX-1RAZR-1226,Esophagus - Mucosa,GTEX-1RAZR,male,40-49,Ventilator case,"hyperplasia, inflammation, metaplasia",6 pieces; moderately hyperplastic squamous epithelium with chronic inflammation in lamina propria and squamous metaplasia of glandular ducts [circled]; a few submucosal glands [arrowed],eso_mucosa
+GTEX-1RAZS-2626,Esophagus - Mucosa,GTEX-1RAZS,male,50-59,Intermediate death,,6 pieces; ~ 280 microns stratified squamous epithelium; submucosal glands (outlined),eso_mucosa
+GTEX-1RB15-0726,Esophagus - Mucosa,GTEX-1RB15,male,60-69,Ventilator case,,"4 pieces, 2 with squamous mucosa, rest is fat/unknown provenance",eso_mucosa
+GTEX-1RDX4-2126,Esophagus - Mucosa,GTEX-1RDX4,female,50-59,Intermediate death,,6 pieces; well preserved & well dissected mucosa with <5% submucosal glands,eso_mucosa
+GTEX-1RLM8-0726,Esophagus - Mucosa,GTEX-1RLM8,male,50-59,Slow death,,,eso_mucosa
+GTEX-1RMOY-1026,Esophagus - Mucosa,GTEX-1RMOY,male,50-59,Ventilator case,,"6 pieces; target esophageal mucosa not present; adipose tissue  with fibrovascular component, nerves and  muscle fragment (arrow)",eso_mucosa
+GTEX-1RNSC-2426,Esophagus - Mucosa,GTEX-1RNSC,male,60-69,Slow death,,"6 pieces, target mucosa sloughing, <0.1mm",eso_mucosa
+GTEX-1RNTQ-1226,Esophagus - Mucosa,GTEX-1RNTQ,female,20-29,Ventilator case,,6 pieces; ~160 microns thick stratified squamous epithelium; submucosal glands with ducts (outlined),eso_mucosa
+GTEX-1RQEC-1626,Esophagus - Mucosa,GTEX-1RQEC,male,60-69,Fast death - natural causes,,,eso_mucosa
+GTEX-1RQED-2226,Esophagus - Mucosa,GTEX-1RQED,male,60-69,Intermediate death,,"6 pieces, target squamous mucosa up to ~0.15mm, sloughing, moderately advanced autolysis",eso_mucosa
+GTEX-1S3DN-1226,Esophagus - Mucosa,GTEX-1S3DN,male,50-59,Ventilator case,,"6 pieces, Squamous mucosa up to ~0.4mm, ~15% thickness",eso_mucosa
+GTEX-1S5VW-1626,Esophagus - Mucosa,GTEX-1S5VW,male,60-69,Intermediate death,,"6 pieces, no target mucosa; completely sloughed",eso_mucosa
+GTEX-1S5ZA-0726,Esophagus - Mucosa,GTEX-1S5ZA,male,20-29,Ventilator case,,"2 pieces, confirmed muscularis, mild reactive changes",eso_mucosa
+GTEX-1S5ZA-0826,Esophagus - Mucosa,GTEX-1S5ZA,male,20-29,Ventilator case,,"6 pieces, squamous mucosa up to ~0.4mm, ~15% thickness.  A few submucosal mucus glands, rep delineated",eso_mucosa
+GTEX-1S5ZU-1726,Esophagus - Mucosa,GTEX-1S5ZU,female,20-29,Ventilator case,,5 pieces; partly disrupted squamous epithelium,eso_mucosa
+GTEX-1S82P-1426,Esophagus - Mucosa,GTEX-1S82P,female,60-69,Ventilator case,,6 pieces; only one piece contains a trace of target stratified squamous epithelium; submucosa and muscularis (arrows) included,eso_mucosa
+GTEX-1S82U-0526,Esophagus - Mucosa,GTEX-1S82U,female,30-39,Ventilator case,,"6 pieces, fat and muscular artery, no esophageal mucosa or muscularis present",eso_mucosa
+GTEX-1S82Y-1226,Esophagus - Mucosa,GTEX-1S82Y,male,40-49,Ventilator case,,,eso_mucosa
+GTEX-1S82Z-0526,Esophagus - Mucosa,GTEX-1S82Z,female,30-39,Ventilator case,,"5 pieces, squamous mucosa ~0.45mm, ~10% thickness; submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-1S831-0926,Esophagus - Mucosa,GTEX-1S831,male,20-29,Ventilator case,,4 pieces; ~0.5mm thick stratified squamous epithelium,eso_mucosa
+GTEX-1S83E-0826,Esophagus - Mucosa,GTEX-1S83E,male,40-49,Ventilator case,desquamation,6 pieces; 0.35mm thick stratified squamous epithelium; subtle surface desquamation; submucosal glands (outlined),eso_mucosa
+GTEX-N7MS-1225,Esophagus - Mucosa,GTEX-N7MS,male,60-69,Fast death - natural causes,,OK for analysis,eso_mucosa
+GTEX-N7MT-0326,Esophagus - Mucosa,GTEX-N7MT,female,60-69,Slow death,,"MUSCULARIS, NOT MUCOSA; 3 pieces 12x4.5 mm",eso_mucosa
+GTEX-NFK9-1126,Esophagus - Mucosa,GTEX-NFK9,male,40-49,Ventilator case,,OK for analysis,eso_mucosa
+GTEX-NL3G-1826,Esophagus - Mucosa,GTEX-NL3G,female,60-69,Fast death - natural causes,,"3 pieces, adquate for analysis",eso_mucosa
+GTEX-NL3H-1426,Esophagus - Mucosa,GTEX-NL3H,male,60-69,Intermediate death,,4 pieces 5x3 mm; Epithelium > 80% autolyzed,eso_mucosa
+GTEX-NL4W-0426,Esophagus - Mucosa,GTEX-NL4W,male,50-59,Slow death,,Epithelial thickness is approx 15% of total thickness of specimen,eso_mucosa
+GTEX-NPJ7-2126,Esophagus - Mucosa,GTEX-NPJ7,female,60-69,Slow death,,No mucosa present other than 2 microfoci. (See Request),eso_mucosa
+GTEX-NPJ8-1926,Esophagus - Mucosa,GTEX-NPJ8,male,40-49,Slow death,,Epithelium is ~20% of total thickness.,eso_mucosa
+GTEX-O5YT-0626,Esophagus - Mucosa,GTEX-O5YT,male,20-29,Ventilator case,,3 pieces; prominent muscularis mucosae,eso_mucosa
+GTEX-O5YU-1726,Esophagus - Mucosa,GTEX-O5YU,male,60-69,Slow death,,3 pieces; slight epithelial sloughing,eso_mucosa
+GTEX-O5YV-1026,Esophagus - Mucosa,GTEX-O5YV,female,60-69,Intermediate death,,3 pieces,eso_mucosa
+GTEX-OHPJ-1426,Esophagus - Mucosa,GTEX-OHPJ,male,60-69,Ventilator case,,Mucosa is ~15-20% total thickness,eso_mucosa
+GTEX-OHPK-0726,Esophagus - Mucosa,GTEX-OHPK,female,50-59,Ventilator case,,"there is hardly any mucosa in this section, only muscularis. 625 and 725 have been switched and should be relabeled. 625 is muscularis propria. 725 is mucosa (the muscle present is muscularis mucosae). Inform BSS and LDACC of switch.",eso_mucosa
+GTEX-OHPL-0726,Esophagus - Mucosa,GTEX-OHPL,female,60-69,Ventilator case,clean_specimens,Good epithelium,eso_mucosa
+GTEX-OHPM-0626,Esophagus - Mucosa,GTEX-OHPM,male,50-59,Ventilator case,,Mucosa is from 15---35% total specimen thickness,eso_mucosa
+GTEX-OHPN-1026,Esophagus - Mucosa,GTEX-OHPN,female,60-69,Ventilator case,,Mucosa present; approximately 7-9% total specimen thickness,eso_mucosa
+GTEX-OIZF-0626,Esophagus - Mucosa,GTEX-OIZF,male,60-69,Ventilator case,,Epithelium is 10% of aliquot thickness,eso_mucosa
+GTEX-OIZG-1026,Esophagus - Mucosa,GTEX-OIZG,male,50-59,Ventilator case,hyperplasia,3 pieces up to 8x2 mm. Squamous hyperplasia. Large submucosal glands in one piece,eso_mucosa
+GTEX-OIZH-0626,Esophagus - Mucosa,GTEX-OIZH,male,50-59,Ventilator case,,Mucosa averages 20-25% thickness of specimen thickness0,eso_mucosa
+GTEX-OIZI-1426,Esophagus - Mucosa,GTEX-OIZI,male,40-49,Ventilator case,,Squamous mucosa with prominent muscularis mucosae,eso_mucosa
+GTEX-OOBJ-0626,Esophagus - Mucosa,GTEX-OOBJ,male,60-69,Ventilator case,,"Epithelial thickness 400-500 microns, 20-30% of section thickness.  Focal soft tissue areas appear underfixed",eso_mucosa
+GTEX-OOBK-0625,Esophagus - Mucosa,GTEX-OOBK,male,40-49,Ventilator case,,0-1. Epithelial thickness ranges from 245-445microns.,eso_mucosa
+GTEX-OXRK-1326,Esophagus - Mucosa,GTEX-OXRK,female,50-59,Ventilator case,,Squamous epithelium 0.2 mm thick; scattered fracture defects,eso_mucosa
+GTEX-OXRL-0626,Esophagus - Mucosa,GTEX-OXRL,male,50-59,Ventilator case,,Well preserved squamous epithelium. 5.5x3.8mm,eso_mucosa
+GTEX-OXRN-1726,Esophagus - Mucosa,GTEX-OXRN,male,50-59,Ventilator case,,Well preserved squamous layer. 9.5x1.7mm,eso_mucosa
+GTEX-OXRO-0426,Esophagus - Mucosa,GTEX-OXRO,female,60-69,Slow death,,3 pieces 5.6x1.2mm. No epithelium; wall autolyzed,eso_mucosa
+GTEX-OXRP-0926,Esophagus - Mucosa,GTEX-OXRP,female,60-69,Intermediate death,,3 10x1mm pieces. Mucosa is ~10% of specimen thickness,eso_mucosa
+GTEX-P44G-1426,Esophagus - Mucosa,GTEX-P44G,male,30-39,Ventilator case,,Three ~5mm tissue fragments. ? origin. No mucosa seen,eso_mucosa
+GTEX-P44H-1326,Esophagus - Mucosa,GTEX-P44H,male,40-49,Slow death,,"3 `6x2.5mm pieces. Mucosa near totally sloughed, a few foci look glandular.  ? location-GE junction?",eso_mucosa
+GTEX-P4PP-0626,Esophagus - Mucosa,GTEX-P4PP,female,30-39,Ventilator case,,3   ~6x2mm pieces.  Squamous mucosa is 20-25% of thickness,eso_mucosa
+GTEX-P4PQ-0626,Esophagus - Mucosa,GTEX-P4PQ,male,60-69,Ventilator case,,4   ~4x3mm pieces.  Squamous mucosa is ~8-10% of thickness,eso_mucosa
+GTEX-P4QR-2126,Esophagus - Mucosa,GTEX-P4QR,male,60-69,Ventilator case,,6 ~ 7x3mm pieces. Squamous mucosa is ~10% of thickness,eso_mucosa
+GTEX-P4QS-0626,Esophagus - Mucosa,GTEX-P4QS,male,60-69,Ventilator case,esophagitis,6   ~6x2mm pieces.  Squamous mucosa is ~10% of thickness.  Patchy focally intense chronic esophagitis,eso_mucosa
+GTEX-P4QT-0626,Esophagus - Mucosa,GTEX-P4QT,female,50-59,Ventilator case,,6 pieces ~4x4mm. Squamous mucosa is 10-15% of thickness,eso_mucosa
+GTEX-P78B-1026,Esophagus - Mucosa,GTEX-P78B,female,40-49,Ventilator case,,6 pieces ~7.5x1-2 mm,eso_mucosa
+GTEX-PLZ4-1626,Esophagus - Mucosa,GTEX-PLZ4,female,50-59,Ventilator case,,6   ~6x2mm pieces.  Squamous mucosa is ~10% of specimen thickness1,eso_mucosa
+GTEX-PLZ5-0926,Esophagus - Mucosa,GTEX-PLZ5,male,50-59,Ventilator case,,4  ~ 3x2.5mm pieces; mucosae is ~10 of specimen thickness,eso_mucosa
+GTEX-PLZ6-0526,Esophagus - Mucosa,GTEX-PLZ6,male,30-39,Ventilator case,,"6 pieces,~5 mm sq with well preserved epithelium (0.25 mm thick)",eso_mucosa
+GTEX-POMQ-0726,Esophagus - Mucosa,GTEX-POMQ,female,20-29,Ventilator case,,"4 pieces, ~4x4mm; mucosa=~0.3mm thick. Well preserved mucosa",eso_mucosa
+GTEX-POYW-1326,Esophagus - Mucosa,GTEX-POYW,male,60-69,Ventilator case,,"6 pieces, , ~5—7x1.5mm. Squamous mucosa is ~30% of thicknes14",eso_mucosa
+GTEX-PSDG-1326,Esophagus - Mucosa,GTEX-PSDG,male,50-59,Ventilator case,,"6 pieces, ~8x1.3 mm; mucosa=~0.25mm thick. Well preserved mucosa",eso_mucosa
+GTEX-PVOW-1626,Esophagus - Mucosa,GTEX-PVOW,male,40-49,Fast death - natural causes,,"6 pieces,~6x1.2mm; epithelium 0.3mm",eso_mucosa
+GTEX-PW2O-0626,Esophagus - Mucosa,GTEX-PW2O,male,20-29,Ventilator case,,"6 pieces  all muscularis, ~7x3mm",eso_mucosa
+GTEX-PWCY-0726,Esophagus - Mucosa,GTEX-PWCY,female,20-29,Ventilator case,,"4 pieces, ~6x4 mm; some epithelium with excess glycogen",eso_mucosa
+GTEX-PWN1-0626,Esophagus - Mucosa,GTEX-PWN1,female,40-49,Ventilator case,,"6 pieces, 4 with mucosa, 2 without, mucosa up to 0.4mm; up to 7.5x2mm",eso_mucosa
+GTEX-PWO3-2326,Esophagus - Mucosa,GTEX-PWO3,female,60-69,Slow death,,6   ~7x0.75mm pieces.  Squamous mucosa is ~10% of thickness.,eso_mucosa
+GTEX-PWOO-1126,Esophagus - Mucosa,GTEX-PWOO,female,40-49,Ventilator case,,6   ~6.5x3mm pieces.  Squamous mucosa is 5-10% of thickness,eso_mucosa
+GTEX-PX3G-0626,Esophagus - Mucosa,GTEX-PX3G,female,20-29,Ventilator case,"esophagitis, hyperplasia, metaplasia","6 pieces, ~6x2 mm, 3 have glandular mucosa in part or total; one shows intestinal metaplasia; several, squamous hyperplasia of reflux type",eso_mucosa
+GTEX-Q2AG-1326,Esophagus - Mucosa,GTEX-Q2AG,female,40-49,Fast death - natural causes,,"6  ~7x1mm pieces.  Squamous mucosa focally sloughing,   ~ 40-50% of thickness",eso_mucosa
+GTEX-Q2AH-0826,Esophagus - Mucosa,GTEX-Q2AH,male,40-49,Ventilator case,,6 pieces up to 7.7x5.2 mm; tissue tears,eso_mucosa
+GTEX-Q2AI-0626,Esophagus - Mucosa,GTEX-Q2AI,male,40-49,Ventilator case,,6 pieces up to 7x2.5 mm; hyperplastic mucosa up to 0.7mm;,eso_mucosa
+GTEX-Q2AI-0726,Esophagus - Mucosa,GTEX-Q2AI,male,40-49,Ventilator case,,6 pieces  up to 7x3 mm; 3 have squamous mucosa; 3 have squamous and glandular (cardiac) mucosa; none have muscularis,eso_mucosa
+GTEX-QCQG-0626,Esophagus - Mucosa,GTEX-QCQG,female,50-59,Ventilator case,clean_specimens,"5 pieces ~7x3mm, all with good epithelium",eso_mucosa
+GTEX-QDT8-1426,Esophagus - Mucosa,GTEX-QDT8,female,30-39,Slow death,,6   ~6x2mm pieces.  Squamous mucosa is unusually poorly preserved with superficial sloughing; it is ~ 5-10% of thickness,eso_mucosa
+GTEX-QDVJ-0726,Esophagus - Mucosa,GTEX-QDVJ,male,50-59,Ventilator case,,5 pieces up to 6x2.6mm; focal parakeratosis,eso_mucosa
+GTEX-QDVN-1026,Esophagus - Mucosa,GTEX-QDVN,male,50-59,Ventilator case,,4  5x3mm pieces; squamous mucosa is   ~10% of thickness,eso_mucosa
+GTEX-QEG4-0726,Esophagus - Mucosa,GTEX-QEG4,male,30-39,Fast death - violent,,6 ~6x1.2mm pieces; squamous mucosa is ~25-40% of thickness,eso_mucosa
+GTEX-QEG5-1426,Esophagus - Mucosa,GTEX-QEG5,male,20-29,Ventilator case,desquamation,6 pieces up to 8.6x3 mm; all have mucosa not muscularis propria; re-label as Esophagus- mucosa; surface desquamation and separation of epithelium from lamina propria; possible chemical exposure,eso_mucosa
+GTEX-QEL4-1426,Esophagus - Mucosa,GTEX-QEL4,male,50-59,Intermediate death,,6   ~6x1mm pieces; squamous mucosa is 15-40% of thickness,eso_mucosa
+GTEX-QESD-0826,Esophagus - Mucosa,GTEX-QESD,male,20-29,Ventilator case,clean_specimens,6 pieces up to 5.9x3.8 mm; good squamous mucosa,eso_mucosa
+GTEX-QLQ7-0926,Esophagus - Mucosa,GTEX-QLQ7,male,60-69,Ventilator case,,6   ~7x2mm pieces with squamous mucosa  ~10% of thickness,eso_mucosa
+GTEX-QLQW-0526,Esophagus - Mucosa,GTEX-QLQW,male,30-39,Ventilator case,esophagitis,"6 pieces up to 6.7x2.8 mm’ 3 pieces with hyperplastic squamous epithelium, 2 with fundic-type glandular epithelium; 1 with glandular and squamous epi.; probable reflux changes; no intestinal metaplasia",eso_mucosa
+GTEX-QMR6-0526,Esophagus - Mucosa,GTEX-QMR6,male,50-59,Slow death,,"6   ~4x2mm pieces, only trace mucosa, less than 5% of thickness",eso_mucosa
+GTEX-QMRM-1026,Esophagus - Mucosa,GTEX-QMRM,male,50-59,Ventilator case,"esophagitis, hyperplasia",6 pieces up to 7x3 mm; 1 piece has glandular and squamous mucosa and squamous hyperplasia (probably reflux changes); scattered tissue tears (histologic),eso_mucosa
+GTEX-QV31-0426,Esophagus - Mucosa,GTEX-QV31,male,30-39,Ventilator case,,6    ~5x4mm pieces.  Non keratinizing squamous mucosa is  ~10-20% of thickness,eso_mucosa
+GTEX-QV44-1126,Esophagus - Mucosa,GTEX-QV44,male,50-59,Ventilator case,,6 pieces up to 8.3x2.3   moderate tissue tears,eso_mucosa
+GTEX-QVJO-0726,Esophagus - Mucosa,GTEX-QVJO,female,60-69,Slow death,,6   ~6x3mm pieces. Rare minute foci of squamous mucosa,eso_mucosa
+GTEX-QVUS-0626,Esophagus - Mucosa,GTEX-QVUS,female,60-69,Slow death,,6   ~ 5x1.5mm pieces; squamous mucosa is 10-20% of thickness,eso_mucosa
+GTEX-QXCU-1026,Esophagus - Mucosa,GTEX-QXCU,male,50-59,Fast death - violent,,6   ~6x1.5mm pieces.  Squamous mucosa is ~10-15% of thickness,eso_mucosa
+GTEX-R3RS-1326,Esophagus - Mucosa,GTEX-R3RS,female,40-49,Slow death,,6 pieces up to 6.5x1.4 mm; well preserved squamous mucosa and submucosal glands,eso_mucosa
+GTEX-R45C-1226,Esophagus - Mucosa,GTEX-R45C,female,60-69,Ventilator case,,6 pieces up to 7x2 mm; squamous surface partly sloughed and detached; dilated submucosal veins (varices),eso_mucosa
+GTEX-R53T-1126,Esophagus - Mucosa,GTEX-R53T,female,50-59,Ventilator case,,"6 pieces,  ~9x1.5mm.  Squamous mucosa is  ~15-20% of thickness.",eso_mucosa
+GTEX-R55C-0826,Esophagus - Mucosa,GTEX-R55C,male,40-49,Ventilator case,,3 pieces up to 6.4x4.6 mm; 1 has prominent muscularis mucosae,eso_mucosa
+GTEX-R55D-1126,Esophagus - Mucosa,GTEX-R55D,male,50-59,Ventilator case,,"6 pieces, Squamous mucosa, well-preserved, 15-20% of thickness",eso_mucosa
+GTEX-R55E-1326,Esophagus - Mucosa,GTEX-R55E,male,20-29,Fast death - violent,,6 pieces up to 7x1.8 mm;,eso_mucosa
+GTEX-R55F-0526,Esophagus - Mucosa,GTEX-R55F,male,50-59,Slow death,,6 pieces up to 8x2 mm; mucosa totally sloughed; only submucosa and muscularis mucosa remain,eso_mucosa
+GTEX-R55G-1026,Esophagus - Mucosa,GTEX-R55G,female,40-49,Ventilator case,,"6 pieces,  ~7x2mm.  Squamous mucosa is ~20% of thickness.  Numerous mucosal mucus glands noted.",eso_mucosa
+GTEX-REY6-1326,Esophagus - Mucosa,GTEX-REY6,male,60-69,Ventilator case,,"6 pieces up to 6.7x2.5 mm; well preserved, well cut",eso_mucosa
+GTEX-RM2N-0726,Esophagus - Mucosa,GTEX-RM2N,male,50-59,Ventilator case,,"6 pieces, 6x1.5mm.  Squamous mucosa is ~20-30% of thickness",eso_mucosa
+GTEX-RN5K-2026,Esophagus - Mucosa,GTEX-RN5K,female,50-59,Slow death,,"6 pieces  ~6x1mm, minimal squamous mucosa",eso_mucosa
+GTEX-RN64-1026,Esophagus - Mucosa,GTEX-RN64,male,50-59,Fast death - violent,,"6 pieces   ~7x1mm.  Squamous mucosa, well preserved, is ~40-50% of thickness",eso_mucosa
+GTEX-RNOR-1226,Esophagus - Mucosa,GTEX-RNOR,female,50-59,Fast death - violent,,6 pieces up to 7x3 mm;,eso_mucosa
+GTEX-RTLS-1126,Esophagus - Mucosa,GTEX-RTLS,female,60-69,Slow death,,6 pieces up to 6x2 mm;,eso_mucosa
+GTEX-RU1J-0326,Esophagus - Mucosa,GTEX-RU1J,female,20-29,Ventilator case,clean_specimens,6 pieces up to 6x4 mm; excellent specimen,eso_mucosa
+GTEX-RU72-0726,Esophagus - Mucosa,GTEX-RU72,female,50-59,Fast death - natural causes,,"6 pieces, 6.5x1.5mm.  Squamous mucosa is  ~10-15% of thickness",eso_mucosa
+GTEX-RUSQ-0826,Esophagus - Mucosa,GTEX-RUSQ,male,50-59,Ventilator case,,"6 pieces,   ~7x3mm.  Squamous mucosa well preserved,  ~5-10% of thickness",eso_mucosa
+GTEX-RVPU-2026,Esophagus - Mucosa,GTEX-RVPU,male,50-59,Fast death - natural causes,,"6 pieces, singlue minute fragment of squamou mucosa; rest is fibrous tissue",eso_mucosa
+GTEX-RVPV-0526,Esophagus - Mucosa,GTEX-RVPV,male,60-69,Intermediate death,congestion,6 pieces up to 6x3 mm; very good mucosa preservation; moderate venous congestion,eso_mucosa
+GTEX-RWS6-0826,Esophagus - Mucosa,GTEX-RWS6,female,60-69,Ventilator case,,6 pieces up to 5x4 mm;,eso_mucosa
+GTEX-RWSA-1226,Esophagus - Mucosa,GTEX-RWSA,male,40-49,Fast death - violent,,"6 pieces,  ~5.5x1.5mm. Squamous mucosa is ~ 10-15% of thickness",eso_mucosa
+GTEX-S32W-0926,Esophagus - Mucosa,GTEX-S32W,female,50-59,Ventilator case,,6 pieces up to 9x2 mm; there are also 2 slightly attached pieces of muscularis propria,eso_mucosa
+GTEX-S33H-0826,Esophagus - Mucosa,GTEX-S33H,male,30-39,Fast death - natural causes,,6 pieces up to 6x2.5 mm; 3 have up to 1 x2 mm muscularis propria at edge,eso_mucosa
+GTEX-S341-0526,Esophagus - Mucosa,GTEX-S341,female,40-49,Ventilator case,,"6 pieces, ~6x2mm.  Squamous mucosa is ~20% of thickness",eso_mucosa
+GTEX-S3LF-1526,Esophagus - Mucosa,GTEX-S3LF,male,70-79,Fast death - natural causes,,"6 pieces, 5x2mm.  Squamous mucosa largely sloughed, 2-3% of thickness",eso_mucosa
+GTEX-S3XE-0926,Esophagus - Mucosa,GTEX-S3XE,male,50-59,Ventilator case,,6 pieces up to 8x3.2 mm;,eso_mucosa
+GTEX-S4P3-0426,Esophagus - Mucosa,GTEX-S4P3,female,50-59,Ventilator case,clean_specimens,6 pieces up to 6x4 mm; lots of good squamous mucosa,eso_mucosa
+GTEX-S4Q7-0626,Esophagus - Mucosa,GTEX-S4Q7,male,20-29,Ventilator case,,"6 pieces,  ~7x2mm.  Squamous mucosa well preserved,  ~15-20% of thickness. Submucosal mucus glands encircled",eso_mucosa
+GTEX-S4Z8-0826,Esophagus - Mucosa,GTEX-S4Z8,male,60-69,Ventilator case,,6 pieces up to 6x2 mm; all mucosa; relabel as mucosa. epithelium partially sloughed,eso_mucosa
+GTEX-S7PM-1926,Esophagus - Mucosa,GTEX-S7PM,male,60-69,Ventilator case,,"6 pieces,  ~6x1.5mm.  Squamous mucosa badly autolyzed, partly sloughed, averages ~100 microns thickness",eso_mucosa
+GTEX-S7SE-1526,Esophagus - Mucosa,GTEX-S7SE,male,50-59,Fast death - natural causes,,"6 pieces, 8x2mm.  Mucosa totally slough save for a few minute foci, badly preserved.  Prominent sub mucocal glands encircled",eso_mucosa
+GTEX-S7SF-0926,Esophagus - Mucosa,GTEX-S7SF,female,20-29,Ventilator case,,6 pieces up to 8x3.5 mm; all have mucosa and abundant submucosal glands,eso_mucosa
+GTEX-S95S-0426,Esophagus - Mucosa,GTEX-S95S,male,60-69,Ventilator case,,"6 pieces,  ~6x3mm.  Squmous mucosa well-preserved,  ~8-10% of thickness",eso_mucosa
+GTEX-SE5C-1226,Esophagus - Mucosa,GTEX-SE5C,female,40-49,Ventilator case,,"6 pieces up to 6x3 mm; all are MUCOSA,",eso_mucosa
+GTEX-SIU7-1226,Esophagus - Mucosa,GTEX-SIU7,male,50-59,Ventilator case,,6 pieces up to 7x4 mm; all with slightly hyperplastic epithelium;,eso_mucosa
+GTEX-SIU8-1526,Esophagus - Mucosa,GTEX-SIU8,male,50-59,Fast death - natural causes,,"6 pieces  ~6x1.5mm, mucosa sloughed entirely on 3, partly on two; where visible,  ~10% of thickness",eso_mucosa
+GTEX-SJXC-1426,Esophagus - Mucosa,GTEX-SJXC,male,60-69,Fast death - natural causes,,"6 pieces  ~6x1.5mm, squamous mucosa is badly autolyzed and sloughing",eso_mucosa
+GTEX-SN8G-1326,Esophagus - Mucosa,GTEX-SN8G,female,50-59,Fast death - natural causes,,"6 pieces  ~5x1.5mm.  Squamous mucosa sloughing, ~1% of thickness where present",eso_mucosa
+GTEX-SNMC-0526,Esophagus - Mucosa,GTEX-SNMC,male,20-29,Ventilator case,clean_specimens,6 pieces up to 7x2 mm; all with good squamous mucosa,eso_mucosa
+GTEX-SNOS-0626,Esophagus - Mucosa,GTEX-SNOS,male,40-49,Ventilator case,esophagitis,6 pieces up to 7x4 mm; mild chronic esophagitis with erosions,eso_mucosa
+GTEX-SUCS-0726,Esophagus - Mucosa,GTEX-SUCS,male,70-79,Ventilator case,,"6 pieces up to 7x4 mm; all have mucosa, no muscularis propria",eso_mucosa
+GTEX-T2IS-0826,Esophagus - Mucosa,GTEX-T2IS,female,20-29,Fast death - violent,,"6 pieces   ~ 5x2mm, squamous mucosa is ~10-15% thickness",eso_mucosa
+GTEX-T2YK-1326,Esophagus - Mucosa,GTEX-T2YK,male,50-59,Slow death,,6 pieces up to 7x2 mm; squamous mucosa well preserved; submucosal glands moderately autolyzed,eso_mucosa
+GTEX-T5JC-1726,Esophagus - Mucosa,GTEX-T5JC,male,20-29,Fast death - natural causes,,6 pieces up to 7x2 mm; slight autolysis of glands; epithelium fine,eso_mucosa
+GTEX-T5JW-1326,Esophagus - Mucosa,GTEX-T5JW,female,20-29,Ventilator case,,"6 pieces, ~5x2.5mm, squamous mucosa is ~5-10% thickness",eso_mucosa
+GTEX-T6MN-1426,Esophagus - Mucosa,GTEX-T6MN,male,50-59,Fast death - natural causes,esophagitis,"6 pieces up to 8x2 mm; mucosa partly sloughed, hyperplastic and chronically inflamed, consistent with gastric reflux",eso_mucosa
+GTEX-T6MO-0526,Esophagus - Mucosa,GTEX-T6MO,female,40-49,Ventilator case,,"6 pieces  ~7x2mm, squamous mucosa well-preserved, up to 10% thickness",eso_mucosa
+GTEX-T8EM-0526,Esophagus - Mucosa,GTEX-T8EM,male,40-49,Ventilator case,,,eso_mucosa
+GTEX-TKQ1-0326,Esophagus - Mucosa,GTEX-TKQ1,male,30-39,Ventilator case,inflammation,"6 pieces  ~8x2.5mm.  Squamous mucosa is ~10-20% of thickness; occasional sub-mucosal glands noted, encircled.  Focal chronic inflammation ensquared.",eso_mucosa
+GTEX-TML8-1526,Esophagus - Mucosa,GTEX-TML8,female,40-49,Ventilator case,inflammation,6 pieces up to 8x2 mm; largest piece has an ulcer with acute inflammation,eso_mucosa
+GTEX-TMMY-1126,Esophagus - Mucosa,GTEX-TMMY,female,40-49,Ventilator case,,6 pieces  ~6x1.5mm.  Squamous mucosa is ~10-15% of thickness,eso_mucosa
+GTEX-TSE9-1226,Esophagus - Mucosa,GTEX-TSE9,female,60-69,Ventilator case,,6 pieces up to 6.6x1 mm; focal epithelial sloughing,eso_mucosa
+GTEX-U3ZH-1026,Esophagus - Mucosa,GTEX-U3ZH,male,30-39,Ventilator case,,6 pieces ~6x1.5mm.  Squamous mucosa up to  ~200 microns thick  or ~15%,eso_mucosa
+GTEX-U3ZM-0526,Esophagus - Mucosa,GTEX-U3ZM,male,40-49,Ventilator case,,"6 pieces   ~7x4mm.  Squamous mucosa is ~10% of thickness, well-preserved",eso_mucosa
+GTEX-U3ZN-1726,Esophagus - Mucosa,GTEX-U3ZN,female,30-39,Ventilator case,,6 pieces up to 4x1 mm; thickened mucosa with epithelium up to 0.5 mm; well preserved,eso_mucosa
+GTEX-U412-1226,Esophagus - Mucosa,GTEX-U412,male,60-69,Intermediate death,edema,"6 pieces, minimal evident muscle; edematous fat/fibrous tissue, badly autolyzed, uncertain provenance",eso_mucosa
+GTEX-U4B1-0826,Esophagus - Mucosa,GTEX-U4B1,male,40-49,Ventilator case,,"6 pieces, up to 6.6x4 mm; well preserved mucosa",eso_mucosa
+GTEX-U8T8-1926,Esophagus - Mucosa,GTEX-U8T8,male,60-69,Ventilator case,,"6 pieces, up to 7x2.4mm; epithelial layer detached",eso_mucosa
+GTEX-U8XE-1726,Esophagus - Mucosa,GTEX-U8XE,male,30-39,Slow death,,"6 pieces  ~6x1.5mm, Squamous mucosa is ~10% thickness",eso_mucosa
+GTEX-UJHI-0826,Esophagus - Mucosa,GTEX-UJHI,female,50-59,Ventilator case,clean_specimens,"6 pieces, up to 3x5.5mm; all with good mucosa",eso_mucosa
+GTEX-UJMC-0926,Esophagus - Mucosa,GTEX-UJMC,male,50-59,Ventilator case,,6 pieces  ~7x2mm.  Squamous mucosa up to 250 microns thick,eso_mucosa
+GTEX-UPIC-1026,Esophagus - Mucosa,GTEX-UPIC,female,20-29,Ventilator case,"esophagitis, inflammation","6 pieces, up to 5.5x2.5mm; mild chronic inflammation (correlates with history of gastric reflux)",eso_mucosa
+GTEX-UPJH-1026,Esophagus - Mucosa,GTEX-UPJH,male,50-59,Fast death - natural causes,,"6 pieces   ~6x1.5mm.  Squamous mucosa is 10-15% thickness, well-preserved",eso_mucosa
+GTEX-UPK5-1226,Esophagus - Mucosa,GTEX-UPK5,male,40-49,Ventilator case,clean_specimens,"6 pieces, up to 8x2mm; good specimen",eso_mucosa
+GTEX-UTHO-1526,Esophagus - Mucosa,GTEX-UTHO,male,60-69,Intermediate death,,"6 pieces, up to 6x1.5mm; partly sloughed epithelium",eso_mucosa
+GTEX-V1D1-1026,Esophagus - Mucosa,GTEX-V1D1,male,50-59,Ventilator case,,"6 pieces  ~6x1mm, Squamous mucosa is ~40-50% thickness",eso_mucosa
+GTEX-V955-1126,Esophagus - Mucosa,GTEX-V955,male,60-69,Ventilator case,,7 pieces  ~10x1mm.  Squamous mucosa is 20-30% thickness,eso_mucosa
+GTEX-VJWN-1626,Esophagus - Mucosa,GTEX-VJWN,female,50-59,Fast death - natural causes,,"6 pieces, up to 6x2mm; considerable surface sloughing",eso_mucosa
+GTEX-VJYA-0726,Esophagus - Mucosa,GTEX-VJYA,male,60-69,Ventilator case,,"6 pieces  ~6x4mm, squamous mucosa is ~10% thickness, representative intramural mucus glands encircled",eso_mucosa
+GTEX-VUSG-1226,Esophagus - Mucosa,GTEX-VUSG,male,50-59,Ventilator case,,6 pieces  ~9x1.5mm.  Squamous mucosa is ~10-15% of thickness,eso_mucosa
+GTEX-W5WG-1626,Esophagus - Mucosa,GTEX-W5WG,female,50-59,Ventilator case,,"6 pieces  ~5x4mm. Squamous mucosa well preserved, about ~20 total volume (fragments are enfolded)",eso_mucosa
+GTEX-W5X1-1126,Esophagus - Mucosa,GTEX-W5X1,female,40-49,Ventilator case,inflammation,"6 pieces, up to 9x2mm; mild chronic inflammation, good squamous mucosa",eso_mucosa
+GTEX-WEY5-0926,Esophagus - Mucosa,GTEX-WEY5,female,40-49,Ventilator case,,"4 pieces, up to 5.5 x 3mm; well sampled",eso_mucosa
+GTEX-WFG7-1126,Esophagus - Mucosa,GTEX-WFG7,male,20-29,Ventilator case,,6 pieces  ~6x1.5mm.  Squamous mucosa is  ~10% thickness,eso_mucosa
+GTEX-WFG8-1226,Esophagus - Mucosa,GTEX-WFG8,male,20-29,Ventilator case,,"6 pieces  ~10x1.5mm.  Squamous mucosa, well preserved,  ~30-40% of thickness",eso_mucosa
+GTEX-WFJO-0826,Esophagus - Mucosa,GTEX-WFJO,male,30-39,Ventilator case,esophagitis,"6 pieces, up to 6x4mm; well sampled and well preserved mucosa with focal chronic esophagitis",eso_mucosa
+GTEX-WFON-0826,Esophagus - Mucosa,GTEX-WFON,male,40-49,Ventilator case,,"6 pieces 9x1.5mm.  Squamous mucosa, well preserved, is ~20% of thickness.  Presumed switch with 0925 below.",eso_mucosa
+GTEX-WH7G-0926,Esophagus - Mucosa,GTEX-WH7G,male,40-49,Ventilator case,,"6 pieces, up to 7x2mm; Well sampled mucosa.",eso_mucosa
+GTEX-WHPG-1126,Esophagus - Mucosa,GTEX-WHPG,male,50-59,Ventilator case,,"6 pieces, up to 9.5x3mm; hyperplastic squamous epithelium",eso_mucosa
+GTEX-WHSB-0426,Esophagus - Mucosa,GTEX-WHSB,male,50-59,Ventilator case,,"6  pieces  ~7x2.5mm ~10 thickness is squamous mucosa, well preserved",eso_mucosa
+GTEX-WHSE-1526,Esophagus - Mucosa,GTEX-WHSE,male,20-29,Intermediate death,,"6 pieces ~5x2mm,  ~15-20 squamous mucosa",eso_mucosa
+GTEX-WHWD-0926,Esophagus - Mucosa,GTEX-WHWD,male,50-59,Ventilator case,,"4 pieces, up to 5mm x 865um & 3.6x1.1 mm;",eso_mucosa
+GTEX-WI4N-1226,Esophagus - Mucosa,GTEX-WI4N,female,40-49,Ventilator case,,6 pieces ~5x2mm.  Mucosa completely sloughed,eso_mucosa
+GTEX-WK11-1026,Esophagus - Mucosa,GTEX-WK11,male,50-59,Fast death - violent,,"6 pieces, up to 5x2mm; superficial sloughing of squamous mucosa",eso_mucosa
+GTEX-WL46-1326,Esophagus - Mucosa,GTEX-WL46,male,50-59,Fast death - natural causes,,"6 pieces ~7x0.5mm, squamous mucosa 10-30% of thickness, unusually poorly preserved",eso_mucosa
+GTEX-WOFL-2426,Esophagus - Mucosa,GTEX-WOFL,male,60-69,Ventilator case,,"5 pieces, up to 6x2mm; glands not well preserved",eso_mucosa
+GTEX-WOFM-0626,Esophagus - Mucosa,GTEX-WOFM,male,20-29,Ventilator case,,"6 pieces  ~5x2mm, squamous mucosa is ~20% of thickness.  should be labeled mucosa",eso_mucosa
+GTEX-WQUQ-1626,Esophagus - Mucosa,GTEX-WQUQ,male,60-69,Ventilator case,,"6 pieces ~6x2mm, squamous mucosa is ~10-15% thickness",eso_mucosa
+GTEX-WRHK-0526,Esophagus - Mucosa,GTEX-WRHK,female,20-29,Ventilator case,clean_specimens,"8 pieces, up to 10x2mm; good mucosa;",eso_mucosa
+GTEX-WRHU-1526,Esophagus - Mucosa,GTEX-WRHU,female,50-59,Fast death - violent,,6 pieces~7x1mm; squamous mucosa is  ~10-20% of thickness,eso_mucosa
+GTEX-WVJS-1826,Esophagus - Mucosa,GTEX-WVJS,male,50-59,Ventilator case,,"6 pieces, up to 8x2mm; too autolyzed for further study; epithelium totally sloughed",eso_mucosa
+GTEX-WVLH-1426,Esophagus - Mucosa,GTEX-WVLH,male,50-59,Fast death - natural causes,,"6 pieces ~8x3mm, up to 50% squamous mucosa",eso_mucosa
+GTEX-WWYW-1526,Esophagus - Mucosa,GTEX-WWYW,female,50-59,Intermediate death,,"6 pieces ~7x1mm, Squamous mucosa sloughing, ~10% thickness, unusually poorly preserved",eso_mucosa
+GTEX-WXYG-1226,Esophagus - Mucosa,GTEX-WXYG,female,50-59,Ventilator case,,"4 pieces, up to 6x3mm; ~10% squamous mucosa by thickness",eso_mucosa
+GTEX-WY7C-1226,Esophagus - Mucosa,GTEX-WY7C,male,50-59,Ventilator case,,"6 pieces ~6x2mm, squamous mucosa ~10-15% thickness on 3 of 6, rest sloughed, chroniclly inflammed",eso_mucosa
+GTEX-WYBS-1726,Esophagus - Mucosa,GTEX-WYBS,female,60-69,Ventilator case,,"6 pieces, up to 6x1mm; 10-20% thickness, badly autolyzed sloughing squamous mucosa",eso_mucosa
+GTEX-WYJK-1926,Esophagus - Mucosa,GTEX-WYJK,male,50-59,Ventilator case,clean_specimens,"6 pieces, up to 5x2mm;  good specimens, squamous mucosa up to ~15% thickness",eso_mucosa
+GTEX-WYVS-0726,Esophagus - Mucosa,GTEX-WYVS,female,40-49,Ventilator case,,"6 pieces, up to 5x2mm; ~25%-50% thicknes is squamous mucosa, well preserved",eso_mucosa
+GTEX-WZTO-1426,Esophagus - Mucosa,GTEX-WZTO,male,40-49,Fast death - violent,inflammation,"6 pieces, up to 8x3mm; squamous mucosa sloughing/denuded, chronic/erosive inflamation present",eso_mucosa
+GTEX-X15G-0826,Esophagus - Mucosa,GTEX-X15G,female,50-59,Ventilator case,,"6 pieces, up to 7x3mm; ~20-30% thickness is well preserved squamous mucosa",eso_mucosa
+GTEX-X261-2526,Esophagus - Mucosa,GTEX-X261,male,50-59,Slow death,inflammation,"4 pieces, up to 4x3mm; mucosa unusually autolyzed; thick muscularis mucosae; chronic inflammation",eso_mucosa
+GTEX-X3Y1-1326,Esophagus - Mucosa,GTEX-X3Y1,male,40-49,Ventilator case,,"6 pieces, up to 7x3mm; well preserved mucosa with prominent muscularis mucosae and fibrotic submucosa; most have parts of UNWANTED muscularis propria (see annotated image)",eso_mucosa
+GTEX-X4EO-1226,Esophagus - Mucosa,GTEX-X4EO,female,60-69,Intermediate death,clean_specimens,"6 pieces, up to 6x2mm; good squamous epithelium",eso_mucosa
+GTEX-X4EP-1626,Esophagus - Mucosa,GTEX-X4EP,female,60-69,Slow death,,"6 pieces, up to 6x2mm; squamous mucosa is partly sloughing, ~20-30% thickness",eso_mucosa
+GTEX-X4LF-0626,Esophagus - Mucosa,GTEX-X4LF,male,50-59,Ventilator case,,"6 pieces, up to 8x4mm; ~10-15% thickness is wel preserved squamous mucosa; sub-mucosal mucus glands present, rep ones delineated",eso_mucosa
+GTEX-X4XX-1526,Esophagus - Mucosa,GTEX-X4XX,male,60-69,Slow death,,"6 pieces, up to 7x3mm;  Prominent superficial sloughing of squamous lining.",eso_mucosa
+GTEX-X4XY-1726,Esophagus - Mucosa,GTEX-X4XY,male,60-69,Ventilator case,,"6 pieces, up to 7x2mm; partly detached mucosa",eso_mucosa
+GTEX-X585-1226,Esophagus - Mucosa,GTEX-X585,male,50-59,Slow death,,"6 pieces, up to 7x2mm;  Well dissected mucosa with some epithelial detachment.",eso_mucosa
+GTEX-X5EB-1526,Esophagus - Mucosa,GTEX-X5EB,male,40-49,Ventilator case,,"6 pieces, up to 4.5x4mm; squamous mucosa is ~10-20% thickness",eso_mucosa
+GTEX-X62O-2226,Esophagus - Mucosa,GTEX-X62O,male,50-59,Ventilator case,,"6 pieces, up to 7x3mm;",eso_mucosa
+GTEX-X8HC-1426,Esophagus - Mucosa,GTEX-X8HC,female,50-59,Ventilator case,,"6 pieces, up to 7x2mm;  Superficial sloughing.",eso_mucosa
+GTEX-XBEC-1626,Esophagus - Mucosa,GTEX-XBEC,male,50-59,Fast death - natural causes,,"6 pieces, up to 7x4mm; squamous epithelium is ~40% thickness, delineated",eso_mucosa
+GTEX-XBED-1026,Esophagus - Mucosa,GTEX-XBED,male,60-69,Ventilator case,"hyperplasia, inflammation","6 pieces, up to 12x3mm; Chronic inflammation and squamous hyperplasia. Abundant submucosal glands in the 2 largest pieces",eso_mucosa
+GTEX-XBEW-1326,Esophagus - Mucosa,GTEX-XBEW,male,40-49,Ventilator case,,"6 pieces, up to 8x3mm; squamous mucosa well preserved, up to ~10-25% thickness",eso_mucosa
+GTEX-XGQ4-1526,Esophagus - Mucosa,GTEX-XGQ4,male,50-59,Ventilator case,,"6 pieces up to 7x3mm; 20-25 % thickn is squqmous mucosa, well-preserved",eso_mucosa
+GTEX-XK95-1026,Esophagus - Mucosa,GTEX-XK95,male,40-49,Ventilator case,,"6 pieces. up to 7x2mm; Well dissected, well preserved  mucosa",eso_mucosa
+GTEX-XLM4-2326,Esophagus - Mucosa,GTEX-XLM4,male,60-69,Intermediate death,,"6 pieces, up to 7.5x3mm; squamous mucosa poorly preserved and sloughing, ~10% thickness where present",eso_mucosa
+GTEX-XMD1-1326,Esophagus - Mucosa,GTEX-XMD1,male,60-69,Slow death,,6 pieces up to 7x3mm; squamous mucosa ~15% thickness,eso_mucosa
+GTEX-XMD2-1326,Esophagus - Mucosa,GTEX-XMD2,female,60-69,Ventilator case,,"6 pieces, up to 6x2mm; epithelium partially sloughed.  LDACC note: esophagus epithelium is normally about 10% of the mucosal thickness; muscle and stroma make up the rest.",eso_mucosa
+GTEX-XMD3-1326,Esophagus - Mucosa,GTEX-XMD3,female,50-59,Ventilator case,,6 pieces. up to 7x2mm; well dissected mucosa,eso_mucosa
+GTEX-XMK1-1326,Esophagus - Mucosa,GTEX-XMK1,male,40-49,Ventilator case,,6 pieces. up to 7x3mm;,eso_mucosa
+GTEX-XOT4-1926,Esophagus - Mucosa,GTEX-XOT4,female,60-69,Fast death - natural causes,,6 pieces. up to 5.5x2mm; superficially sloughed epithelium,eso_mucosa
+GTEX-XOTO-2126,Esophagus - Mucosa,GTEX-XOTO,male,50-59,Fast death - natural causes,,6 pieces. up to 6x2mm; squamous mucosa is ~10% thickness.,eso_mucosa
+GTEX-XPT6-0526,Esophagus - Mucosa,GTEX-XPT6,male,20-29,Ventilator case,,"2pieces fibroadipose tissue, uncertain provenance.",eso_mucosa
+GTEX-XPVG-1226,Esophagus - Mucosa,GTEX-XPVG,male,50-59,Ventilator case,,"6 pieces, up to 8x5mm; 5 with squamous and glandular mucosa; 1 all glandular",eso_mucosa
+GTEX-XQ3S-1126,Esophagus - Mucosa,GTEX-XQ3S,male,20-29,Fast death - violent,,"6 pieces, up to 7x2mm; squamous mucosa ~20 % ot thickness",eso_mucosa
+GTEX-XQ8I-1526,Esophagus - Mucosa,GTEX-XQ8I,male,50-59,Ventilator case,,"6 pieces, up to 7x3mm; well dissected, superficial surface sloughed",eso_mucosa
+GTEX-XUJ4-1026,Esophagus - Mucosa,GTEX-XUJ4,female,60-69,Ventilator case,,"6 pieces, up to 8x5mm;  squamous mucosa up to ~20% thickness",eso_mucosa
+GTEX-XUW1-1426,Esophagus - Mucosa,GTEX-XUW1,female,50-59,Ventilator case,,"6 pieces, up to 7x3mm; well dissected; surface sloughing, severe in 1 piece",eso_mucosa
+GTEX-XUZC-0426,Esophagus - Mucosa,GTEX-XUZC,female,30-39,Ventilator case,,"6 pieces, up to 13x3mm; squamous mucosa well-preserved,  ~25% thickness",eso_mucosa
+GTEX-XV7Q-1126,Esophagus - Mucosa,GTEX-XV7Q,female,40-49,Ventilator case,,"6 pieces, up to 10x5mm;  ~40% squamous mucosa,",eso_mucosa
+GTEX-XXEK-0326,Esophagus - Mucosa,GTEX-XXEK,male,50-59,Ventilator case,,"6 pieces, up to 5.5x5mm; squamous mucosa, well-preserved,  ~10-15% thickness",eso_mucosa
+GTEX-XYKS-1526,Esophagus - Mucosa,GTEX-XYKS,female,60-69,Ventilator case,,"5 pieces, up to 8x3mm; all have mucosa",eso_mucosa
+GTEX-Y111-1626,Esophagus - Mucosa,GTEX-Y111,male,50-59,Fast death - violent,,"6 pieces, up to 6x5mm; well dissected mucosa",eso_mucosa
+GTEX-Y114-0926,Esophagus - Mucosa,GTEX-Y114,female,50-59,Ventilator case,,"6 pieces, up to 7x4mm; squamous mucosa 10-15% thickness, submucosal glands abundant, rep. ones encircled",eso_mucosa
+GTEX-Y3I4-1226,Esophagus - Mucosa,GTEX-Y3I4,male,50-59,Ventilator case,,"6 pieces, up to 7x3mm; squamous mucosa ~15% thickness",eso_mucosa
+GTEX-Y3IK-1126,Esophagus - Mucosa,GTEX-Y3IK,female,50-59,Ventilator case,,"6 pieces, up to 8x2mm. Well dissected; some mechanical disruption.",eso_mucosa
+GTEX-Y5LM-1026,Esophagus - Mucosa,GTEX-Y5LM,female,40-49,Ventilator case,,6 pieces. up to 9.5x4mm; Well dissected.,eso_mucosa
+GTEX-Y5V5-1626,Esophagus - Mucosa,GTEX-Y5V5,female,60-69,Ventilator case,,"6 pieces, up to 10x2mm; squamous mucosa is ~10-15% of thickness",eso_mucosa
+GTEX-Y5V6-1026,Esophagus - Mucosa,GTEX-Y5V6,male,60-69,Ventilator case,,"6 pieces, up to 7x2mm; well dissected",eso_mucosa
+GTEX-Y8E4-1726,Esophagus - Mucosa,GTEX-Y8E4,male,40-49,Ventilator case,"desquamation, inflammation","1 piece, 6x2 mm. similar to 1725, less inflammation,  less desquamation (less handling). Well trimmed.",eso_mucosa
+GTEX-Y8LW-0726,Esophagus - Mucosa,GTEX-Y8LW,female,50-59,Ventilator case,,"1 piece, 3x1.5mm; squamous mucosa is ~30% thickness",eso_mucosa
+GTEX-Y9LG-0626,Esophagus - Mucosa,GTEX-Y9LG,male,30-39,Ventilator case,desquamation,"1 piece, 10x2.5 mm.  Focal surface desquamation.",eso_mucosa
+GTEX-YB5E-0926,Esophagus - Mucosa,GTEX-YB5E,male,40-49,Ventilator case,,"1 piece, 9.5x3.5mm; squamous mucosa is ~10-15% thickness",eso_mucosa
+GTEX-YB5K-0825,Esophagus - Mucosa,GTEX-YB5K,female,40-49,Ventilator case,,6 pieces. up to 10x5mm; Well preserved mucosa. 2 have muscularis propria up to 2 x 3 mm [annotated].,eso_mucosa
+GTEX-YB5K-0826,Esophagus - Mucosa,GTEX-YB5K,female,40-49,Ventilator case,,1 piece. 7x5mm; Well dissected: no muscularis propria.,eso_mucosa
+GTEX-YEC3-2526,Esophagus - Mucosa,GTEX-YEC3,male,50-59,Ventilator case,,"1 piece, 7x2mm; correlates with 2525 aliquot, mucosa is 390 microns",eso_mucosa
+GTEX-YEC4-1026,Esophagus - Mucosa,GTEX-YEC4,male,40-49,Ventilator case,,"1 piece (6x1mm).  Squamous mucosa is ~0.5mm thick, correlated with -1025 aliquots",eso_mucosa
+GTEX-YECK-1626,Esophagus - Mucosa,GTEX-YECK,male,60-69,Intermediate death,,"1 piece, correlates with -1625",eso_mucosa
+GTEX-YF7O-0926,Esophagus - Mucosa,GTEX-YF7O,male,50-59,Ventilator case,,1 piece; comparable to 25 block,eso_mucosa
+GTEX-YFC4-1226,Esophagus - Mucosa,GTEX-YFC4,female,40-49,Fast death - violent,,1 piece. Correlates perfectly with-1225,eso_mucosa
+GTEX-YFCO-0626,Esophagus - Mucosa,GTEX-YFCO,male,40-49,Ventilator case,,6 pieces; squamous mucosa represents from 15-30% of thickness; small portion of muscularis propria on one piece (marked),eso_mucosa
+GTEX-YJ89-1526,Esophagus - Mucosa,GTEX-YJ89,male,60-69,Fast death - natural causes,,6 pieces; numerous dilated vessels within submucosa,eso_mucosa
+GTEX-YJ8A-1326,Esophagus - Mucosa,GTEX-YJ8A,male,20-29,Ventilator case,,4 pieces; eosinophilic squamous surface may indicate strong alcohol ingestion,eso_mucosa
+GTEX-YJ8O-0426,Esophagus - Mucosa,GTEX-YJ8O,female,40-49,Fast death - violent,,"6 pieces, squamous mucosa up to ~0.3mm thick",eso_mucosa
+GTEX-Z93S-1426,Esophagus - Mucosa,GTEX-Z93S,male,50-59,Fast death - natural causes,,"6 pieces, fibroadipose/vascular/smooth muscle, no mucosa present.  Uknown provenance.",eso_mucosa
+GTEX-Z9EW-0526,Esophagus - Mucosa,GTEX-Z9EW,male,40-49,Ventilator case,,"4 pieces, squamous mucosa is ~0.2mm thick, ~10% thickness.  Lymphoid aggregates noted, delineated",eso_mucosa
+GTEX-ZA64-0626,Esophagus - Mucosa,GTEX-ZA64,male,20-29,Ventilator case,,"6 pieces, well preserved; squamous mucosa is ~0.3-0.5mm thick, switched with 0525; relabel for use",eso_mucosa
+GTEX-ZAB4-1126,Esophagus - Mucosa,GTEX-ZAB4,male,40-49,Slow death,,6 pieces. well trimmed.,eso_mucosa
+GTEX-ZAB5-0926,Esophagus - Mucosa,GTEX-ZAB5,male,50-59,Ventilator case,esophagitis,"6 pieces, esophagitis with erosion",eso_mucosa
+GTEX-ZAJG-1326,Esophagus - Mucosa,GTEX-ZAJG,female,50-59,Intermediate death,,"6 pieces, squamous mucosa ~10-20% thickness, occasional submucosal mucus glands, rep. ones delineated",eso_mucosa
+GTEX-ZAK1-1526,Esophagus - Mucosa,GTEX-ZAK1,female,50-59,Fast death - natural causes,,"6 pieces, squamous mucosa ~ 40-75% thickness",eso_mucosa
+GTEX-ZC5H-1326,Esophagus - Mucosa,GTEX-ZC5H,female,40-49,Ventilator case,,"6 pieces, squamous mucosa is 40-60% thickness, ~250 microns",eso_mucosa
+GTEX-ZDTS-1626,Esophagus - Mucosa,GTEX-ZDTS,male,60-69,Fast death - natural causes,"esophagitis, inflammation",6 pieces; fragmented squamocolumnar mucosa with chronic inflammation and goblet cells consistent with peptic reflux and Barrett esophagus,eso_mucosa
+GTEX-ZDTT-1326,Esophagus - Mucosa,GTEX-ZDTT,male,60-69,Ventilator case,,6 pieces,eso_mucosa
+GTEX-ZDXO-1526,Esophagus - Mucosa,GTEX-ZDXO,male,60-69,Fast death - natural causes,,"6 pieces, all muscularis/connective tissue, no mucosa visible, completely sloughed",eso_mucosa
+GTEX-ZDYS-0826,Esophagus - Mucosa,GTEX-ZDYS,male,50-59,Ventilator case,,6 pieces,eso_mucosa
+GTEX-ZE7O-1426,Esophagus - Mucosa,GTEX-ZE7O,female,50-59,Fast death - natural causes,,4 pieces; mucosa sloughed; submucosal glands and stroma remain,eso_mucosa
+GTEX-ZE9C-1126,Esophagus - Mucosa,GTEX-ZE9C,male,60-69,Fast death - natural causes,,"6 pieces,  squamous mucosa beginning to slough, a few submucosal glands noted, rep ones delineated",eso_mucosa
+GTEX-ZEX8-1426,Esophagus - Mucosa,GTEX-ZEX8,male,50-59,Ventilator case,"hyperplasia, inflammation",6 pieces. Focal surface sloughing. Mild chronic inflammation and  squamous hyperplasia.,eso_mucosa
+GTEX-ZF28-1126,Esophagus - Mucosa,GTEX-ZF28,male,60-69,Slow death,,4 pieces. well dissected; focal surface sloughing.,eso_mucosa
+GTEX-ZF29-1326,Esophagus - Mucosa,GTEX-ZF29,female,60-69,Ventilator case,,6 pieces,eso_mucosa
+GTEX-ZF2S-1226,Esophagus - Mucosa,GTEX-ZF2S,female,50-59,Ventilator case,,6 pieces. Well dissected mucosa,eso_mucosa
+GTEX-ZF3C-1626,Esophagus - Mucosa,GTEX-ZF3C,female,50-59,Ventilator case,,"6 pieces, well trimmed",eso_mucosa
+GTEX-ZG7Y-1126,Esophagus - Mucosa,GTEX-ZG7Y,male,50-59,Ventilator case,clean_specimens,"6 pieces, all with squamous mucosa, switched with eosphageal muscularis aliquots; must be re-labeled before archiving--good specimens",eso_mucosa
+GTEX-ZGAY-1126,Esophagus - Mucosa,GTEX-ZGAY,female,40-49,Ventilator case,esophagitis,"6 pieces, squamous mucosa 0.25mm; patchy chronic esophagitis, foci delineated; focal submucosal glands ensquared",eso_mucosa
+GTEX-ZLFU-1126,Esophagus - Mucosa,GTEX-ZLFU,male,40-49,Ventilator case,,6 pieces. Well dissected.,eso_mucosa
+GTEX-ZLV1-0526,Esophagus - Mucosa,GTEX-ZLV1,female,60-69,Ventilator case,,"4 pieces, 2 include gastric cardiac mucosa  (delineated), focal submucosal glands present (rep one encircled)",eso_mucosa
+GTEX-ZLWG-1326,Esophagus - Mucosa,GTEX-ZLWG,female,50-59,Ventilator case,,6 pieces,eso_mucosa
+GTEX-ZP4G-1026,Esophagus - Mucosa,GTEX-ZP4G,female,20-29,Ventilator case,,"6 pieces, squamous mucosa is 0.25-0.5mm thick",eso_mucosa
+GTEX-ZPCL-1426,Esophagus - Mucosa,GTEX-ZPCL,female,60-69,Ventilator case,,6 pieces. Well dissected.,eso_mucosa
+GTEX-ZPIC-1526,Esophagus - Mucosa,GTEX-ZPIC,female,40-49,Ventilator case,,"6 pieces, all with squamous mucosa ~0.3-0.5mm thick, a switch with 1625",eso_mucosa
+GTEX-ZPU1-1426,Esophagus - Mucosa,GTEX-ZPU1,male,40-49,Ventilator case,inflammation,"6 pieces, all with mucosa, focal chronic inflammation",eso_mucosa
+GTEX-ZQG8-2226,Esophagus - Mucosa,GTEX-ZQG8,female,60-69,Ventilator case,,6 pieces. All with mucosa,eso_mucosa
+GTEX-ZQUD-0426,Esophagus - Mucosa,GTEX-ZQUD,male,30-39,Ventilator case,,"6 pieces, all contain squamous mucosa, ~10-20% thickness.  Few submucosal mucus glands present, rep ones delineated",eso_mucosa
+GTEX-ZT9W-1326,Esophagus - Mucosa,GTEX-ZT9W,male,50-59,Ventilator case,,6 pieces. Well dissected.,eso_mucosa
+GTEX-ZT9X-0526,Esophagus - Mucosa,GTEX-ZT9X,male,40-49,Ventilator case,,"6 pieces, squamous mucosa well preserved, ~20-25% thickness.  Incidental mucous glands present, rep ones delineated",eso_mucosa
+GTEX-ZTPG-1626,Esophagus - Mucosa,GTEX-ZTPG,female,20-29,Ventilator case,,6 pieces,eso_mucosa
+GTEX-ZTSS-0626,Esophagus - Mucosa,GTEX-ZTSS,male,40-49,Ventilator case,hyperplasia,6 pieces. Moderate squamous hyperplasia (0.5 mm),eso_mucosa
+GTEX-ZTTD-1326,Esophagus - Mucosa,GTEX-ZTTD,male,50-59,Intermediate death,,6 pieces; squamous mucosa is ~20-25% thickness,eso_mucosa
+GTEX-ZTX8-0226,Esophagus - Mucosa,GTEX-ZTX8,male,20-29,Ventilator case,,"6 pieces, well trimmed",eso_mucosa
+GTEX-ZU9S-1426,Esophagus - Mucosa,GTEX-ZU9S,male,30-39,Fast death - natural causes,,6 pieces. Surface epithelium completely sloughed on all 6 pieces.,eso_mucosa
+GTEX-ZUA1-1226,Esophagus - Mucosa,GTEX-ZUA1,male,40-49,Fast death - natural causes,,6 pieces. Hypertrophic  epithelium (up to 0.3mm).,eso_mucosa
+GTEX-ZV68-0926,Esophagus - Mucosa,GTEX-ZV68,female,50-59,Fast death - natural causes,,"4 pieces, actually sloughing squamous mucosa ~0.1mm thick.  Switched with muscularis 1125",eso_mucosa
+GTEX-ZV6S-0326,Esophagus - Mucosa,GTEX-ZV6S,female,40-49,Ventilator case,,"4 pieces, 2 include glandular mucosa (demarcated) of gastroesophageal junction (NOT TARGET)",eso_mucosa
+GTEX-ZV7C-1226,Esophagus - Mucosa,GTEX-ZV7C,male,50-59,Ventilator case,,"3 pieces, essentially all gastric cardia, minute focus squamous mucosa delineated. Not part of GTEx",eso_mucosa
+GTEX-ZVE1-1426,Esophagus - Mucosa,GTEX-ZVE1,female,50-59,Ventilator case,,"4 pieces, mucosa partly sloughed",eso_mucosa
+GTEX-ZVE2-1326,Esophagus - Mucosa,GTEX-ZVE2,male,50-59,Ventilator case,,"6 pieces, squamous mucosa partly sloughed",eso_mucosa
+GTEX-ZVP2-1326,Esophagus - Mucosa,GTEX-ZVP2,male,50-59,Ventilator case,,"3 pieces, few submucosal glands delineated",eso_mucosa
+GTEX-ZVT2-1326,Esophagus - Mucosa,GTEX-ZVT2,female,50-59,Ventilator case,,4 pieces,eso_mucosa
+GTEX-ZVT3-1426,Esophagus - Mucosa,GTEX-ZVT3,female,60-69,Fast death - natural causes,hyperplasia,"6 pieces, prominent squamous hyperplasia up to ~50% thickness",eso_mucosa
+GTEX-ZVT4-1826,Esophagus - Mucosa,GTEX-ZVT4,female,50-59,Intermediate death,,"6 pieces, squamous mucosa is ~1--15% thickness, partly sloughing",eso_mucosa
+GTEX-ZVZP-1526,Esophagus - Mucosa,GTEX-ZVZP,male,50-59,Ventilator case,,6 pieces; epithelium almost totally sloughed,eso_mucosa
+GTEX-ZVZQ-1026,Esophagus - Mucosa,GTEX-ZVZQ,female,60-69,Fast death - violent,desquamation,"6 pieces,  squamous mucosa is 20-30% of thickness, some foci of desquamation",eso_mucosa
+GTEX-ZWKS-1426,Esophagus - Mucosa,GTEX-ZWKS,male,30-39,Slow death,,"6 pieces, junctional mucosa, badly autolyzed",eso_mucosa
+GTEX-ZXES-1126,Esophagus - Mucosa,GTEX-ZXES,female,30-39,Ventilator case,,5 pieces,eso_mucosa
+GTEX-ZXG5-1426,Esophagus - Mucosa,GTEX-ZXG5,male,60-69,Intermediate death,esophagitis,6 pieces; completely autolyzed epithelium; chronic esophagitis,eso_mucosa
+GTEX-ZY6K-0626,Esophagus - Mucosa,GTEX-ZY6K,male,50-59,Ventilator case,,"6 pieces, mucosa and submucosa, few submucosal glands",eso_mucosa
+GTEX-ZYFC-1626,Esophagus - Mucosa,GTEX-ZYFC,male,50-59,Fast death - natural causes,,"6 pieces, several clusters of submucosal glands, few collections of lymphocytes",eso_mucosa
+GTEX-ZYFD-2726,Esophagus - Mucosa,GTEX-ZYFD,male,50-59,Intermediate death,"congestion, edema, tma","6 pieces; only very small amounts of squamous epithelium <10% of sample [annotated]; most of the samples are composed of edematous, congested subepithelial tissues; might be useful for TMA study",eso_mucosa
+GTEX-ZYFG-1126,Esophagus - Mucosa,GTEX-ZYFG,female,60-69,Ventilator case,,6 pieces; well dissected mucosa,eso_mucosa
+GTEX-ZYT6-1126,Esophagus - Mucosa,GTEX-ZYT6,male,30-39,Fast death - violent,,"6 pieces, squamous mucosa ~30% thickness, beginning to slough focally",eso_mucosa
+GTEX-ZYVF-2226,Esophagus - Mucosa,GTEX-ZYVF,female,50-59,Ventilator case,,"6 pieces, squamous mucosa is ~0.2mm, ~10-15% thickness.  Submucosal mucus glands present, rep delineated",eso_mucosa
+GTEX-ZYW4-1326,Esophagus - Mucosa,GTEX-ZYW4,male,60-69,Intermediate death,,6 pieces; only isolated pieces of squamous epithelium remain unsloughed,eso_mucosa
+GTEX-ZYWO-1026,Esophagus - Mucosa,GTEX-ZYWO,female,40-49,Ventilator case,,6 pieces,eso_mucosa
+GTEX-ZYY3-1526,Esophagus - Mucosa,GTEX-ZYY3,female,60-69,Slow death,,"6 pieces, squamous mucosa is ~10% thickness",eso_mucosa
+GTEX-ZZ64-0226,Esophagus - Mucosa,GTEX-ZZ64,male,20-29,Ventilator case,hemorrhage,5 pieces;  specimen is mucosa;  erosions and hemorrhage [annotated],eso_mucosa
+GTEX-ZZPT-1426,Esophagus - Mucosa,GTEX-ZZPT,male,50-59,Slow death,,"6 pieces, squamous mucosa is ~10% thickness, sloughing/ autolyzing",eso_mucosa
+GTEX-ZZPU-1726,Esophagus - Mucosa,GTEX-ZZPU,female,50-59,Ventilator case,,"6 pieces, several pieces include muscularis (not target), submucosal glands (some delineated)",eso_mucosa

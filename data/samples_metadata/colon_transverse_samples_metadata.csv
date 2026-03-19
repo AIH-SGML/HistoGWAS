@@ -1,0 +1,938 @@
+Tissue Sample ID,Tissue,Subject ID,Sex,Age Bracket,Hardy Scale,Pathology Categories,Pathology Notes,Tissue ID
+GTEX-1117F-2726,Colon - Transverse,GTEX-1117F,female,60-69,Slow death,,"5 pieces, mucosa totally autolyze/sloughed",colon_transverse
+GTEX-111CU-1426,Colon - Transverse,GTEX-111CU,male,50-59,Ventilator case,edema,"6 pieces, predominantly mucosa and submucosa with small portion of muscularis, edema",colon_transverse
+GTEX-111FC-2326,Colon - Transverse,GTEX-111FC,male,60-69,Fast death - violent,,7 pieces with variable combination of severely autolyzed mucosa and muscularis,colon_transverse
+GTEX-111VG-2226,Colon - Transverse,GTEX-111VG,male,60-69,Intermediate death,,"6 pieces; mucosa=3, muscle=1",colon_transverse
+GTEX-111YS-1626,Colon - Transverse,GTEX-111YS,male,60-69,Ventilator case,,"6 pieces, 4 full thickness, 2 without mucosa",colon_transverse
+GTEX-1122O-1526,Colon - Transverse,GTEX-1122O,female,60-69,Ventilator case,,"6 pieces, predominantly mucosa and submucosa, few with attached portion of muscularis",colon_transverse
+GTEX-1128S-1626,Colon - Transverse,GTEX-1128S,female,60-69,Fast death - natural causes,,"6 pieces, epithelial component of mucosa completely sloughed, some lamina propria elements remain",colon_transverse
+GTEX-113JC-1826,Colon - Transverse,GTEX-113JC,female,50-59,Fast death - natural causes,,6 pieces; moderately autolyzed mucosa in all; 3 have no muscularis,colon_transverse
+GTEX-117XS-2326,Colon - Transverse,GTEX-117XS,male,60-69,Fast death - natural causes,,"6 pieces, mucosa autolyzed (3), muscularis (1)",colon_transverse
+GTEX-117YW-1826,Colon - Transverse,GTEX-117YW,male,50-59,Intermediate death,,"6 pieces, mucosa (autolysis 1-2) and muscularis",colon_transverse
+GTEX-117YX-0826,Colon - Transverse,GTEX-117YX,male,50-59,Ventilator case,,"6 pieces, 2 without mucosa",colon_transverse
+GTEX-1192W-1826,Colon - Transverse,GTEX-1192W,male,60-69,Fast death - natural causes,,"6 pieces, mucosa completely autolyzed/sloughed",colon_transverse
+GTEX-1192X-2626,Colon - Transverse,GTEX-1192X,male,50-59,Slow death,,"6 pieces, epithelial component of mucosa completely autolyzed",colon_transverse
+GTEX-11DXX-1826,Colon - Transverse,GTEX-11DXX,female,60-69,Ventilator case,,"6 pieces, mucosa and submucosa",colon_transverse
+GTEX-11DXY-1926,Colon - Transverse,GTEX-11DXY,male,60-69,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa (3) and muscularis (2)",colon_transverse
+GTEX-11DXZ-1726,Colon - Transverse,GTEX-11DXZ,male,50-59,Ventilator case,,"6 pieces, all include mucosa and muscularis",colon_transverse
+GTEX-11DYG-2826,Colon - Transverse,GTEX-11DYG,male,60-69,Fast death - natural causes,,6 pieces; mucosa=3; muscle=1,colon_transverse
+GTEX-11DZ1-1526,Colon - Transverse,GTEX-11DZ1,male,50-59,Slow death,,6 pieces; mucosa=3 (focally=2); muscle=1,colon_transverse
+GTEX-11EI6-2326,Colon - Transverse,GTEX-11EI6,male,60-69,Slow death,,"6 pieces, mucosa markedly autolyzed, ~10-15% thickness",colon_transverse
+GTEX-11EM3-1526,Colon - Transverse,GTEX-11EM3,female,20-29,Ventilator case,,"6 pieces, mucosa and muscularis",colon_transverse
+GTEX-11EMC-1526,Colon - Transverse,GTEX-11EMC,female,60-69,Fast death - natural causes,,"6 pieces, mucosa near-total autolysis",colon_transverse
+GTEX-11EQ8-2526,Colon - Transverse,GTEX-11EQ8,male,60-69,Slow death,,"6 pieces, severely autolyzed mucosa, muscularis",colon_transverse
+GTEX-11EQ9-1426,Colon - Transverse,GTEX-11EQ9,male,30-39,Fast death - natural causes,,"6 pieces, mucosa is 5-10% thickness, ~0.2-0.4mm thick",colon_transverse
+GTEX-11GS4-1926,Colon - Transverse,GTEX-11GS4,male,60-69,Fast death - natural causes,,"7 pieces, muscularis and severely autolyzed mucosa",colon_transverse
+GTEX-11GSO-2226,Colon - Transverse,GTEX-11GSO,male,60-69,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa (3) and muscularis (1)",colon_transverse
+GTEX-11GSP-1626,Colon - Transverse,GTEX-11GSP,female,60-69,Fast death - natural causes,,5 pieces; mucosa severely autolyzed (not suitable for GTEx); muscularis slightly autolyzed,colon_transverse
+GTEX-11I78-1226,Colon - Transverse,GTEX-11I78,female,50-59,Ventilator case,,"6 pieces, mucosa well- preserved, up to ~0.5mm thick",colon_transverse
+GTEX-11ILO-2026,Colon - Transverse,GTEX-11ILO,female,40-49,Ventilator case,,6 pieces; mucosa=3; muscle=1,colon_transverse
+GTEX-11LCK-2026,Colon - Transverse,GTEX-11LCK,male,30-39,Ventilator case,,"6 pieces, mucosa reasonably well preserved, focally approaches score '2' in a few foci; ~10% total thicknees, averaging 0.3-0.4mm",colon_transverse
+GTEX-11NSD-1626,Colon - Transverse,GTEX-11NSD,male,20-29,Ventilator case,,"6 pieces, well preserved mucosa is ~0.4mm thick, ~15% thickness",colon_transverse
+GTEX-11NUK-2226,Colon - Transverse,GTEX-11NUK,male,50-59,Fast death - natural causes,,"6 pieces, includes muscularis and severely autolyzed mucosa",colon_transverse
+GTEX-11O72-2226,Colon - Transverse,GTEX-11O72,male,40-49,Fast death - natural causes,,"6 pieces; mucosa is totally autolyzed, but muscularis is OK (1) as is mucosal lymphoid tissue",colon_transverse
+GTEX-11OF3-1626,Colon - Transverse,GTEX-11OF3,male,60-69,Fast death - natural causes,,6 pieces; mucosa autolyzed =3; muscle = 1.,colon_transverse
+GTEX-11ONC-2026,Colon - Transverse,GTEX-11ONC,male,60-69,Fast death - natural causes,,6 pieces; 3 with minimal mucosa,colon_transverse
+GTEX-11P7K-1526,Colon - Transverse,GTEX-11P7K,male,30-39,Ventilator case,,6 pieces; 2 without muscularis,colon_transverse
+GTEX-11P81-1126,Colon - Transverse,GTEX-11P81,female,30-39,Ventilator case,,"6 pieces, each containing muscularis and varying amounts of mucosa",colon_transverse
+GTEX-11P82-1026,Colon - Transverse,GTEX-11P82,male,20-29,Fast death - violent,,"6 pieces, mucosa is ~0.3mm thick, ~ 5% thickness",colon_transverse
+GTEX-11PRG-1926,Colon - Transverse,GTEX-11PRG,male,50-59,Fast death - natural causes,,"6 pieces, mucosa ~0.5mm thick, ~20% thickness, moderately autolyzed",colon_transverse
+GTEX-11TT1-1026,Colon - Transverse,GTEX-11TT1,male,20-29,Ventilator case,"edema, ischemic_changes","6 pieces, predominantly mucosa with few strips of muscularis, edema and ischemic change",colon_transverse
+GTEX-11TTK-2426,Colon - Transverse,GTEX-11TTK,female,60-69,Slow death,,"6 pieces; mucosa too autolyzed for GTEx, but muscularis is acceptable",colon_transverse
+GTEX-11TUW-2026,Colon - Transverse,GTEX-11TUW,male,60-69,Fast death - natural causes,,"8 pieces, muscularis and severely autolyzed mucosa",colon_transverse
+GTEX-11UD2-2426,Colon - Transverse,GTEX-11UD2,male,50-59,Fast death - natural causes,,"6 pieces, mucosa completely autolyzed/sloughted",colon_transverse
+GTEX-11VI4-1526,Colon - Transverse,GTEX-11VI4,female,40-49,Ventilator case,,6 pieces well dissected full thickness of colon,colon_transverse
+GTEX-11WQC-2126,Colon - Transverse,GTEX-11WQC,male,60-69,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa and muscularis",colon_transverse
+GTEX-11WQK-2126,Colon - Transverse,GTEX-11WQK,male,50-59,Fast death - natural causes,,"6 pieces, all muscularis, switch with 2525",colon_transverse
+GTEX-11XUK-1226,Colon - Transverse,GTEX-11XUK,female,40-49,Ventilator case,,"6 pieces; poorly sampled: mucosa in 2 pieces, muscle in 5",colon_transverse
+GTEX-11ZTS-1726,Colon - Transverse,GTEX-11ZTS,female,60-69,Fast death - natural causes,,"6 pieces, mucosa ~60% thickness, variably but generally moderately-markedly autolyzed",colon_transverse
+GTEX-11ZTT-1326,Colon - Transverse,GTEX-11ZTT,female,60-69,Ventilator case,,"4 pieces, 2 are mucosa and submucosa, two include mucosa and muscularis",colon_transverse
+GTEX-11ZU8-2226,Colon - Transverse,GTEX-11ZU8,male,60-69,Slow death,,"6 pieces, mucosa totally autolyzed, ~0.1mm thick",colon_transverse
+GTEX-11ZUS-2226,Colon - Transverse,GTEX-11ZUS,male,30-39,Fast death - violent,,"4 pieces, mucosa (severely autolyzed) and muscularis",colon_transverse
+GTEX-11ZVC-2126,Colon - Transverse,GTEX-11ZVC,female,50-59,Fast death - natural causes,,6 pieces; mucosa=3; muscularis=1; only muscle useful for GTEx,colon_transverse
+GTEX-1211K-1726,Colon - Transverse,GTEX-1211K,female,60-69,Ventilator case,,"6 pieces, well preserved mucosa",colon_transverse
+GTEX-1212Z-1926,Colon - Transverse,GTEX-1212Z,male,60-69,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa",colon_transverse
+GTEX-12584-2626,Colon - Transverse,GTEX-12584,male,40-49,Intermediate death,,6 pieces; mucosa severely autolyzed; muscularis preserved (1); chronicly inflamed mucosa consistent with history of ulcerative colitis,colon_transverse
+GTEX-12696-2126,Colon - Transverse,GTEX-12696,male,60-69,Intermediate death,,"6 pieces, mucosa up to ~0.5mm, `15-20% thickness",colon_transverse
+GTEX-1269C-2326,Colon - Transverse,GTEX-1269C,female,60-69,Fast death - natural causes,,"6 pieces, muscularis and severely autolyzed mucosa",colon_transverse
+GTEX-1269W-2826,Colon - Transverse,GTEX-1269W,male,60-69,Slow death,,,colon_transverse
+GTEX-12BJ1-2126,Colon - Transverse,GTEX-12BJ1,male,60-69,Ventilator case,,"6 pieces, well preserved mucosa up to ~40-50% thickness",colon_transverse
+GTEX-12C56-0626,Colon - Transverse,GTEX-12C56,male,20-29,Ventilator case,,"6 pieces, mucosa and muscularis",colon_transverse
+GTEX-12KS4-2426,Colon - Transverse,GTEX-12KS4,male,30-39,Ventilator case,,"6 pieces, mucosa is ~0.3mm thick, moderately-severely autolyzed",colon_transverse
+GTEX-12WS9-2626,Colon - Transverse,GTEX-12WS9,female,50-59,Intermediate death,,"6 pieces, mucosa is ~30 % thickness but epithelial component is totaly autolyzed",colon_transverse
+GTEX-12WSA-2526,Colon - Transverse,GTEX-12WSA,male,60-69,Slow death,,"6 pieces, mucosa is badly autolyzed, ~20% of thickness",colon_transverse
+GTEX-12WSB-2726,Colon - Transverse,GTEX-12WSB,female,60-69,Slow death,,6 pieces; mucosa totally autolyzed; muscle slightly autolyzed,colon_transverse
+GTEX-12WSC-2526,Colon - Transverse,GTEX-12WSC,male,50-59,Fast death - natural causes,,"6 pieces, full thickness colon, moderately to severely autolyzed mucosa",colon_transverse
+GTEX-12WSD-2426,Colon - Transverse,GTEX-12WSD,female,60-69,Fast death - natural causes,,"5 pieces; mucosa is ~0.3 mm or ~30% thickness, but toally autolyzed",colon_transverse
+GTEX-12WSE-2626,Colon - Transverse,GTEX-12WSE,male,20-29,Fast death - natural causes,,6 pieces; mucosa largely autolyzed; inner muscle moderately autolyzed,colon_transverse
+GTEX-12WSF-2826,Colon - Transverse,GTEX-12WSF,male,70-79,Slow death,,"6 pieces, mucosa totally autolyzed",colon_transverse
+GTEX-12WSG-2326,Colon - Transverse,GTEX-12WSG,female,50-59,Ventilator case,,"6 pieces, severely autolyzed mucosa, some muscularis (not target)",colon_transverse
+GTEX-12WSH-2026,Colon - Transverse,GTEX-12WSH,male,50-59,Fast death - natural causes,,6 pieces; virtually no muscle; mucosa totally autolyzed,colon_transverse
+GTEX-12WSI-1626,Colon - Transverse,GTEX-12WSI,male,50-59,Fast death - natural causes,,"6 pieces, mucosa totaly autlyzed",colon_transverse
+GTEX-12WSJ-1526,Colon - Transverse,GTEX-12WSJ,female,40-49,Ventilator case,,6 pieces,colon_transverse
+GTEX-12WSK-1626,Colon - Transverse,GTEX-12WSK,female,40-49,Ventilator case,,"6 pieces, mucosa well preserved, up to ~0.4mm thick",colon_transverse
+GTEX-12WSL-1626,Colon - Transverse,GTEX-12WSL,male,50-59,Ventilator case,,6 pieces; partly autolyzed mucosa with variable amounts of muscularis,colon_transverse
+GTEX-12WSM-1526,Colon - Transverse,GTEX-12WSM,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.4mm thick, but glandular component totally autolyzed",colon_transverse
+GTEX-12WSN-1926,Colon - Transverse,GTEX-12WSN,male,40-49,Ventilator case,,2 pieces; fibroadipose tissue only; no evidence of colonic mucosa or muscularis,colon_transverse
+GTEX-12ZZW-2526,Colon - Transverse,GTEX-12ZZW,male,50-59,Slow death,,"6 pieces, mucosa totally autolyzed",colon_transverse
+GTEX-12ZZX-2626,Colon - Transverse,GTEX-12ZZX,female,40-49,Fast death - violent,,"6 pieces, mucosa completely autolyzed/sloughed",colon_transverse
+GTEX-12ZZY-2826,Colon - Transverse,GTEX-12ZZY,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.7mm, ~40-50% thickness; glandular component of mucosa moderately markedly autolyzed",colon_transverse
+GTEX-12ZZZ-2426,Colon - Transverse,GTEX-12ZZZ,male,60-69,Fast death - natural causes,,6 pieces; mucosa completely autolyzed; muscularis intact and mildly autolyzed,colon_transverse
+GTEX-13111-0726,Colon - Transverse,GTEX-13111,male,50-59,Ventilator case,,6 pieces; full thickness of colonic wall,colon_transverse
+GTEX-13112-1826,Colon - Transverse,GTEX-13112,male,50-59,Fast death - natural causes,,"5 pieces; mucosa severely autolyzed, muscularis slightly autolyzed; abundant [20 to 50%] submucosal fat",colon_transverse
+GTEX-13113-0826,Colon - Transverse,GTEX-13113,female,60-69,Ventilator case,,"6 pieces, mucosa score ranges from 1 to mainly '2' as noted; ~15% total thickness, ~0.5mm",colon_transverse
+GTEX-1313W-2326,Colon - Transverse,GTEX-1313W,female,50-59,Fast death - natural causes,,"6 pieces, severely autolyzed mucosa and muscularis",colon_transverse
+GTEX-131XE-0826,Colon - Transverse,GTEX-131XE,male,50-59,Ventilator case,,6 pieces; 4 pieces have full thickness elements with well preserved mucosa; 2 have no mucosa (in this section),colon_transverse
+GTEX-131XF-1626,Colon - Transverse,GTEX-131XF,male,60-69,Ventilator case,,6 pieces; muscularis only (this could  be sigmoid ),colon_transverse
+GTEX-131XG-1826,Colon - Transverse,GTEX-131XG,female,50-59,Ventilator case,,"6 pieces, well preserved; mucosa up to ~0.3mm, ~20% thickness",colon_transverse
+GTEX-131XH-1826,Colon - Transverse,GTEX-131XH,male,50-59,Fast death - natural causes,,"6 pieces, mucosa markedly autolyzed",colon_transverse
+GTEX-131XW-2426,Colon - Transverse,GTEX-131XW,female,50-59,Slow death,,"6 pieces, muscularis and severely autolyzed mucosa",colon_transverse
+GTEX-131YS-2726,Colon - Transverse,GTEX-131YS,female,60-69,Fast death - natural causes,,"6 pieces; moderate to severe mucosal autolysis, muscularis",colon_transverse
+GTEX-132AR-2726,Colon - Transverse,GTEX-132AR,female,50-59,Ventilator case,,6 pieces; well dissected full thickness mucosa & muscle,colon_transverse
+GTEX-132NY-2626,Colon - Transverse,GTEX-132NY,male,60-69,Fast death - violent,,"6 pieces, muscosa ~30-40% thickness, badly autolyzed",colon_transverse
+GTEX-132Q8-2426,Colon - Transverse,GTEX-132Q8,male,60-69,Slow death,,6 pieces; severe mucosal autolysis,colon_transverse
+GTEX-132QS-1726,Colon - Transverse,GTEX-132QS,male,60-69,Ventilator case,,"6 pieces, mucosa unusually well preserved, ~0.5mm, ~10% thickness",colon_transverse
+GTEX-1339X-1626,Colon - Transverse,GTEX-1339X,male,40-49,Ventilator case,,"6 pieces; all devoid of mucosa; muscularis, submucosa, and subserosa present",colon_transverse
+GTEX-133LE-1526,Colon - Transverse,GTEX-133LE,female,20-29,Ventilator case,,6 pieces; full thickness; well preserved; well dissected,colon_transverse
+GTEX-1399Q-2126,Colon - Transverse,GTEX-1399Q,male,40-49,Ventilator case,,"6 pieces; severely autolyzed mucosa, muscularis is better preserved",colon_transverse
+GTEX-1399R-2226,Colon - Transverse,GTEX-1399R,male,30-39,Ventilator case,,"6 pieces; all contain only mucosa, no muscularis",colon_transverse
+GTEX-1399S-1926,Colon - Transverse,GTEX-1399S,female,30-39,Ventilator case,,"6 pieces, mucosa fairly well preserved, ~0.3-0.4mm, up to ~40% thickness",colon_transverse
+GTEX-1399T-1926,Colon - Transverse,GTEX-1399T,male,60-69,Fast death - natural causes,,6 pieces; muscularis and autolyzed mucosa; serosa with external fat up to 1.9mm,colon_transverse
+GTEX-1399U-1926,Colon - Transverse,GTEX-1399U,female,50-59,Ventilator case,,"6 pieces, mucosa well preserved, up to 0.5mm, 15-20% thickness",colon_transverse
+GTEX-139D8-2826,Colon - Transverse,GTEX-139D8,female,30-39,Ventilator case,,"6 pieces; ; mucosa severely autolyzed, muscularis preserved",colon_transverse
+GTEX-139T6-1326,Colon - Transverse,GTEX-139T6,male,50-59,Ventilator case,,"6 pieces, mucosa fairly well preserved, ~0.3 mm or ~25-40% thickness",colon_transverse
+GTEX-139TS-1926,Colon - Transverse,GTEX-139TS,male,60-69,Fast death - natural causes,,6 pieces; moderately autolyzed mucosa and muscularis,colon_transverse
+GTEX-139TT-2026,Colon - Transverse,GTEX-139TT,male,60-69,Fast death - natural causes,,"6 pieces; well dissected; mucosa poorly preserved, muscle better",colon_transverse
+GTEX-139TU-2426,Colon - Transverse,GTEX-139TU,male,60-69,Intermediate death,,6 pieces; muscularis and moderately to severely autolyzed mucosa,colon_transverse
+GTEX-139UC-2426,Colon - Transverse,GTEX-139UC,male,60-69,Fast death - natural causes,,"6 pieces, mucosa totally autolyzed (glandular elements)",colon_transverse
+GTEX-139UW-2026,Colon - Transverse,GTEX-139UW,male,60-69,Fast death - natural causes,,"6 pieces; mucosa =3, autolyzed; muscularis =1",colon_transverse
+GTEX-139YR-2126,Colon - Transverse,GTEX-139YR,male,50-59,Ventilator case,,"6 pieces; predominantly mucosa, but with few strips of residual muscularis (marked)",colon_transverse
+GTEX-13CF2-1926,Colon - Transverse,GTEX-13CF2,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.2mm thick, badly autolyzed/sloughed",colon_transverse
+GTEX-13CF3-1426,Colon - Transverse,GTEX-13CF3,female,60-69,Ventilator case,,6 pieces; no mucosa. only muscularis and submucosa,colon_transverse
+GTEX-13CIG-2226,Colon - Transverse,GTEX-13CIG,male,50-59,Fast death - natural causes,,"6 pieces; mucosa autolyzed, muscularis preserved",colon_transverse
+GTEX-13CZU-0926,Colon - Transverse,GTEX-13CZU,male,20-29,Ventilator case,,"6 pieces; 5 are full thickness, 1 is without muscularis",colon_transverse
+GTEX-13CZV-2726,Colon - Transverse,GTEX-13CZV,male,60-69,Fast death - natural causes,,"7 pieces; mucosa = 3, muscularis = 2; muscle missing on 3 of 7.",colon_transverse
+GTEX-13D11-0826,Colon - Transverse,GTEX-13D11,female,50-59,Ventilator case,,"6 pieces, mucosa unusually well preserved, ~0.5mm, ~50% thickness",colon_transverse
+GTEX-13FH7-1526,Colon - Transverse,GTEX-13FH7,female,50-59,Ventilator case,,"6 pieces; all full thickness, but mucosa is limited in some",colon_transverse
+GTEX-13FHO-2626,Colon - Transverse,GTEX-13FHO,male,60-69,Ventilator case,,"6 pieces, full thickness colon",colon_transverse
+GTEX-13FHP-2426,Colon - Transverse,GTEX-13FHP,male,50-59,Slow death,,6 pieces; mucosa mostly autolyzed,colon_transverse
+GTEX-13FLV-2226,Colon - Transverse,GTEX-13FLV,male,50-59,Fast death - natural causes,,"6 pieces; 5 are full thickness, one lacks mucosa, mucosa is severely autolyzed",colon_transverse
+GTEX-13FLW-2926,Colon - Transverse,GTEX-13FLW,male,50-59,Fast death - natural causes,,"6 pieces; autolyzed mucosa, residual muscularis",colon_transverse
+GTEX-13FTW-1826,Colon - Transverse,GTEX-13FTW,male,40-49,Ventilator case,,"6 pieces; predominantly mucosa/submucosa, 2 with small portion of muscularis",colon_transverse
+GTEX-13FTX-1426,Colon - Transverse,GTEX-13FTX,female,20-29,Ventilator case,,"6 pieces; 3 are mucosa only, 3 are full thickness",colon_transverse
+GTEX-13FTY-2526,Colon - Transverse,GTEX-13FTY,female,40-49,Fast death - natural causes,,"6 pieces; full thickness sections, severe autolysis",colon_transverse
+GTEX-13FXS-2426,Colon - Transverse,GTEX-13FXS,male,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa is autolyzed",colon_transverse
+GTEX-13G51-1926,Colon - Transverse,GTEX-13G51,male,60-69,Fast death - natural causes,,"6 pieces; full thickness with attached fat, mucosa is severely autolyzed",colon_transverse
+GTEX-13IVO-2126,Colon - Transverse,GTEX-13IVO,male,70-79,Slow death,,6 pieces; 4 of 6 pieces contain 20% to 30% of external fat ;mucosal autolysis grade 2 to 3; muscularis grade 1,colon_transverse
+GTEX-13JUV-1626,Colon - Transverse,GTEX-13JUV,female,40-49,Ventilator case,,"6 pieces; muscularis, no intact mucosa",colon_transverse
+GTEX-13JVG-2826,Colon - Transverse,GTEX-13JVG,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa severely autolyzed",colon_transverse
+GTEX-13N11-2026,Colon - Transverse,GTEX-13N11,female,50-59,Ventilator case,,2 pieces; muscularis with some attached fat and fibrovascular tissue (20 and >50%),colon_transverse
+GTEX-13N1W-2326,Colon - Transverse,GTEX-13N1W,male,70-79,Ventilator case,,6 pieces; autolyzed mucosa and preserved muscularis,colon_transverse
+GTEX-13N2G-2126,Colon - Transverse,GTEX-13N2G,male,60-69,Fast death - natural causes,,6 pieces; mildly to moderately autolysed mucosa; 1 of 6 pieces with attached 10% of external fat,colon_transverse
+GTEX-13NYB-1926,Colon - Transverse,GTEX-13NYB,male,40-49,Fast death - natural causes,,"6 pieces, mucusa is badly autolyzed glandular elements but ~0.2mm thick, ~20% thickness",colon_transverse
+GTEX-13NYC-2326,Colon - Transverse,GTEX-13NYC,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections, autolyzed mucosa",colon_transverse
+GTEX-13NYS-2726,Colon - Transverse,GTEX-13NYS,male,60-69,Slow death,,6 pieces; glands autolyzed; muscle preserved; 2 have excessive perimuscular fat,colon_transverse
+GTEX-13NZ8-2926,Colon - Transverse,GTEX-13NZ8,female,60-69,Slow death,,6 pieces; mucosa autolyzed; muscle intact,colon_transverse
+GTEX-13NZ9-2426,Colon - Transverse,GTEX-13NZ9,male,50-59,Ventilator case,,"6 pieces  mucosa ~ 0.3mm, ~15-20% thickness, but markedly autolyzed glands, largely lamina propria remains",colon_transverse
+GTEX-13NZA-2626,Colon - Transverse,GTEX-13NZA,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections, up to 30% attached fat",colon_transverse
+GTEX-13NZB-1826,Colon - Transverse,GTEX-13NZB,male,30-39,Ventilator case,,1 pieces; full thickness section with mucosal autolysis,colon_transverse
+GTEX-13O1R-2726,Colon - Transverse,GTEX-13O1R,male,60-69,Fast death - natural causes,,4 pieces; mucosa only present: autolyzed; prominent melanosis coli (good for LCM),colon_transverse
+GTEX-13O21-2426,Colon - Transverse,GTEX-13O21,male,50-59,Ventilator case,,"6 pieces, well presreved mucosa up to ~0.5mm thick",colon_transverse
+GTEX-13O3O-2526,Colon - Transverse,GTEX-13O3O,female,60-69,Intermediate death,,4 pieces; mucosa autolyzed; muscularis intact,colon_transverse
+GTEX-13O3P-2326,Colon - Transverse,GTEX-13O3P,male,50-59,Slow death,,6 pieces; mucosa autolyzed; muscularis preserved,colon_transverse
+GTEX-13O3Q-2026,Colon - Transverse,GTEX-13O3Q,male,50-59,Fast death - natural causes,,"5 pieces; mucosa autolyzed, muscularis preserved",colon_transverse
+GTEX-13O61-1626,Colon - Transverse,GTEX-13O61,male,60-69,Ventilator case,,"6 pieces; 5 full thickness, 1 without mucosa",colon_transverse
+GTEX-13OVG-1426,Colon - Transverse,GTEX-13OVG,male,60-69,Ventilator case,,"6 pieces, mucosa ~0.4mm, ~20% thickness, not well preserved, missing in some sections",colon_transverse
+GTEX-13OVH-2126,Colon - Transverse,GTEX-13OVH,male,70-79,Fast death - natural causes,,"6 pieces, glandular component of mucosa markedly autolyzed, up to~0.3mm, ~15% thickness",colon_transverse
+GTEX-13OVI-2026,Colon - Transverse,GTEX-13OVI,female,60-69,Ventilator case,,"6 pieces, mucosa variably preserved but largely sloughed",colon_transverse
+GTEX-13OVJ-1726,Colon - Transverse,GTEX-13OVJ,female,50-59,Fast death - natural causes,,6 pieces; full thickness sections,colon_transverse
+GTEX-13OVK-0826,Colon - Transverse,GTEX-13OVK,male,40-49,Ventilator case,,6 pieces: 3 with & 3 without mucosa,colon_transverse
+GTEX-13OVL-2626,Colon - Transverse,GTEX-13OVL,male,50-59,Fast death - natural causes,,"6 pieces; autolyzed mucosa, thick fatty submucosa, preserved thin muscularis",colon_transverse
+GTEX-13OW5-2626,Colon - Transverse,GTEX-13OW5,male,60-69,Intermediate death,,"6 pieces, mucosa moderately-markedly autolyzed, ~0.3mm, ~10-15% thickness",colon_transverse
+GTEX-13OW6-2126,Colon - Transverse,GTEX-13OW6,male,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, variably autolyzed mucosa, thin rim of adherent fat",colon_transverse
+GTEX-13OW7-2426,Colon - Transverse,GTEX-13OW7,male,50-59,Fast death - natural causes,,"6 pieces, mucosa is ~0.3mm but with advanced autolysis",colon_transverse
+GTEX-13OW8-2626,Colon - Transverse,GTEX-13OW8,male,60-69,Fast death - natural causes,,6 pieces; full thickness with severe mucosal autolysis,colon_transverse
+GTEX-13PDP-2726,Colon - Transverse,GTEX-13PDP,male,60-69,Slow death,,"6 pieces; full thickness sections, mucosa (3), muscularis (2)",colon_transverse
+GTEX-13PL6-1826,Colon - Transverse,GTEX-13PL6,female,40-49,Intermediate death,,"6 pieces, mucosa up to ~0.25 mm, ~20% thickness, glandular component totally autolyzed",colon_transverse
+GTEX-13PL7-2526,Colon - Transverse,GTEX-13PL7,female,60-69,Ventilator case,,"6 pieces, colon mucosa, well preserved, up to ~0.4mm, 70-80% thickness",colon_transverse
+GTEX-13PVQ-2526,Colon - Transverse,GTEX-13PVQ,male,50-59,Fast death - natural causes,,"6 pieces; mucosa autolyzed, muscle intact",colon_transverse
+GTEX-13PVR-1626,Colon - Transverse,GTEX-13PVR,female,60-69,Ventilator case,,"6 pieces, mucosa well preserved, ~0.35mm, ~10% thickness",colon_transverse
+GTEX-13QBU-1826,Colon - Transverse,GTEX-13QBU,female,40-49,Ventilator case,,"6 pieces, mucosa fairly well preserved, ~0.3mm, ~10-15% thickness",colon_transverse
+GTEX-13QIC-2726,Colon - Transverse,GTEX-13QIC,female,60-69,Fast death - natural causes,,6 pieces; autolyzed mucosa; preserved muscularis,colon_transverse
+GTEX-13QJ3-2626,Colon - Transverse,GTEX-13QJ3,male,50-59,Ventilator case,,"6 pieces, glandular portions of mucosa totally autolyzed",colon_transverse
+GTEX-13QJC-2026,Colon - Transverse,GTEX-13QJC,female,60-69,Fast death - natural causes,,"6 pieces; mucosa largely autolyzed, muscularis moderately autolyzed",colon_transverse
+GTEX-13RTJ-2026,Colon - Transverse,GTEX-13RTJ,male,60-69,Slow death,,"6 pieces, mucosa totally autolyzed",colon_transverse
+GTEX-13RTK-1026,Colon - Transverse,GTEX-13RTK,male,20-29,Ventilator case,,"6 pieces, modeate -advanced autolysis, viable portions are small bowel",colon_transverse
+GTEX-13S7M-1226,Colon - Transverse,GTEX-13S7M,female,60-69,Fast death - natural causes,,6 pieces; mucosal glands autolyzed; muscle preserved; well trimmed,colon_transverse
+GTEX-13S86-1626,Colon - Transverse,GTEX-13S86,male,40-49,Ventilator case,,6 pieces; well dissected except for 2 foci of external fat up to 3 mm thick,colon_transverse
+GTEX-13SLW-2726,Colon - Transverse,GTEX-13SLW,male,70-79,Fast death - natural causes,,"6 pieces, mucosa ~10% thickness but totally autolyzed",colon_transverse
+GTEX-13SLX-2826,Colon - Transverse,GTEX-13SLX,female,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, moderate to severe autolysis",colon_transverse
+GTEX-13U4I-2426,Colon - Transverse,GTEX-13U4I,female,40-49,Ventilator case,,"6 pieces, mucosa moderately autolyzed, ~0.2mm, ~5010% thickness",colon_transverse
+GTEX-13VXT-2426,Colon - Transverse,GTEX-13VXT,female,20-29,Ventilator case,,"6 pieces; autolyzed mucosa, preserved muscle & submucosa",colon_transverse
+GTEX-13VXU-1826,Colon - Transverse,GTEX-13VXU,male,50-59,Fast death - natural causes,,6 pieces; totally autolyzed mucosa; no muscularis propria,colon_transverse
+GTEX-13W3W-2126,Colon - Transverse,GTEX-13W3W,female,60-69,Ventilator case,,"6 pieces, mucosa is ~5-10% thickness",colon_transverse
+GTEX-13W46-2626,Colon - Transverse,GTEX-13W46,male,50-59,Ventilator case,,"6 pieces; full thickness sections, moderate to severe autolysis",colon_transverse
+GTEX-13X6H-1926,Colon - Transverse,GTEX-13X6H,female,50-59,Ventilator case,,6 pieces; full thickness with some mucosal defects,colon_transverse
+GTEX-13X6I-2626,Colon - Transverse,GTEX-13X6I,male,60-69,Slow death,,"6 pieces; full thickness sections, mucosa moderately to severely auytolyzed",colon_transverse
+GTEX-13X6J-2626,Colon - Transverse,GTEX-13X6J,male,50-59,Fast death - natural causes,,"4 pieces; full thickness sections with severely autolyzed mucosa, discontinuous in one piece",colon_transverse
+GTEX-13X6K-2526,Colon - Transverse,GTEX-13X6K,female,60-69,Slow death,,"6 pieces, mucosa completely autolyzed/sloughed",colon_transverse
+GTEX-13YAN-2626,Colon - Transverse,GTEX-13YAN,male,60-69,Ventilator case,,"6 pieces, mucosa totally autolyzed/sloughed",colon_transverse
+GTEX-1445S-2626,Colon - Transverse,GTEX-1445S,male,60-69,Intermediate death,,"6 pieces, mucosa up to ~0.5mm but glandular epithelium totally autolyzed, residual lamina propria remains",colon_transverse
+GTEX-144FL-2426,Colon - Transverse,GTEX-144FL,male,50-59,Fast death - natural causes,,"6 pieces, mucosa is ~0.3mm, 10-15% thickness, markedly autolyzed",colon_transverse
+GTEX-144GL-2526,Colon - Transverse,GTEX-144GL,male,50-59,Fast death - natural causes,,"6 pieces; mucosa totally autolyzed, muscle preserved",colon_transverse
+GTEX-144GM-1226,Colon - Transverse,GTEX-144GM,male,20-29,Ventilator case,,"6 pieces, mucosa well-preserved, ~0.5mm, ~15% thickness",colon_transverse
+GTEX-144GN-1126,Colon - Transverse,GTEX-144GN,male,50-59,Ventilator case,,6 pieces; 1.5mm hemorrhagic ulcer in 1 piece with 2.6mm inflamed hemorrhagic luminal debris,colon_transverse
+GTEX-144GO-2126,Colon - Transverse,GTEX-144GO,male,60-69,Slow death,,"6 pieces; predominantly full thickness, but mucosa is autolyzed",colon_transverse
+GTEX-145LS-2726,Colon - Transverse,GTEX-145LS,female,60-69,Slow death,,6 pieces; epithelium autolyzed; muscle intact,colon_transverse
+GTEX-145LT-0926,Colon - Transverse,GTEX-145LT,male,40-49,Ventilator case,,"6 pieces, remarkably well preserved, mucosa ~0.3mm, 10% thickness, valuable specimen",colon_transverse
+GTEX-145LU-2426,Colon - Transverse,GTEX-145LU,male,50-59,Fast death - natural causes,,6 pieces; too autolyzed,colon_transverse
+GTEX-145LV-1826,Colon - Transverse,GTEX-145LV,male,50-59,Ventilator case,,"7 fragmented pieces; mucosa autolyzed, muscle preserved",colon_transverse
+GTEX-145ME-0826,Colon - Transverse,GTEX-145ME,female,40-49,Ventilator case,,"6 pieces, mucosa completely sloughed",colon_transverse
+GTEX-145MF-2526,Colon - Transverse,GTEX-145MF,male,50-59,Fast death - natural causes,,"6 pieces mucosa up to ~0.4-0.5 mm, ~50% thickness; glandular elements of mucosa completely autolyzed",colon_transverse
+GTEX-145MG-2426,Colon - Transverse,GTEX-145MG,male,50-59,Fast death - natural causes,,6 pieces; autolyzed,colon_transverse
+GTEX-145MH-2526,Colon - Transverse,GTEX-145MH,male,50-59,Fast death - violent,,"6 pieces; full thickness sections, mucosa is autolyzed",colon_transverse
+GTEX-145MI-2726,Colon - Transverse,GTEX-145MI,female,60-69,Fast death - natural causes,,6 pieces; mucosa autolyzed; muscle somewhat intact,colon_transverse
+GTEX-145MN-1726,Colon - Transverse,GTEX-145MN,male,30-39,Ventilator case,,6 pieces; 2 lack muscularis LCM,colon_transverse
+GTEX-145MO-2426,Colon - Transverse,GTEX-145MO,male,60-69,Intermediate death,,"6 pieces, mucosa is ~0.3 mm, ~20% thickness, glandular component completely autolyzed.",colon_transverse
+GTEX-146FH-2226,Colon - Transverse,GTEX-146FH,female,50-59,Ventilator case,,6 pieces; well dissected; well preserved,colon_transverse
+GTEX-146FQ-1926,Colon - Transverse,GTEX-146FQ,male,30-39,Ventilator case,,4 pieces; 1 has mucosa only,colon_transverse
+GTEX-146FR-2126,Colon - Transverse,GTEX-146FR,female,60-69,Ventilator case,,"6 pieces, small intestine, not colon",colon_transverse
+GTEX-14753-2726,Colon - Transverse,GTEX-14753,male,60-69,Slow death,,6 pieces; minimal muscularis propria,colon_transverse
+GTEX-1477Z-1826,Colon - Transverse,GTEX-1477Z,male,60-69,Slow death,,"6 pieces, mucosal glandular elements totally sloughed, up to ~0.3mm thick",colon_transverse
+GTEX-147F3-1926,Colon - Transverse,GTEX-147F3,female,50-59,Ventilator case,,6 pieces; fragments with variably autolyzed mucosa and muscularis,colon_transverse
+GTEX-147F4-2426,Colon - Transverse,GTEX-147F4,male,50-59,Fast death - natural causes,,"6 pieces, mucosa with advance autolysis/sloughed",colon_transverse
+GTEX-147GR-2726,Colon - Transverse,GTEX-147GR,male,60-69,Fast death - natural causes,,6 pieces; well dissected,colon_transverse
+GTEX-147JS-2526,Colon - Transverse,GTEX-147JS,male,60-69,Fast death - natural causes,,"6 pieces, glandular mucosa badly preserved, ~0.25mm thick",colon_transverse
+GTEX-148VJ-2626,Colon - Transverse,GTEX-148VJ,male,70-79,Fast death - natural causes,,"6 pieces, glandular mucosa completely autolyzed, mucosa up to~0.3mm",colon_transverse
+GTEX-1497J-1726,Colon - Transverse,GTEX-1497J,male,60-69,Ventilator case,,"6 pieces, mucosa is ~250microns; glandular elements totally autolyze/sloughed",colon_transverse
+GTEX-14A5H-1726,Colon - Transverse,GTEX-14A5H,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.2mm but totally autolyzed",colon_transverse
+GTEX-14A5I-2626,Colon - Transverse,GTEX-14A5I,female,50-59,Slow death,,"6 pieces, mucosa up to ~0.5mm, remarkably well preserved, focally approaches score 2",colon_transverse
+GTEX-14A6H-1826,Colon - Transverse,GTEX-14A6H,male,30-39,Ventilator case,adenoma,"6 pieces; several are full thickness, mucosa is variably autolyzed, portion of tubular adenoma",colon_transverse
+GTEX-14ABY-2426,Colon - Transverse,GTEX-14ABY,male,50-59,Fast death - natural causes,,6 pieces; autolyzed mucosa grade 3; muscularis intact,colon_transverse
+GTEX-14AS3-1126,Colon - Transverse,GTEX-14AS3,female,40-49,Ventilator case,,6 pieces; full thickness sections,colon_transverse
+GTEX-14ASI-2326,Colon - Transverse,GTEX-14ASI,male,60-69,Fast death - natural causes,,"4 pieces; mucosa autolyzed, muscle intact; LCM",colon_transverse
+GTEX-14B4R-0926,Colon - Transverse,GTEX-14B4R,male,30-39,Ventilator case,,"6 pieces; 3 are predominantly muscularis, 3 are predominantly fat and mucosa",colon_transverse
+GTEX-14BIL-2626,Colon - Transverse,GTEX-14BIL,male,50-59,Fast death - natural causes,,6 pieces; well dissected,colon_transverse
+GTEX-14BIM-2426,Colon - Transverse,GTEX-14BIM,female,60-69,Intermediate death,,"6 pieces, totally autolyzed/sloughed mucosa",colon_transverse
+GTEX-14BIN-3026,Colon - Transverse,GTEX-14BIN,female,50-59,Fast death - natural causes,,6 pieces; well trimmed; superficial mucosa autolyzed,colon_transverse
+GTEX-14BMU-1526,Colon - Transverse,GTEX-14BMU,female,20-29,Ventilator case,,"6 pieces, mucosa well  preserved, up to ~0.4mm, ~20-25% thickness",colon_transverse
+GTEX-14BMV-2426,Colon - Transverse,GTEX-14BMV,male,50-59,Fast death - natural causes,,6 pieces; mucosa autolyzed muscle intact,colon_transverse
+GTEX-14C38-2626,Colon - Transverse,GTEX-14C38,male,50-59,Ventilator case,,"6 pieces, mucosa with advanced autolysis",colon_transverse
+GTEX-14C39-1926,Colon - Transverse,GTEX-14C39,male,40-49,Fast death - natural causes,,"6 pieces, mucosa with advanced autolysis/sloughed",colon_transverse
+GTEX-14C5O-2526,Colon - Transverse,GTEX-14C5O,male,60-69,Slow death,,"5 pieces; full thickness, few with attached fat, diverticulum, mucosa is moderately to severely autolyzed",colon_transverse
+GTEX-14DAQ-2726,Colon - Transverse,GTEX-14DAQ,female,60-69,Slow death,,"6 pieces, mucosa ~0.25mm, generally advanced autolysis",colon_transverse
+GTEX-14DAR-1526,Colon - Transverse,GTEX-14DAR,male,50-59,Ventilator case,,"7 pieces, mucosa well preserved, ~0.3mm",colon_transverse
+GTEX-14E1K-1826,Colon - Transverse,GTEX-14E1K,male,50-59,Ventilator case,,"6 pieces, mucosa sloughed",colon_transverse
+GTEX-14E6C-2126,Colon - Transverse,GTEX-14E6C,male,40-49,Slow death,,"6 pieces; mucosa too autolyzed, muscularis not much better",colon_transverse
+GTEX-14E6D-2226,Colon - Transverse,GTEX-14E6D,male,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa is severely autolyzed",colon_transverse
+GTEX-14E6E-1526,Colon - Transverse,GTEX-14E6E,male,30-39,Ventilator case,,"6 pieces; 4 have no muscle, 2 have small amounts of muscle",colon_transverse
+GTEX-14E7W-2526,Colon - Transverse,GTEX-14E7W,male,70-79,Fast death - natural causes,congestion,6 pieces; grade 3 autolyzed mucosa; preserved muscularis; congestion; prominent lymphoid aggregates (outlined),colon_transverse
+GTEX-14H4A-1926,Colon - Transverse,GTEX-14H4A,female,40-49,Ventilator case,,"6 pieces; mostly well preserved, mucosa and muscularis",colon_transverse
+GTEX-14ICK-1026,Colon - Transverse,GTEX-14ICK,male,40-49,Ventilator case,,"6 pieces; mucosa autolyzed, muscle intact; 1 piece has no muscularis",colon_transverse
+GTEX-14ICL-1226,Colon - Transverse,GTEX-14ICL,male,30-39,Ventilator case,,"6 pieces, mucosa largely sloughed, trace residual lamina propria remains",colon_transverse
+GTEX-14JFF-2426,Colon - Transverse,GTEX-14JFF,male,60-69,Slow death,,"6 pieces, mucosa partially sloughed, residual up to ~0.25mm, glandular elements completely autolyzed",colon_transverse
+GTEX-14JG1-2726,Colon - Transverse,GTEX-14JG1,male,40-49,Fast death - natural causes,,"6 pieces; mucosa autolyzed, muscle intact; LCM",colon_transverse
+GTEX-14JG6-1726,Colon - Transverse,GTEX-14JG6,female,30-39,Ventilator case,,6 pieces; all with mucosa/submucosa/muscularis,colon_transverse
+GTEX-14JIY-3126,Colon - Transverse,GTEX-14JIY,male,60-69,Fast death - natural causes,hyalinization,"6 pieces, testis, pronounced tubular hyalinization, 50% rete testis, viable islands of non hyperplastic Leydig cells,  switched with 3325",colon_transverse
+GTEX-14JIY-3326,Colon - Transverse,GTEX-14JIY,male,60-69,Fast death - natural causes,,"2 pieces colon with mucosa, the latter ~0.5mm, well preserved, switched with 3125",colon_transverse
+GTEX-14LLW-2226,Colon - Transverse,GTEX-14LLW,female,70-79,Slow death,,6 pieces; mucosa totally autolyzed; muscularis intact; LCM,colon_transverse
+GTEX-14LZ3-2726,Colon - Transverse,GTEX-14LZ3,female,60-69,Intermediate death,,6 pieces; full thickness sections with autolyzed mucosa,colon_transverse
+GTEX-14PHW-2726,Colon - Transverse,GTEX-14PHW,female,60-69,Slow death,,"6 pieces, mucosa is up to ~0.25mm but glandulare elements completely autolyzed",colon_transverse
+GTEX-14PHX-1526,Colon - Transverse,GTEX-14PHX,male,50-59,Ventilator case,,6 pieces; well preserved. well trimmed,colon_transverse
+GTEX-14PHY-2026,Colon - Transverse,GTEX-14PHY,female,60-69,Ventilator case,,6 pieces; autolyzed small bowel (not target) mucosa and muscularis,colon_transverse
+GTEX-14PII-2326,Colon - Transverse,GTEX-14PII,male,60-69,Slow death,,"6 pieces, mucosa ~0.25mm, ~10-15% thickness, many areas autolysis approached score 3 with sloughing of glandular elements",colon_transverse
+GTEX-14PJ2-2526,Colon - Transverse,GTEX-14PJ2,male,50-59,Ventilator case,,4 pieces; completely autolyzed mucosa and preserved muscularis,colon_transverse
+GTEX-14PJ3-0926,Colon - Transverse,GTEX-14PJ3,male,50-59,Ventilator case,,"3 pieces; muscularis only, no mucosa (also target)",colon_transverse
+GTEX-14PJ4-1926,Colon - Transverse,GTEX-14PJ4,male,60-69,Ventilator case,,6 pieces; essentially well preserved mucosa,colon_transverse
+GTEX-14PJ5-0926,Colon - Transverse,GTEX-14PJ5,female,60-69,Ventilator case,,"6 pieces with colon mucosa up to ~0.35mm, switched with 1025",colon_transverse
+GTEX-14PJ6-1926,Colon - Transverse,GTEX-14PJ6,female,60-69,Ventilator case,,"4 pieces, mucosa up to ~0.4mm, ~15% thickness, well preserved",colon_transverse
+GTEX-14PJM-2626,Colon - Transverse,GTEX-14PJM,female,50-59,Fast death - natural causes,,"6 pieces; autolyzed mucosa, muscle intact",colon_transverse
+GTEX-14PJN-1226,Colon - Transverse,GTEX-14PJN,male,30-39,Ventilator case,,"6 pieces not colon, small bowel, unkonwn region, not GTEx target.",colon_transverse
+GTEX-14PJO-2426,Colon - Transverse,GTEX-14PJO,male,60-69,Slow death,,"6 pieces; mucosa autolyzed, muscle intact",colon_transverse
+GTEX-14PK6-1726,Colon - Transverse,GTEX-14PK6,female,70-79,Ventilator case,,"6 pieces, mucosa well preserved, ~0.2-0.3mm, ~25% thickness",colon_transverse
+GTEX-14PKU-1526,Colon - Transverse,GTEX-14PKU,female,40-49,Ventilator case,,"6 pieces, well preserved; mucosa up to ~0.5mm, 10-15% thickness",colon_transverse
+GTEX-14PKV-2126,Colon - Transverse,GTEX-14PKV,female,20-29,Ventilator case,,"6 pieces, well preserved mucosa up to ~0.4mm, ~25% thickness",colon_transverse
+GTEX-14PN3-1826,Colon - Transverse,GTEX-14PN3,female,60-69,Ventilator case,,6 pieces,colon_transverse
+GTEX-14PN4-2326,Colon - Transverse,GTEX-14PN4,male,50-59,Fast death - natural causes,,6 pieces; autolyzed mucosa (3) and muscularis (2),colon_transverse
+GTEX-14PQA-1826,Colon - Transverse,GTEX-14PQA,female,50-59,Slow death,,4 pieces; variable fragments including autolyzed mucosa and portion of muscularis,colon_transverse
+GTEX-14XAO-2026,Colon - Transverse,GTEX-14XAO,female,60-69,Ventilator case,,"6 pieces, up to ~0.5mm, ~30% thickness",colon_transverse
+GTEX-15CHC-1626,Colon - Transverse,GTEX-15CHC,female,60-69,Ventilator case,,6 pieces: 2 without mucosa,colon_transverse
+GTEX-15CHQ-2526,Colon - Transverse,GTEX-15CHQ,male,60-69,Slow death,,6 pieces; mucosa largely autolyzed; muscle in somewhat better shape,colon_transverse
+GTEX-15CHR-1426,Colon - Transverse,GTEX-15CHR,male,50-59,Ventilator case,,6 pieces; mucosa and muscularis,colon_transverse
+GTEX-15CHS-1926,Colon - Transverse,GTEX-15CHS,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~0.25mm but moderate-advanced autoysis",colon_transverse
+GTEX-15D1Q-2526,Colon - Transverse,GTEX-15D1Q,male,40-49,Fast death - natural causes,,"6 pieces, mucosa totally autolyzed",colon_transverse
+GTEX-15D79-2626,Colon - Transverse,GTEX-15D79,male,50-59,Fast death - natural causes,,6 pieces; some deeper glands are better preserved than the rest,colon_transverse
+GTEX-15DCD-2626,Colon - Transverse,GTEX-15DCD,female,70-79,Fast death - natural causes,,6 pieces; full thickness sections with moderate to severe mucosal autolysis,colon_transverse
+GTEX-15DCE-2026,Colon - Transverse,GTEX-15DCE,male,20-29,Ventilator case,,6 pieces;,colon_transverse
+GTEX-15DCZ-2726,Colon - Transverse,GTEX-15DCZ,female,20-29,Ventilator case,,"6 pieces, mucosa autolyzed/sloughed",colon_transverse
+GTEX-15DDE-2726,Colon - Transverse,GTEX-15DDE,female,50-59,Intermediate death,,"6 pieces, mucosa up to ~0.3 mm, severely autolyzed",colon_transverse
+GTEX-15DYW-2326,Colon - Transverse,GTEX-15DYW,female,60-69,Fast death - natural causes,,6 pieces; mucosa largely autolyzed; muscularis intact (1),colon_transverse
+GTEX-15DZA-0926,Colon - Transverse,GTEX-15DZA,female,30-39,Ventilator case,,"6 pieces, mucosa up to ~0.5mm, ~15-20% thickness, much is sloughed/dendued",colon_transverse
+GTEX-15EO6-2126,Colon - Transverse,GTEX-15EO6,male,50-59,Slow death,,"6 pieces, mucosa completely autolyzed, where visible, ~0.3mm",colon_transverse
+GTEX-15ER7-2926,Colon - Transverse,GTEX-15ER7,female,20-29,Fast death - violent,,6 pieces; full thickness,colon_transverse
+GTEX-15ETS-2226,Colon - Transverse,GTEX-15ETS,female,40-49,Ventilator case,,"6 pieces, mucosa layer up to ~0.4mm variably but generally poorly preserved/sloughing",colon_transverse
+GTEX-15EU6-1926,Colon - Transverse,GTEX-15EU6,male,50-59,Ventilator case,,"6 pieces, mucosa up to ~0.5mm but glandular elements with near-total autolysis",colon_transverse
+GTEX-15F5U-1226,Colon - Transverse,GTEX-15F5U,male,40-49,Ventilator case,,6 pieces; 1 piece has no muscularis,colon_transverse
+GTEX-15FZZ-1726,Colon - Transverse,GTEX-15FZZ,female,30-39,Ventilator case,,6 pieces; 1 is without mucosa,colon_transverse
+GTEX-15G19-2526,Colon - Transverse,GTEX-15G19,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections with moderate to severe autolysis (mucosa 3, muscularis 2)",colon_transverse
+GTEX-15G1A-1826,Colon - Transverse,GTEX-15G1A,male,30-39,Ventilator case,,"6 pieces, mucosa remarkably well preserved, 0.4mm, ~10% thickness",colon_transverse
+GTEX-15RIE-1826,Colon - Transverse,GTEX-15RIE,male,60-69,Ventilator case,,"6 pieces, mucosa up to ~0.4mm",colon_transverse
+GTEX-15RIF-1326,Colon - Transverse,GTEX-15RIF,male,20-29,Ventilator case,,"6 pieces, mucosa ~0.3mm, ~5-10% thickness",colon_transverse
+GTEX-15RJ7-1526,Colon - Transverse,GTEX-15RJ7,male,40-49,Ventilator case,,"6 pieces; mostly well preserved mucosa and submucosa, 3 of 6 contain muscularis (outlined)",colon_transverse
+GTEX-15RJE-2026,Colon - Transverse,GTEX-15RJE,male,40-49,Slow death,,6 pieces; lots of extruded mucus in 4 of 6 pieces [marked],colon_transverse
+GTEX-15SB6-1226,Colon - Transverse,GTEX-15SB6,female,50-59,Ventilator case,,"6 pieces; full thickness sections, moderate autolysis, some attached fat",colon_transverse
+GTEX-15SDE-1026,Colon - Transverse,GTEX-15SDE,female,50-59,Ventilator case,,6 pieces; 1 has no muscularis (may represent sampling of 025 aliquot),colon_transverse
+GTEX-15SHU-2526,Colon - Transverse,GTEX-15SHU,female,40-49,Fast death - natural causes,necrosis,6 pieces; mucosa totally necrotic; muscle intact,colon_transverse
+GTEX-15SHV-1326,Colon - Transverse,GTEX-15SHV,male,60-69,Ventilator case,,"4 pieces; 1 piece has no mucosa, 1 piece is mainly submucosa",colon_transverse
+GTEX-15SHW-2526,Colon - Transverse,GTEX-15SHW,male,60-69,Ventilator case,,"6 pieces; full thickness sections, moderate to severe autolysis, serositis",colon_transverse
+GTEX-15SKB-2626,Colon - Transverse,GTEX-15SKB,male,60-69,Ventilator case,,"6 pieces, target mucosa is totally autolyzed",colon_transverse
+GTEX-15SZO-2626,Colon - Transverse,GTEX-15SZO,male,50-59,Fast death - natural causes,,"6 pieces, mucosa is ~0.3mm, advanced autolysis",colon_transverse
+GTEX-15TU5-2726,Colon - Transverse,GTEX-15TU5,male,60-69,Slow death,,6 pieces; mucosa largely autpolyzed,colon_transverse
+GTEX-15UF6-2626,Colon - Transverse,GTEX-15UF6,female,70-79,Slow death,,"6 pieces; mucosa autolyzed, muscle intact",colon_transverse
+GTEX-15UF7-1126,Colon - Transverse,GTEX-15UF7,male,40-49,Ventilator case,,"6 pieces; full thickness sections, small intestine",colon_transverse
+GTEX-15UKP-1826,Colon - Transverse,GTEX-15UKP,male,20-29,Ventilator case,edema,"6 pieces; edema, mucosal autolysis",colon_transverse
+GTEX-169BO-0826,Colon - Transverse,GTEX-169BO,male,50-59,Ventilator case,,"6 pieces, sections of small intestine, unknown location, not GTEx target",colon_transverse
+GTEX-16A39-1526,Colon - Transverse,GTEX-16A39,female,30-39,Ventilator case,,6 pieces; moderately autolyzed mucosa and well preserved muscularis,colon_transverse
+GTEX-16AAH-1326,Colon - Transverse,GTEX-16AAH,male,50-59,Ventilator case,,"6 pieces, well preserved mucosa, ~10% of thickness",colon_transverse
+GTEX-16BQI-1926,Colon - Transverse,GTEX-16BQI,female,30-39,Ventilator case,,6 pieces; 1 without muscularis propria,colon_transverse
+GTEX-16GPK-2626,Colon - Transverse,GTEX-16GPK,male,60-69,Fast death - natural causes,,6 pieces; autolyzed mucosa and muscularis,colon_transverse
+GTEX-16MT8-2726,Colon - Transverse,GTEX-16MT8,female,60-69,Slow death,,"6 pieces, mucosa largely sloughed, advanced autolysis",colon_transverse
+GTEX-16MT9-2426,Colon - Transverse,GTEX-16MT9,female,60-69,Ventilator case,congestion,6 pieces; moderately to severely autolyzed mucosa and better preserved muscularis; congestion,colon_transverse
+GTEX-16MTA-1726,Colon - Transverse,GTEX-16MTA,male,50-59,Ventilator case,,"6 pieces; full thickness sections, well preserved",colon_transverse
+GTEX-16NFA-2126,Colon - Transverse,GTEX-16NFA,male,50-59,Ventilator case,,5 pieces; mucosa autolyzed; muscle intact,colon_transverse
+GTEX-16NGA-1026,Colon - Transverse,GTEX-16NGA,female,40-49,Ventilator case,,6 pieces; well preserved colonic target mucosa and muscularis,colon_transverse
+GTEX-16NPV-2626,Colon - Transverse,GTEX-16NPV,female,50-59,Slow death,,"6 pieces; glands autolyzed, muscle intact; well dissected",colon_transverse
+GTEX-16NPX-2526,Colon - Transverse,GTEX-16NPX,male,50-59,Ventilator case,,"6 pieces, glandular epithelium totally auotlyzed",colon_transverse
+GTEX-16XZY-1526,Colon - Transverse,GTEX-16XZY,male,70-79,Ventilator case,,6 pieces; muscularis withup to 0.8mm attached fat/vessels,colon_transverse
+GTEX-16XZZ-2626,Colon - Transverse,GTEX-16XZZ,male,60-69,Ventilator case,,"6 pieces; mucosa autolyzed [3], muscle intact [1]",colon_transverse
+GTEX-16YQH-2526,Colon - Transverse,GTEX-16YQH,male,30-39,Fast death - violent,,"6 pieces, mucosa up to ~0.5mm, 30-40% thickness, autolysis moderately advanced, apporaching score '3' in areas",colon_transverse
+GTEX-16Z82-2226,Colon - Transverse,GTEX-16Z82,male,60-69,Fast death - natural causes,,"6 pieces; mucosa autolyzed, muscle intact",colon_transverse
+GTEX-178AV-1326,Colon - Transverse,GTEX-178AV,male,40-49,Ventilator case,,"6 pieces, mucosa up to ~0.4mm, ~15-20% thickness",colon_transverse
+GTEX-17EUY-1826,Colon - Transverse,GTEX-17EUY,male,20-29,Ventilator case,inflammation,"6 pieces; full thickness sections, inflammation in adventitia",colon_transverse
+GTEX-17EVP-2726,Colon - Transverse,GTEX-17EVP,male,40-49,Fast death - natural causes,,"6 pieces; mucosa autolyzed, muscularis propria preserved; aggregates of lymphocytes (outlined)",colon_transverse
+GTEX-17EVQ-1826,Colon - Transverse,GTEX-17EVQ,male,70-79,Fast death - violent,,"6 pieces, mucosa ~0.2mm, completely autolyzed",colon_transverse
+GTEX-17F96-2026,Colon - Transverse,GTEX-17F96,male,70-79,Ventilator case,,6 pieces; mucosa=3;muscle = 1 (autolysis),colon_transverse
+GTEX-17F97-2326,Colon - Transverse,GTEX-17F97,male,50-59,Slow death,,"6 pieces; mucosal glands autolyzed, muscularis intact",colon_transverse
+GTEX-17F98-1026,Colon - Transverse,GTEX-17F98,female,40-49,Ventilator case,edema,6 pieces; poorly preserved mucosa; edematous submucosa occupies 60%,colon_transverse
+GTEX-17F9E-1826,Colon - Transverse,GTEX-17F9E,male,50-59,Ventilator case,,"6 pieces, mucosa up to ~0.25mm, moderately advanced autolysis",colon_transverse
+GTEX-17F9Y-2726,Colon - Transverse,GTEX-17F9Y,female,70-79,Ventilator case,,"6 pieces, mucosa totally autolyzed",colon_transverse
+GTEX-17GQL-1526,Colon - Transverse,GTEX-17GQL,male,60-69,Ventilator case,,"6 pieces, mucosa well preserved up to ~0.4mm, ~10-20% thickness",colon_transverse
+GTEX-17HG3-0426,Colon - Transverse,GTEX-17HG3,female,30-39,Fast death - natural causes,,"6 pieces; full thickness sections, extensive autolysis",colon_transverse
+GTEX-17HGU-2426,Colon - Transverse,GTEX-17HGU,male,50-59,Ventilator case,,6 pieces; muscle in better shape than mucosa,colon_transverse
+GTEX-17HHE-1826,Colon - Transverse,GTEX-17HHE,male,50-59,Ventilator case,,"6 pieces, well- preserved mucosa up to ~0.35mm, ~20-50% of thickness",colon_transverse
+GTEX-17HHY-2726,Colon - Transverse,GTEX-17HHY,male,50-59,Fast death - natural causes,,"6 pieces; mucosa severely autolyzed, muscle moderately autolyzed; LCM",colon_transverse
+GTEX-17HII-2726,Colon - Transverse,GTEX-17HII,male,50-59,Fast death - natural causes,,"6 pieces, target mucosa is ~0.35mm, ~25% thickness, moderately advanced autolysis",colon_transverse
+GTEX-17JCI-2626,Colon - Transverse,GTEX-17JCI,female,60-69,Ventilator case,,6 pieces; mucosa autolyzed; muscularis intact [1],colon_transverse
+GTEX-17KNJ-1726,Colon - Transverse,GTEX-17KNJ,male,50-59,Ventilator case,,"6 pieces, target mucosa well-preserved, ).35mm, ~10% total thickness",colon_transverse
+GTEX-17MF6-2426,Colon - Transverse,GTEX-17MF6,male,40-49,Fast death - natural causes,,6 pieces; severely autolyzed mucosa and preserved muscularis,colon_transverse
+GTEX-17MFQ-1426,Colon - Transverse,GTEX-17MFQ,male,20-29,Ventilator case,,"6 pieces fat/muscularis, no target mucosa",colon_transverse
+GTEX-183FY-0926,Colon - Transverse,GTEX-183FY,male,20-29,Ventilator case,,"6 pieces, muscularis only; no target mucosa",colon_transverse
+GTEX-183WM-2326,Colon - Transverse,GTEX-183WM,female,70-79,Slow death,,"6 pieces, mucosa largely slouhged/advanced autolysis",colon_transverse
+GTEX-18464-2426,Colon - Transverse,GTEX-18464,male,50-59,Slow death,,"6 pieces; full thickness sections, moderate to severe autolysis of mucosa, few with residual attached fat",colon_transverse
+GTEX-18465-2626,Colon - Transverse,GTEX-18465,male,50-59,Fast death - natural causes,,6 pieces; mucosal glands totally autolyzed [3]; muscle intact [2],colon_transverse
+GTEX-18A66-2426,Colon - Transverse,GTEX-18A66,male,60-69,Slow death,,"6 pieces, mucoa well preserved, up to ~0.5mm, ~15-20% thickness",colon_transverse
+GTEX-18A67-1926,Colon - Transverse,GTEX-18A67,male,50-59,Ventilator case,,6 pieces; target mucosa not present; muscularis only with up to  1.6mm adherent loose connective tissue,colon_transverse
+GTEX-18A6Q-2326,Colon - Transverse,GTEX-18A6Q,male,60-69,Fast death - natural causes,,"6 pieces, mucosa with advanced autolysis",colon_transverse
+GTEX-18A7A-2226,Colon - Transverse,GTEX-18A7A,female,50-59,Fast death - natural causes,,6 pieces; mucosa largely autolyzed; muscularis intact,colon_transverse
+GTEX-18A7B-2026,Colon - Transverse,GTEX-18A7B,male,70-79,Intermediate death,,6 pieces; extensive glandular autolysis except for foci of moderate autolysis; muscle intact,colon_transverse
+GTEX-18D9A-1126,Colon - Transverse,GTEX-18D9A,female,30-39,Ventilator case,,6 pieces; epithelial autolysis varies from 1 to 2,colon_transverse
+GTEX-18D9B-2526,Colon - Transverse,GTEX-18D9B,male,60-69,Ventilator case,,6 pieces,colon_transverse
+GTEX-18D9U-1926,Colon - Transverse,GTEX-18D9U,male,40-49,Ventilator case,,"6 pieces, mucosa is ~0.2-0.3mm, ~10% total thickness",colon_transverse
+GTEX-18QFQ-1526,Colon - Transverse,GTEX-18QFQ,male,30-39,Ventilator case,,"6 pieces; predominantly muscularis, 2 pieces include small portion of mucosa",colon_transverse
+GTEX-19HZE-2626,Colon - Transverse,GTEX-19HZE,female,70-79,Intermediate death,,6 pieces; mucosa totally autolyzed; muscularis moderately autolyzed,colon_transverse
+GTEX-1A32A-2426,Colon - Transverse,GTEX-1A32A,female,50-59,Fast death - natural causes,,6 pieces; mucosa severely autolyzed; muscularis slightly to moderately autolyzed,colon_transverse
+GTEX-1A3MV-1126,Colon - Transverse,GTEX-1A3MV,male,30-39,Ventilator case,,"6 pieces; full thickness sections, few with minimal attached fat",colon_transverse
+GTEX-1A3MW-2426,Colon - Transverse,GTEX-1A3MW,female,60-69,Slow death,,6 pieces; mucosa autolyzed; muscularis not present,colon_transverse
+GTEX-1A3MX-2226,Colon - Transverse,GTEX-1A3MX,male,60-69,Slow death,,"6 pieces, mucosa is ~0.5mm, glandular elements completely sloughed, advanced autolysis",colon_transverse
+GTEX-1A8FM-2726,Colon - Transverse,GTEX-1A8FM,female,50-59,Fast death - natural causes,,6 pieces; mucosa severely autolyzed; muscularis moderately autolyzed,colon_transverse
+GTEX-1A8G6-2826,Colon - Transverse,GTEX-1A8G6,male,60-69,Fast death - natural causes,,"6 pieces glandular mucosa with advanced autolysis, partially sloughing",colon_transverse
+GTEX-1A8G7-2226,Colon - Transverse,GTEX-1A8G7,male,60-69,Fast death - natural causes,,6 pieces; mucosa (3) and muscularis (2),colon_transverse
+GTEX-1AMEY-1926,Colon - Transverse,GTEX-1AMEY,female,30-39,Ventilator case,,6 pieces; variable amounts of mucosa sampled,colon_transverse
+GTEX-1AMFI-1726,Colon - Transverse,GTEX-1AMFI,female,50-59,Ventilator case,,"6 pieces, trace mucosa up to ~0.25mm",colon_transverse
+GTEX-1AX8Y-1826,Colon - Transverse,GTEX-1AX8Y,male,40-49,Ventilator case,,"6 pieces; muscularis and submucosa, no mucosa (also target)",colon_transverse
+GTEX-1AX8Z-2726,Colon - Transverse,GTEX-1AX8Z,male,60-69,Ventilator case,,"6 pieces; submucosa & muscularis propria on all, no mucosa",colon_transverse
+GTEX-1AX9I-2626,Colon - Transverse,GTEX-1AX9I,male,60-69,Fast death - natural causes,,6 pieces; mucosa largely autolyzed; muscularis intact,colon_transverse
+GTEX-1AX9J-2326,Colon - Transverse,GTEX-1AX9J,male,60-69,Ventilator case,,"6 pieces, focally well-fixed mucosa, 0.3-0.4mm",colon_transverse
+GTEX-1AX9K-1326,Colon - Transverse,GTEX-1AX9K,male,50-59,Ventilator case,,"6 pieces: 3 are all fat, 1 is 80% fat; virtually no mucosa; muscle is present on 2",colon_transverse
+GTEX-1AYCT-1826,Colon - Transverse,GTEX-1AYCT,male,50-59,Ventilator case,,"7 pieces; multiple pieces with variable composition (mucosa only, muscularis only, mucosa and muscularis)",colon_transverse
+GTEX-1AYD5-1726,Colon - Transverse,GTEX-1AYD5,male,50-59,Ventilator case,,"6 pieces; moderately to severely autolyzed mucosa and well preserved muscularis, serositis",colon_transverse
+GTEX-1B8KE-1926,Colon - Transverse,GTEX-1B8KE,male,50-59,Ventilator case,,"6 pieces, well fixed mucosa 0.3-0.4mm thick, ~10% thickness",colon_transverse
+GTEX-1B8KZ-1326,Colon - Transverse,GTEX-1B8KZ,male,50-59,Ventilator case,,6 pieces; autolysis within the most superficial mucosa; otherwise preserved mucosa and muscularis,colon_transverse
+GTEX-1B8L1-2026,Colon - Transverse,GTEX-1B8L1,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa largely sloughed or with advanced autolysis",colon_transverse
+GTEX-1B8SF-2826,Colon - Transverse,GTEX-1B8SF,male,60-69,Fast death - natural causes,,7 pieces; most include both moderately to severely autolyzed mucosa and muscularis,colon_transverse
+GTEX-1B932-2826,Colon - Transverse,GTEX-1B932,female,40-49,Ventilator case,,6 pieces; mildly autolyzed colonic mucosa and well preserved muscularis,colon_transverse
+GTEX-1B933-2726,Colon - Transverse,GTEX-1B933,female,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~0.5mm, totally autolyzed/sloughing",colon_transverse
+GTEX-1B97I-1426,Colon - Transverse,GTEX-1B97I,male,40-49,Ventilator case,,"6 pieces, mucosa up to 0.3mm, totally autolyzed",colon_transverse
+GTEX-1B98T-2826,Colon - Transverse,GTEX-1B98T,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.2mm, total glandular autolysis/sloughing",colon_transverse
+GTEX-1B996-2626,Colon - Transverse,GTEX-1B996,male,60-69,Fast death - natural causes,,6 pieces; moderate to severe mucosal autolysis; few pieces contain small fragments of muscularis (outlined),colon_transverse
+GTEX-1BAJH-2326,Colon - Transverse,GTEX-1BAJH,male,70-79,Fast death - natural causes,,"6 pieces; autolyzed colonic epithelium, preserved muscularis and up to 50% external fat",colon_transverse
+GTEX-1C2JI-1626,Colon - Transverse,GTEX-1C2JI,male,50-59,Ventilator case,,"6 pieces; fragments of muscularis with some, largely autolyzed, residual mucosa",colon_transverse
+GTEX-1C475-1626,Colon - Transverse,GTEX-1C475,female,40-49,Ventilator case,,6 pieces; predominantly mucosa and submucosa only with small portion of muscularis in 2 pieces,colon_transverse
+GTEX-1C4CL-2126,Colon - Transverse,GTEX-1C4CL,male,30-39,Ventilator case,,"6 pieces, mucosa up to ~0.3mm, moderately autolyzed",colon_transverse
+GTEX-1C64N-2326,Colon - Transverse,GTEX-1C64N,male,50-59,Fast death - natural causes,,"6 pieces; few include autolyzed mucosa (outlined), muscularis is better preserved",colon_transverse
+GTEX-1C64O-2326,Colon - Transverse,GTEX-1C64O,male,60-69,Ventilator case,,"6 pieces, mucosa fairly well preserved, up to ~0.3-0.4mm",colon_transverse
+GTEX-1C6VQ-2726,Colon - Transverse,GTEX-1C6VQ,male,50-59,Fast death - natural causes,,"6 pieces; autolyzed mucosa, muscularis is better preserved",colon_transverse
+GTEX-1C6VR-1726,Colon - Transverse,GTEX-1C6VR,male,60-69,Fast death - natural causes,,"6 pieces, mucosa completely autolyzed",colon_transverse
+GTEX-1C6VS-2726,Colon - Transverse,GTEX-1C6VS,male,60-69,Fast death - natural causes,,6 pieces; severely  autolyzed mucosa and preserved focal thin layer of muscularis on 3 of 6 sections (arrows),colon_transverse
+GTEX-1C6WA-2726,Colon - Transverse,GTEX-1C6WA,male,60-69,Fast death - natural causes,,"6 pieces; glands largely autolyzed, muscle intact",colon_transverse
+GTEX-1CAMQ-1926,Colon - Transverse,GTEX-1CAMQ,male,40-49,Fast death - natural causes,,6 pieces; autolyzed mucosa and preserved muscularis on 3 of 6 samples (arrows),colon_transverse
+GTEX-1CAMR-0926,Colon - Transverse,GTEX-1CAMR,male,20-29,Ventilator case,,"6 pieces, mucosa well- preserved up to ~0.5-1mm",colon_transverse
+GTEX-1CAMS-2526,Colon - Transverse,GTEX-1CAMS,female,40-49,Ventilator case,,6 pieces; grade 1 to 2 autolysed colonic mucosa; irregularly distributed lymphoid aggregates; 3 of 6 samples contain muscularis (outlined),colon_transverse
+GTEX-1CAV2-1826,Colon - Transverse,GTEX-1CAV2,female,40-49,Fast death - natural causes,,6 pieces; mucosal autolysis varies from moderate to severe; muscularis well preserved,colon_transverse
+GTEX-1CB4E-1526,Colon - Transverse,GTEX-1CB4E,male,60-69,Ventilator case,,"6 pieces; contains only muscularis propria and submucosa, NO mucosa present",colon_transverse
+GTEX-1CB4F-2026,Colon - Transverse,GTEX-1CB4F,male,60-69,Ventilator case,"macrophages, pigment","6 pieces; variably autolyzed mucosa with some melanosis coli/pigmented macrophages, muscularis also present",colon_transverse
+GTEX-1CB4G-2826,Colon - Transverse,GTEX-1CB4G,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa with advanced glandular autolysis, up to ~0.3mm thick",colon_transverse
+GTEX-1CB4H-2126,Colon - Transverse,GTEX-1CB4H,female,60-69,Slow death,,"6 pieces; glands totally autolyzed, remainder of wall intact",colon_transverse
+GTEX-1CB4I-2226,Colon - Transverse,GTEX-1CB4I,male,50-59,Ventilator case,,"6 pieces; mucosa autolyzed, muscle intact",colon_transverse
+GTEX-1CB4J-2726,Colon - Transverse,GTEX-1CB4J,male,60-69,Intermediate death,,"6 pieces, mucosa with advanced autolysis, largely sloughed",colon_transverse
+GTEX-1E1VI-2426,Colon - Transverse,GTEX-1E1VI,male,50-59,Fast death - natural causes,,"6 pieces; severely autolyzed mucosa, small portion of muscularis also present (less autolyzed)",colon_transverse
+GTEX-1E2YA-2626,Colon - Transverse,GTEX-1E2YA,male,50-59,Fast death - natural causes,,"6 pieces, mucusa up to ~0.2mm, completely autolyzed/sloughing",colon_transverse
+GTEX-1EH9U-2026,Colon - Transverse,GTEX-1EH9U,male,60-69,Slow death,,"6 pieces; mucosa autolyzed, muscle intact",colon_transverse
+GTEX-1EKGG-2526,Colon - Transverse,GTEX-1EKGG,male,60-69,Fast death - natural causes,,"6 pieces; mostly autolyzed mucosa, some muscularis",colon_transverse
+GTEX-1EMGI-2726,Colon - Transverse,GTEX-1EMGI,male,60-69,Fast death - natural causes,,"6 pieces, target mucusa with advanced autolysis, largely sloughed",colon_transverse
+GTEX-1EN7A-2626,Colon - Transverse,GTEX-1EN7A,male,40-49,Fast death - natural causes,,"6 pieces; autolyzed mucosa, intact muscularis",colon_transverse
+GTEX-1EU9M-2226,Colon - Transverse,GTEX-1EU9M,male,60-69,Fast death - natural causes,,"6 pieces, mucosa is ~0.3mm, ~40-50% thickness",colon_transverse
+GTEX-1EWIQ-2926,Colon - Transverse,GTEX-1EWIQ,female,70-79,Fast death - natural causes,,"6 pieces; predominantly muscularis, few residual strips of autolyzed mucosa",colon_transverse
+GTEX-1EX96-2026,Colon - Transverse,GTEX-1EX96,male,50-59,Fast death - natural causes,,"6 pieces, target mucosa markedly autolyzed",colon_transverse
+GTEX-1F52S-2626,Colon - Transverse,GTEX-1F52S,female,60-69,Slow death,,6 pieces; totally autolyzed mucosa; intact muscularis,colon_transverse
+GTEX-1F5PK-1926,Colon - Transverse,GTEX-1F5PK,male,50-59,Ventilator case,edema,"6 pieces;  foci of edematous, amyloid-like stroma or fibroelastosis in submucosa of 2 pieces, measuring up to 3x1mm, [labeled] like in sigmoid colon; no sign of amyloid in other tissues",colon_transverse
+GTEX-1F5PL-2126,Colon - Transverse,GTEX-1F5PL,female,40-49,Ventilator case,,"6 pieces, target mucosa up to ~ 0.5mm, ~10-15% thickness",colon_transverse
+GTEX-1F6I4-2626,Colon - Transverse,GTEX-1F6I4,male,60-69,Fast death - natural causes,,6 pieces; autolyzed mucosa and muscularis,colon_transverse
+GTEX-1F6IF-1226,Colon - Transverse,GTEX-1F6IF,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.15mm, glandular mucosa totally autolyzed",colon_transverse
+GTEX-1F6RS-2526,Colon - Transverse,GTEX-1F6RS,female,60-69,Slow death,,6 pieces; mucosa=2-3; muscularis=1-2,colon_transverse
+GTEX-1F75A-2726,Colon - Transverse,GTEX-1F75A,male,50-59,Fast death - natural causes,,"6 pieces glandular mucosa totally autolyzed, partallly sloughed, ~0.1mm",colon_transverse
+GTEX-1F75B-2726,Colon - Transverse,GTEX-1F75B,male,50-59,Slow death,,"6 pieces; severely autolyzed mucosa, moderately autolyzed muscularis",colon_transverse
+GTEX-1F75I-2426,Colon - Transverse,GTEX-1F75I,male,40-49,Ventilator case,hemorrhage,6 pieces; focally moderate autolysis; superficial multifocal mucosal fresh hemorrhage (rep arrows),colon_transverse
+GTEX-1F75W-2226,Colon - Transverse,GTEX-1F75W,male,60-69,Fast death - natural causes,,6 pieces; muscularis and submucosa without mucosa,colon_transverse
+GTEX-1F88E-2226,Colon - Transverse,GTEX-1F88E,female,60-69,Slow death,,"6 pieces,  target mucosa up to ~0.15mm, glandular elements totally autolyzed",colon_transverse
+GTEX-1F88F-1926,Colon - Transverse,GTEX-1F88F,female,60-69,Fast death - natural causes,,"6 pieces; autolyzed mucosa, muscle intact",colon_transverse
+GTEX-1FIGZ-1126,Colon - Transverse,GTEX-1FIGZ,male,40-49,Ventilator case,,6 pieces; 1 of 6 includes portion of muscularis (not target),colon_transverse
+GTEX-1GF9U-1526,Colon - Transverse,GTEX-1GF9U,female,40-49,Ventilator case,,6 pieces; full thickness sections of colon,colon_transverse
+GTEX-1GF9V-2626,Colon - Transverse,GTEX-1GF9V,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.25mm, totally autolyzed",colon_transverse
+GTEX-1GF9W-2426,Colon - Transverse,GTEX-1GF9W,male,60-69,Intermediate death,,6 pieces; predominantly muscularis and submucosa with small fragment of autolyzed mucosa (arrow),colon_transverse
+GTEX-1GF9X-1526,Colon - Transverse,GTEX-1GF9X,female,40-49,Ventilator case,,6 pieces; only 2 have full thickness; 4 have mucosa only,colon_transverse
+GTEX-1GL5R-2426,Colon - Transverse,GTEX-1GL5R,male,50-59,Ventilator case,,"6 pieces; mucosa and muscularis, one piece includes ~50% fat, melanosis coli",colon_transverse
+GTEX-1GMR2-1726,Colon - Transverse,GTEX-1GMR2,male,50-59,Ventilator case,,"2 pieces; muscularis and submucosa, no mucosa [could be used to compare to sigmoid colon]",colon_transverse
+GTEX-1GMR3-2826,Colon - Transverse,GTEX-1GMR3,male,40-49,Ventilator case,,"6 pieces, target mucosa is ~0.5mm, ~20% thickness; deeper (basal) mucosa better preserved (score 1)",colon_transverse
+GTEX-1GMR8-2826,Colon - Transverse,GTEX-1GMR8,female,50-59,Intermediate death,,6 pieces; mucosa autolyzed (3); muscularis intact,colon_transverse
+GTEX-1GMRU-2826,Colon - Transverse,GTEX-1GMRU,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~0.4mm, ~20% thickness",colon_transverse
+GTEX-1GN1U-2726,Colon - Transverse,GTEX-1GN1U,female,50-59,Slow death,,"6 pieces, mucosa ~50% sloughed",colon_transverse
+GTEX-1GN1V-2526,Colon - Transverse,GTEX-1GN1V,male,60-69,Fast death - natural causes,,"6 pieces; full thickness, autolyzed",colon_transverse
+GTEX-1GN1W-1726,Colon - Transverse,GTEX-1GN1W,female,50-59,Ventilator case,,"6 pieces; muscularis only, no mucosa",colon_transverse
+GTEX-1GN2E-2626,Colon - Transverse,GTEX-1GN2E,male,60-69,Fast death - natural causes,,"6 pieces, glandular mucoca with advanced autolysis, partially sloughing, up to ~0.4mm",colon_transverse
+GTEX-1GN73-2626,Colon - Transverse,GTEX-1GN73,male,60-69,Fast death - natural causes,,"6 pieces; largely autolyzed mucosa, intact muscularis",colon_transverse
+GTEX-1GPI7-1726,Colon - Transverse,GTEX-1GPI7,male,20-29,Ventilator case,,6 pieces; muscularis (target is full thickness) - can be compared to sigmoid colon specimen,colon_transverse
+GTEX-1GTWX-2326,Colon - Transverse,GTEX-1GTWX,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa with moderate-marked glandular autolysis",colon_transverse
+GTEX-1GZ2Q-2726,Colon - Transverse,GTEX-1GZ2Q,male,40-49,Fast death - natural causes,,"6 pieces; autolyzed mucosa with a few scattered lymphoid aggregates (outlined) and trace of preserved muscularis (arrows), largely fat/submucosa",colon_transverse
+GTEX-1GZ4H-1226,Colon - Transverse,GTEX-1GZ4H,female,50-59,Ventilator case,,"6 pieces; no mucosa, only muscularis propria",colon_transverse
+GTEX-1GZ4I-2426,Colon - Transverse,GTEX-1GZ4I,male,50-59,Fast death - natural causes,,"6 pieces; mucosa autolyzed, muscle intact",colon_transverse
+GTEX-1GZHY-2626,Colon - Transverse,GTEX-1GZHY,female,50-59,Fast death - violent,,"6 pieces, glandulare mucosa totally atuolyzed",colon_transverse
+GTEX-1H11D-2626,Colon - Transverse,GTEX-1H11D,male,40-49,Ventilator case,,6 pieces; full thickness sections,colon_transverse
+GTEX-1H1CY-1726,Colon - Transverse,GTEX-1H1CY,female,60-69,Fast death - natural causes,,6 pieces; mucosa autolyzed or absent; muscle intact,colon_transverse
+GTEX-1H1DE-1526,Colon - Transverse,GTEX-1H1DE,male,20-29,Ventilator case,,"6 pieces, glandular mucosa up to ~0.2mm, partially sloughing",colon_transverse
+GTEX-1H1DF-2526,Colon - Transverse,GTEX-1H1DF,female,40-49,Fast death - natural causes,,6 pieces; mucosa severely autolyzed; muscle moderately,colon_transverse
+GTEX-1H1DG-2226,Colon - Transverse,GTEX-1H1DG,male,70-79,Ventilator case,,"6 pieces, mucosa ~0.4mm, ~30% thickness, advanced glandular autolysis",colon_transverse
+GTEX-1H1E6-1926,Colon - Transverse,GTEX-1H1E6,male,30-39,Ventilator case,,"6 pieces; variable composition of mucosa, submucosa, muscularis",colon_transverse
+GTEX-1H1ZS-2326,Colon - Transverse,GTEX-1H1ZS,male,70-79,Slow death,,"6 pieces, mcuosa up to ~0.2mm, sloughing; glandular elements of mucosa totally autolyzed.",colon_transverse
+GTEX-1H23P-2426,Colon - Transverse,GTEX-1H23P,male,60-69,Slow death,,"6 pieces; mucosa severely autolyzed, muscle moderately autolyzed",colon_transverse
+GTEX-1H2FU-2726,Colon - Transverse,GTEX-1H2FU,female,60-69,Slow death,,"6 pieces; full thickness sections, mucosa is moderately autolyzed",colon_transverse
+GTEX-1H3NZ-2326,Colon - Transverse,GTEX-1H3NZ,male,60-69,Slow death,,6 pieces; mucosa mostly autolysis=3; muscle =1,colon_transverse
+GTEX-1H3VE-2426,Colon - Transverse,GTEX-1H3VE,male,40-49,Slow death,,6 pieces; severly autolyzed colonic mucosa and mildly to moderately autolyzed muscularis,colon_transverse
+GTEX-1H3VY-2426,Colon - Transverse,GTEX-1H3VY,male,50-59,Ventilator case,,6 pieces; full thickness sections,colon_transverse
+GTEX-1H4P4-1226,Colon - Transverse,GTEX-1H4P4,male,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa autolyzed (3), muscularis (2)",colon_transverse
+GTEX-1HB9E-2426,Colon - Transverse,GTEX-1HB9E,male,50-59,Fast death - natural causes,,"6 pieces, mucosa up to ~0.2mm, advanced autolysis/sloughing",colon_transverse
+GTEX-1HBPH-2326,Colon - Transverse,GTEX-1HBPH,female,40-49,Slow death,,"6 pieces; mucosa severely autolyzed, muscularis intact; probable Lewy bodies (arrowed) in ganglion cells",colon_transverse
+GTEX-1HBPI-2426,Colon - Transverse,GTEX-1HBPI,male,50-59,Fast death - natural causes,,"6 pieces; mucosa larely autolyzed, muscle intact",colon_transverse
+GTEX-1HBPM-2426,Colon - Transverse,GTEX-1HBPM,female,60-69,Slow death,,"6 pieces; full thickness sections, mucosa largely autolyzed",colon_transverse
+GTEX-1HBPN-1826,Colon - Transverse,GTEX-1HBPN,male,50-59,Ventilator case,,"6 pieces, mucosa up to ~0.3mm, ~40% thickness",colon_transverse
+GTEX-1HC8U-2026,Colon - Transverse,GTEX-1HC8U,female,40-49,Ventilator case,,"6 pieces; all have muscle, but no mucosa",colon_transverse
+GTEX-1HCU6-2726,Colon - Transverse,GTEX-1HCU6,female,60-69,Fast death - natural causes,,6 pieces; mucosa largely autolyzed; muscularis intact,colon_transverse
+GTEX-1HCU7-2626,Colon - Transverse,GTEX-1HCU7,male,50-59,Ventilator case,,"6 pieces; mucosa largely autolyzed, muscularis intact",colon_transverse
+GTEX-1HCU8-2626,Colon - Transverse,GTEX-1HCU8,female,60-69,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.4mm, advanced autolysis",colon_transverse
+GTEX-1HCU9-1326,Colon - Transverse,GTEX-1HCU9,male,20-29,Ventilator case,,6 pieces; all full thickness,colon_transverse
+GTEX-1HCUA-1826,Colon - Transverse,GTEX-1HCUA,female,50-59,Ventilator case,,6 pieces; full thickness sections,colon_transverse
+GTEX-1HCVE-2526,Colon - Transverse,GTEX-1HCVE,male,50-59,Slow death,,"6 pieces, mucosa up to ~-.3mm, advanced autolysis, glandular elements sloughed",colon_transverse
+GTEX-1HFI6-2626,Colon - Transverse,GTEX-1HFI6,male,40-49,Fast death - natural causes,,"6 pieces, mucosa up to ~0.2mm, advanced autolysis, glandular elements sloughed",colon_transverse
+GTEX-1HFI7-1726,Colon - Transverse,GTEX-1HFI7,female,50-59,Ventilator case,,4 pieces; partially autolyzed mucosa,colon_transverse
+GTEX-1HGF4-2126,Colon - Transverse,GTEX-1HGF4,male,60-69,Fast death - natural causes,,"6 pieces; mucosa autolyzed, muscle intact",colon_transverse
+GTEX-1HKZK-2126,Colon - Transverse,GTEX-1HKZK,male,40-49,Ventilator case,,6 pieces; moderately autolyzed mucosa and muscularis,colon_transverse
+GTEX-1HR98-2526,Colon - Transverse,GTEX-1HR98,male,60-69,Slow death,,6 pieces; no mucosa; could be used to compare with sigmoid colon,colon_transverse
+GTEX-1HR9M-1726,Colon - Transverse,GTEX-1HR9M,male,60-69,Slow death,fibrosis,"6 pieces; mucossa completely autolyzed; muscle intact, but with patchy fibrosis",colon_transverse
+GTEX-1HSEH-1726,Colon - Transverse,GTEX-1HSEH,male,60-69,Ventilator case,,"6 pieces, mucosa up to ~0.3mm, 10-20% thickness",colon_transverse
+GTEX-1HSGN-2626,Colon - Transverse,GTEX-1HSGN,female,40-49,Ventilator case,,"6 pieces, mucosa up to ~0.4mm, partially sloughed",colon_transverse
+GTEX-1HSKV-2226,Colon - Transverse,GTEX-1HSKV,male,60-69,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa (3), muscularis (2)",colon_transverse
+GTEX-1HSMO-2726,Colon - Transverse,GTEX-1HSMO,male,60-69,Intermediate death,,"6  pieces; mucosa severely autolyzed, muscle intact",colon_transverse
+GTEX-1HSMP-2326,Colon - Transverse,GTEX-1HSMP,male,70-79,Ventilator case,,"6 pieces, mucosa up to ~0.4mm, glandular mucosa with advanced autolysis/sloughing",colon_transverse
+GTEX-1HSMQ-2726,Colon - Transverse,GTEX-1HSMQ,male,50-59,Ventilator case,,"6 pieces; full thickness sections, mucosa is moderately autolyzed",colon_transverse
+GTEX-1HT8W-2426,Colon - Transverse,GTEX-1HT8W,male,30-39,Fast death - natural causes,,"6 pieces, mucosa with advance autolysis, partially sloughed",colon_transverse
+GTEX-1HUB1-2626,Colon - Transverse,GTEX-1HUB1,male,60-69,Ventilator case,,"6 pieces; autolyzed mucosa, intact muscle",colon_transverse
+GTEX-1I19N-2626,Colon - Transverse,GTEX-1I19N,male,70-79,Slow death,,6 pieces; markedly autolyzed mucosa (3) and muscularis (2) with attached fat up to 40% in 3 pieces (outlined),colon_transverse
+GTEX-1I1CD-2626,Colon - Transverse,GTEX-1I1CD,female,60-69,Slow death,,"6 pieces; full thickness, mucosa autolyzed",colon_transverse
+GTEX-1I1GP-2726,Colon - Transverse,GTEX-1I1GP,male,50-59,Fast death - natural causes,,"6 pieces target mucosa up to ~0.35mm, variably moderately autolyzed, ~30% thickness",colon_transverse
+GTEX-1I1GQ-2426,Colon - Transverse,GTEX-1I1GQ,male,50-59,Fast death - natural causes,congestion,6 pieces; moderate to severe mucosal autolysis; congestion; preserved muscularis; two lymphoid aggregates (outlined),colon_transverse
+GTEX-1I1GR-2526,Colon - Transverse,GTEX-1I1GR,male,60-69,Fast death - natural causes,,"6 pieces, target  mucosa is ~0.5mm, ~15-20% thickness",colon_transverse
+GTEX-1I1GS-2926,Colon - Transverse,GTEX-1I1GS,male,60-69,Slow death,,"6 pieces, mucosa with advanced autolysis/sloughing",colon_transverse
+GTEX-1I1GT-1926,Colon - Transverse,GTEX-1I1GT,female,60-69,Ventilator case,,"6 pieces; full thickness colon, mild melanosis, mucosa more autolyzed than muscularis",colon_transverse
+GTEX-1I1GU-1726,Colon - Transverse,GTEX-1I1GU,male,40-49,Ventilator case,,"6 pieces; all with muscularis propria, 2 with minute [1mm] pieces of mucosa",colon_transverse
+GTEX-1I1GV-2726,Colon - Transverse,GTEX-1I1GV,male,60-69,Fast death - natural causes,,"6 pieces, glandular mucosa up to ~0.3mm, but totally autolyzed/sloughed",colon_transverse
+GTEX-1I1HK-1726,Colon - Transverse,GTEX-1I1HK,male,60-69,Intermediate death,,"6 pieces; mucosa is entirely autolyzed, muscularis better preserved",colon_transverse
+GTEX-1I4MK-1126,Colon - Transverse,GTEX-1I4MK,female,50-59,Ventilator case,,"6 pieces, 1 without mucosa",colon_transverse
+GTEX-1I6K6-1826,Colon - Transverse,GTEX-1I6K6,male,30-39,Ventilator case,,"6 pieces; full thickness sections, mild to moderate mucosal autolysis",colon_transverse
+GTEX-1I6K7-2026,Colon - Transverse,GTEX-1I6K7,male,40-49,Ventilator case,,6 pieces; muscularis and fat without significant amount of mucosa,colon_transverse
+GTEX-1ICG6-2326,Colon - Transverse,GTEX-1ICG6,female,70-79,Ventilator case,,6 pieces; duodenum not colon,colon_transverse
+GTEX-1ICLY-2626,Colon - Transverse,GTEX-1ICLY,male,50-59,Ventilator case,,"6 pieces, mucosa up to ~0.3mm, autolysis advanced, partially sloughed",colon_transverse
+GTEX-1ICLZ-2426,Colon - Transverse,GTEX-1ICLZ,male,60-69,Intermediate death,,"6 pieces; mucosa autolyzed, muscularis intact",colon_transverse
+GTEX-1IDFM-2526,Colon - Transverse,GTEX-1IDFM,male,60-69,Slow death,,"6 pieces; full thickness, mucosa is largely autolyzed",colon_transverse
+GTEX-1IDJC-1326,Colon - Transverse,GTEX-1IDJC,male,50-59,Ventilator case,,"6 pieces, mucosa up to ~0.35mm, 10-15% thickness",colon_transverse
+GTEX-1IDJD-2226,Colon - Transverse,GTEX-1IDJD,male,30-39,Ventilator case,,6 pieces; advanced autolysis of mucosa and preserved muscularis,colon_transverse
+GTEX-1IDJE-1926,Colon - Transverse,GTEX-1IDJE,female,50-59,Ventilator case,,6 pieces; all are full thickness,colon_transverse
+GTEX-1IDJF-1826,Colon - Transverse,GTEX-1IDJF,male,20-29,Ventilator case,,6 pieces: none have mucosa; could be used to compare muscularis with other mucosa-free samples,colon_transverse
+GTEX-1IDJH-2726,Colon - Transverse,GTEX-1IDJH,male,70-79,Fast death - violent,,"6 pieces, target mucosa up to ~0.35mm, advanced autolysis",colon_transverse
+GTEX-1IDJI-2326,Colon - Transverse,GTEX-1IDJI,female,50-59,Ventilator case,,6 pieces; full thickness sections,colon_transverse
+GTEX-1IDJU-2026,Colon - Transverse,GTEX-1IDJU,female,60-69,Ventilator case,,6 pieces; well preserved mucosa; thick submucosa up to 1.6 mm,colon_transverse
+GTEX-1IDJV-2726,Colon - Transverse,GTEX-1IDJV,male,60-69,Intermediate death,,"6 pieces, target mucosa dimly present, <0.1mm, laregly autolyzed/sloughed",colon_transverse
+GTEX-1IE54-2426,Colon - Transverse,GTEX-1IE54,female,40-49,Ventilator case,,"6 pieces; full thickness sections, mucosa largely autolyzed, some melanosis coli",colon_transverse
+GTEX-1IGQW-2326,Colon - Transverse,GTEX-1IGQW,male,60-69,Slow death,,"6 pieces, target muscosa up to ~0.3mm, 10-20% thickness, with complete glandular mucosal autolysis, lamina propria intact",colon_transverse
+GTEX-1IKJJ-2426,Colon - Transverse,GTEX-1IKJJ,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa with sloughed mucosal ductal elements, residual lamina propria is ~0.1mm",colon_transverse
+GTEX-1IKK5-2726,Colon - Transverse,GTEX-1IKK5,male,60-69,Fast death - natural causes,,"6 pieces; mucosa severely autolyzed, muscularis intact",colon_transverse
+GTEX-1IKOE-2026,Colon - Transverse,GTEX-1IKOE,female,30-39,Ventilator case,hemorrhage,"6 pieces; mucosa only, some superficial hemorrhage",colon_transverse
+GTEX-1IKOH-2626,Colon - Transverse,GTEX-1IKOH,female,60-69,Fast death - natural causes,,"6 piece, glandular mucosa completely autolyzed; lamina prpria remnants are ~0.25mm",colon_transverse
+GTEX-1IL2U-2426,Colon - Transverse,GTEX-1IL2U,male,60-69,Fast death - natural causes,congestion,6 pieces; moderate to severe mucosal autolysis; congestion; preserved muscularis,colon_transverse
+GTEX-1IL2V-2526,Colon - Transverse,GTEX-1IL2V,male,70-79,Fast death - natural causes,,"6 pieces, mucosa up to ~0.25mm, glandular elements sloughing",colon_transverse
+GTEX-1IOXB-2626,Colon - Transverse,GTEX-1IOXB,male,50-59,Fast death - natural causes,,"6 pieces; mucosa severely autolyzed, muscularis intact",colon_transverse
+GTEX-1IY9M-2126,Colon - Transverse,GTEX-1IY9M,male,60-69,Fast death - violent,,6 pieces; severly autolyzed mucosa and preserved muscularis,colon_transverse
+GTEX-1J1OQ-2726,Colon - Transverse,GTEX-1J1OQ,female,40-49,Slow death,,"6 pieces, mucoa up to ~0.25mm, glandular elements completely autolyzed, partially sloughing",colon_transverse
+GTEX-1J1R8-1126,Colon - Transverse,GTEX-1J1R8,male,40-49,Ventilator case,,"3 pieces, fragmented.  Well preserved mucosa up to ~0.4mm",colon_transverse
+GTEX-1J8EW-2326,Colon - Transverse,GTEX-1J8EW,female,60-69,Fast death - natural causes,,6 pieces; mucosa severely autolyzed; muscularis intact,colon_transverse
+GTEX-1J8JJ-2326,Colon - Transverse,GTEX-1J8JJ,female,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.3mm, but with advanced autolysis, loss of glandular elements",colon_transverse
+GTEX-1J8Q2-2426,Colon - Transverse,GTEX-1J8Q2,male,60-69,Intermediate death,,"6 pieces; mucosa largely autolyzed, muscularis better preserved",colon_transverse
+GTEX-1J8Q3-2326,Colon - Transverse,GTEX-1J8Q3,male,60-69,Ventilator case,,6 pieces; well preserved and dissected,colon_transverse
+GTEX-1J8QM-1426,Colon - Transverse,GTEX-1J8QM,female,60-69,Ventilator case,,"6 pieces; mucosa, submucosa, muscularis (variable in composition)",colon_transverse
+GTEX-1JJ6O-2426,Colon - Transverse,GTEX-1JJ6O,male,60-69,Slow death,,"6 pieces; full thickness sections, mucosa largely autolyzed",colon_transverse
+GTEX-1JJE9-2426,Colon - Transverse,GTEX-1JJE9,male,70-79,Intermediate death,,6 pieces; autolyzed mucosa; intact muscularis,colon_transverse
+GTEX-1JJEA-2626,Colon - Transverse,GTEX-1JJEA,male,60-69,Fast death - natural causes,,"6 pieces, mucosa up to ~0.3mm, advanced glandular autolysis",colon_transverse
+GTEX-1JK1U-1526,Colon - Transverse,GTEX-1JK1U,male,60-69,Ventilator case,,"6 pieces, well preserved mucosa up to ~0.25mm",colon_transverse
+GTEX-1JKYN-2326,Colon - Transverse,GTEX-1JKYN,male,30-39,Ventilator case,,"6 pieces; variable representation of mucosa/submucosa/muscularis, small amount of adherent mucus",colon_transverse
+GTEX-1JKYR-1926,Colon - Transverse,GTEX-1JKYR,male,20-29,Ventilator case,,6 pieces; well preserved; abundant mucus in  lumen,colon_transverse
+GTEX-1JMLX-2726,Colon - Transverse,GTEX-1JMLX,male,50-59,Fast death - natural causes,,6 pieces; mucosa severely autolyzed; muscle intact,colon_transverse
+GTEX-1JMOU-2426,Colon - Transverse,GTEX-1JMOU,female,60-69,Slow death,,"6 pieces, mucosa up to ~0.3mm, advanced autolysis",colon_transverse
+GTEX-1JMPY-0426,Colon - Transverse,GTEX-1JMPY,male,30-39,Ventilator case,,6 pieces; full thickness sections,colon_transverse
+GTEX-1JMPZ-2426,Colon - Transverse,GTEX-1JMPZ,male,30-39,Slow death,atrophy,"6 pieces; mucosa autolyzed, muscle intact; pericolonic fat is atrophic as in omentum",colon_transverse
+GTEX-1JMQI-1326,Colon - Transverse,GTEX-1JMQI,male,50-59,Ventilator case,,"6 pieces; mucosa, submucosa, muscularis",colon_transverse
+GTEX-1JMQJ-2826,Colon - Transverse,GTEX-1JMQJ,male,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa autolyzed, residual attached fat (10-30%)",colon_transverse
+GTEX-1JMQK-2526,Colon - Transverse,GTEX-1JMQK,male,60-69,Ventilator case,,"6 pieces; mucosa totaly autolyzed, muscularis intact",colon_transverse
+GTEX-1JMQL-2426,Colon - Transverse,GTEX-1JMQL,female,50-59,Ventilator case,,"6 pieces, target mucosa up to ~0.25mm, advanced autolysis with epithelial mucosa largely sloughed",colon_transverse
+GTEX-1JN1M-2626,Colon - Transverse,GTEX-1JN1M,female,60-69,Ventilator case,,"6 pieces, mucosa with advanced autolysis, largely sloughed",colon_transverse
+GTEX-1JN6P-1926,Colon - Transverse,GTEX-1JN6P,male,60-69,Ventilator case,,"6  pieces; mucosa totally autolyzed, muscle intact",colon_transverse
+GTEX-1JN76-1226,Colon - Transverse,GTEX-1JN76,female,20-29,Ventilator case,,6 pieces; all full thickness; well preserved,colon_transverse
+GTEX-1K2DA-2026,Colon - Transverse,GTEX-1K2DA,male,50-59,Ventilator case,,6 pieces; full thickness sections,colon_transverse
+GTEX-1K2DU-1926,Colon - Transverse,GTEX-1K2DU,male,20-29,Ventilator case,,6 pieces; mucosa up to 1mm but glandular elements completely sloughed,colon_transverse
+GTEX-1K9T9-2826,Colon - Transverse,GTEX-1K9T9,female,50-59,Ventilator case,,"6 pieces, target mucosa up to ~0.3mm, advanced autolysis, partially sloughed",colon_transverse
+GTEX-1KAFJ-1426,Colon - Transverse,GTEX-1KAFJ,male,50-59,Intermediate death,,"6 pieces; mucosal autolysis varies from moderate to severe, muscularis from slight to moderate",colon_transverse
+GTEX-1KANA-1926,Colon - Transverse,GTEX-1KANA,male,20-29,Ventilator case,,"6 pieces; full thickness sections, focal serositis",colon_transverse
+GTEX-1KANB-1526,Colon - Transverse,GTEX-1KANB,male,50-59,Fast death - natural causes,,"6 pieces, target muscosa up to ~0.6mm, ~5-10% of thickness, glandular elements totally autolyzed",colon_transverse
+GTEX-1KANC-0926,Colon - Transverse,GTEX-1KANC,female,50-59,Ventilator case,,6 pieces; full thickness with some pericolonic fat on 3 pieces,colon_transverse
+GTEX-1KD4Q-2426,Colon - Transverse,GTEX-1KD4Q,male,40-49,Fast death - natural causes,,6 pieces; mucosa autolyzed or sloughed; muscle intact; LCM+,colon_transverse
+GTEX-1KD5A-2026,Colon - Transverse,GTEX-1KD5A,male,50-59,Fast death - natural causes,,"6 pieces; autolyzed small intestine, but no significant lymphoid tissue.",colon_transverse
+GTEX-1KWVE-2526,Colon - Transverse,GTEX-1KWVE,male,30-39,Fast death - violent,,"6 pieces; glands autolyzed, muscle intact",colon_transverse
+GTEX-1KXAM-2126,Colon - Transverse,GTEX-1KXAM,male,60-69,Ventilator case,,"6 pieces, target mucosa up to ~0.5mm, ~10-15% thickness",colon_transverse
+GTEX-1L5NE-2026,Colon - Transverse,GTEX-1L5NE,male,50-59,Ventilator case,,"6 pieces, target mucosa well-preserved, ~10-20% of thickness",colon_transverse
+GTEX-1LB8K-2626,Colon - Transverse,GTEX-1LB8K,male,50-59,Fast death - natural causes,,6 pieces; some mucosal areas are severely autolyzed,colon_transverse
+GTEX-1LBAC-1626,Colon - Transverse,GTEX-1LBAC,male,20-29,Ventilator case,,6 pieces; full thickness sections,colon_transverse
+GTEX-1LC46-1726,Colon - Transverse,GTEX-1LC46,male,30-39,Ventilator case,,"6 pieces; full thickness sections of ileum, no lymphoid tissue",colon_transverse
+GTEX-1LC47-2226,Colon - Transverse,GTEX-1LC47,male,60-69,Intermediate death,,"6 pieces, mucosa up to ~0.3mm, largely sloughed",colon_transverse
+GTEX-1LG7Y-2126,Colon - Transverse,GTEX-1LG7Y,male,50-59,Fast death - natural causes,,"6 pieces, target mucosa up to 0.4mm, ~10% of thickness, moderately advanced autolysis",colon_transverse
+GTEX-1LG7Z-1426,Colon - Transverse,GTEX-1LG7Z,male,30-39,Ventilator case,,6 pieces; all contain mucosa and muscle,colon_transverse
+GTEX-1LGOU-1626,Colon - Transverse,GTEX-1LGOU,female,20-29,Ventilator case,,,colon_transverse
+GTEX-1LGRB-1426,Colon - Transverse,GTEX-1LGRB,female,50-59,Ventilator case,,"6 pieces; 3 are full thickness, 3 are mucosa/submucosa",colon_transverse
+GTEX-1LH75-2126,Colon - Transverse,GTEX-1LH75,female,50-59,Slow death,,"6 pieces, target mucosa up to ~0.4mm, complete glandular mucosal autolysis, remnant lamina propria intact",colon_transverse
+GTEX-1LKK1-2226,Colon - Transverse,GTEX-1LKK1,female,50-59,Slow death,,"6 pieces, mucosa up to ~0.2mm, advanced autolysis",colon_transverse
+GTEX-1LSNL-1726,Colon - Transverse,GTEX-1LSNL,male,50-59,Fast death - natural causes,,"6 pieces target mucosa up to `~0.3mm, glandular component totally autolyzed",colon_transverse
+GTEX-1LSNM-1626,Colon - Transverse,GTEX-1LSNM,male,50-59,Ventilator case,,"6 pieces; 4 are full thickness, 2 are mucosa/submucosa only",colon_transverse
+GTEX-1LSVX-1726,Colon - Transverse,GTEX-1LSVX,male,60-69,Slow death,,"6 pieces; mucosa totally autolyzed, but muscularis intact and could be used to compare with sigmoid [LCM]",colon_transverse
+GTEX-1LVA9-1626,Colon - Transverse,GTEX-1LVA9,male,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa is severely autolyzed, but muscularis is better preserved",colon_transverse
+GTEX-1LVAM-1626,Colon - Transverse,GTEX-1LVAM,female,50-59,Ventilator case,,"6 pieces, target mucosa up to ~0.4mm, ~15% thickness",colon_transverse
+GTEX-1LVAN-2526,Colon - Transverse,GTEX-1LVAN,female,50-59,Ventilator case,,6 pieces; mucosal autolysis varies from slight to severe,colon_transverse
+GTEX-1LVAO-2926,Colon - Transverse,GTEX-1LVAO,male,60-69,Slow death,,6 pieces; 3 have mucosa moderately autolyzed; 3 have mucosa totally autolyzed; muscularis intact in all,colon_transverse
+GTEX-1M4P7-2326,Colon - Transverse,GTEX-1M4P7,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.6mm, advanced autolysis",colon_transverse
+GTEX-1M5QR-2326,Colon - Transverse,GTEX-1M5QR,male,40-49,Ventilator case,,"6 pieces; full thickness, muscularis is better preserved than mucosa",colon_transverse
+GTEX-1MA7W-0626,Colon - Transverse,GTEX-1MA7W,female,20-29,Ventilator case,,"6 pieces, mucosa well preserved, ~0.3mm, ~10-15% thickness",colon_transverse
+GTEX-1MCC2-1626,Colon - Transverse,GTEX-1MCC2,female,30-39,Ventilator case,,6 pieces; mildly to moderately autolyzed target mucosa and well preserved target muscularis,colon_transverse
+GTEX-1MCQQ-1326,Colon - Transverse,GTEX-1MCQQ,male,60-69,Intermediate death,,"6 pieces; mucosa severely autolyzed, muscle moderately autolyzed",colon_transverse
+GTEX-1MCYP-1726,Colon - Transverse,GTEX-1MCYP,female,20-29,Ventilator case,,6 pieces; full thickness sections,colon_transverse
+GTEX-1MGNQ-2026,Colon - Transverse,GTEX-1MGNQ,male,40-49,Ventilator case,,"6 pieces, surface mucosa moderately autolyzed, up to ~0.3mm",colon_transverse
+GTEX-1MJIX-1726,Colon - Transverse,GTEX-1MJIX,male,40-49,Ventilator case,,6 pieces; full thickness,colon_transverse
+GTEX-1MJK2-2826,Colon - Transverse,GTEX-1MJK2,male,50-59,Fast death - natural causes,congestion,6 pieces; severely autolyzed mucosa and preserved muscularis; congestion,colon_transverse
+GTEX-1MJK3-0926,Colon - Transverse,GTEX-1MJK3,male,20-29,Ventilator case,,6 pieces; mucosa with variable states of autolysis,colon_transverse
+GTEX-1MUQO-2626,Colon - Transverse,GTEX-1MUQO,male,60-69,Ventilator case,,"6 pieces, mucosa up to ~0.3 mm, ~1--15% of thickness",colon_transverse
+GTEX-1N2DV-1426,Colon - Transverse,GTEX-1N2DV,male,40-49,Ventilator case,,"6 pieces, well-preserved mucosa up to ~0.35mm, ~10-15% thickness",colon_transverse
+GTEX-1N2DW-2326,Colon - Transverse,GTEX-1N2DW,male,50-59,Fast death - natural causes,,6 pieces; moderately autolyzed mucosa and preserved muscularis;,colon_transverse
+GTEX-1N2EE-2726,Colon - Transverse,GTEX-1N2EE,male,60-69,Fast death - violent,,"6 pieces, target mucosa up to ~0.3mm; advanced glandular autolysis",colon_transverse
+GTEX-1N2EF-1926,Colon - Transverse,GTEX-1N2EF,male,60-69,Intermediate death,,6 pieces; mucosa severely autolyzed; muscularis moderately autolyzed,colon_transverse
+GTEX-1N5O9-2726,Colon - Transverse,GTEX-1N5O9,male,60-69,Fast death - natural causes,congestion,"6 pieces; moderate to severe autolysis of mucosa, preserved muscularis; congestion;",colon_transverse
+GTEX-1N7R6-1926,Colon - Transverse,GTEX-1N7R6,female,20-29,Slow death,,6 pieces; mucosa and muscularis,colon_transverse
+GTEX-1NHNU-2326,Colon - Transverse,GTEX-1NHNU,male,50-59,Ventilator case,,6 pieces; well  preserved mucosa & muscle,colon_transverse
+GTEX-1NSGN-2326,Colon - Transverse,GTEX-1NSGN,male,50-59,Ventilator case,,6 pieces; very focal severe mucosal autolysis; preserved muscularis,colon_transverse
+GTEX-1NT2E-2626,Colon - Transverse,GTEX-1NT2E,female,40-49,Ventilator case,,,colon_transverse
+GTEX-1NUQO-1326,Colon - Transverse,GTEX-1NUQO,female,20-29,Ventilator case,,6 pieces; moderate to severe autolysis of colonic mucosa; muscularis preserved; up to 1.6mm attached serosa,colon_transverse
+GTEX-1NV5F-2226,Colon - Transverse,GTEX-1NV5F,female,60-69,Slow death,,6 pieces; mucosa largely sloughed; muscularis intact,colon_transverse
+GTEX-1NV88-2826,Colon - Transverse,GTEX-1NV88,male,50-59,Slow death,,,colon_transverse
+GTEX-1NV8Z-2726,Colon - Transverse,GTEX-1NV8Z,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.25mm, advanced autolysis, sloughing",colon_transverse
+GTEX-1O97I-2026,Colon - Transverse,GTEX-1O97I,male,60-69,Intermediate death,,6 pieces; mucosa well preserved; 3 pieces have abundant perimuscular fat,colon_transverse
+GTEX-1O9I2-2226,Colon - Transverse,GTEX-1O9I2,male,50-59,Ventilator case,,"6 pieces, target mucosa up to ~0.4mm, glandular elements totally autolyzed",colon_transverse
+GTEX-1OFPY-1926,Colon - Transverse,GTEX-1OFPY,male,60-69,Ventilator case,,6 pieces; well preserved and dissected mucosa and muscularis,colon_transverse
+GTEX-1OJC3-1726,Colon - Transverse,GTEX-1OJC3,male,20-29,Ventilator case,,6 pieces; focal moderate autolysis,colon_transverse
+GTEX-1OJC4-2526,Colon - Transverse,GTEX-1OJC4,female,50-59,Fast death - natural causes,,"6 pieces; full thickness sections, mucosa largely autolyzed",colon_transverse
+GTEX-1OKEX-1226,Colon - Transverse,GTEX-1OKEX,male,60-69,Ventilator case,,"6 piec, target mucosa partially sloughed but well-fixed, up to ~0.4mm",colon_transverse
+GTEX-1OZHM-2426,Colon - Transverse,GTEX-1OZHM,male,40-49,Slow death,,"6 pieces, target mucosa is ~0.25mm, lamina propria only, glandular elements with advanced autolysis",colon_transverse
+GTEX-1P4AB-2726,Colon - Transverse,GTEX-1P4AB,male,50-59,Slow death,,6 pieces; largely sloughed mucosa and fatty submucosa on all,colon_transverse
+GTEX-1PAR6-1626,Colon - Transverse,GTEX-1PAR6,female,30-39,Ventilator case,,,colon_transverse
+GTEX-1PBJI-2626,Colon - Transverse,GTEX-1PBJI,female,20-29,Fast death - violent,,"6 pieces, target muscosa up to ~0.4mm, advanced autolysis, lamina propria elements only",colon_transverse
+GTEX-1PBJJ-2426,Colon - Transverse,GTEX-1PBJJ,male,30-39,Ventilator case,,"6 pieces; mucosa is moderately autolyzed, abundant submucosal fat (up to 50%)",colon_transverse
+GTEX-1PDJ9-2226,Colon - Transverse,GTEX-1PDJ9,male,20-29,Ventilator case,,"6 pieces; mucosa moderately autolyzed, muscularis intact",colon_transverse
+GTEX-1PFEY-1426,Colon - Transverse,GTEX-1PFEY,male,30-39,Ventilator case,,"6 pieces, target muscoa unusually well-preserved,  up to ~0.6mm",colon_transverse
+GTEX-1PIEJ-2026,Colon - Transverse,GTEX-1PIEJ,female,20-29,Ventilator case,,"6 pieces, target mucosa well-preserved, up to ~0.35mm",colon_transverse
+GTEX-1PIGE-1426,Colon - Transverse,GTEX-1PIGE,male,20-29,Ventilator case,,6 pieces; mucosa is main site of mild to moderate autolysis; muscle is intact,colon_transverse
+GTEX-1PIIG-2426,Colon - Transverse,GTEX-1PIIG,male,30-39,Ventilator case,,6 pieces; total autolysis,colon_transverse
+GTEX-1POEN-2026,Colon - Transverse,GTEX-1POEN,female,30-39,Fast death - violent,,"6 pieces, glandular mcuosa up to ~0.6mm; glandular elements totally sloughed, lamina propria only",colon_transverse
+GTEX-1PPGY-2826,Colon - Transverse,GTEX-1PPGY,male,60-69,Fast death - natural causes,,6 pieces; moderately to severely autolyzed mucosa and preserved muscularis,colon_transverse
+GTEX-1PPH6-2426,Colon - Transverse,GTEX-1PPH6,female,60-69,Fast death - natural causes,,"6 pieces; autolyzed mucosa, intact muscularis; abundant adventitial fat",colon_transverse
+GTEX-1PPH7-1826,Colon - Transverse,GTEX-1PPH7,male,40-49,Ventilator case,,6 pieces; all have muscularis propria; minimal mucosa on 4,colon_transverse
+GTEX-1PPH8-2026,Colon - Transverse,GTEX-1PPH8,male,20-29,Ventilator case,,"6 pieces, target mucosa up to ~0.3mm, moderately advanced autolysis",colon_transverse
+GTEX-1PWST-2426,Colon - Transverse,GTEX-1PWST,male,70-79,Slow death,,"6 pieces; target mucosa up to ~0.2mm; glandular elements sloughed, lamina propria remains",colon_transverse
+GTEX-1QAET-2626,Colon - Transverse,GTEX-1QAET,male,50-59,Ventilator case,,6 pieces; mucosa partly autolyzed. muscle intact; well dissected,colon_transverse
+GTEX-1QCLY-1726,Colon - Transverse,GTEX-1QCLY,male,30-39,Ventilator case,,"6 pieces, target mucosa ~0.3mm, moderate-severe advanced autolysis",colon_transverse
+GTEX-1QCLZ-1926,Colon - Transverse,GTEX-1QCLZ,female,60-69,Ventilator case,,6 pieces; mild to moderate autolysis of mucosa; outlined attached serosa and fat,colon_transverse
+GTEX-1QEPI-2426,Colon - Transverse,GTEX-1QEPI,female,60-69,Intermediate death,,6 pieces; 2 have autolyzed mucosa and intact muscularis; 4 have only muscularis; could be used to compare with muscularis of sigmoid,colon_transverse
+GTEX-1QL29-1926,Colon - Transverse,GTEX-1QL29,male,40-49,Ventilator case,,"6 pieces, target mucosa is ~0.35mm, 10-15%  of thickness",colon_transverse
+GTEX-1QMI2-2626,Colon - Transverse,GTEX-1QMI2,male,60-69,Fast death - natural causes,,"6 pieces, target mucosa up to ~0.4mm, ~20-25% thickness.  Glandular elements sloughed, lamina propria only",colon_transverse
+GTEX-1QP28-2326,Colon - Transverse,GTEX-1QP28,female,50-59,Ventilator case,,"6 pieces, target mucosa up to ~0.5mm, ~10% of thickness",colon_transverse
+GTEX-1QP29-2426,Colon - Transverse,GTEX-1QP29,male,50-59,Ventilator case,,6 pieces; well preserved colonic mucosa and muscularis and lymphoid aggregates (outlined),colon_transverse
+GTEX-1QP2A-2326,Colon - Transverse,GTEX-1QP2A,male,50-59,Ventilator case,,6 pieces; 4 have no mucosa,colon_transverse
+GTEX-1QP66-0926,Colon - Transverse,GTEX-1QP66,male,50-59,Ventilator case,,6 pieces; moderately autolyzed mucosa and well preserved lymphoid aggregates and muscularis,colon_transverse
+GTEX-1QP67-1326,Colon - Transverse,GTEX-1QP67,female,40-49,Ventilator case,,"6 pieces, fragmented, target mucosa (rep encircled) well-fixed, up to ~0.5mm",colon_transverse
+GTEX-1QP6S-2626,Colon - Transverse,GTEX-1QP6S,male,40-49,Fast death - natural causes,congestion,6 pieces; moderate to severe mucosal  autolysis; preserved muscularis; congested serosa,colon_transverse
+GTEX-1QP9N-1026,Colon - Transverse,GTEX-1QP9N,male,30-39,Ventilator case,,6 pieces; full thickness with focal excess of fatty adventitia,colon_transverse
+GTEX-1QPFJ-2326,Colon - Transverse,GTEX-1QPFJ,female,30-39,Ventilator case,,"6 pieces; mucosa moderate autolysis, muscularis slight autolysis; 1 has no mucosa",colon_transverse
+GTEX-1QW4Y-1326,Colon - Transverse,GTEX-1QW4Y,male,30-39,Ventilator case,,"6 pieces, target mucosa well-fixed, partially stripped, 0.4mm, ~10-20% of thickness",colon_transverse
+GTEX-1R46S-2826,Colon - Transverse,GTEX-1R46S,female,60-69,Slow death,,"6 pieces, target mucosa up to ~0.5mm, lamina propria only, glandular elements completely autolyzed/sloughed",colon_transverse
+GTEX-1R7EU-1926,Colon - Transverse,GTEX-1R7EU,male,60-69,Ventilator case,,6 pieces; mildly autolyzed mucosa and preserved muscularis,colon_transverse
+GTEX-1R7EV-1326,Colon - Transverse,GTEX-1R7EV,male,40-49,Ventilator case,,5 pieces; only tiny  unattached fragment of colonic mucosa; mainly muscularis,colon_transverse
+GTEX-1R9JW-2026,Colon - Transverse,GTEX-1R9JW,female,30-39,Ventilator case,,"6 pieces, target mucosa well- fixed, up to ~0.5mm, ~10-80% thickness",colon_transverse
+GTEX-1R9K4-2226,Colon - Transverse,GTEX-1R9K4,male,60-69,Ventilator case,,6 pieces; moderate to severe mucosal autolysis and preserved muscularis,colon_transverse
+GTEX-1R9K5-2126,Colon - Transverse,GTEX-1R9K5,male,50-59,Ventilator case,,"6 pieces, mucosa up to ~0.5mm-variably fixed, mainly score 1, focal areas score 2 with gland sloughing",colon_transverse
+GTEX-1R9PM-1526,Colon - Transverse,GTEX-1R9PM,male,20-29,Ventilator case,,"6 pieces, target mucosa up to ~0.4mm, 15-20% thickness",colon_transverse
+GTEX-1R9PN-1426,Colon - Transverse,GTEX-1R9PN,female,40-49,Ventilator case,,6 pieces; 2 without muscularis,colon_transverse
+GTEX-1R9PO-1926,Colon - Transverse,GTEX-1R9PO,female,60-69,Intermediate death,congestion,3 pieces; moderately autolyzed colonic mucosa and preserved muscularis; congestion,colon_transverse
+GTEX-1RAZA-1726,Colon - Transverse,GTEX-1RAZA,male,20-29,Ventilator case,,6 pieces; target mucosa and muscularis present,colon_transverse
+GTEX-1RAZQ-2126,Colon - Transverse,GTEX-1RAZQ,male,30-39,Ventilator case,,"6 pieces, target mucosa with moderately advanced autolysis, up to ~0.4mm, ~10-20% thickness",colon_transverse
+GTEX-1RAZR-1926,Colon - Transverse,GTEX-1RAZR,male,40-49,Ventilator case,,5 pieces; well dissected full thickness,colon_transverse
+GTEX-1RAZS-1826,Colon - Transverse,GTEX-1RAZS,male,50-59,Intermediate death,,6 pieces; moderate to severe mucosal autolysis and preserved muscularis,colon_transverse
+GTEX-1RB15-1526,Colon - Transverse,GTEX-1RB15,male,60-69,Ventilator case,,"6 pieces, small bowel, no lymphoid aggregates, not c/w terminal ileum",colon_transverse
+GTEX-1RDX4-1826,Colon - Transverse,GTEX-1RDX4,female,50-59,Intermediate death,,"6 pieces; 3 with full mucosa, 3 with minimal mucosa; muscle better preserved; full muscle on 5, scraps on 1",colon_transverse
+GTEX-1RLM8-1526,Colon - Transverse,GTEX-1RLM8,male,50-59,Slow death,,,colon_transverse
+GTEX-1RMOY-1626,Colon - Transverse,GTEX-1RMOY,male,50-59,Ventilator case,,6 pieces; target muscularis (outlined); 3 pieces with colonic mucosa (arrows),colon_transverse
+GTEX-1RNSC-2726,Colon - Transverse,GTEX-1RNSC,male,60-69,Slow death,,"6 pieces, target mucosa up to ~0.2mm, advanced autolysis with vesitigal lamina propria only",colon_transverse
+GTEX-1RNTQ-1926,Colon - Transverse,GTEX-1RNTQ,female,20-29,Ventilator case,,6 pieces; moderate to severe autolysis of colonic mucosa; preserved muscularis,colon_transverse
+GTEX-1RQEC-2726,Colon - Transverse,GTEX-1RQEC,male,60-69,Fast death - natural causes,,,colon_transverse
+GTEX-1RQED-2626,Colon - Transverse,GTEX-1RQED,male,60-69,Intermediate death,,"6 pieces, target mucosa up to ~0.25mm, advanced autolysis, glandular elements sloughed, lamina propria remnants present",colon_transverse
+GTEX-1S3DN-1826,Colon - Transverse,GTEX-1S3DN,male,50-59,Ventilator case,,"6 pieces, target mucosa up to ~0.3mm, advanced autolysis",colon_transverse
+GTEX-1S5VW-2926,Colon - Transverse,GTEX-1S5VW,male,60-69,Intermediate death,,"4 pieces, mucosa up to ~0.6mm, glandular mucosa autolyzed, mainly lamina propria",colon_transverse
+GTEX-1S5ZA-1526,Colon - Transverse,GTEX-1S5ZA,male,20-29,Ventilator case,,"6 pieces, target mucosa up to ~0.4mm, ~10% thickness",colon_transverse
+GTEX-1S5ZU-2226,Colon - Transverse,GTEX-1S5ZU,female,20-29,Ventilator case,,6 pieces; mucosa autolyzed on all; muscularis intact,colon_transverse
+GTEX-1S82P-1926,Colon - Transverse,GTEX-1S82P,female,60-69,Ventilator case,,6 pieces; mildly autolyzed mucosa and submucosa; muscularis not included,colon_transverse
+GTEX-1S82U-0726,Colon - Transverse,GTEX-1S82U,female,30-39,Ventilator case,,"6 pieces, target mucosa well preserved, up to ~0.5mm, ~10% of thickness in 4/6 sections",colon_transverse
+GTEX-1S82Y-1626,Colon - Transverse,GTEX-1S82Y,male,40-49,Ventilator case,,,colon_transverse
+GTEX-1S82Z-1926,Colon - Transverse,GTEX-1S82Z,female,30-39,Ventilator case,,"6 pieces, fragmented, target mucosa up to ~0.5mm",colon_transverse
+GTEX-1S831-1626,Colon - Transverse,GTEX-1S831,male,20-29,Ventilator case,,7 pieces; mild to moderate autolysis;,colon_transverse
+GTEX-1S83E-1626,Colon - Transverse,GTEX-1S83E,male,40-49,Ventilator case,,6 pieces; mild to moderate mucosal autolysis; muscularis preserved,colon_transverse
+GTEX-N7MS-2025,Colon - Transverse,GTEX-N7MS,male,60-69,Fast death - natural causes,,extensive autolysis in mucosa,colon_transverse
+GTEX-N7MT-0626,Colon - Transverse,GTEX-N7MT,female,60-69,Slow death,,3 pieces 12x3.5 mm;,colon_transverse
+GTEX-NFK9-2026,Colon - Transverse,GTEX-NFK9,male,40-49,Ventilator case,,remarkably well preserved; minimal superficial autolysis,colon_transverse
+GTEX-NL3G-2726,Colon - Transverse,GTEX-NL3G,female,60-69,Fast death - natural causes,,Mucosa completely autolytic; only viable tissue is muscularis propria and adipose,colon_transverse
+GTEX-NL3H-2426,Colon - Transverse,GTEX-NL3H,male,60-69,Intermediate death,,Glands 100% autolyzed; remainder slightly autolyzed,colon_transverse
+GTEX-NL4W-2326,Colon - Transverse,GTEX-NL4W,male,50-59,Slow death,,Glands ~90% autolyzed,colon_transverse
+GTEX-NPJ7-0926,Colon - Transverse,GTEX-NPJ7,female,60-69,Slow death,,Epithelial autolysis ~100% (“score 3”),colon_transverse
+GTEX-NPJ8-1026,Colon - Transverse,GTEX-NPJ8,male,40-49,Slow death,,Epithelium badly autolyzed,colon_transverse
+GTEX-O5YT-1426,Colon - Transverse,GTEX-O5YT,male,20-29,Ventilator case,,sloughed mucosa in 1 of 3 pieces,colon_transverse
+GTEX-O5YU-2026,Colon - Transverse,GTEX-O5YU,male,60-69,Slow death,,considerable glandular autolysis,colon_transverse
+GTEX-O5YV-1726,Colon - Transverse,GTEX-O5YV,female,60-69,Intermediate death,,3 total glandular autolysis,colon_transverse
+GTEX-O5YW-1426,Colon - Transverse,GTEX-O5YW,male,50-59,Ventilator case,,"3 pieces 2.6 mm thick, mucosa 0.4 mm; slight surface autolysis",colon_transverse
+GTEX-OHPJ-1826,Colon - Transverse,GTEX-OHPJ,male,60-69,Ventilator case,,Mucosa remarkably well preserved and is ~10% of total specimen thickness,colon_transverse
+GTEX-OHPK-1426,Colon - Transverse,GTEX-OHPK,female,50-59,Ventilator case,,loss of superficial colonic mucosa,colon_transverse
+GTEX-OHPL-1426,Colon - Transverse,GTEX-OHPL,female,60-69,Ventilator case,,some areas better preserved than others,colon_transverse
+GTEX-OHPM-1426,Colon - Transverse,GTEX-OHPM,male,50-59,Ventilator case,,superficial sloughing.  Mucosa is ~20-23% specimen thickness,colon_transverse
+GTEX-OHPN-2026,Colon - Transverse,GTEX-OHPN,female,60-69,Ventilator case,,Mucosa is ~15--30% of specimen thickness where present; 40-50% is sloughed,colon_transverse
+GTEX-OIZF-1426,Colon - Transverse,GTEX-OIZF,male,60-69,Ventilator case,,Well preserved. Mucosa is 10% wall thickness,colon_transverse
+GTEX-OIZG-1926,Colon - Transverse,GTEX-OIZG,male,50-59,Ventilator case,,1 piece with minimal mucosa; 1 with abundant mucosa,colon_transverse
+GTEX-OIZH-1426,Colon - Transverse,GTEX-OIZH,male,50-59,Ventilator case,,Remarkably well-preserved epithelium and mucosa.   Mucosal thickness ranges from 15-20% of specimen,colon_transverse
+GTEX-OIZI-1726,Colon - Transverse,GTEX-OIZI,male,40-49,Ventilator case,,Severe mucosal autolysis; sparse mucosa,colon_transverse
+GTEX-OOBJ-1426,Colon - Transverse,GTEX-OOBJ,male,60-69,Ventilator case,,"Much of specimen also poorly fixed (adipose portions—separation and fragmenting of sections.  Mucosal thickness averages 150-200 microns, ~ 10% specimen thicknesss",colon_transverse
+GTEX-OOBK-1426,Colon - Transverse,GTEX-OOBK,male,40-49,Ventilator case,,1. 9 x 3mm pieces (3) No mucosa visible(autolyzed or not); request block rotation; r/o embedding issue,colon_transverse
+GTEX-OXRK-1726,Colon - Transverse,GTEX-OXRK,female,50-59,Ventilator case,,Well preserved. Abundant mucosa in 2 pieces; sparse mucosa in 1,colon_transverse
+GTEX-OXRL-1426,Colon - Transverse,GTEX-OXRL,male,50-59,Ventilator case,,2 of 3 with mucosa. 9.6x5.8mm,colon_transverse
+GTEX-OXRN-2026,Colon - Transverse,GTEX-OXRN,male,50-59,Ventilator case,,Severely autolyzed mucosa,colon_transverse
+GTEX-OXRO-0726,Colon - Transverse,GTEX-OXRO,female,60-69,Slow death,,"Mucosa, 1 wall. Three pieces:  9.5x1.9mm. Moderate fracture",colon_transverse
+GTEX-OXRP-2226,Colon - Transverse,GTEX-OXRP,female,60-69,Intermediate death,,"2 pieces, 6x1mm.  Epithelium with near-total autolysis",colon_transverse
+GTEX-P44G-2226,Colon - Transverse,GTEX-P44G,male,30-39,Ventilator case,,3 pieces ave 7.5x1.5mm.  Mucosa ave 15-20% of specimen thickness,colon_transverse
+GTEX-P44H-2126,Colon - Transverse,GTEX-P44H,male,40-49,Slow death,,"3 ~6x4mm pieces.  Mucosa totally autolyzed; only a few remnant gland fragments, about 10% of specimen thickness",colon_transverse
+GTEX-P4PP-1426,Colon - Transverse,GTEX-P4PP,female,30-39,Ventilator case,,"3  ~9x2-2.5mm pieces.  Mucosa well preserved, 10-15% of thickness",colon_transverse
+GTEX-P4PQ-1426,Colon - Transverse,GTEX-P4PQ,male,60-69,Ventilator case,,"6 pieces, none with visible mucosa",colon_transverse
+GTEX-P4QR-2226,Colon - Transverse,GTEX-P4QR,male,60-69,Ventilator case,,"6  ~7x2.5mm pieces. Epithelium totally autolyzed, stroma partially sloughed",colon_transverse
+GTEX-P4QS-1426,Colon - Transverse,GTEX-P4QS,male,60-69,Ventilator case,,"6 pieces   ~7x3mm. Mucosa/epithelium well-preserved, ~10% of thickness",colon_transverse
+GTEX-P4QT-1426,Colon - Transverse,GTEX-P4QT,female,50-59,Ventilator case,,"6 well-preserved pieces, ~7x2mm. Mucosa is ~20-25% thickness. Areas of under-fixation with tears",colon_transverse
+GTEX-P78B-1726,Colon - Transverse,GTEX-P78B,female,40-49,Ventilator case,,"6 pieces, Max 9x2mm. Tissue separation with tears",colon_transverse
+GTEX-PLZ4-2626,Colon - Transverse,GTEX-PLZ4,female,50-59,Ventilator case,,3 (mucosa); 1-2 (muscularis); 6   ~ 6.5x1.5mm pieces.  Epithelium totally autolyzed; mucosa partially sloughed,colon_transverse
+GTEX-PLZ5-1126,Colon - Transverse,GTEX-PLZ5,male,50-59,Ventilator case,,6  ~5-6mm pieces.  Areas of poor fixation.  Mucosa is ~ 10% specimen thickness,colon_transverse
+GTEX-PLZ6-0926,Colon - Transverse,GTEX-PLZ6,male,30-39,Ventilator case,clean_specimens,"4 pieces,  7x2mm. Good mucosal preservation. Tissue separation with tears",colon_transverse
+GTEX-POMQ-1826,Colon - Transverse,GTEX-POMQ,female,20-29,Ventilator case,,"6 pieces, ~6x3.5mm, poorly oriented with only minimal mucosa visible",colon_transverse
+GTEX-POYW-2126,Colon - Transverse,GTEX-POYW,male,60-69,Ventilator case,,"6 pieces, ~7x2.5mm, mucosa totally autolyzed and largely sloughed",colon_transverse
+GTEX-PSDG-1826,Colon - Transverse,GTEX-PSDG,male,50-59,Ventilator case,,"6 pieces, ~10x2.5mm, poorly preserved mucosa",colon_transverse
+GTEX-PVOW-2226,Colon - Transverse,GTEX-PVOW,male,40-49,Fast death - natural causes,,"6 pieces,~7x1.5mm; mucosa poorly preserved",colon_transverse
+GTEX-PW2O-0926,Colon - Transverse,GTEX-PW2O,male,20-29,Ventilator case,,"6  ~4.5x3.5mm pieces; mucosa variably preserved, 5-10% of thickness",colon_transverse
+GTEX-PWCY-1026,Colon - Transverse,GTEX-PWCY,female,20-29,Ventilator case,,"6 pieces, ~6x2 mm; mucosa varies in preservation from good to poor",colon_transverse
+GTEX-PWN1-1426,Colon - Transverse,GTEX-PWN1,female,40-49,Ventilator case,,6 pieces up to ~8x3 mm; mucosa up to 0.4mm,colon_transverse
+GTEX-PWO3-0626,Colon - Transverse,GTEX-PWO3,female,60-69,Slow death,,"6   ~9x2mm pieces.  Mucosa sloughed in >50%; where present, badly autolyzed, score three,   ~10% of thickness.  Areas of poor/under-fixation",colon_transverse
+GTEX-PWOO-1326,Colon - Transverse,GTEX-PWOO,female,40-49,Ventilator case,,6   ~ 8x3.75mm pieces; mucosa is  ~ 5-10% of thickness,colon_transverse
+GTEX-PX3G-1426,Colon - Transverse,GTEX-PX3G,female,20-29,Ventilator case,,"6 pieces, ~6x4 mm; only 2 have abundant mucosa",colon_transverse
+GTEX-Q2AG-2026,Colon - Transverse,GTEX-Q2AG,female,40-49,Fast death - natural causes,,"6 pieces    ~ 8x1.5mm.  Mucosa badly autolyzed, 10-25% of thickness",colon_transverse
+GTEX-Q2AH-1226,Colon - Transverse,GTEX-Q2AH,male,40-49,Ventilator case,"edema, hyperplasia",6 pieces up to 9x3.6 mm; reactive lymphoid hyperplasia; good mucosa; edematous submucosa,colon_transverse
+GTEX-Q2AI-0926,Colon - Transverse,GTEX-Q2AI,male,40-49,Ventilator case,clean_specimens,6 pieces up to 7.5x4 mm; good mucosa,colon_transverse
+GTEX-Q734-1126,Colon - Transverse,GTEX-Q734,female,40-49,Ventilator case,,"6   ~8.5x3m pieces.  Mucosa is well-preserved, ~ 15% of thickness",colon_transverse
+GTEX-QCQG-1626,Colon - Transverse,GTEX-QCQG,female,50-59,Ventilator case,,6 pieces up to ~11x4.7 mm,colon_transverse
+GTEX-QDT8-2126,Colon - Transverse,GTEX-QDT8,female,30-39,Slow death,,6   ~9x1.5mm pieces.  Epithelium totally autolyzed; mucosal stroma is ~10-12% of thickness,colon_transverse
+GTEX-QDVJ-1326,Colon - Transverse,GTEX-QDVJ,male,50-59,Ventilator case,,6 pieces up to 7x3.5mm; 4 have mucosa at this level of sectioning,colon_transverse
+GTEX-QDVN-1326,Colon - Transverse,GTEX-QDVN,male,50-59,Ventilator case,,"6   ~9x3.5mm pieces; mucosa is ~10-12% thickness, only seen in 4 of 6 pieces",colon_transverse
+GTEX-QEG4-1926,Colon - Transverse,GTEX-QEG4,male,30-39,Fast death - violent,,6 ~6x2.5mm pieces. Mucosa is ~10-20% of thickness but epithelial component nearly totally autolyzed.,colon_transverse
+GTEX-QEG5-2226,Colon - Transverse,GTEX-QEG5,male,20-29,Ventilator case,edema,"6 pieces up to 12x3.5 mm; mucosa very autolyzed, muscle slightly autolyzed(1); lymphoid cells preserved; submucosa very edematous",colon_transverse
+GTEX-QEL4-1926,Colon - Transverse,GTEX-QEL4,male,50-59,Intermediate death,,"6    ~ 9x3/5mm pieces. Mucosa generally well-preserved, some autolysis superficially, is  ~10% of thickness",colon_transverse
+GTEX-QESD-1126,Colon - Transverse,GTEX-QESD,male,20-29,Ventilator case,,6 pieces up to 8.7x2.6 mm; mucosa almost completely autolyzed; muscle moderately autolyzed,colon_transverse
+GTEX-QLQ7-1126,Colon - Transverse,GTEX-QLQ7,male,60-69,Ventilator case,,"6   ~8.5x3mm pieces; mucosa is generally well-preserved,   ~ 10% of thickness",colon_transverse
+GTEX-QLQW-0426,Colon - Transverse,GTEX-QLQW,male,30-39,Ventilator case,,6 pieces up to 8x3 mm; ~540um thick mucosa; muscularis propria on 4 pieces,colon_transverse
+GTEX-QMR6-2626,Colon - Transverse,GTEX-QMR6,male,50-59,Slow death,,6   ~9x2mm pieces. Epithelial component of mucosa badly autolyzed; mucosa is ~10% of thickness,colon_transverse
+GTEX-QMRM-1226,Colon - Transverse,GTEX-QMRM,male,50-59,Ventilator case,clean_specimens,6 pieces up to 6.5x3 mm; good mucosal preservation; moderate histologic tissue tears,colon_transverse
+GTEX-QV31-0826,Colon - Transverse,GTEX-QV31,male,30-39,Ventilator case,,"6   ~7.5x3mm pieces; mucosa well-preserved,  ~15-40% of thickness",colon_transverse
+GTEX-QV44-1326,Colon - Transverse,GTEX-QV44,male,50-59,Ventilator case,,6 pieces up to 10.5x4.6 mm; focal tissue tears,colon_transverse
+GTEX-QVJO-2426,Colon - Transverse,GTEX-QVJO,female,60-69,Slow death,,"6   ~8x2mm pieces.  Mucosa totally autolyzed, many have adherent fat/fibrovascular tissue fragments",colon_transverse
+GTEX-QVUS-2426,Colon - Transverse,GTEX-QVUS,female,60-69,Slow death,,"6  ~8.5x1.5mm pieces, epithelial portions of mucosa  with near total total autolysis.",colon_transverse
+GTEX-QXCU-2026,Colon - Transverse,GTEX-QXCU,male,50-59,Fast death - violent,,6     ~8x2mm pieces; mucosa is 10-20% of thickness,colon_transverse
+GTEX-R3RS-2126,Colon - Transverse,GTEX-R3RS,female,40-49,Slow death,,6 pieces up to 8.3x2.6 mm; mucosa completely autolyzed; muscle moderately autolyzed;,colon_transverse
+GTEX-R45C-2126,Colon - Transverse,GTEX-R45C,female,60-69,Ventilator case,,"8 pieces up to 7.4x1.2 mm; mucosa completely autolyzed, muscularis slight to moderate autolysis",colon_transverse
+GTEX-R53T-1326,Colon - Transverse,GTEX-R53T,female,50-59,Ventilator case,,"6 pieces,   ~8x2mm.  Mucosa moderately well preserved,  ~10-15% of thickness",colon_transverse
+GTEX-R55C-1126,Colon - Transverse,GTEX-R55C,male,40-49,Ventilator case,,6 pieces up to 8x5 mm; 5 of 6 have mucosa,colon_transverse
+GTEX-R55D-1826,Colon - Transverse,GTEX-R55D,male,50-59,Ventilator case,,"6 pieces, mucosa less well preserved, 15-20% of thickness",colon_transverse
+GTEX-R55E-2326,Colon - Transverse,GTEX-R55E,male,20-29,Fast death - violent,,6 pieces up to 6.7x2 mm; mucosa almost totally autolyzed; muscle slight to moderate fragmentation,colon_transverse
+GTEX-R55F-2226,Colon - Transverse,GTEX-R55F,male,50-59,Slow death,,6 pieces up to 8x2.5 mm; mucosa completely autolyzed; muscle slightly autolyzed,colon_transverse
+GTEX-R55G-1226,Colon - Transverse,GTEX-R55G,female,40-49,Ventilator case,,"6 pieces,  ~9x3mm.  Mucosa well preserved,    ~10-15% of thickness",colon_transverse
+GTEX-REY6-2326,Colon - Transverse,GTEX-REY6,male,60-69,Ventilator case,,"6 pieces up to 6x2.7 mm; patchy preserved mucosa, otherwise autolyzed; muscle slight autolysis",colon_transverse
+GTEX-RM2N-0926,Colon - Transverse,GTEX-RM2N,male,50-59,Ventilator case,,"6 pieces,  ~6x1.2mm.  Mucosa moderately well preserved,   ~30% of thickness",colon_transverse
+GTEX-RN5K-0726,Colon - Transverse,GTEX-RN5K,female,50-59,Slow death,,"6 pieces,  ~7x1.5mm.  Mucosa nearly totally autolyzed and/or sloughed",colon_transverse
+GTEX-RN64-2026,Colon - Transverse,GTEX-RN64,male,50-59,Fast death - violent,,"6 pieces,  ~7x1.5. Mucosal glands badly autolyzed,  ~15-20% of thickness",colon_transverse
+GTEX-RNOR-2026,Colon - Transverse,GTEX-RNOR,female,50-59,Fast death - violent,,"6 pieces up to 8x3 mm; mucosa totally autolyzed; muscularis slightly autolyzed; 0.6 mm squamous ""floater""",colon_transverse
+GTEX-RTLS-2726,Colon - Transverse,GTEX-RTLS,female,60-69,Slow death,,6 pieces up to 8x2 mm; mucosa largely autolyzed; muscle mildly autolyzed,colon_transverse
+GTEX-RU1J-1326,Colon - Transverse,GTEX-RU1J,female,20-29,Ventilator case,,6 pieces up to 7.6x8.7 mm; surface partially sloughed,colon_transverse
+GTEX-RU72-2126,Colon - Transverse,GTEX-RU72,female,50-59,Fast death - natural causes,,"6 pieces,   ~6.5x2.5.  Mucosa moderately autolyzed,   ~ 10--15% of thickness",colon_transverse
+GTEX-RUSQ-1226,Colon - Transverse,GTEX-RUSQ,male,50-59,Ventilator case,,"6 pieces,   ~7x2.5mm.  Mucosa reasonably well-preserved,  ~25-30% of thickness",colon_transverse
+GTEX-RVPU-1626,Colon - Transverse,GTEX-RVPU,male,50-59,Fast death - natural causes,,"6 pieces,  ~6.5x1.5mm.  Mucosa severely autolyzed",colon_transverse
+GTEX-RVPV-2226,Colon - Transverse,GTEX-RVPV,male,60-69,Intermediate death,,6 pieces up to 8x2.5 mm; mucosa severely autolyzed; muscle slight autolysis,colon_transverse
+GTEX-RWS6-1826,Colon - Transverse,GTEX-RWS6,female,60-69,Ventilator case,,"6 pieces up to 9x5 mm; 3 pieces have mucosa, 3 (thicker) others are all muscle",colon_transverse
+GTEX-RWSA-2326,Colon - Transverse,GTEX-RWSA,male,40-49,Fast death - violent,,"6 pieces, ~7.5x1.5mm.  Mucosa badly autolyzed, 10-20% of thickness",colon_transverse
+GTEX-S33H-2126,Colon - Transverse,GTEX-S33H,male,30-39,Fast death - natural causes,,6 pieces up to 9x2 mm; mucosa on all (but autolyzed); muscularis varies in extent; submucosa heavily adiposed,colon_transverse
+GTEX-S341-1426,Colon - Transverse,GTEX-S341,female,40-49,Ventilator case,,"6 pieces,  ~7x3.5mm.  Mucosa reasonably well preserved,  ~8-10% of thickness",colon_transverse
+GTEX-S3LF-2326,Colon - Transverse,GTEX-S3LF,male,70-79,Fast death - natural causes,,"6 pieces  ~6x2mm.  Mucosa ~ 20-30% of thickness, epithelial components totally autolyzed, partially sloughed",colon_transverse
+GTEX-S3XE-1126,Colon - Transverse,GTEX-S3XE,male,50-59,Ventilator case,,6 pieces up to 11x4 mm; each has well preserved mucosa and all layers intact,colon_transverse
+GTEX-S4P3-1226,Colon - Transverse,GTEX-S4P3,female,50-59,Ventilator case,,6 pieces up to 7x4 mm; surface sloughing;,colon_transverse
+GTEX-S4Q7-0826,Colon - Transverse,GTEX-S4Q7,male,20-29,Ventilator case,,"6 pieces,  ~9x3mm.  Mucosa reasonably well-preserved,  ~10% of thickness",colon_transverse
+GTEX-S4UY-0826,Colon - Transverse,GTEX-S4UY,female,40-49,Ventilator case,,"6 pieces,  ~6x2mm; mucosa moderately well-preserved,  ~10-15% of thickness",colon_transverse
+GTEX-S4Z8-1526,Colon - Transverse,GTEX-S4Z8,male,60-69,Ventilator case,,6 pieces up to 11x4 mm;,colon_transverse
+GTEX-S7PM-2226,Colon - Transverse,GTEX-S7PM,male,60-69,Ventilator case,,"6 pieces,  ~7x1.5mm.  Mucosa totally sloughed",colon_transverse
+GTEX-S7SE-2226,Colon - Transverse,GTEX-S7SE,male,50-59,Fast death - natural causes,,"6 pieces, 7x2mm.  Mucosa totally autolyzed",colon_transverse
+GTEX-S7SF-1926,Colon - Transverse,GTEX-S7SF,female,20-29,Ventilator case,clean_specimens,6 pieces up to 6x4 mm; good mucosal morphology; full thickness wall,colon_transverse
+GTEX-S95S-0926,Colon - Transverse,GTEX-S95S,male,60-69,Ventilator case,,"6 pieces,   ~8x3mm, only three with visible mucosa, poorly oriented",colon_transverse
+GTEX-SE5C-1526,Colon - Transverse,GTEX-SE5C,female,40-49,Ventilator case,clean_specimens,6 pieces up to 7x4 mm; mucosa ~0.4 mm; very good mucosal preservation in all 6 pieces,colon_transverse
+GTEX-SIU8-2426,Colon - Transverse,GTEX-SIU8,male,50-59,Fast death - natural causes,,"6 pieces   ~7x1.5mm, mucosa badly autolyzed &/or sloughing",colon_transverse
+GTEX-SJXC-2226,Colon - Transverse,GTEX-SJXC,male,60-69,Fast death - natural causes,,"6 pieces   ~8x2mm, mucosa badly autolyzed",colon_transverse
+GTEX-SN8G-2726,Colon - Transverse,GTEX-SN8G,female,50-59,Fast death - natural causes,,6 pieces  ~7x2mm.  Mucosa with near-total autolysis,colon_transverse
+GTEX-SNMC-1126,Colon - Transverse,GTEX-SNMC,male,20-29,Ventilator case,,6 pieces up to 8x4 mm; well preserved mucosa; well visualized ganglion cells,colon_transverse
+GTEX-SNOS-1226,Colon - Transverse,GTEX-SNOS,male,40-49,Ventilator case,clean_specimens,6 pieces up to 7x3 mm; good mucosal preservation,colon_transverse
+GTEX-SUCS-1026,Colon - Transverse,GTEX-SUCS,male,70-79,Ventilator case,,"6 pieces up to 6x3 mm; 3 have mucosa without muscularis, 3 have muscularis without  mucosa",colon_transverse
+GTEX-T2IS-2726,Colon - Transverse,GTEX-T2IS,female,20-29,Fast death - violent,,"6 pieces,  ~6x2mm.  Mucosa completely autolyzed/sloughed",colon_transverse
+GTEX-T2YK-2126,Colon - Transverse,GTEX-T2YK,male,50-59,Slow death,,6 pieces up to 7x15 mm; glands completely sloughed,colon_transverse
+GTEX-T5JC-2226,Colon - Transverse,GTEX-T5JC,male,20-29,Fast death - natural causes,,"6 pieces up to 7x4 mm; mucosa completely autolyzed, muscle moderately autolyzed",colon_transverse
+GTEX-T5JW-1126,Colon - Transverse,GTEX-T5JW,female,20-29,Ventilator case,,"6 pieces `9x3mm, partially detached mucosa, `10% of thickness",colon_transverse
+GTEX-T6MN-2326,Colon - Transverse,GTEX-T6MN,male,50-59,Fast death - natural causes,,6 pieces up to 8x2 mm; mucosa largely autolyzed,colon_transverse
+GTEX-T6MO-0826,Colon - Transverse,GTEX-T6MO,female,40-49,Ventilator case,,"6 pieces, ~7x4mm fragmented/detached msucosa but fairly well preserved, up to 10% thickness",colon_transverse
+GTEX-T8EM-1426,Colon - Transverse,GTEX-T8EM,male,40-49,Ventilator case,,,colon_transverse
+GTEX-TKQ1-0626,Colon - Transverse,GTEX-TKQ1,male,30-39,Ventilator case,,"6 pieces  ~9x3mm.  Mucosa remarkably well-preserved,  ~10% of thickness",colon_transverse
+GTEX-TKQ2-1326,Colon - Transverse,GTEX-TKQ2,male,50-59,Ventilator case,,6 pieces  ~7x4mm.  Mucosa unusually well-preserved;  ~10% of thickness,colon_transverse
+GTEX-TML8-1326,Colon - Transverse,GTEX-TML8,female,40-49,Ventilator case,clean_specimens,6 pieces up to 8x3 mm; good mucosal preservation,colon_transverse
+GTEX-TMMY-2326,Colon - Transverse,GTEX-TMMY,female,40-49,Ventilator case,,"6 pieces  ~6x2.5mm.  Mucosa unusually well-preserved,  ~15-20% of thickness",colon_transverse
+GTEX-TSE9-1826,Colon - Transverse,GTEX-TSE9,female,60-69,Ventilator case,,6 pieces up to 8x2 mm; mucosa totally autolyzed; wall moderately autolyzed,colon_transverse
+GTEX-U3ZH-1326,Colon - Transverse,GTEX-U3ZH,male,30-39,Ventilator case,,"6 pieces  ~8x3mm.  Mucosa remarkably well-preserved,  ~10-20% of thickness",colon_transverse
+GTEX-U3ZM-1126,Colon - Transverse,GTEX-U3ZM,male,40-49,Ventilator case,,"6 pieces  ~7x2mm.  Mucosa is   ~10% thickness, fairly well-preserved.",colon_transverse
+GTEX-U3ZN-2126,Colon - Transverse,GTEX-U3ZN,female,30-39,Ventilator case,clean_specimens,6 pieces up to 8x3 mm; good mucosal preservation;,colon_transverse
+GTEX-U412-1726,Colon - Transverse,GTEX-U412,male,60-69,Intermediate death,,"6 pieces, mucosa badly autolyzed   ~7x2mm,",colon_transverse
+GTEX-U4B1-1126,Colon - Transverse,GTEX-U4B1,male,40-49,Ventilator case,clean_specimens,"6 pieces, up to 12x3 mm; good mucosa on all; hardly any muscularis",colon_transverse
+GTEX-U8T8-1326,Colon - Transverse,GTEX-U8T8,male,60-69,Ventilator case,,"6 pieces, up to 7x2mm; mucosa severely autolyzed, muscle mild autolysis",colon_transverse
+GTEX-U8XE-2426,Colon - Transverse,GTEX-U8XE,male,30-39,Slow death,,"6 pieces  ~7x1.5mm.  Mucosa badly autolyzed,  ~10% thickness",colon_transverse
+GTEX-UJHI-1126,Colon - Transverse,GTEX-UJHI,female,50-59,Ventilator case,clean_specimens,"6 pieces, up to 8x4mm; good mucosa and muscularis on all",colon_transverse
+GTEX-UJMC-1326,Colon - Transverse,GTEX-UJMC,male,50-59,Ventilator case,,"6 pieces, ~6x3mm mucosa remarkably well-preserved, up to 500 microns thick",colon_transverse
+GTEX-UPIC-1726,Colon - Transverse,GTEX-UPIC,female,20-29,Ventilator case,clean_specimens,"6 pieces, up to 6x3mm; all have full thickness with good mucosa",colon_transverse
+GTEX-UPJH-2026,Colon - Transverse,GTEX-UPJH,male,50-59,Fast death - natural causes,,6 pieces  ~8 x 1.5mm  Mucosa poorly preserved; where visible  ~20% of thickness,colon_transverse
+GTEX-UPK5-2226,Colon - Transverse,GTEX-UPK5,male,40-49,Ventilator case,,"6 pieces, up to 10x2mm; poor preservation of mucosa; muscularis better preserved",colon_transverse
+GTEX-UTHO-2526,Colon - Transverse,GTEX-UTHO,male,60-69,Intermediate death,,"6 pieces, up to 8x2mm; mucosa moderately autolyzed",colon_transverse
+GTEX-V1D1-1526,Colon - Transverse,GTEX-V1D1,male,50-59,Ventilator case,,"6 pieces  ~6x1.5mm  ?sigmoid?  mucosa is 20% of thickness, trace muscle",colon_transverse
+GTEX-V955-1626,Colon - Transverse,GTEX-V955,male,60-69,Ventilator case,,8 pieces ~10x2mm.  Presumed transverse. Well-preserved mucosa is 10-20% thickness,colon_transverse
+GTEX-VJWN-2526,Colon - Transverse,GTEX-VJWN,female,50-59,Fast death - natural causes,,"6 pieces, up to 6x2mm; mucosa totally autolyzed; muscle in better shape;",colon_transverse
+GTEX-VJYA-2026,Colon - Transverse,GTEX-VJYA,male,60-69,Ventilator case,,"6 pieces  ~~7x2mm, mucosa well preserved, ~10-20 thickness",colon_transverse
+GTEX-VUSG-1826,Colon - Transverse,GTEX-VUSG,male,50-59,Ventilator case,,"6 pieces  ~9x1.5mm.  Mucosa reasonably well preserved,  ~15-20% of thickness",colon_transverse
+GTEX-W5WG-2426,Colon - Transverse,GTEX-W5WG,female,50-59,Ventilator case,,6 pieces  ~6x5mm.  Muscosa <~ 10% of thickness,colon_transverse
+GTEX-W5X1-1726,Colon - Transverse,GTEX-W5X1,female,40-49,Ventilator case,,"6 pieces, up to 9.5x2mm; autolysis ranges from moderate to severe",colon_transverse
+GTEX-WEY5-1426,Colon - Transverse,GTEX-WEY5,female,40-49,Ventilator case,,"6 pieces, up to 10x3mm; mucosa moderately autolyzed; muscle slightly autolyzed",colon_transverse
+GTEX-WFG7-1526,Colon - Transverse,GTEX-WFG7,male,20-29,Ventilator case,,"8 pieces  ~10x1mm, Mucosa moderate well preserved,  ~20-25% of thickness; some areas starting to degrade to autolysis score2",colon_transverse
+GTEX-WFG8-1526,Colon - Transverse,GTEX-WFG8,male,20-29,Ventilator case,,"6 pieces  ~9x2mm.  Mucosa partly sloughed, not well preserved",colon_transverse
+GTEX-WFJO-1626,Colon - Transverse,GTEX-WFJO,male,30-39,Ventilator case,,"7 pieces, up to 10x4.5mm; all have full thickness of wall",colon_transverse
+GTEX-WFON-1426,Colon - Transverse,GTEX-WFON,male,40-49,Ventilator case,,"6 pieces  ~10x3mm.  Mucosa variably but moderately preserved,  ~10-15% of thickness",colon_transverse
+GTEX-WH7G-1326,Colon - Transverse,GTEX-WH7G,male,40-49,Ventilator case,,"5 pieces, up to 5x3mm; Mostly submucosa, variable amounts of mucosa and muscularis propria",colon_transverse
+GTEX-WHPG-1726,Colon - Transverse,GTEX-WHPG,male,50-59,Ventilator case,clean_specimens,"6 pieces, up to 10x4mm; Good mucosal preservation.",colon_transverse
+GTEX-WHSB-0926,Colon - Transverse,GTEX-WHSB,male,50-59,Ventilator case,,"6 pieces  ~6x2.5mm, 10% mucosa, relatively well preserved",colon_transverse
+GTEX-WHSE-2626,Colon - Transverse,GTEX-WHSE,male,20-29,Intermediate death,,6 pieces  ~6x2.5mm.  Mucosa sloughed or badly autolyzed,colon_transverse
+GTEX-WHWD-1226,Colon - Transverse,GTEX-WHWD,male,50-59,Ventilator case,,"6 pieces, up to 5.5x2mm; 1 of 6 has muscularis only, other 5 have full thickness",colon_transverse
+GTEX-WI4N-2126,Colon - Transverse,GTEX-WI4N,female,40-49,Ventilator case,,"6 pieces  ~7x2mm, mucosa near totally sloughed, badly autolyzed",colon_transverse
+GTEX-WK11-2326,Colon - Transverse,GTEX-WK11,male,50-59,Fast death - violent,,"6 pieces, up to 7x2mm; mucosa = 3; muscularis = 2 (autolysis)",colon_transverse
+GTEX-WL46-2426,Colon - Transverse,GTEX-WL46,male,50-59,Fast death - natural causes,,6 pieces  ~6x3mm.  Mucosa badly autolyzed,colon_transverse
+GTEX-WOFL-2626,Colon - Transverse,GTEX-WOFL,male,60-69,Ventilator case,,"6 pieces, up to 7x1.5mm; mucosa = 3, muscle =2 (autolysis).",colon_transverse
+GTEX-WOFM-2026,Colon - Transverse,GTEX-WOFM,male,20-29,Ventilator case,,"6 pieces ~7x4mm, mucosa is ~10% of thickness, well preserved",colon_transverse
+GTEX-WQUQ-2526,Colon - Transverse,GTEX-WQUQ,male,60-69,Ventilator case,,"6 pieces  ~7x4mm, mucosa moderately autoyzed, 10-20% of thickness",colon_transverse
+GTEX-WRHK-0926,Colon - Transverse,GTEX-WRHK,female,20-29,Ventilator case,,"6 pieces, up to 10x2mm; 2 with no muscle, 2 with focal muscle",colon_transverse
+GTEX-WRHU-2326,Colon - Transverse,GTEX-WRHU,female,50-59,Fast death - violent,,"6 pieces  ~8x2.5mm,  mucosa moderately-badly autolyzed,  ~10-20% thickness",colon_transverse
+GTEX-WVJS-2426,Colon - Transverse,GTEX-WVJS,male,50-59,Ventilator case,,"6 pieces, up to 8x2mm; autolyzed mucosa (3); muscle moderately autolyzed (2)",colon_transverse
+GTEX-WVLH-2426,Colon - Transverse,GTEX-WVLH,male,50-59,Fast death - natural causes,,6 pieces  ~7x1mm  @0-30% badly autolzyed mucosa,colon_transverse
+GTEX-WWTW-2326,Colon - Transverse,GTEX-WWTW,male,50-59,Ventilator case,,"6 pieces ~8x3mm, mucosa completely auotlyzed",colon_transverse
+GTEX-WWYW-2326,Colon - Transverse,GTEX-WWYW,female,50-59,Intermediate death,,"6 pieces ~7x1mm, mucosa completely autolzyed,sloughing",colon_transverse
+GTEX-WXYG-1826,Colon - Transverse,GTEX-WXYG,female,50-59,Ventilator case,,"6 pieces, up to 7x3mm; ~10% mucosa, sloughing",colon_transverse
+GTEX-WY7C-1626,Colon - Transverse,GTEX-WY7C,male,50-59,Ventilator case,,"~6x3mm  6  pieces ~10% mucosa, moderately  well preserved",colon_transverse
+GTEX-WYBS-2326,Colon - Transverse,GTEX-WYBS,female,60-69,Ventilator case,,"6 pieces, up to 7x3mm; badly autolyzed",colon_transverse
+GTEX-WYJK-2226,Colon - Transverse,GTEX-WYJK,male,50-59,Ventilator case,,"6 pieces, up to 8x2mm; Mucosa well preserved up to ~30% thickness",colon_transverse
+GTEX-WYVS-1826,Colon - Transverse,GTEX-WYVS,female,40-49,Ventilator case,,"6 pieces, up to 9.5x4mm; ~mucsoa well preserved, ~10% thickness",colon_transverse
+GTEX-WZTO-2726,Colon - Transverse,GTEX-WZTO,male,40-49,Fast death - violent,,"6 pieces, up to 9x3mm; Mucosa badly autolyzed, ~25% of thickness",colon_transverse
+GTEX-X15G-1326,Colon - Transverse,GTEX-X15G,female,50-59,Ventilator case,,"6 pieces, up to 5x3mm; ~10-20% thickness is fairly well-preserved mucosa",colon_transverse
+GTEX-X261-1826,Colon - Transverse,GTEX-X261,male,50-59,Slow death,,"6 pieces, up to 6x1mm; mucosa=3; muscle=2",colon_transverse
+GTEX-X3Y1-1726,Colon - Transverse,GTEX-X3Y1,male,40-49,Ventilator case,,"6 pieces, up to 7.5x4mm; focally sloughed glands",colon_transverse
+GTEX-X4EO-2526,Colon - Transverse,GTEX-X4EO,female,60-69,Intermediate death,,"6 pieces, up to 9x5mm; mucosa=3; muscularis =2",colon_transverse
+GTEX-X4EP-2726,Colon - Transverse,GTEX-X4EP,female,60-69,Slow death,,"6 pieces, up to 8x3mm; mucosa delineated (rep), badly autolyzed",colon_transverse
+GTEX-X4LF-1126,Colon - Transverse,GTEX-X4LF,male,50-59,Ventilator case,,"6 pieces, up to 11x4mm; ~20% thickness is well-preserved mucosa",colon_transverse
+GTEX-X4XX-2526,Colon - Transverse,GTEX-X4XX,male,60-69,Slow death,,"6 pieces, up to 8x2mm;  Well sampled mucosa (3) and muscle (2).",colon_transverse
+GTEX-X4XY-2626,Colon - Transverse,GTEX-X4XY,male,60-69,Ventilator case,,"6 pieces, up to 7x3mm; mucosa mostly 3, some foci are 2; muscularis=2 (autolysis)",colon_transverse
+GTEX-X585-2626,Colon - Transverse,GTEX-X585,male,50-59,Slow death,,"6 pieces, up to 7x3mm;  Glands = 3; muscle = 2.",colon_transverse
+GTEX-X5EB-0926,Colon - Transverse,GTEX-X5EB,male,40-49,Ventilator case,,"6 pieces, up to 12x5mm; ~10-20% thickness is mucosa, reasonably well preserved",colon_transverse
+GTEX-X62O-2626,Colon - Transverse,GTEX-X62O,male,50-59,Ventilator case,,"6 pieces, up to 8x3mm;  ~10% thickness is mucosa but badly autolyzed",colon_transverse
+GTEX-X8HC-2426,Colon - Transverse,GTEX-X8HC,female,50-59,Ventilator case,,"6 pieces, up to 8.5x3mm;  Mucosa=3; muscle = 2. Mucosal hemorrhagic infarcts (bowel infarcts by clinical history).",colon_transverse
+GTEX-XAJ8-0426,Colon - Transverse,GTEX-XAJ8,male,40-49,Ventilator case,,"6 pieces  ~7x3mm; mucosa well preserved but less than 10% total tissue, some aliquots have none",colon_transverse
+GTEX-XBEC-2426,Colon - Transverse,GTEX-XBEC,male,50-59,Fast death - natural causes,,"6 pieces, up to 9x2mm; mucosa sloughed",colon_transverse
+GTEX-XBED-1526,Colon - Transverse,GTEX-XBED,male,60-69,Ventilator case,,"6 pieces, up to 11x4mm; Mucosa varies from mild to moderate autolysis. All pieces are well sampled: mucosa and muscularis.",colon_transverse
+GTEX-XBEW-1926,Colon - Transverse,GTEX-XBEW,male,40-49,Ventilator case,,"6 pieces, up to 8x4mm; mucosa moderately preserved, ~10-20% thickness",colon_transverse
+GTEX-XGQ4-1126,Colon - Transverse,GTEX-XGQ4,male,50-59,Ventilator case,,"6 pieces up to 8x5mm 10 thickness is mucosa--all colon, no stomach present",colon_transverse
+GTEX-XGQ4-1226,Colon - Transverse,GTEX-XGQ4,male,50-59,Ventilator case,,"6 pieces up to 8x5m; ~10-20% thickness is mucosa, fairly well preserved",colon_transverse
+GTEX-XK95-2626,Colon - Transverse,GTEX-XK95,male,40-49,Ventilator case,,6 pieces. up to 8x2mm; Mucosa=3; muscularis=2 (autolysis),colon_transverse
+GTEX-XLM4-1726,Colon - Transverse,GTEX-XLM4,male,60-69,Intermediate death,,"6 pieces, up to 8x2mm; mucosa sloughing/autolyzed",colon_transverse
+GTEX-XMD1-2326,Colon - Transverse,GTEX-XMD1,male,60-69,Slow death,,"6 pieces up to 8x3mm; mucosa badly autolyzed,  ~10% thickness",colon_transverse
+GTEX-XMD2-2526,Colon - Transverse,GTEX-XMD2,female,60-69,Ventilator case,,"6 pieces, up to 6x2.5mm; mucosa=3; muscle =1.",colon_transverse
+GTEX-XMD3-2826,Colon - Transverse,GTEX-XMD3,female,50-59,Ventilator case,,6 pieces. up to 5x2mm; mucosa=3; muscularis=2,colon_transverse
+GTEX-XMK1-1726,Colon - Transverse,GTEX-XMK1,male,40-49,Ventilator case,,"6 pieces. up to 10x4mm; mucosa is ~10% thickness, reasonably well preserved but superficially sloughed",colon_transverse
+GTEX-XOT4-2426,Colon - Transverse,GTEX-XOT4,female,60-69,Fast death - natural causes,,6 pieces. up to 7x2mm; mucosa=3; muscle= 2.,colon_transverse
+GTEX-XOTO-2626,Colon - Transverse,GTEX-XOTO,male,50-59,Fast death - natural causes,,"6 pieces. up to 9x4mm; Mucosa delineated in one aliquot, ~10% thickness but badly autolyzed",colon_transverse
+GTEX-XPT6-1126,Colon - Transverse,GTEX-XPT6,male,20-29,Ventilator case,,"6 pieces ~6x4mm, 5 with mucosa, well preserved, up to 15% thickness",colon_transverse
+GTEX-XPVG-1826,Colon - Transverse,GTEX-XPVG,male,50-59,Ventilator case,clean_specimens,"6 pieces, up to 11x4mm; 3 with good mucosa; 4 with muscularis; 1 with only adipose",colon_transverse
+GTEX-XQ3S-2626,Colon - Transverse,GTEX-XQ3S,male,20-29,Fast death - violent,,"6 pieces, up to 8.5x2mm; mucosa badly autolyzed, sloughed",colon_transverse
+GTEX-XQ8I-2126,Colon - Transverse,GTEX-XQ8I,male,50-59,Ventilator case,,"6 pieces, up to 8x2mm; mucosa superficially sloughed otherwise well preserved; lymphoid nodules annotated",colon_transverse
+GTEX-XUJ4-2026,Colon - Transverse,GTEX-XUJ4,female,60-69,Ventilator case,,"6 pieces, up to 9x2mm;  muscosa well preserved,  ~30% thickness",colon_transverse
+GTEX-XUW1-1926,Colon - Transverse,GTEX-XUW1,female,50-59,Ventilator case,,"6 pieces, up to 9x4mm. Well trimmed full thickness specimen. Slight surface sloughing.",colon_transverse
+GTEX-XUZC-1326,Colon - Transverse,GTEX-XUZC,female,30-39,Ventilator case,,"6 pieces, up to 8x2mm; mucosa well preserved  ~20% thickness",colon_transverse
+GTEX-XV7Q-2126,Colon - Transverse,GTEX-XV7Q,female,40-49,Ventilator case,,"6 pieces, up to 8x1.5mm; mucosa partially sloughed",colon_transverse
+GTEX-XXEK-1926,Colon - Transverse,GTEX-XXEK,male,50-59,Ventilator case,,"6 pieces, up to 9x6mm; mainly muscularis and fat, less than 3% mucosa, well preserved, delineated",colon_transverse
+GTEX-XYKS-2226,Colon - Transverse,GTEX-XYKS,female,60-69,Ventilator case,,"6 pieces, up to 10x5.5mm; 5 have mucosa",colon_transverse
+GTEX-Y111-1426,Colon - Transverse,GTEX-Y111,male,50-59,Fast death - violent,,"6 pieces, up to 9x2.5mm. All have severely autolyzed mucosa; 3 have moderately autolyzed muscularis. 3 without muscularis",colon_transverse
+GTEX-Y114-1526,Colon - Transverse,GTEX-Y114,female,50-59,Ventilator case,,"6 pieces, up to 9.5x4mm; mucosa well preserved, mucosa ~5-10% thickness",colon_transverse
+GTEX-Y3I4-1426,Colon - Transverse,GTEX-Y3I4,male,50-59,Ventilator case,,"6 pieces, up to 12x4.5mm; mucosa well preserved,  ~15% of thickness",colon_transverse
+GTEX-Y3IK-1826,Colon - Transverse,GTEX-Y3IK,female,50-59,Ventilator case,,"6 pieces, up to 11x2mm. All have only mucosa-submucosa; transverse colon should contain muscularis propria.",colon_transverse
+GTEX-Y5LM-1526,Colon - Transverse,GTEX-Y5LM,female,40-49,Ventilator case,,6 pieces. up to 12x3mm; Only 1 of 6 has muscularis. Transverse colon sample should have full thickness of wall.,colon_transverse
+GTEX-Y5V5-2026,Colon - Transverse,GTEX-Y5V5,female,60-69,Ventilator case,,"6 pieces, up to 10x3mm;  ~50% badly autolyzed mucosa, rest is muscle & fat",colon_transverse
+GTEX-Y5V6-1426,Colon - Transverse,GTEX-Y5V6,male,60-69,Ventilator case,,"6 pieces, up to 7x2mm; only 1 of 6 has muscularis",colon_transverse
+GTEX-Y8E4-2426,Colon - Transverse,GTEX-Y8E4,male,40-49,Ventilator case,,"1 piece, 9x3mm; well trimmed",colon_transverse
+GTEX-Y8LW-1226,Colon - Transverse,GTEX-Y8LW,female,50-59,Ventilator case,,"1 piece, 7x2mm; all muscularis; no mucosa",colon_transverse
+GTEX-Y9LG-1526,Colon - Transverse,GTEX-Y9LG,male,30-39,Ventilator case,,1 piece with small amount (1.6x0.8 mm) muscularis propria.,colon_transverse
+GTEX-YB5E-1626,Colon - Transverse,GTEX-YB5E,male,40-49,Ventilator case,,"1 piece, 13x875.6um; 40-60% mucosa, reasonably well-preserved",colon_transverse
+GTEX-YB5K-1226,Colon - Transverse,GTEX-YB5K,female,40-49,Ventilator case,,1 piece. 7x3.5mm; small intestine not colon,colon_transverse
+GTEX-YEC3-2426,Colon - Transverse,GTEX-YEC3,male,50-59,Ventilator case,,"1 piece, 6x3mm; correlates with 2425, all muscularis/fat",colon_transverse
+GTEX-YEC4-1926,Colon - Transverse,GTEX-YEC4,male,40-49,Ventilator case,,"1 piece (10x5mm), correlates with 1925",colon_transverse
+GTEX-YECK-2626,Colon - Transverse,GTEX-YECK,male,60-69,Intermediate death,,"1 piece, correlates with -2625, mucosa badly autolyzed",colon_transverse
+GTEX-YF7O-1726,Colon - Transverse,GTEX-YF7O,male,50-59,Ventilator case,,1 piece; comparable to 25 block,colon_transverse
+GTEX-YFC4-2426,Colon - Transverse,GTEX-YFC4,female,40-49,Fast death - violent,,"1 piece, mucosa badly autolyzed, correlates  perfeclty with -2425",colon_transverse
+GTEX-YFCO-1426,Colon - Transverse,GTEX-YFCO,male,40-49,Ventilator case,,6 pieces; mucosa represents ~15% of thickness.,colon_transverse
+GTEX-YJ89-2426,Colon - Transverse,GTEX-YJ89,male,60-69,Fast death - natural causes,,"6 pieces; mucosa autolysis=3, muscularis autolysis=2",colon_transverse
+GTEX-YJ8O-0726,Colon - Transverse,GTEX-YJ8O,female,40-49,Fast death - violent,,"6 pieces, mucosa up to ~0.5mm thick but badly preserved and partly sloughed",colon_transverse
+GTEX-Z93S-2426,Colon - Transverse,GTEX-Z93S,male,50-59,Fast death - natural causes,,"6 pieces, mucosa badly autolyzed/sloughed",colon_transverse
+GTEX-Z9EW-1326,Colon - Transverse,GTEX-Z9EW,male,40-49,Ventilator case,,"4 pieces, small intestinal mucosa and muscularis.  Uncertain location, can't be used for GTEx but should be retained for future studies",colon_transverse
+GTEX-ZA64-1326,Colon - Transverse,GTEX-ZA64,male,20-29,Ventilator case,clean_specimens,"6 pieces, all colon, mucosa is ~0.3m mm thick, promienent lymphoid follicles noted; rep. ones delineated.  Switched with 1225; may be used once relabeld correctly as colon; good specimens.",colon_transverse
+GTEX-ZAB4-2226,Colon - Transverse,GTEX-ZAB4,male,40-49,Slow death,,6 pieces. Full thickness with 3 having pericolonic adipose up to 1 mm.  Mucosa=3; muscle=1.,colon_transverse
+GTEX-ZAB5-1626,Colon - Transverse,GTEX-ZAB5,male,50-59,Ventilator case,,6 pieces,colon_transverse
+GTEX-ZAJG-2426,Colon - Transverse,GTEX-ZAJG,female,50-59,Intermediate death,,"6 pieces, mucosa badly autolyzed, ~10% thickness",colon_transverse
+GTEX-ZAK1-2726,Colon - Transverse,GTEX-ZAK1,female,50-59,Fast death - natural causes,,6 pieces; mucosa ~10-40% thickness but totally autolyzed/sloughing,colon_transverse
+GTEX-ZC5H-2526,Colon - Transverse,GTEX-ZC5H,female,40-49,Ventilator case,,"6 pieces, mucosa moderately-severely autolzyed,  ~300 micrions thick",colon_transverse
+GTEX-ZDTS-2526,Colon - Transverse,GTEX-ZDTS,male,60-69,Fast death - natural causes,,6 pieces; mucosa = autolysis 3; muscle = 2,colon_transverse
+GTEX-ZDTT-1926,Colon - Transverse,GTEX-ZDTT,male,60-69,Ventilator case,,"6 pieces, several with attached adipose tissue from 5-50%.",colon_transverse
+GTEX-ZDXO-1826,Colon - Transverse,GTEX-ZDXO,male,60-69,Fast death - natural causes,,6 pieces; mucosa up to ~0.5mm thick but completely autolyzed,colon_transverse
+GTEX-ZDYS-2326,Colon - Transverse,GTEX-ZDYS,male,50-59,Ventilator case,,6 pieces,colon_transverse
+GTEX-ZE7O-2826,Colon - Transverse,GTEX-ZE7O,female,50-59,Fast death - natural causes,,"4 pieces; all muscle, no mucosa",colon_transverse
+GTEX-ZE9C-2226,Colon - Transverse,GTEX-ZE9C,male,60-69,Fast death - natural causes,,"6pieces, mucosa is ~30% thickness, moderately-badly autolyzed",colon_transverse
+GTEX-ZEX8-1926,Colon - Transverse,GTEX-ZEX8,male,50-59,Ventilator case,,6 pieces: 4 have full thickness (target); 2 have only  mucosa,colon_transverse
+GTEX-ZF28-2826,Colon - Transverse,GTEX-ZF28,male,60-69,Slow death,,6 pieces. Mucosa totally autolyzed; muscle slightly autolyzed,colon_transverse
+GTEX-ZF29-1726,Colon - Transverse,GTEX-ZF29,female,60-69,Ventilator case,,"6 pieces, 3 are muscularis only and 3 are predominantly muscularis, each with small strip of mucosa.",colon_transverse
+GTEX-ZF2S-1926,Colon - Transverse,GTEX-ZF2S,female,50-59,Ventilator case,,"6 pieces, well dissected full thickness.",colon_transverse
+GTEX-ZF3C-2526,Colon - Transverse,GTEX-ZF3C,female,50-59,Ventilator case,,"5 pieces, not colon, chronically inflamed squamous mucosa",colon_transverse
+GTEX-ZG7Y-2126,Colon - Transverse,GTEX-ZG7Y,male,50-59,Ventilator case,,"6 pieces, mucosa fairly well preserved, ~10-15% thickness",colon_transverse
+GTEX-ZGAY-2126,Colon - Transverse,GTEX-ZGAY,female,40-49,Ventilator case,,"6 pieces, mucosa is generally well-preserved, ~10%-15% thickness",colon_transverse
+GTEX-ZLFU-1626,Colon - Transverse,GTEX-ZLFU,male,40-49,Ventilator case,,6 pieces. Small bowel not colon,colon_transverse
+GTEX-ZLV1-1226,Colon - Transverse,GTEX-ZLV1,female,60-69,Ventilator case,,"4 pieces, well preserved, mucosa is ~0.3mm thick, ~10% thickness",colon_transverse
+GTEX-ZLWG-1726,Colon - Transverse,GTEX-ZLWG,female,50-59,Ventilator case,,"6 pieces, mucosa and muscularis",colon_transverse
+GTEX-ZP4G-1726,Colon - Transverse,GTEX-ZP4G,female,20-29,Ventilator case,,"6 pieces, well preserved.  Mucosa is ~15-20% thickness",colon_transverse
+GTEX-ZPCL-1826,Colon - Transverse,GTEX-ZPCL,female,60-69,Ventilator case,,6 pieces. Well dissected.,colon_transverse
+GTEX-ZPIC-2226,Colon - Transverse,GTEX-ZPIC,female,40-49,Ventilator case,,"6 pieces, moderately well preserved, some foci approach autolysis score 2. Mucosa is 0.3-0.6mm, ~10% total thickness",colon_transverse
+GTEX-ZPU1-1926,Colon - Transverse,GTEX-ZPU1,male,40-49,Ventilator case,,"6 pieces, all with mucosa (2) and muscularis (1)",colon_transverse
+GTEX-ZQG8-2026,Colon - Transverse,GTEX-ZQG8,female,60-69,Ventilator case,,6 pieces. only 2 pieces have mucosa (and quite small bits). 4 pieces are without any mucosa,colon_transverse
+GTEX-ZQUD-0726,Colon - Transverse,GTEX-ZQUD,male,30-39,Ventilator case,,5 pieces  small bowel; not a GTEx target organ,colon_transverse
+GTEX-ZT9W-1826,Colon - Transverse,GTEX-ZT9W,male,50-59,Ventilator case,,6 pieces. Well dissected full thickness wall.,colon_transverse
+GTEX-ZT9X-1126,Colon - Transverse,GTEX-ZT9X,male,40-49,Ventilator case,,"6 pieces, well preserved; mucosa is ~15-20% thickness",colon_transverse
+GTEX-ZTPG-2726,Colon - Transverse,GTEX-ZTPG,female,20-29,Ventilator case,inflammation,"6 pieces, chronic inflammation with moderate architectural distortion c/w ulcerative colitis, no evidence of active disease",colon_transverse
+GTEX-ZTSS-1126,Colon - Transverse,GTEX-ZTSS,male,40-49,Ventilator case,,6 pieces: all well dissected full thickness,colon_transverse
+GTEX-ZTTD-2526,Colon - Transverse,GTEX-ZTTD,male,50-59,Intermediate death,,6 pieces; mucosa totally autolyzed/sloughed,colon_transverse
+GTEX-ZTX8-0826,Colon - Transverse,GTEX-ZTX8,male,20-29,Ventilator case,,"6 pieces, muscularis with scant fragment of mucosa (also TARGET)",colon_transverse
+GTEX-ZU9S-2626,Colon - Transverse,GTEX-ZU9S,male,30-39,Fast death - natural causes,,6 pieces,colon_transverse
+GTEX-ZUA1-2326,Colon - Transverse,GTEX-ZUA1,male,40-49,Fast death - natural causes,,6 pieces. well dissected full thickness.,colon_transverse
+GTEX-ZV68-1926,Colon - Transverse,GTEX-ZV68,female,50-59,Fast death - natural causes,,"6 pieces, mucosa totally autolyzed",colon_transverse
+GTEX-ZV6S-1226,Colon - Transverse,GTEX-ZV6S,female,40-49,Ventilator case,,6 pieces,colon_transverse
+GTEX-ZV7C-1526,Colon - Transverse,GTEX-ZV7C,male,50-59,Ventilator case,clean_specimens,"3 pieces; mucosa beautifully preserved, ~10-15% thickness, excellent specimen",colon_transverse
+GTEX-ZVE1-2426,Colon - Transverse,GTEX-ZVE1,female,50-59,Ventilator case,,"6 pieces, mucosa severely autolyzed, muscle is better preserved",colon_transverse
+GTEX-ZVE2-2526,Colon - Transverse,GTEX-ZVE2,male,50-59,Ventilator case,,6 pieces. mucosa severly autolyzed;  muscularis preserved,colon_transverse
+GTEX-ZVP2-1526,Colon - Transverse,GTEX-ZVP2,male,50-59,Ventilator case,,"3 pieces, one lacks muscularis propria, rare crypt abscess",colon_transverse
+GTEX-ZVT2-1926,Colon - Transverse,GTEX-ZVT2,female,50-59,Ventilator case,,"3  pieces, well preserved mucosa; well trimmed full thickness wall",colon_transverse
+GTEX-ZVT3-2426,Colon - Transverse,GTEX-ZVT3,female,60-69,Fast death - natural causes,,"6 pieces; mucosa badly autolyzed and/or sloughed, ~15-20% thickness",colon_transverse
+GTEX-ZVT4-2226,Colon - Transverse,GTEX-ZVT4,female,50-59,Intermediate death,,"6 pieces, mucosa badly autolyzed/sloughing",colon_transverse
+GTEX-ZVZP-1926,Colon - Transverse,GTEX-ZVZP,male,50-59,Ventilator case,,6 pieces; well preserved mucosa and full thickness wall in all; up to 2 mm pericolonic fat,colon_transverse
+GTEX-ZVZQ-2526,Colon - Transverse,GTEX-ZVZQ,female,60-69,Fast death - violent,,"6 pieces, mucosa totally autolyzed",colon_transverse
+GTEX-ZWKS-2326,Colon - Transverse,GTEX-ZWKS,male,30-39,Slow death,,"6 pieces, mucosa  toally autoyzed and/or sloughed",colon_transverse
+GTEX-ZXES-1626,Colon - Transverse,GTEX-ZXES,female,30-39,Ventilator case,,"4 pieces, muscularis only",colon_transverse
+GTEX-ZXG5-2326,Colon - Transverse,GTEX-ZXG5,male,60-69,Intermediate death,,4 pieces; mucosa totally autolyzed; muscularis moderately autolyzed,colon_transverse
+GTEX-ZY6K-1226,Colon - Transverse,GTEX-ZY6K,male,50-59,Ventilator case,,"6 pieces, melanosis coli",colon_transverse
+GTEX-ZYFC-2626,Colon - Transverse,GTEX-ZYFC,male,50-59,Fast death - natural causes,,"6 pieces, partially autolyzed mucosa (predominantly 2, some autolysis 3) and muscularis",colon_transverse
+GTEX-ZYFD-2426,Colon - Transverse,GTEX-ZYFD,male,50-59,Intermediate death,,6 pieces,colon_transverse
+GTEX-ZYFG-1926,Colon - Transverse,GTEX-ZYFG,female,60-69,Ventilator case,,"6 pieces, well dissected",colon_transverse
+GTEX-ZYT6-2526,Colon - Transverse,GTEX-ZYT6,male,30-39,Fast death - violent,,"6 pieces; mucosa is ~0.3mm thick, ~25% thickness, but markedly autolyzed or sloughed",colon_transverse
+GTEX-ZYVF-2826,Colon - Transverse,GTEX-ZYVF,female,50-59,Ventilator case,,"6 pieces, mucosa is ~0.2mm thick but totally autolyzed",colon_transverse
+GTEX-ZYW4-2426,Colon - Transverse,GTEX-ZYW4,male,60-69,Intermediate death,,6 pieces: all full thickness. well trimmed; mucosa largely severely autolyzed; muscle  slightly autolyzed,colon_transverse
+GTEX-ZYWO-1626,Colon - Transverse,GTEX-ZYWO,female,40-49,Ventilator case,,4 pieces,colon_transverse
+GTEX-ZYY3-2026,Colon - Transverse,GTEX-ZYY3,female,60-69,Slow death,,"6 pieces, mucosa is ~20-30% thickness but totally autolyzed/sloughed",colon_transverse
+GTEX-ZZ64-0726,Colon - Transverse,GTEX-ZZ64,male,20-29,Ventilator case,edema,"6 pieces; submucosal edema, full thickness",colon_transverse
+GTEX-ZZPT-2526,Colon - Transverse,GTEX-ZZPT,male,50-59,Slow death,,"6 pieces, mucosa totally autolyzed and /or sloughed",colon_transverse
+GTEX-ZZPU-1926,Colon - Transverse,GTEX-ZZPU,female,50-59,Ventilator case,"hemorrhage, necrosis","6 pieces, extensive mucosal necrosis and hemorrhage c/w history of ulcerative colitis",colon_transverse

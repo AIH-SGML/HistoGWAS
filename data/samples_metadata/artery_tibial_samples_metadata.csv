@@ -1,0 +1,980 @@
+Tissue Sample ID,Tissue,Subject ID,Sex,Age Bracket,Hardy Scale,Pathology Categories,Pathology Notes,Tissue ID
+GTEX-1117F-0526,Artery - Tibial,GTEX-1117F,female,60-69,Slow death,"monckeberg, sclerotic","2 pieces, clean, Monckebeg medial sclerosis, rep delineated",artery_tibial
+GTEX-111CU-2126,Artery - Tibial,GTEX-111CU,male,50-59,Ventilator case,"atherosclerosis, sclerotic","6 pieces, atherosclerosis with up to near total occlusion of vessel, pacinian corpuscle identified",artery_tibial
+GTEX-111FC-0426,Artery - Tibial,GTEX-111FC,male,60-69,Fast death - violent,"monckeberg, sclerotic","2 pieces, medial calcific sclerosis (Monckeberg's sclerosis), both sections",artery_tibial
+GTEX-111VG-2726,Artery - Tibial,GTEX-111VG,male,60-69,Intermediate death,"atherosclerosis, sclerotic",4 pieces; patent but atherosclerotic; focal calcium,artery_tibial
+GTEX-111YS-2226,Artery - Tibial,GTEX-111YS,male,60-69,Ventilator case,calcification,2 pieces; extensive medial calcification (marked); no intimal plaques,artery_tibial
+GTEX-1122O-2326,Artery - Tibial,GTEX-1122O,female,60-69,Ventilator case,atherosclerosis,"4 pieces, intimal thickening/early atherosclerotic change",artery_tibial
+GTEX-1128S-2526,Artery - Tibial,GTEX-1128S,female,60-69,Fast death - natural causes,clean_specimens,"3 pieces, generally clean specimens",artery_tibial
+GTEX-113IC-0426,Artery - Tibial,GTEX-113IC,male,60-69,Fast death - natural causes,"clean_specimens, monckeberg, sclerotic","2 pieces, clean specimens, prominent Monckeberg sclerosis, rep. foci delineated",artery_tibial
+GTEX-113JC-2626,Artery - Tibial,GTEX-113JC,female,50-59,Fast death - natural causes,,2 pieces; no lesions,artery_tibial
+GTEX-117XS-2826,Artery - Tibial,GTEX-117XS,male,60-69,Fast death - natural causes,"atherosclerosis, calcification, sclerotic","4 pieces, atherosclerotic changes with calcification (arrows) compromising lumen",artery_tibial
+GTEX-117YW-2726,Artery - Tibial,GTEX-117YW,male,50-59,Intermediate death,"calcification, sclerotic","2 pieces, medial calcific sclerosis",artery_tibial
+GTEX-117YX-2626,Artery - Tibial,GTEX-117YX,male,50-59,Ventilator case,,"2 pieces; no sclerosis, well trimmed",artery_tibial
+GTEX-1192W-2726,Artery - Tibial,GTEX-1192W,male,60-69,Fast death - natural causes,,"2 pieces, adherent ~2mm nubbins adherent fat/fibrous tissue on both, delineated",artery_tibial
+GTEX-1192X-0526,Artery - Tibial,GTEX-1192X,male,50-59,Slow death,,"2 pieces, adherent nubbins fibroconnective tissue on both, delineated",artery_tibial
+GTEX-11DXW-0526,Artery - Tibial,GTEX-11DXW,male,40-49,Fast death - natural causes,calcification,"2 pieces, few foci of calcification, small attachment of fibrofatty tissue",artery_tibial
+GTEX-11DXX-2626,Artery - Tibial,GTEX-11DXX,female,60-69,Ventilator case,"atherosclerosis, calcification, sclerotic","2 pieces, focal medial calcification, atherosclerosis with narrowing of the lumen by 50-75%",artery_tibial
+GTEX-11DXY-2926,Artery - Tibial,GTEX-11DXY,male,60-69,Fast death - natural causes,,"2 pieces, small attachment of fat on both (~10%)",artery_tibial
+GTEX-11DXZ-2626,Artery - Tibial,GTEX-11DXZ,male,50-59,Ventilator case,atherosclerosis,"2 pieces, early atheromatous plaque, attachment of fibrofatty tissue/vessels",artery_tibial
+GTEX-11DYG-0526,Artery - Tibial,GTEX-11DYG,male,60-69,Fast death - natural causes,sclerotic,2 pieces; minimal sclerosis,artery_tibial
+GTEX-11DZ1-1126,Artery - Tibial,GTEX-11DZ1,male,50-59,Slow death,,2 pieces; well trimmed,artery_tibial
+GTEX-11EI6-0526,Artery - Tibial,GTEX-11EI6,male,60-69,Slow death,clean_specimens,"2 pieces, trace fat, good specimens",artery_tibial
+GTEX-11EM3-2226,Artery - Tibial,GTEX-11EM3,female,20-29,Ventilator case,,"2 pieces, well trimmed",artery_tibial
+GTEX-11EMC-3026,Artery - Tibial,GTEX-11EMC,female,60-69,Fast death - natural causes,fibrosis,"2 pieces, one section with adherent fibrous tissue up to ~0.5mm, delineated",artery_tibial
+GTEX-11EQ8-0426,Artery - Tibial,GTEX-11EQ8,male,60-69,Slow death,,"2 pieces, well trimmed",artery_tibial
+GTEX-11EQ9-2226,Artery - Tibial,GTEX-11EQ9,male,30-39,Fast death - natural causes,,"2 pieces, nubbin adherent fat on one section, delineated, ~1.5mm",artery_tibial
+GTEX-11GS4-2926,Artery - Tibial,GTEX-11GS4,male,60-69,Fast death - natural causes,"atherosclerosis, calcification, sclerotic","3 pieces, atherosclerosis with narrowing of the lumen by ~50%, medial calcification",artery_tibial
+GTEX-11GSO-2726,Artery - Tibial,GTEX-11GSO,male,60-69,Fast death - natural causes,,"2 pieces, no lesions",artery_tibial
+GTEX-11GSP-2926,Artery - Tibial,GTEX-11GSP,female,60-69,Fast death - natural causes,calcification,"2 pieces; 1 piece heavily [50%] calcified, other focally; fatty external 'tail' on 1 piece",artery_tibial
+GTEX-11H98-0526,Artery - Tibial,GTEX-11H98,male,50-59,Fast death - natural causes,,2 pieces; no fat; no sclerosis,artery_tibial
+GTEX-11I78-2326,Artery - Tibial,GTEX-11I78,female,50-59,Ventilator case,clean_specimens,"2 pieces, clean specimens, no adherent fat",artery_tibial
+GTEX-11ILO-0526,Artery - Tibial,GTEX-11ILO,female,40-49,Ventilator case,calcification,2 pieces; mild medial calcification; no external fat,artery_tibial
+GTEX-11LCK-1426,Artery - Tibial,GTEX-11LCK,male,30-39,Ventilator case,clean_specimens,"2 pieces, clean specimens; no adherent fat",artery_tibial
+GTEX-11NSD-1926,Artery - Tibial,GTEX-11NSD,male,20-29,Ventilator case,clean_specimens,"2 pieces, clean specimens, no adherent fat",artery_tibial
+GTEX-11NUK-0526,Artery - Tibial,GTEX-11NUK,male,50-59,Fast death - natural causes,,"2 pieces, some intimal thickening, 1.1mm attachment of fat",artery_tibial
+GTEX-11NV4-0526,Artery - Tibial,GTEX-11NV4,male,60-69,Fast death - natural causes,"calcification, clean_specimens","2 pieces, excellent specimen, some intimal thickening and small focus of medial calcification",artery_tibial
+GTEX-11O72-0426,Artery - Tibial,GTEX-11O72,male,40-49,Fast death - natural causes,,2 pieces; well trimmed,artery_tibial
+GTEX-11OC5-0426,Artery - Tibial,GTEX-11OC5,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces, clean specimens, minute adherent ~0.5mm nubbin fascial nubbin on one, delineated",artery_tibial
+GTEX-11OF3-2826,Artery - Tibial,GTEX-11OF3,male,60-69,Fast death - natural causes,calcification,2 pieces with medial calcification,artery_tibial
+GTEX-11ONC-2726,Artery - Tibial,GTEX-11ONC,male,60-69,Fast death - natural causes,calcification,3 pieces; prominent calcified plaques,artery_tibial
+GTEX-11P7K-2326,Artery - Tibial,GTEX-11P7K,male,30-39,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-11P81-2726,Artery - Tibial,GTEX-11P81,female,30-39,Ventilator case,,"2 pieces, well trimmed",artery_tibial
+GTEX-11P82-2026,Artery - Tibial,GTEX-11P82,male,20-29,Fast death - violent,clean_specimens,"2 pieces, 2 pieces, clean specimens",artery_tibial
+GTEX-11PRG-0226,Artery - Tibial,GTEX-11PRG,male,50-59,Fast death - natural causes,"monckeberg, sclerotic","2 pieces, pronounced circumferential Monckeberg's medial sclerosis, rep. delineated",artery_tibial
+GTEX-11TT1-2726,Artery - Tibial,GTEX-11TT1,male,20-29,Ventilator case,,2 pieces,artery_tibial
+GTEX-11TTK-0526,Artery - Tibial,GTEX-11TTK,female,60-69,Slow death,calcification,2 pieces; extensive [25%] medial calcification,artery_tibial
+GTEX-11TUW-2926,Artery - Tibial,GTEX-11TUW,male,60-69,Fast death - natural causes,"atherosclerosis, calcification, monckeberg, sclerotic","2 pieces, one piece demonstrates calcific atherosclerosis with narrowing of the lumen, second piece has focal medial calcification (Monckeberg's sclerosis)",artery_tibial
+GTEX-11UD1-0526,Artery - Tibial,GTEX-11UD1,female,40-49,Intermediate death,"calcification, sclerotic","2 pieces, severe medial calcific sclerosis and plaque",artery_tibial
+GTEX-11UD2-0526,Artery - Tibial,GTEX-11UD2,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces, clean specimens; ~0.5mm focal adherent fascia on one, delineated",artery_tibial
+GTEX-11VI4-2026,Artery - Tibial,GTEX-11VI4,female,40-49,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-11WQC-2726,Artery - Tibial,GTEX-11WQC,male,60-69,Fast death - natural causes,,"2 pieces, well trimmed",artery_tibial
+GTEX-11WQK-0926,Artery - Tibial,GTEX-11WQK,male,50-59,Fast death - natural causes,,"2 pieces, peripheral nerve, ~30-40% interstitial fat, switched with 0825",artery_tibial
+GTEX-11XUK-2426,Artery - Tibial,GTEX-11XUK,female,40-49,Ventilator case,,2  pieces; no lesions,artery_tibial
+GTEX-11ZTS-0326,Artery - Tibial,GTEX-11ZTS,female,60-69,Fast death - natural causes,,"2 pieces adherent fascia/connective tissue up to ~0.7mm, delineated",artery_tibial
+GTEX-11ZTT-2726,Artery - Tibial,GTEX-11ZTT,female,60-69,Ventilator case,calcification,"2 pieces, disrupted portions of artery, medial calcification",artery_tibial
+GTEX-11ZU8-2726,Artery - Tibial,GTEX-11ZU8,male,60-69,Slow death,"fibrosis, monckeberg, sclerotic","2 pieces, foci of Monckebergs medial sclerosis, adherent fibrous tissue up to 0.7mm, delineated (rep)",artery_tibial
+GTEX-11ZUS-1326,Artery - Tibial,GTEX-11ZUS,male,30-39,Fast death - violent,,"2 pieces, well trimmed",artery_tibial
+GTEX-11ZVC-2926,Artery - Tibial,GTEX-11ZVC,female,50-59,Fast death - natural causes,,2 pieces; well trimmed of fat; some perivascular stroma present [annotated],artery_tibial
+GTEX-1211K-2426,Artery - Tibial,GTEX-1211K,female,60-69,Ventilator case,clean_specimens,"2 pieces, minimal circumferential fibrous tissue  up to ~0.3mm, good specimens",artery_tibial
+GTEX-12126-0726,Artery - Tibial,GTEX-12126,male,20-29,Fast death - violent,clean_specimens,2 pieces; excellent normal,artery_tibial
+GTEX-1212Z-2826,Artery - Tibial,GTEX-1212Z,male,60-69,Fast death - natural causes,"atherosclerosis, calcification","2 pieces, atherosclerosis, focal medial calcification",artery_tibial
+GTEX-12584-0426,Artery - Tibial,GTEX-12584,male,40-49,Intermediate death,,2 pieces; eccentric fibrofatty plaques; well trimmed,artery_tibial
+GTEX-12696-2726,Artery - Tibial,GTEX-12696,male,60-69,Intermediate death,clean_specimens,"2 pieces, focal adherent fibrous tissue, delineated, good clean specimens",artery_tibial
+GTEX-1269C-2826,Artery - Tibial,GTEX-1269C,female,60-69,Fast death - natural causes,"monckeberg, sclerotic","2 pieces, medial cacific sclerosis (Monckeberg's arteriosclerosis), well trimmed",artery_tibial
+GTEX-1269W-0526,Artery - Tibial,GTEX-1269W,male,60-69,Slow death,,,artery_tibial
+GTEX-12BJ1-2726,Artery - Tibial,GTEX-12BJ1,male,60-69,Ventilator case,clean_specimens,"2 pieces, rim of adherent fibrous tissue, up to ~1mm thick, delineated, generally good specimens",artery_tibial
+GTEX-12C56-2026,Artery - Tibial,GTEX-12C56,male,20-29,Ventilator case,,"2 pieces, no extraneous adipose tissue",artery_tibial
+GTEX-12KS4-1226,Artery - Tibial,GTEX-12KS4,male,30-39,Ventilator case,clean_specimens,"2 pieces, excellent specimens, no atherosis",artery_tibial
+GTEX-12WS9-0526,Artery - Tibial,GTEX-12WS9,female,50-59,Intermediate death,clean_specimens,"2 pieces, clean specimens",artery_tibial
+GTEX-12WSA-0626,Artery - Tibial,GTEX-12WSA,male,60-69,Slow death,clean_specimens,"2 pieces, clean specimens, calcifying atheromatous debris, ~40% occlusive",artery_tibial
+GTEX-12WSB-0526,Artery - Tibial,GTEX-12WSB,female,60-69,Slow death,calcification,2 pieces; extensive medial calcification,artery_tibial
+GTEX-12WSC-0526,Artery - Tibial,GTEX-12WSC,male,50-59,Fast death - natural causes,,"2 pieces, no lesions",artery_tibial
+GTEX-12WSD-0426,Artery - Tibial,GTEX-12WSD,female,60-69,Fast death - natural causes,clean_specimens,"2 pieces, trace adherent fat, delineated; good specimens",artery_tibial
+GTEX-12WSE-0326,Artery - Tibial,GTEX-12WSE,male,20-29,Fast death - natural causes,,"2 pieces; well trimmed, no lesions",artery_tibial
+GTEX-12WSF-0526,Artery - Tibial,GTEX-12WSF,male,70-79,Slow death,"atherosclerosis, calcification","1 piece, lumen subtotally occluded with focally calcified atheromatous deposits",artery_tibial
+GTEX-12WSG-2626,Artery - Tibial,GTEX-12WSG,female,50-59,Ventilator case,,"2 pieces, some intimal thickening",artery_tibial
+GTEX-12WSH-2826,Artery - Tibial,GTEX-12WSH,male,50-59,Fast death - natural causes,,2 pieces; eccentric fibrofatty plaque,artery_tibial
+GTEX-12WSI-2826,Artery - Tibial,GTEX-12WSI,male,50-59,Fast death - natural causes,atherosis,"3 pieces, minimal adherent fat, good specimen, mild atherosis",artery_tibial
+GTEX-12WSJ-1926,Artery - Tibial,GTEX-12WSJ,female,40-49,Ventilator case,,"2 pieces, well trimmed",artery_tibial
+GTEX-12WSK-2726,Artery - Tibial,GTEX-12WSK,female,40-49,Ventilator case,clean_specimens,"2 pieces, clean specimens",artery_tibial
+GTEX-12WSL-2626,Artery - Tibial,GTEX-12WSL,male,50-59,Ventilator case,,"2 pieces; well trimmed, no fatty tissue",artery_tibial
+GTEX-12WSM-0526,Artery - Tibial,GTEX-12WSM,male,60-69,Fast death - natural causes,"calcification, monckeberg, sclerotic","2 pieces, Monckeberg's medial sclerosis/calcifications present, rep delineated",artery_tibial
+GTEX-12WSN-2726,Artery - Tibial,GTEX-12WSN,male,40-49,Ventilator case,calcification,"2 pieces, small intimal calcifications (outlined); no plaques",artery_tibial
+GTEX-12ZZW-0426,Artery - Tibial,GTEX-12ZZW,male,50-59,Slow death,clean_specimens,"2 pieces, nubbin of adherent fibroadipose tissue on one section, delineated; o/w good specimens",artery_tibial
+GTEX-12ZZX-0526,Artery - Tibial,GTEX-12ZZX,female,40-49,Fast death - violent,clean_specimens,"2 pieces, no fat or atherosis; good specimens",artery_tibial
+GTEX-12ZZY-0526,Artery - Tibial,GTEX-12ZZY,male,60-69,Fast death - natural causes,"atherosis, monckeberg, sclerotic","2 pieces, rep foci of Monckeberg's medial sclerosis delineated; minimal atherosis.",artery_tibial
+GTEX-12ZZZ-0426,Artery - Tibial,GTEX-12ZZZ,male,60-69,Fast death - natural causes,calcification,2 pieces; focal plaques and calcium deposits; well trimmed of external fat,artery_tibial
+GTEX-13111-2126,Artery - Tibial,GTEX-13111,male,50-59,Ventilator case,,3 pieces; 1 represents fibrovascular and adipose tissue; vein attached to 1 artery (labeled),artery_tibial
+GTEX-13112-2526,Artery - Tibial,GTEX-13112,male,50-59,Fast death - natural causes,,"2 pieces; well trimmed, no lesions",artery_tibial
+GTEX-13113-2126,Artery - Tibial,GTEX-13113,female,60-69,Ventilator case,clean_specimens,"2 pieces, no adherent fat, excellent specimens. One section near bifurcation of smaller vessel.",artery_tibial
+GTEX-1313W-0426,Artery - Tibial,GTEX-1313W,female,50-59,Fast death - natural causes,,2 pieces,artery_tibial
+GTEX-1314G-1926,Artery - Tibial,GTEX-1314G,male,30-39,Ventilator case,,2 pieces; no lesions; no fat,artery_tibial
+GTEX-131XE-2626,Artery - Tibial,GTEX-131XE,male,50-59,Ventilator case,,2 pieces; well trimmed; no external fat,artery_tibial
+GTEX-131XF-2526,Artery - Tibial,GTEX-131XF,male,60-69,Ventilator case,calcification,4 pieces; mural calcifications; well trimmed,artery_tibial
+GTEX-131XG-2226,Artery - Tibial,GTEX-131XG,female,50-59,Ventilator case,atherosis,"1 pieces, muscular artery as with 2225; partially occlusive atherosis, ~50%",artery_tibial
+GTEX-131XH-2426,Artery - Tibial,GTEX-131XH,male,50-59,Fast death - natural causes,clean_specimens,"4 pieces, clean specimens; no adherent fat",artery_tibial
+GTEX-131XW-0226,Artery - Tibial,GTEX-131XW,female,50-59,Slow death,"atherosclerosis, calcification, sclerotic","2 pieces, atherosclerosis and medial calcific sclerosis",artery_tibial
+GTEX-131YS-0426,Artery - Tibial,GTEX-131YS,female,60-69,Fast death - natural causes,,2 pieces; some intimal thickening,artery_tibial
+GTEX-132AR-0726,Artery - Tibial,GTEX-132AR,female,50-59,Ventilator case,,"2 pieces; well trimmed, no lesions",artery_tibial
+GTEX-132NY-0626,Artery - Tibial,GTEX-132NY,male,60-69,Fast death - violent,clean_specimens,"2 pieces, clean specimens, no adherent fat",artery_tibial
+GTEX-132Q8-0526,Artery - Tibial,GTEX-132Q8,male,60-69,Slow death,"calcification, sclerotic",2 pieces; medial calcific sclerosis,artery_tibial
+GTEX-132QS-2326,Artery - Tibial,GTEX-132QS,male,60-69,Ventilator case,"calcification, clean_specimens, monckeberg, sclerotic","2 pieces, clean specimens; focal Monckeberg medial sclerosis, rep foci delineated (calcifications), excellent specimens",artery_tibial
+GTEX-1339X-2626,Artery - Tibial,GTEX-1339X,male,40-49,Ventilator case,calcification,2 pieces; moderate to severe medial calcification; well dissected,artery_tibial
+GTEX-133LE-2226,Artery - Tibial,GTEX-133LE,female,20-29,Ventilator case,,2 pieces; no lesions; well dissected,artery_tibial
+GTEX-1399Q-1026,Artery - Tibial,GTEX-1399Q,male,40-49,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-1399R-2326,Artery - Tibial,GTEX-1399R,male,30-39,Ventilator case,,2 pieces; well dissected,artery_tibial
+GTEX-1399S-2626,Artery - Tibial,GTEX-1399S,female,30-39,Ventilator case,"monckeberg, sclerotic","2 pieces clean specimens; focal Monckeberg medial sclerosis, encircled",artery_tibial
+GTEX-1399T-2626,Artery - Tibial,GTEX-1399T,male,60-69,Fast death - natural causes,"atherosclerosis, sclerotic","2 pieces; ? orientation, intimal thickening and atherosclerosis with few scattered minute calcium deposits, 1.37mm attached fat",artery_tibial
+GTEX-1399U-2726,Artery - Tibial,GTEX-1399U,female,50-59,Ventilator case,clean_specimens,"2 pieces,  clean specimens",artery_tibial
+GTEX-139D8-0426,Artery - Tibial,GTEX-139D8,female,30-39,Ventilator case,,2 pieces,artery_tibial
+GTEX-139T4-0526,Artery - Tibial,GTEX-139T4,female,50-59,Intermediate death,calcification,2 pieces; calcified plaques,artery_tibial
+GTEX-139T6-1826,Artery - Tibial,GTEX-139T6,male,50-59,Ventilator case,clean_specimens,"2 pieces, no atherosis, minimal adherent fibrous tissue, clean specimen",artery_tibial
+GTEX-139T8-0426,Artery - Tibial,GTEX-139T8,male,60-69,Slow death,"monckeberg, sclerotic","2 pieces, minimal-absent atherosis, Monckeberg's medial sclerosis, delineated (rep)",artery_tibial
+GTEX-139TS-2426,Artery - Tibial,GTEX-139TS,male,60-69,Fast death - natural causes,,"2 pieces; relatively well trimmed, small attachment of fat and nerve on one piece,",artery_tibial
+GTEX-139TT-0526,Artery - Tibial,GTEX-139TT,male,60-69,Fast death - natural causes,,2 pieces; 1 has external fibrofatty tissue [annotated],artery_tibial
+GTEX-139TU-0426,Artery - Tibial,GTEX-139TU,male,60-69,Intermediate death,atherosclerosis,2 pieces; intimal thickening/early atherosclerosis,artery_tibial
+GTEX-139UC-2726,Artery - Tibial,GTEX-139UC,male,60-69,Fast death - natural causes,"atherosis, calcification","2 pieces adhrent fat/fibrous tissue up to ~2mm, marked calcified atherosis",artery_tibial
+GTEX-139UW-2526,Artery - Tibial,GTEX-139UW,male,60-69,Fast death - natural causes,,2 pieces; 10% external fat on 1 piece,artery_tibial
+GTEX-139YR-2726,Artery - Tibial,GTEX-139YR,male,50-59,Ventilator case,calcification,"2 pieces; well trimmed, minute focus of calcification in one piece",artery_tibial
+GTEX-13CF2-2926,Artery - Tibial,GTEX-13CF2,male,60-69,Fast death - natural causes,,"2 pieces, adherent fat up to ~2mm delineated",artery_tibial
+GTEX-13CF3-2226,Artery - Tibial,GTEX-13CF3,female,60-69,Ventilator case,calcification,2 pieces; focal medial calcification,artery_tibial
+GTEX-13CIG-0426,Artery - Tibial,GTEX-13CIG,male,50-59,Fast death - natural causes,,3 pieces; eccentric fibrous plaques; up to 1 mm external fat,artery_tibial
+GTEX-13CZU-1626,Artery - Tibial,GTEX-13CZU,male,20-29,Ventilator case,calcification,2 pieces; several minute (56um) subintimal calcific deposits; otherwise no plaques; well dissected,artery_tibial
+GTEX-13CZV-0526,Artery - Tibial,GTEX-13CZV,male,60-69,Fast death - natural causes,,2 pieces; well trimmed,artery_tibial
+GTEX-13D11-2726,Artery - Tibial,GTEX-13D11,female,50-59,Ventilator case,clean_specimens,"4 pieces, adherent fat, excellent specimens",artery_tibial
+GTEX-13FH7-2326,Artery - Tibial,GTEX-13FH7,female,50-59,Ventilator case,"atherosclerosis, calcification, sclerotic",2 pieces; calcific atherosclerosis and medial calcification,artery_tibial
+GTEX-13FHO-0626,Artery - Tibial,GTEX-13FHO,male,60-69,Ventilator case,"atherosclerosis, calcification, sclerotic",2 pieces; calcific atherosclerosis and some medial calcification,artery_tibial
+GTEX-13FHP-0426,Artery - Tibial,GTEX-13FHP,male,50-59,Slow death,,2 pieces; well trimmed; no lesions,artery_tibial
+GTEX-13FLV-2526,Artery - Tibial,GTEX-13FLV,male,50-59,Fast death - natural causes,"atherosclerosis, calcification, sclerotic",2 pieces; medial calcification and calcific atherosclerosis with ossification,artery_tibial
+GTEX-13FLW-1926,Artery - Tibial,GTEX-13FLW,male,50-59,Fast death - natural causes,"atherosclerosis, sclerotic","2 pieces; well trimmed, mild atherosclerosis",artery_tibial
+GTEX-13FTW-2226,Artery - Tibial,GTEX-13FTW,male,40-49,Ventilator case,"atherosclerosis, sclerotic",2 pieces; intimal thickening and early atherosclerosis,artery_tibial
+GTEX-13FTX-2226,Artery - Tibial,GTEX-13FTX,female,20-29,Ventilator case,,"2 pieces; well trimmed, small fragment of skeletal muscle",artery_tibial
+GTEX-13FTY-0426,Artery - Tibial,GTEX-13FTY,female,40-49,Fast death - natural causes,"atherosclerosis, sclerotic",2 pieces; intimal thickening and early atherosclerotic change,artery_tibial
+GTEX-13FTZ-2126,Artery - Tibial,GTEX-13FTZ,male,60-69,Fast death - natural causes,,"2 pieces; intimal thickening, small attachment of fat",artery_tibial
+GTEX-13FXS-0526,Artery - Tibial,GTEX-13FXS,male,50-59,Fast death - natural causes,"atherosclerosis, calcification, sclerotic",3 pieces; severe calcific atherosclerosis with profound narrowing of the lumen,artery_tibial
+GTEX-13G51-2926,Artery - Tibial,GTEX-13G51,male,60-69,Fast death - natural causes,,2 pieces; well trimmed; intimal thickening,artery_tibial
+GTEX-13IVO-0526,Artery - Tibial,GTEX-13IVO,male,70-79,Slow death,"atherosclerosis, calcification",2 pieces; arteriosclerosis with intimal and medial calcifications,artery_tibial
+GTEX-13JUV-2426,Artery - Tibial,GTEX-13JUV,female,40-49,Ventilator case,"atherosclerosis, calcification, sclerotic","2 pieces; early atherosclerosis, medial calcific sclerosis, both include attachment of fat/vein (up to 40%)",artery_tibial
+GTEX-13JVG-0426,Artery - Tibial,GTEX-13JVG,male,60-69,Fast death - natural causes,"atherosclerosis, sclerotic","2 pieces; fragmented, calcific atherosclerosis, small attached portion of fat",artery_tibial
+GTEX-13N11-2926,Artery - Tibial,GTEX-13N11,female,50-59,Ventilator case,,2 pieces; artery with significant attachment of veins and adipose tissue (30 and 80%),artery_tibial
+GTEX-13N1W-0326,Artery - Tibial,GTEX-13N1W,male,70-79,Ventilator case,,2 pieces; intimal thickening/early plaque formation,artery_tibial
+GTEX-13N2G-2526,Artery - Tibial,GTEX-13N2G,male,60-69,Fast death - natural causes,,2 pieces; well trimmed with adventitia,artery_tibial
+GTEX-13NYB-2926,Artery - Tibial,GTEX-13NYB,male,40-49,Fast death - natural causes,clean_specimens,"2 pieces, no fat, excellent clean specimens",artery_tibial
+GTEX-13NYC-0826,Artery - Tibial,GTEX-13NYC,male,60-69,Fast death - natural causes,"atherosclerosis, sclerotic",2 pieces; well trimmed with mild atherosclerotic changes,artery_tibial
+GTEX-13NYS-0526,Artery - Tibial,GTEX-13NYS,male,60-69,Slow death,"atherosclerosis, sclerotic",2 pieces; atherosclerotic plaque 40% and 10%; blood clot in lumen; well trimmed,artery_tibial
+GTEX-13NZ8-1626,Artery - Tibial,GTEX-13NZ8,female,60-69,Slow death,"atherosclerosis, calcification",2 pieces; extensive calcified atheromatous plaque,artery_tibial
+GTEX-13NZ9-0826,Artery - Tibial,GTEX-13NZ9,male,50-59,Ventilator case,clean_specimens,"2 pieces, clean sections, no fat",artery_tibial
+GTEX-13NZA-0426,Artery - Tibial,GTEX-13NZA,male,60-69,Fast death - natural causes,"atherosclerosis, calcification, sclerotic","2 pieces; atherosclerosis, medial calcific sclerosis",artery_tibial
+GTEX-13NZB-2226,Artery - Tibial,GTEX-13NZB,male,30-39,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-13O1R-0326,Artery - Tibial,GTEX-13O1R,male,60-69,Fast death - natural causes,,2 pieces; well trimmed; no lesions,artery_tibial
+GTEX-13O21-2526,Artery - Tibial,GTEX-13O21,male,50-59,Ventilator case,,"2 pieces, no adherent fat",artery_tibial
+GTEX-13O3O-0426,Artery - Tibial,GTEX-13O3O,female,60-69,Intermediate death,,2 pieces; no lesions; well trimmed,artery_tibial
+GTEX-13O3P-0526,Artery - Tibial,GTEX-13O3P,male,50-59,Slow death,,2 pieces; no plaques,artery_tibial
+GTEX-13O3Q-2526,Artery - Tibial,GTEX-13O3Q,male,50-59,Fast death - natural causes,,2 pieces; no plaques,artery_tibial
+GTEX-13O61-2526,Artery - Tibial,GTEX-13O61,male,60-69,Ventilator case,calcification,2 pieces; heavily calcified artery,artery_tibial
+GTEX-13OVG-2326,Artery - Tibial,GTEX-13OVG,male,60-69,Ventilator case,,"2 pieces, adherent rims of fat/peripheral nerve, ~1.5-2mm, delineated",artery_tibial
+GTEX-13OVH-0426,Artery - Tibial,GTEX-13OVH,male,70-79,Fast death - natural causes,clean_specimens,"2 pieces, clean specimens; no significant atherosis",artery_tibial
+GTEX-13OVI-1626,Artery - Tibial,GTEX-13OVI,female,60-69,Ventilator case,"atherosis, calcification","2 pieces, good clean specimens, subtotally occlusive atherosis, extensive dystrophic calcification",artery_tibial
+GTEX-13OVJ-0526,Artery - Tibial,GTEX-13OVJ,female,50-59,Fast death - natural causes,"atherosclerosis, calcification, sclerotic","2 pieces; minimal atherosclerosis, calcification",artery_tibial
+GTEX-13OVK-1726,Artery - Tibial,GTEX-13OVK,male,40-49,Ventilator case,,2 pieces; well dissected,artery_tibial
+GTEX-13OVL-1326,Artery - Tibial,GTEX-13OVL,male,50-59,Fast death - natural causes,calcification,2 pieces; well dissected; very small focal intimal calcifications,artery_tibial
+GTEX-13OW5-0426,Artery - Tibial,GTEX-13OW5,male,60-69,Intermediate death,"atherosis, clean_specimens","2 pieces, excellent clean specimens; ~10% luminal atherotic occlusion in one section, delineated",artery_tibial
+GTEX-13OW6-0326,Artery - Tibial,GTEX-13OW6,male,50-59,Fast death - natural causes,,2 pieces; no adherent fat,artery_tibial
+GTEX-13OW7-0626,Artery - Tibial,GTEX-13OW7,male,50-59,Fast death - natural causes,"clean_specimens, monckeberg, sclerotic","2 pieces, excellent clean specimens; focal Monckeberg medial sclerosis delineated; no significant atherosis noted",artery_tibial
+GTEX-13OW8-1626,Artery - Tibial,GTEX-13OW8,male,60-69,Fast death - natural causes,"atherosclerosis, calcification, sclerotic","2 pieces; medial calcific sclerosis, mild atherosclerosis",artery_tibial
+GTEX-13PDP-0526,Artery - Tibial,GTEX-13PDP,male,60-69,Slow death,"atherosclerosis, calcification, sclerotic","2 pieces; atherosclerosis, medial calcific sclerosis",artery_tibial
+GTEX-13PL6-0526,Artery - Tibial,GTEX-13PL6,female,40-49,Intermediate death,clean_specimens,"2 pieces, no atherosis; good clean specimens, no adherent fat",artery_tibial
+GTEX-13PL7-2126,Artery - Tibial,GTEX-13PL7,female,60-69,Ventilator case,,"2 pieces, adherent rim of fibrous tissue  up to ~2mm, delineated (rep)",artery_tibial
+GTEX-13PLJ-0526,Artery - Tibial,GTEX-13PLJ,female,60-69,Fast death - natural causes,,2 pieces; no plaques; well trimmed,artery_tibial
+GTEX-13PVQ-0526,Artery - Tibial,GTEX-13PVQ,male,50-59,Fast death - natural causes,calcification,2 pieces; well trimmed; minimal plaque; focal calcification,artery_tibial
+GTEX-13PVR-2726,Artery - Tibial,GTEX-13PVR,female,60-69,Ventilator case,clean_specimens,"2 pieces, clean specimen, no atherosis",artery_tibial
+GTEX-13QBU-2226,Artery - Tibial,GTEX-13QBU,female,40-49,Ventilator case,clean_specimens,"2 pieces, no atherosis, good clean specimen",artery_tibial
+GTEX-13QIC-1626,Artery - Tibial,GTEX-13QIC,female,60-69,Fast death - natural causes,"atherosclerosis, calcification, sclerotic","2 pieces; fragmented secondary to severe calcification, atherosclerosis",artery_tibial
+GTEX-13QJ3-0626,Artery - Tibial,GTEX-13QJ3,male,50-59,Ventilator case,"clean_specimens, monckeberg, sclerotic","2 pieces, focal Monckberg's medial sclerosis, delineated; no significant atherosis; good clean specimens",artery_tibial
+GTEX-13QJC-2526,Artery - Tibial,GTEX-13QJC,female,60-69,Fast death - natural causes,,2 pieces; well trimmed; no plaques; thick fibrous adventitia (up to 0.3mm),artery_tibial
+GTEX-13RTJ-2626,Artery - Tibial,GTEX-13RTJ,male,60-69,Slow death,"atherosis, monckeberg, sclerotic","2 pieces, ~10% occlusive atherosis; Monckeberg medial sclerosis, encircled; adherent rims of fibrous tissue up to ~1mm, delineated",artery_tibial
+GTEX-13RTK-1826,Artery - Tibial,GTEX-13RTK,male,20-29,Ventilator case,clean_specimens,"2 pieces, clean specimens, , no atherosis",artery_tibial
+GTEX-13RTL-0426,Artery - Tibial,GTEX-13RTL,male,40-49,Slow death,"atherosclerosis, calcification, sclerotic","2 pieces; one is fragmented due to calcification, atherosclerosis with narrowing of the lumen by >50%",artery_tibial
+GTEX-13S7M-0526,Artery - Tibial,GTEX-13S7M,female,60-69,Fast death - natural causes,calcification,2 pieces; 40% calcification,artery_tibial
+GTEX-13S86-2526,Artery - Tibial,GTEX-13S86,male,40-49,Ventilator case,calcification,2 pieces; well dissected; small focus of calcium; no plaque,artery_tibial
+GTEX-13SLW-0526,Artery - Tibial,GTEX-13SLW,male,70-79,Fast death - natural causes,"atherosis, monckeberg, sclerotic","2 pieces, ~50% occlusive atherosis, delineated; focal Monckberg medial sclerosis, encircled",artery_tibial
+GTEX-13SLX-0226,Artery - Tibial,GTEX-13SLX,female,50-59,Fast death - natural causes,,2 pieces; attached adventitia up to 1mm; focal intimal thickening,artery_tibial
+GTEX-13U4I-0426,Artery - Tibial,GTEX-13U4I,female,40-49,Ventilator case,clean_specimens,"2 pieces, nubbin of adherent fat on one section, ~0.6mm, delineated.  No significant atherosis; good specimens",artery_tibial
+GTEX-13VXT-0526,Artery - Tibial,GTEX-13VXT,female,20-29,Ventilator case,,2 pieces; external fat occupies 70% & 50%,artery_tibial
+GTEX-13VXU-0526,Artery - Tibial,GTEX-13VXU,male,50-59,Fast death - natural causes,,2 pieces; well trimmed; few very small foci of calcium,artery_tibial
+GTEX-13W3W-2826,Artery - Tibial,GTEX-13W3W,female,60-69,Ventilator case,atherosis,"2 pieces, disrupted sections, minimal atherosis",artery_tibial
+GTEX-13W46-0626,Artery - Tibial,GTEX-13W46,male,50-59,Ventilator case,calcification,2 pieces; well trimmed with medial calcification in one section,artery_tibial
+GTEX-13X6H-2526,Artery - Tibial,GTEX-13X6H,female,50-59,Ventilator case,calcification,2 pieces; well trimmed; small foci of medial calcification,artery_tibial
+GTEX-13X6I-0226,Artery - Tibial,GTEX-13X6I,male,60-69,Slow death,sclerotic,2 pieces; arteriosclerosis,artery_tibial
+GTEX-13X6J-0526,Artery - Tibial,GTEX-13X6J,male,50-59,Fast death - natural causes,"calcification, sclerotic",2 pieces; fibrosclerotic plaque and medial calcifications (outlined),artery_tibial
+GTEX-13X6K-0526,Artery - Tibial,GTEX-13X6K,female,60-69,Slow death,clean_specimens,"2 pieces, clean, no atherosis",artery_tibial
+GTEX-13YAN-0726,Artery - Tibial,GTEX-13YAN,male,60-69,Ventilator case,"monckeberg, sclerotic","2 pieces, excellent clean specimens; no atherosis; foci of Monckeberg's medial sclerosis, rep delineated",artery_tibial
+GTEX-1445S-0226,Artery - Tibial,GTEX-1445S,male,60-69,Intermediate death,"atherosis, calcification","2 pieces, occlusive atherosis, focally calcified, delineated",artery_tibial
+GTEX-144FL-0526,Artery - Tibial,GTEX-144FL,male,50-59,Fast death - natural causes,"atherosis, calcification","2 pieces, ~60% occlusive focally calcified atherosis",artery_tibial
+GTEX-144GL-0526,Artery - Tibial,GTEX-144GL,male,50-59,Fast death - natural causes,,2 pieces; well trimmed; no plaque,artery_tibial
+GTEX-144GM-2226,Artery - Tibial,GTEX-144GM,male,20-29,Ventilator case,clean_specimens,"2 pieces, excellent clean specimen",artery_tibial
+GTEX-144GN-2626,Artery - Tibial,GTEX-144GN,male,50-59,Ventilator case,,2 pieces; well trimmed; minimal plaque,artery_tibial
+GTEX-144GO-1026,Artery - Tibial,GTEX-144GO,male,60-69,Slow death,calcification,2 pieces; fibrous plaque and small medial calcifications (outlined),artery_tibial
+GTEX-145LS-0426,Artery - Tibial,GTEX-145LS,female,60-69,Slow death,,2 pieces; no plaques; microcalcification; well trimmed,artery_tibial
+GTEX-145LT-2026,Artery - Tibial,GTEX-145LT,male,40-49,Ventilator case,clean_specimens,"2 pieces, generally clean, minute nubbin adherent fat, ~0.5mm",artery_tibial
+GTEX-145LU-0826,Artery - Tibial,GTEX-145LU,male,50-59,Fast death - natural causes,calcification,2 pieces; focal medial and intimal calcifications,artery_tibial
+GTEX-145LV-2426,Artery - Tibial,GTEX-145LV,male,50-59,Ventilator case,,"2 pieces; several arteries, some with some without plaques",artery_tibial
+GTEX-145ME-2226,Artery - Tibial,GTEX-145ME,female,40-49,Ventilator case,clean_specimens,"2 pieces, good clean specimens, no adherent fat, no atherosis",artery_tibial
+GTEX-145MF-0426,Artery - Tibial,GTEX-145MF,male,50-59,Fast death - natural causes,atherosis,"2 pieces, ~50% occlusive atherosis, delineated; good clean specimens",artery_tibial
+GTEX-145MG-0326,Artery - Tibial,GTEX-145MG,male,50-59,Fast death - natural causes,"atherosclerosis, calcification",2 pieces; large eccentric atheromatous plaques; moderate medial calcification; well trimmed,artery_tibial
+GTEX-145MH-1526,Artery - Tibial,GTEX-145MH,male,50-59,Fast death - violent,atherosis,2 pieces; mild atherosis,artery_tibial
+GTEX-145MI-0126,Artery - Tibial,GTEX-145MI,female,60-69,Fast death - natural causes,,2 pieces; large plaques; well trimmed,artery_tibial
+GTEX-145MN-2326,Artery - Tibial,GTEX-145MN,male,30-39,Ventilator case,,1 piece; well trimmed,artery_tibial
+GTEX-145MO-0626,Artery - Tibial,GTEX-145MO,male,60-69,Intermediate death,"monckeberg, sclerotic","2 pieces, prominent Monckeberg medical sclerosis, delineated",artery_tibial
+GTEX-146FH-0426,Artery - Tibial,GTEX-146FH,female,50-59,Ventilator case,,2 pieces; no plaques; well trimmed,artery_tibial
+GTEX-146FQ-0526,Artery - Tibial,GTEX-146FQ,male,30-39,Ventilator case,,2 pieces: adventitia measures up to 0.8mm,artery_tibial
+GTEX-146FR-1626,Artery - Tibial,GTEX-146FR,female,60-69,Ventilator case,,"2 pieces adherent fat/fibrous tissue up to ~2mm, delineated",artery_tibial
+GTEX-14753-0226,Artery - Tibial,GTEX-14753,male,60-69,Slow death,calcification,2 pieces; well trimmed; no plaques; minute calcium deposit,artery_tibial
+GTEX-1477Z-1426,Artery - Tibial,GTEX-1477Z,male,60-69,Slow death,"atherosis, clean_specimens, monckeberg, sclerotic","2 pieces, clean specimens, ~20-30% occlusive atherosis; foci of Monckeberg's sclerosis, delineated",artery_tibial
+GTEX-147F3-0426,Artery - Tibial,GTEX-147F3,female,50-59,Ventilator case,calcification,"2 pieces; 40-60% contaminating tissues, attached 3.2mm x 3.3mm portion of skeletal muscle on one piece, medial calcification (outlined), attached fat, vein, nerve, pacinian corpuscle",artery_tibial
+GTEX-147F4-0126,Artery - Tibial,GTEX-147F4,male,50-59,Fast death - natural causes,fibrosis,"2 pieces, adherent nubbin of fibrous tissue up to ~1mm",artery_tibial
+GTEX-147GR-0326,Artery - Tibial,GTEX-147GR,male,60-69,Fast death - natural causes,,2 pieces; well trimmed; minimal plaque,artery_tibial
+GTEX-147JS-0726,Artery - Tibial,GTEX-147JS,male,60-69,Fast death - natural causes,clean_specimens,"2 pieces, no atherosis, clean specimens",artery_tibial
+GTEX-148VI-1926,Artery - Tibial,GTEX-148VI,female,60-69,Ventilator case,,2 pieces; includes adjacent vein and attached fat (1.3mm),artery_tibial
+GTEX-148VJ-0426,Artery - Tibial,GTEX-148VJ,male,70-79,Fast death - natural causes,"atherosis, monckeberg, sclerotic","2 pieces, prominent Monckeberg medial sclerosis, rep delineated; ~40% occlusve atherosis",artery_tibial
+GTEX-1497J-2026,Artery - Tibial,GTEX-1497J,male,60-69,Ventilator case,"monckeberg, sclerotic","3 pieces, generally clean sections; Monckebergs medial sclerosis, rep foci delineated",artery_tibial
+GTEX-14A5H-0226,Artery - Tibial,GTEX-14A5H,male,60-69,Fast death - natural causes,"atherosis, calcification","3 pieces, focally calcified partially (~40-50%)occlusive atherosis, rep delineated",artery_tibial
+GTEX-14A5I-0526,Artery - Tibial,GTEX-14A5I,female,50-59,Slow death,clean_specimens,"2 pieces, generally clean sections, no atherosis",artery_tibial
+GTEX-14A6H-2726,Artery - Tibial,GTEX-14A6H,male,30-39,Ventilator case,,2 pieces,artery_tibial
+GTEX-14ABY-0526,Artery - Tibial,GTEX-14ABY,male,50-59,Fast death - natural causes,"atherosclerosis, sclerotic",2 pieces; moderate atherosclerosis; well trimmed,artery_tibial
+GTEX-14AS3-2326,Artery - Tibial,GTEX-14AS3,female,40-49,Ventilator case,atherosis,2 pieces; atherosis,artery_tibial
+GTEX-14ASI-0426,Artery - Tibial,GTEX-14ASI,male,60-69,Fast death - natural causes,calcification,2 pieces; 1 with large calcified deposit; well trimmed,artery_tibial
+GTEX-14B4R-2026,Artery - Tibial,GTEX-14B4R,male,30-39,Ventilator case,,2 pieces; focal minimal intimal thickening,artery_tibial
+GTEX-14BIL-0526,Artery - Tibial,GTEX-14BIL,male,50-59,Fast death - natural causes,,2 pieces; eccentric plaque; 30% external fat,artery_tibial
+GTEX-14BIM-0526,Artery - Tibial,GTEX-14BIM,female,60-69,Intermediate death,atherosis,"2 pieces, clean sections, minimal atherosis",artery_tibial
+GTEX-14BIN-0926,Artery - Tibial,GTEX-14BIN,female,50-59,Fast death - natural causes,calcification,2 pieces; mild plaque; prominent medial calcium deposits in 1.,artery_tibial
+GTEX-14BMU-2426,Artery - Tibial,GTEX-14BMU,female,20-29,Ventilator case,clean_specimens,"2 pieces, clean sections, no atherosis",artery_tibial
+GTEX-14BMV-0526,Artery - Tibial,GTEX-14BMV,male,50-59,Fast death - natural causes,,2 pieces; no plaques,artery_tibial
+GTEX-14C38-0526,Artery - Tibial,GTEX-14C38,male,50-59,Ventilator case,"clean_specimens, monckeberg, sclerotic","2 pieces, no atherosis; focal Monckeberg medial sclerosis, delineated, clean sections",artery_tibial
+GTEX-14C39-2626,Artery - Tibial,GTEX-14C39,male,40-49,Fast death - natural causes,"atherosis, clean_specimens","2 pieces, clean, minimal atherosis, good specimen",artery_tibial
+GTEX-14C5O-0526,Artery - Tibial,GTEX-14C5O,male,60-69,Slow death,,2 pieces; intimal thickening,artery_tibial
+GTEX-14DAQ-0526,Artery - Tibial,GTEX-14DAQ,female,60-69,Slow death,clean_specimens,"2 pieces, clean specimens",artery_tibial
+GTEX-14DAR-2126,Artery - Tibial,GTEX-14DAR,male,50-59,Ventilator case,clean_specimens,"3  pieces, no atherosis, clean specimens",artery_tibial
+GTEX-14E1K-2526,Artery - Tibial,GTEX-14E1K,male,50-59,Ventilator case,"clean_specimens, monckeberg, sclerotic","2 pieces, clean specimens,  Monckeberg medial sclerosis, focus delineated",artery_tibial
+GTEX-14E6C-1126,Artery - Tibial,GTEX-14E6C,male,40-49,Slow death,calcification,2 pieces; no lesions except for minute (50um) calcium  deposit; well trimmed,artery_tibial
+GTEX-14E6D-0426,Artery - Tibial,GTEX-14E6D,male,50-59,Fast death - natural causes,calcification,2 pieces; early plaque formation; focal calcification; attached adventitia with accessory vessels,artery_tibial
+GTEX-14E6E-2126,Artery - Tibial,GTEX-14E6E,male,30-39,Ventilator case,,2 pieces; well trimmed; no lesions,artery_tibial
+GTEX-14E7W-0526,Artery - Tibial,GTEX-14E7W,male,70-79,Fast death - natural causes,"atherosclerosis, calcification",2 pieces; significant medial calcifications and atheromatous plaque with  luminal obliteration (less than 25%),artery_tibial
+GTEX-14H4A-0726,Artery - Tibial,GTEX-14H4A,female,40-49,Ventilator case,,2 pieces; focal intimal thickening,artery_tibial
+GTEX-14ICK-0626,Artery - Tibial,GTEX-14ICK,male,40-49,Ventilator case,,2 pieces; well trimmed; eccentric plaque,artery_tibial
+GTEX-14ICL-1826,Artery - Tibial,GTEX-14ICL,male,30-39,Ventilator case,clean_specimens,"2 pieces, no significant atherosis, clean specimens",artery_tibial
+GTEX-14JFF-0526,Artery - Tibial,GTEX-14JFF,male,60-69,Slow death,"atherosis, calcification, monckeberg, sclerotic","2 pieces, extensive dystrophic calcification, Monckeberg sclerosis, minimal atherosis",artery_tibial
+GTEX-14JG1-0326,Artery - Tibial,GTEX-14JG1,male,40-49,Fast death - natural causes,,2 pieces; no plaques; well  trimmed,artery_tibial
+GTEX-14JG6-2026,Artery - Tibial,GTEX-14JG6,female,30-39,Ventilator case,,2 pieces; no lesions,artery_tibial
+GTEX-14JIY-0226,Artery - Tibial,GTEX-14JIY,male,60-69,Fast death - natural causes,,"2 pieces, adherent nubbins of fat up to ~1mm, adherent vein in one section, ensquared",artery_tibial
+GTEX-14LLW-0426,Artery - Tibial,GTEX-14LLW,female,70-79,Slow death,calcification,2 pieces; 1 mm mural calcification; no plaques; well trimmed,artery_tibial
+GTEX-14LZ3-0526,Artery - Tibial,GTEX-14LZ3,female,60-69,Intermediate death,,2 pieces; includes attached fat and vein,artery_tibial
+GTEX-14PHW-0626,Artery - Tibial,GTEX-14PHW,female,60-69,Slow death,,2 pieces fragemnt of fibrous tissue--not target GTEx tissue,artery_tibial
+GTEX-14PHX-2626,Artery - Tibial,GTEX-14PHX,male,50-59,Ventilator case,,"2 pieces; well trimmed, no plaques",artery_tibial
+GTEX-14PHY-2726,Artery - Tibial,GTEX-14PHY,female,60-69,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-14PII-0526,Artery - Tibial,GTEX-14PII,male,60-69,Slow death,clean_specimens,"2 pieces, no atherosis, clean specimens",artery_tibial
+GTEX-14PJ2-0526,Artery - Tibial,GTEX-14PJ2,male,50-59,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-14PJ3-2126,Artery - Tibial,GTEX-14PJ3,male,50-59,Ventilator case,calcification,"2 pieces; one piece includes 25% attachment of fat/extraneous tissue, trivial calcification",artery_tibial
+GTEX-14PJ4-2626,Artery - Tibial,GTEX-14PJ4,male,60-69,Ventilator case,"atherosclerosis, calcification, sclerotic",2 pieces; calcific atherosclerosis and medial calcification,artery_tibial
+GTEX-14PJ5-1926,Artery - Tibial,GTEX-14PJ5,female,60-69,Ventilator case,clean_specimens,"2 pieces, no atherosis, no adherent fat, clean specimens",artery_tibial
+GTEX-14PJ6-2526,Artery - Tibial,GTEX-14PJ6,female,60-69,Ventilator case,clean_specimens,"2 pieces, good clean sections, no adherent fat, no atherosis",artery_tibial
+GTEX-14PJM-0626,Artery - Tibial,GTEX-14PJM,female,50-59,Fast death - natural causes,,2 pieces; well trimmed; no lesions,artery_tibial
+GTEX-14PJN-2226,Artery - Tibial,GTEX-14PJN,male,30-39,Ventilator case,clean_specimens,"2 pieces, clean specimens",artery_tibial
+GTEX-14PJO-0426,Artery - Tibial,GTEX-14PJO,male,60-69,Slow death,,2 pieces; well dissected; no lesions,artery_tibial
+GTEX-14PJP-0526,Artery - Tibial,GTEX-14PJP,male,20-29,Ventilator case,,2 pieces; portion of vessel wall,artery_tibial
+GTEX-14PK6-2326,Artery - Tibial,GTEX-14PK6,female,70-79,Ventilator case,"atherosis, calcification","2 pieces, mild atherosis, focally calcified (delineated); rim of fibrous tissue up to ~1.5mm",artery_tibial
+GTEX-14PKU-2226,Artery - Tibial,GTEX-14PKU,female,40-49,Ventilator case,,"2 pieces, small muscular artery, partial rim of adherent fibrous tissue up to ~1.5mm, delineated. Switched with 2125",artery_tibial
+GTEX-14PKV-0326,Artery - Tibial,GTEX-14PKV,female,20-29,Ventilator case,"atherosis, clean_specimens","2 pieces, clean specimens, minimal atherosis",artery_tibial
+GTEX-14PN3-2726,Artery - Tibial,GTEX-14PN3,female,60-69,Ventilator case,,"2 pieces; well trimmed, no lesions",artery_tibial
+GTEX-14PN4-0426,Artery - Tibial,GTEX-14PN4,male,50-59,Fast death - natural causes,atherosclerosis,"2 pieces; early atheromatous change, well trimmed",artery_tibial
+GTEX-14PQA-0426,Artery - Tibial,GTEX-14PQA,female,50-59,Slow death,calcification,2 pieces; medial calcification in one piece (outlined),artery_tibial
+GTEX-14XAO-2526,Artery - Tibial,GTEX-14XAO,female,60-69,Ventilator case,"clean_specimens, monckeberg, sclerotic","2 pieces, clean specimens, no atherosis, early Monckeberg medial sclerotic foci, delineated.",artery_tibial
+GTEX-15CHC-2326,Artery - Tibial,GTEX-15CHC,female,60-69,Ventilator case,,2 pieces; no plaques; well trimmed,artery_tibial
+GTEX-15CHQ-0626,Artery - Tibial,GTEX-15CHQ,male,60-69,Slow death,,2 pieces; no lesions; 10% external fat,artery_tibial
+GTEX-15CHR-2626,Artery - Tibial,GTEX-15CHR,male,50-59,Ventilator case,,2 pieces,artery_tibial
+GTEX-15CHS-0426,Artery - Tibial,GTEX-15CHS,male,50-59,Fast death - natural causes,,"2 pieces, no adherent fat/ atherosis",artery_tibial
+GTEX-15D1Q-1226,Artery - Tibial,GTEX-15D1Q,male,40-49,Fast death - natural causes,,"2 pieces, no adherent fat, no atherosis.",artery_tibial
+GTEX-15D79-0426,Artery - Tibial,GTEX-15D79,male,50-59,Fast death - natural causes,,2 pieces; well  trimmed; no plaques,artery_tibial
+GTEX-15DCD-0526,Artery - Tibial,GTEX-15DCD,female,70-79,Fast death - natural causes,"atherosclerosis, calcification","2 pieces; medial calcification  and atheromatous change, markedly compromising lumen",artery_tibial
+GTEX-15DCE-0626,Artery - Tibial,GTEX-15DCE,male,20-29,Ventilator case,,6 pieces; up to 30% perivascular fat,artery_tibial
+GTEX-15DCZ-0426,Artery - Tibial,GTEX-15DCZ,female,20-29,Ventilator case,,"2 pieces, no adhrent fat or significant atherosis",artery_tibial
+GTEX-15DDE-0426,Artery - Tibial,GTEX-15DDE,female,50-59,Intermediate death,,"2 pieces, no atherosis or adherent fat.",artery_tibial
+GTEX-15DYW-0426,Artery - Tibial,GTEX-15DYW,female,60-69,Fast death - natural causes,,2 pieces; well trimmed; no lesions,artery_tibial
+GTEX-15DZA-2226,Artery - Tibial,GTEX-15DZA,female,30-39,Ventilator case,,"2 pieces, no adherent fat or atherosis",artery_tibial
+GTEX-15EO6-2726,Artery - Tibial,GTEX-15EO6,male,50-59,Slow death,clean_specimens,"2 pieces, no atherosis, clean specimen without adherent fat",artery_tibial
+GTEX-15EOM-0526,Artery - Tibial,GTEX-15EOM,female,20-29,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-15ER7-0526,Artery - Tibial,GTEX-15ER7,female,20-29,Fast death - violent,,2 pieces; well trimmed,artery_tibial
+GTEX-15ETS-2426,Artery - Tibial,GTEX-15ETS,female,40-49,Ventilator case,,"2 pieces, rim of adherent fat/fibrous tissue/peripheral nerve up to ~0.8mm, rep delineated",artery_tibial
+GTEX-15EU6-0726,Artery - Tibial,GTEX-15EU6,male,50-59,Ventilator case,,"2 pieces, ~50% adherent venous/adipose nubbins up to ~2mm, delineated",artery_tibial
+GTEX-15F5U-1626,Artery - Tibial,GTEX-15F5U,male,40-49,Ventilator case,,2 pieces; up to 40% perivascularstroma,artery_tibial
+GTEX-15FZZ-2026,Artery - Tibial,GTEX-15FZZ,female,30-39,Ventilator case,,2 pieces;external fat comprises 60% & 20%,artery_tibial
+GTEX-15G19-0426,Artery - Tibial,GTEX-15G19,male,60-69,Fast death - natural causes,"atherosclerosis, calcification",2 pieces; atheromatous change and medial calcifications (outlined),artery_tibial
+GTEX-15G1A-2326,Artery - Tibial,GTEX-15G1A,male,30-39,Ventilator case,"atherosis, monckeberg, sclerotic","2 pieces, minimal atherosis or adherent fat.  Prominent Monckeberg medial sclerosis, rep delineated",artery_tibial
+GTEX-15RIE-2626,Artery - Tibial,GTEX-15RIE,male,60-69,Ventilator case,clean_specimens,"2 pieces, no significant atherosis, clean sections,",artery_tibial
+GTEX-15RIF-2226,Artery - Tibial,GTEX-15RIF,male,20-29,Ventilator case,,"2 pieces, sections of muscular artery, nubbin of adherent fat up to ~1.5mm delineated.  Switched with 2325",artery_tibial
+GTEX-15RIG-0626,Artery - Tibial,GTEX-15RIG,male,40-49,Ventilator case,atherosis,"6 pieces, large elastic artery (aorta), ~0.7mm atherosis",artery_tibial
+GTEX-15RJ7-2626,Artery - Tibial,GTEX-15RJ7,male,40-49,Ventilator case,,2 pieces; 1 piece has partial rim of attached fat/fibrovascular tissue/nerve (~40%),artery_tibial
+GTEX-15RJE-0526,Artery - Tibial,GTEX-15RJE,male,40-49,Slow death,calcification,2 pieces; heavily calcified but patent arteries; 30% external fatty & neural content,artery_tibial
+GTEX-15SB6-2026,Artery - Tibial,GTEX-15SB6,female,50-59,Ventilator case,,2 pieces,artery_tibial
+GTEX-15SDE-2526,Artery - Tibial,GTEX-15SDE,female,50-59,Ventilator case,,2 pieces; well trimmed; no lesions,artery_tibial
+GTEX-15SHU-0426,Artery - Tibial,GTEX-15SHU,female,40-49,Fast death - natural causes,,2 pieces; well trimmed; no leasions,artery_tibial
+GTEX-15SHV-2726,Artery - Tibial,GTEX-15SHV,male,60-69,Ventilator case,,3 pieces; well trimmed,artery_tibial
+GTEX-15SHW-0626,Artery - Tibial,GTEX-15SHW,male,60-69,Ventilator case,,2 pieces,artery_tibial
+GTEX-15SKB-0526,Artery - Tibial,GTEX-15SKB,male,60-69,Ventilator case,atherosis,"2 pieces, subtotally occlusive atherosis, rep delineated",artery_tibial
+GTEX-15SZO-0426,Artery - Tibial,GTEX-15SZO,male,50-59,Fast death - natural causes,,"2 pieces, no adherent fat or significant atherosis",artery_tibial
+GTEX-15TU5-0526,Artery - Tibial,GTEX-15TU5,male,60-69,Slow death,,2 pieces; no lesions; well trimmed,artery_tibial
+GTEX-15UF6-0726,Artery - Tibial,GTEX-15UF6,female,70-79,Slow death,,2 pieces; minimal plaque; 25% external fat,artery_tibial
+GTEX-15UF7-2326,Artery - Tibial,GTEX-15UF7,male,40-49,Ventilator case,,2 pieces; small attachment of fat on 1 piece,artery_tibial
+GTEX-15UKP-0126,Artery - Tibial,GTEX-15UKP,male,20-29,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-169BO-1626,Artery - Tibial,GTEX-169BO,male,50-59,Ventilator case,fibrosis,"2 pieces, mainly fat/fibrous tissue, target artery is <20% specimen",artery_tibial
+GTEX-16A39-2226,Artery - Tibial,GTEX-16A39,female,30-39,Ventilator case,,2 pieces; ~50--70% is associated adventitia with venous component,artery_tibial
+GTEX-16AAH-1926,Artery - Tibial,GTEX-16AAH,male,50-59,Ventilator case,,"2 pieces, sections of muscular artery with adherent nubbins of connective tissue, ~1-2mm (delineated).  Switched with -2125",artery_tibial
+GTEX-16BQI-0426,Artery - Tibial,GTEX-16BQI,female,30-39,Ventilator case,,"2 pieces; abnormal vein, not artery;  marked  subintimal  muscular thickening; up to 1.9 mm external fat; may be related to Buerger's disease",artery_tibial
+GTEX-16GPK-0426,Artery - Tibial,GTEX-16GPK,male,60-69,Fast death - natural causes,"atherosclerosis, calcification",2 pieces; atheroslerosis and medial calcification,artery_tibial
+GTEX-16MT8-0126,Artery - Tibial,GTEX-16MT8,female,60-69,Slow death,"atherosis, monckeberg, sclerotic","2 pieces, prominent Monckeberg medial sclerosis, delineated.  Minimal atherosis/adherent fat",artery_tibial
+GTEX-16MT9-0326,Artery - Tibial,GTEX-16MT9,female,60-69,Ventilator case,calcification,2 pieces; atheromatous plaque and extensive medial calcification,artery_tibial
+GTEX-16MTA-1926,Artery - Tibial,GTEX-16MTA,male,50-59,Ventilator case,atherosclerosis,4 pieces; mild atherosclerosis,artery_tibial
+GTEX-16NFA-2626,Artery - Tibial,GTEX-16NFA,male,50-59,Ventilator case,,2 pieces; 1 piece has 40% untrimmed fat,artery_tibial
+GTEX-16NGA-2126,Artery - Tibial,GTEX-16NGA,female,40-49,Ventilator case,,2 pieces; ~0.5mm of attached adventitia,artery_tibial
+GTEX-16NPV-0526,Artery - Tibial,GTEX-16NPV,female,50-59,Slow death,calcification,2 pieces; foci of medial calcification; no plaques; well trimmed,artery_tibial
+GTEX-16NPX-0526,Artery - Tibial,GTEX-16NPX,male,50-59,Ventilator case,"monckeberg, sclerotic","2 pieces, extensive Monckeberg sclerosis",artery_tibial
+GTEX-16XZY-2426,Artery - Tibial,GTEX-16XZY,male,70-79,Ventilator case,,2 pieces; one piece with adherent ~1mm fat/nerve,artery_tibial
+GTEX-16XZZ-0426,Artery - Tibial,GTEX-16XZZ,male,60-69,Ventilator case,,2 pieces; focal intimal plaque on 1; small (0.1 mm) medial calcium deposit in each; well trimmed,artery_tibial
+GTEX-16YQH-0626,Artery - Tibial,GTEX-16YQH,male,30-39,Fast death - violent,clean_specimens,"2 pieces, no atherosis, no adherent fat, excellent specimen",artery_tibial
+GTEX-16Z82-0626,Artery - Tibial,GTEX-16Z82,male,60-69,Fast death - natural causes,,2 pieces; no  lesions; well trimmed,artery_tibial
+GTEX-178AV-1926,Artery - Tibial,GTEX-178AV,male,40-49,Ventilator case,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-17EUY-0326,Artery - Tibial,GTEX-17EUY,male,20-29,Ventilator case,,2 pieces,artery_tibial
+GTEX-17EVP-1226,Artery - Tibial,GTEX-17EVP,male,40-49,Fast death - natural causes,,2 pieces; narrow rim of adventitia (<0.3mm); no plaques,artery_tibial
+GTEX-17EVQ-1126,Artery - Tibial,GTEX-17EVQ,male,70-79,Fast death - violent,"monckeberg, sclerotic","2 pieces, no atherosis, focal Monckeberg medial sclerosis, rep delineated",artery_tibial
+GTEX-17F96-0426,Artery - Tibial,GTEX-17F96,male,70-79,Ventilator case,,2 pieces; well trimmed; flat intimal plaque; several small focal calcium deposits in media and intima,artery_tibial
+GTEX-17F97-0226,Artery - Tibial,GTEX-17F97,male,50-59,Slow death,"calcification, sclerotic",2 pieces; 1 piece heavily calcified & fragmented (useless); other has 50% occlusive sclerotic partly calcified  plaque; little normal tissue remains,artery_tibial
+GTEX-17F98-0926,Artery - Tibial,GTEX-17F98,female,40-49,Ventilator case,,2 pieces; no lesions; well trimmed,artery_tibial
+GTEX-17F9E-0526,Artery - Tibial,GTEX-17F9E,male,50-59,Ventilator case,fibrosis,"2 pieces, trace rim of fibrous tissue",artery_tibial
+GTEX-17F9Y-0826,Artery - Tibial,GTEX-17F9Y,female,70-79,Ventilator case,atrophy,"2 pieces, ~20-30% luminal atherotic occlusion, delineated; no adherent fat",artery_tibial
+GTEX-17GQL-2226,Artery - Tibial,GTEX-17GQL,male,60-69,Ventilator case,fibrosis,"2 pieces, confirmed artery, adherent rim of fibrous tissue up to ~0.4mm",artery_tibial
+GTEX-17HG3-2426,Artery - Tibial,GTEX-17HG3,female,30-39,Fast death - natural causes,,"2 pieces; one piece is artery, one is nerve",artery_tibial
+GTEX-17HGU-0526,Artery - Tibial,GTEX-17HGU,male,50-59,Ventilator case,,"2 pieces; well trimmed, no external fat; no lesions",artery_tibial
+GTEX-17HHE-2326,Artery - Tibial,GTEX-17HHE,male,50-59,Ventilator case,fibrosis,"2 pieces, rims/nubbin of adherent fibrous tissue, ~1mm, rep delineated",artery_tibial
+GTEX-17HHY-0526,Artery - Tibial,GTEX-17HHY,male,50-59,Fast death - natural causes,"calcification, sclerotic",2 pieces: partly calcified sclerotic plaques with 50% lumen narrowed,artery_tibial
+GTEX-17HII-0626,Artery - Tibial,GTEX-17HII,male,50-59,Fast death - natural causes,,"2 pieces, no atherosis, no adherent fat",artery_tibial
+GTEX-17JCI-0526,Artery - Tibial,GTEX-17JCI,female,60-69,Ventilator case,,2 pieces; no lesions; well trimmed,artery_tibial
+GTEX-17KNJ-2526,Artery - Tibial,GTEX-17KNJ,male,50-59,Ventilator case,,"2 pieces, small muscular artery, minimal adherent fat/fascia; no atherosis",artery_tibial
+GTEX-17MF6-0526,Artery - Tibial,GTEX-17MF6,male,40-49,Fast death - natural causes,calcification,2 pieces; medial calcifications (outlined),artery_tibial
+GTEX-17MFQ-2126,Artery - Tibial,GTEX-17MFQ,male,20-29,Ventilator case,,"2 pieces muscular artery, no atherosis, adherent nubbin fibrofatty tissue, ~1mm, delineated",artery_tibial
+GTEX-183FY-0526,Artery - Tibial,GTEX-183FY,male,20-29,Ventilator case,clean_specimens,"2 pieces, no adherent fat; good specimen",artery_tibial
+GTEX-183WM-0626,Artery - Tibial,GTEX-183WM,female,70-79,Slow death,"atherosis, calcification","2 pieces ~70% occlusive atherosis, calcified (rep delineated)",artery_tibial
+GTEX-18464-0426,Artery - Tibial,GTEX-18464,male,50-59,Slow death,,"2 pieces; nerve, not artery",artery_tibial
+GTEX-18465-0426,Artery - Tibial,GTEX-18465,male,50-59,Fast death - natural causes,calcification,2 pieces; several small (0.2 mm) focal calcifications but no plaques,artery_tibial
+GTEX-18A66-0526,Artery - Tibial,GTEX-18A66,male,60-69,Slow death,,"2 pieces, no adherent fat, no significant atherosis",artery_tibial
+GTEX-18A67-0526,Artery - Tibial,GTEX-18A67,male,50-59,Ventilator case,atherosclerosis,2 pieces; atherosclerotic plaque (arrow)with 75% luminal compromise,artery_tibial
+GTEX-18A6Q-0526,Artery - Tibial,GTEX-18A6Q,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat",artery_tibial
+GTEX-18A7A-0526,Artery - Tibial,GTEX-18A7A,female,50-59,Fast death - natural causes,,"2 pieces; no lesions, well trimmed",artery_tibial
+GTEX-18A7B-0526,Artery - Tibial,GTEX-18A7B,male,70-79,Intermediate death,"atherosclerosis, calcification, sclerotic",2 pieces; medial calcific sclerosis in both; large atherosclerotic plaque in one; fibrofatty external deposits up to 2.4 mm on each,artery_tibial
+GTEX-18D9A-1626,Artery - Tibial,GTEX-18D9A,female,30-39,Ventilator case,,1 piece; no lesions; well trimmed,artery_tibial
+GTEX-18D9B-0326,Artery - Tibial,GTEX-18D9B,male,60-69,Ventilator case,,2 pieces; well trimmed artery with focal atheromatous plaque,artery_tibial
+GTEX-18D9U-0926,Artery - Tibial,GTEX-18D9U,male,40-49,Ventilator case,fibrosis,"2 pieces, prominent nubbins of adherent fat/fibrous tissue up to ~5x2.5mm, rep delineated",artery_tibial
+GTEX-18QFQ-0526,Artery - Tibial,GTEX-18QFQ,male,30-39,Ventilator case,,2 pieces,artery_tibial
+GTEX-19HZE-0726,Artery - Tibial,GTEX-19HZE,female,70-79,Intermediate death,calcification,2 pieces; extensive medial calcification occupies 20%; well trimmed,artery_tibial
+GTEX-1A32A-0426,Artery - Tibial,GTEX-1A32A,female,50-59,Fast death - natural causes,"calcification, fibrosis",2 pieces: focal medial calcification in 1; mild fibrous intimal thickening,artery_tibial
+GTEX-1A3MV-2226,Artery - Tibial,GTEX-1A3MV,male,30-39,Ventilator case,,2 pieces,artery_tibial
+GTEX-1A3MW-0426,Artery - Tibial,GTEX-1A3MW,female,60-69,Slow death,calcification,2 pieces; foci of intimal & medial calcification; well trimmed,artery_tibial
+GTEX-1A3MX-0426,Artery - Tibial,GTEX-1A3MX,male,60-69,Slow death,"monckeberg, sclerotic","2 pieces, focal Monckeberg sclerosis (delineated), ~50% occlusive atherosis up to ~0.4mm thick",artery_tibial
+GTEX-1A8FM-0426,Artery - Tibial,GTEX-1A8FM,female,50-59,Fast death - natural causes,,2 pieces: 1 sample contains arteries with organized thrombi; other is a vein (labeled) with organized thrombi,artery_tibial
+GTEX-1A8G6-0226,Artery - Tibial,GTEX-1A8G6,male,60-69,Fast death - natural causes,,"2 pieces, no significant atherosis",artery_tibial
+GTEX-1A8G7-0426,Artery - Tibial,GTEX-1A8G7,male,60-69,Fast death - natural causes,"atherosclerosis, calcification, sclerotic","2 pieces; atherosclerosis, medial calcific sclerosis",artery_tibial
+GTEX-1AMEY-1726,Artery - Tibial,GTEX-1AMEY,female,30-39,Ventilator case,,2 pieces; no lesions; up to 0.6 mm extraneous peripheral fibrovascular  (1 lymphoid-rich) tissue [annotated],artery_tibial
+GTEX-1AMFI-2426,Artery - Tibial,GTEX-1AMFI,female,50-59,Ventilator case,"atherosis, calcification, monckeberg","2 pieces, minimal adherent fat, subtotally occlusive atherosis, delineated, focal calcifications noted, encircled (rep) more c/w Monckeberg's",artery_tibial
+GTEX-1AX8Y-2426,Artery - Tibial,GTEX-1AX8Y,male,40-49,Ventilator case,"calcification, sclerotic",2 pieces; medial calcific sclerosis,artery_tibial
+GTEX-1AX8Z-0526,Artery - Tibial,GTEX-1AX8Z,male,60-69,Ventilator case,calcification,2 pieces; calcific foci; no plaques; well trimmed,artery_tibial
+GTEX-1AX9I-0526,Artery - Tibial,GTEX-1AX9I,male,60-69,Fast death - natural causes,,2 pieces; minimal plaque,artery_tibial
+GTEX-1AX9J-0426,Artery - Tibial,GTEX-1AX9J,male,60-69,Ventilator case,fibrosis,"2 pieces, rims of fat/fibrous tissue up to ~1mm",artery_tibial
+GTEX-1AX9K-2626,Artery - Tibial,GTEX-1AX9K,male,50-59,Ventilator case,fibrosis,2 pieces; thin fibrous intimal plaques; 20% & 40% fibrofatty external stroma,artery_tibial
+GTEX-1AYCT-2126,Artery - Tibial,GTEX-1AYCT,male,50-59,Ventilator case,"atherosclerosis, calcification","2 pieces; atherosclerosis, focal medial calcification",artery_tibial
+GTEX-1AYD5-2126,Artery - Tibial,GTEX-1AYD5,male,50-59,Ventilator case,,2 pieces; patent lumina and no plaque identified,artery_tibial
+GTEX-1B8KE-2326,Artery - Tibial,GTEX-1B8KE,male,50-59,Ventilator case,atherosis,"2 pieces, subtotally occlusive atherosis, delineated",artery_tibial
+GTEX-1B8KZ-2226,Artery - Tibial,GTEX-1B8KZ,male,50-59,Ventilator case,calcification,"2 pieces; no plaque formation, small focus of medial calcification",artery_tibial
+GTEX-1B8L1-2826,Artery - Tibial,GTEX-1B8L1,male,60-69,Fast death - natural causes,"atherosis, calcification, fibrosis","2 pieces, focally calcified atherosis, delineated; nubbin of adherent fat/fibrous tissue up to ~0.7mm",artery_tibial
+GTEX-1B8SF-0726,Artery - Tibial,GTEX-1B8SF,male,60-69,Fast death - natural causes,,2 pieces; well trimmed,artery_tibial
+GTEX-1B8SG-0526,Artery - Tibial,GTEX-1B8SG,male,50-59,Fast death - natural causes,,2 pieces; well trimmed,artery_tibial
+GTEX-1B932-0426,Artery - Tibial,GTEX-1B932,female,40-49,Ventilator case,,2 pieces; some attached adventitia,artery_tibial
+GTEX-1B933-0326,Artery - Tibial,GTEX-1B933,female,50-59,Fast death - natural causes,,"2 pieces, no adherent fat",artery_tibial
+GTEX-1B97I-1926,Artery - Tibial,GTEX-1B97I,male,40-49,Ventilator case,fibrosis,"2 pieces, trace adherent fibrous tissue, delineated",artery_tibial
+GTEX-1B97J-1726,Artery - Tibial,GTEX-1B97J,female,50-59,Ventilator case,fibrosis,"2 pieces small muscular artery, adherent fibrous tissue, smaller vessel up to ~0.4mm",artery_tibial
+GTEX-1B98T-0526,Artery - Tibial,GTEX-1B98T,male,60-69,Fast death - natural causes,,"2 pieces, adherent fat (rep delineated/pascinian corpuscle (ensquared) are ~40% of tissue",artery_tibial
+GTEX-1B996-0626,Artery - Tibial,GTEX-1B996,male,60-69,Fast death - natural causes,calcification,2 pieces; focal medial calcification (outlined) and evolving plaque; up to 5mm adventitia,artery_tibial
+GTEX-1BAJH-0226,Artery - Tibial,GTEX-1BAJH,male,70-79,Fast death - natural causes,"calcification, sclerotic",2 pieces; eccentric sclerotic plaque with calcification and 25-50% luminal compromise (arrow),artery_tibial
+GTEX-1C2JI-1926,Artery - Tibial,GTEX-1C2JI,male,50-59,Ventilator case,"calcification, sclerotic","6 pieces; medial calcific sclerosis, mild atheromatous change",artery_tibial
+GTEX-1C475-2126,Artery - Tibial,GTEX-1C475,female,40-49,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-1C4CL-0126,Artery - Tibial,GTEX-1C4CL,male,30-39,Ventilator case,,"2 pieces, no adherent fat; no atherosis",artery_tibial
+GTEX-1C64N-0526,Artery - Tibial,GTEX-1C64N,male,50-59,Fast death - natural causes,,2 pieces; well trimmed,artery_tibial
+GTEX-1C64O-0526,Artery - Tibial,GTEX-1C64O,male,60-69,Ventilator case,,"2 pieces, no atherosis or adherent fat",artery_tibial
+GTEX-1C6VQ-0726,Artery - Tibial,GTEX-1C6VQ,male,50-59,Fast death - natural causes,,2 pieces; well trimmed,artery_tibial
+GTEX-1C6VR-2826,Artery - Tibial,GTEX-1C6VR,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat/atherosis",artery_tibial
+GTEX-1C6VS-0326,Artery - Tibial,GTEX-1C6VS,male,60-69,Fast death - natural causes,calcification,2 pieces; uneven plane of sections; medial calcifications (outlined); fibrosclerotic plaque with luminal compromise,artery_tibial
+GTEX-1C6WA-0426,Artery - Tibial,GTEX-1C6WA,male,60-69,Fast death - natural causes,,1 piece; artery NOT nerve; no plaque; well trimmed,artery_tibial
+GTEX-1CAMQ-0426,Artery - Tibial,GTEX-1CAMQ,male,40-49,Fast death - natural causes,calcification,2 pieces; one shows numerous medial calcifications (arrows) and fibrosclerotic plaque; other with attached up to 1.4mm fibrofatty stroma,artery_tibial
+GTEX-1CAMR-2126,Artery - Tibial,GTEX-1CAMR,male,20-29,Ventilator case,fibrosis,"2 pieces, rim of fibrous tissue, ~0.5-1mm, both sections",artery_tibial
+GTEX-1CAMS-0626,Artery - Tibial,GTEX-1CAMS,female,40-49,Ventilator case,,"2 pieces; patent vessels with attached adventitia, ~1.0mm and 0.5mm; no plaques",artery_tibial
+GTEX-1CAV2-2626,Artery - Tibial,GTEX-1CAV2,female,40-49,Fast death - natural causes,,2 pieces; large fibrocalcific plaques; abundant external fibrofatty tissue in one,artery_tibial
+GTEX-1CB4E-2026,Artery - Tibial,GTEX-1CB4E,male,60-69,Ventilator case,fibrosis,"2 pieces; severe fibrous intimal thickening; well trimmed, but with small neural bundles in adventitia",artery_tibial
+GTEX-1CB4F-0726,Artery - Tibial,GTEX-1CB4F,male,60-69,Ventilator case,,"2 pieces; well trimmed, no lesions",artery_tibial
+GTEX-1CB4G-0526,Artery - Tibial,GTEX-1CB4G,male,60-69,Fast death - natural causes,,"2 pieces, no significant adherant fat",artery_tibial
+GTEX-1CB4H-0826,Artery - Tibial,GTEX-1CB4H,female,60-69,Slow death,,2 pieces; minimal plaque; well trimmed,artery_tibial
+GTEX-1CB4I-0526,Artery - Tibial,GTEX-1CB4I,male,50-59,Ventilator case,,2 pieces; mild flat intimal thickening; 1 piece has 40% external fibrofatty content; LDACC: 26 block was trimmed,artery_tibial
+GTEX-1CB4J-1026,Artery - Tibial,GTEX-1CB4J,male,60-69,Intermediate death,atherosis,"2 pieces, deatched luminal atherosis, one section, delineated",artery_tibial
+GTEX-1E1VI-0626,Artery - Tibial,GTEX-1E1VI,male,50-59,Fast death - natural causes,,2 pieces; well trimmed,artery_tibial
+GTEX-1E2YA-0426,Artery - Tibial,GTEX-1E2YA,male,50-59,Fast death - natural causes,,"2 pieces, no adherent fat, no atherosis",artery_tibial
+GTEX-1EH9U-0526,Artery - Tibial,GTEX-1EH9U,male,60-69,Slow death,,2 pieces; no plaques; preserved endothelium; well trimmed,artery_tibial
+GTEX-1EKGG-0326,Artery - Tibial,GTEX-1EKGG,male,60-69,Fast death - natural causes,sclerotic,"2 pieces; well trimmed, sclerosis",artery_tibial
+GTEX-1EMGI-0426,Artery - Tibial,GTEX-1EMGI,male,60-69,Fast death - natural causes,fibrosis,"2 pieces, variable peripheral rim adherent fibrous tissue up to ~1mm.",artery_tibial
+GTEX-1EN7A-0526,Artery - Tibial,GTEX-1EN7A,male,40-49,Fast death - natural causes,,2 pieces; no plaque; small (0.15 mm) focal medial calcium deposit; well trimmed,artery_tibial
+GTEX-1EU9M-0426,Artery - Tibial,GTEX-1EU9M,male,60-69,Fast death - natural causes,fibrosis,"2 pieces, no atherosis; rims of fibrous tissue, ~0.5-1mm",artery_tibial
+GTEX-1EWIQ-0526,Artery - Tibial,GTEX-1EWIQ,female,70-79,Fast death - natural causes,"atherosclerosis, calcification","2 pieces; some medial calcification, mild atherosclerosis",artery_tibial
+GTEX-1EX96-1226,Artery - Tibial,GTEX-1EX96,male,50-59,Fast death - natural causes,"monckeberg, sclerotic","2 pieces, prominent Mockeberg medial sclerosis (rep delineated), ~40% atherotic occlusion, encircled",artery_tibial
+GTEX-1F48J-0326,Artery - Tibial,GTEX-1F48J,female,50-59,Slow death,calcification,2 pieces; largely calcified with only small remnant of vascular tissues; of marginal value,artery_tibial
+GTEX-1F52S-0426,Artery - Tibial,GTEX-1F52S,female,60-69,Slow death,,"2 pieces; well dissected; no plaques; small, 0.4 mm, adherent blood clot",artery_tibial
+GTEX-1F5PK-2826,Artery - Tibial,GTEX-1F5PK,male,50-59,Ventilator case,"calcification, sclerotic","2 pieces; severely sclerotic, calcified, ossified plaques; 1 with 60% extraneous fibrofatty tissue",artery_tibial
+GTEX-1F5PL-0526,Artery - Tibial,GTEX-1F5PL,female,40-49,Ventilator case,"monckeberg, sclerotic","2 pieces, no significant adherent fat or atherosis; focal Monckeberg medial sclerosis, rep. delineated",artery_tibial
+GTEX-1F6I4-0526,Artery - Tibial,GTEX-1F6I4,male,60-69,Fast death - natural causes,sclerotic,"2 pieces; some sclerosis, attachment of vessels",artery_tibial
+GTEX-1F6IF-0426,Artery - Tibial,GTEX-1F6IF,male,60-69,Fast death - natural causes,"atherosis, calcification","2 pieces, minimal adherant fat; ~50% occlusive atheriosis, delineated, focally calcified",artery_tibial
+GTEX-1F6RS-0426,Artery - Tibial,GTEX-1F6RS,female,60-69,Slow death,calcification,2 pieces; mild plaque; small focal calcification; well trimmed,artery_tibial
+GTEX-1F75A-0526,Artery - Tibial,GTEX-1F75A,male,50-59,Fast death - natural causes,,"2 pieces, no adherent fat or atherosis",artery_tibial
+GTEX-1F75B-0426,Artery - Tibial,GTEX-1F75B,male,50-59,Slow death,"calcification, fibrosis",2 pieces; fibrous plaque and medial calcification (arrows); ~0.5 mm attached adventitia,artery_tibial
+GTEX-1F75I-0626,Artery - Tibial,GTEX-1F75I,male,40-49,Ventilator case,,2 pieces; up to 0.6mm rim of adventitia and one small fragment of attached skeletal muscle (outlined),artery_tibial
+GTEX-1F75W-0526,Artery - Tibial,GTEX-1F75W,male,60-69,Fast death - natural causes,"calcification, monckeberg",2 pieces; extensive medial calcification (Monckeberg) up to 40% area; thin flat intimal plaques,artery_tibial
+GTEX-1F7RK-0526,Artery - Tibial,GTEX-1F7RK,female,20-29,Fast death - violent,,2 pieces; from 30-50% attached vein/fat,artery_tibial
+GTEX-1F88E-0726,Artery - Tibial,GTEX-1F88E,female,60-69,Slow death,"monckeberg, sclerotic","2 pieces, no atherosis/adherant fat; prominent Monckeberg sclerosis, rep delineated",artery_tibial
+GTEX-1F88F-2926,Artery - Tibial,GTEX-1F88F,female,60-69,Fast death - natural causes,,2 pieces; minimal plaque; focus of medial calcium; well trimmed,artery_tibial
+GTEX-1FIGZ-1926,Artery - Tibial,GTEX-1FIGZ,male,40-49,Ventilator case,,2 pieces; 1 piece includes ~70% attached fat,artery_tibial
+GTEX-1GF9U-2526,Artery - Tibial,GTEX-1GF9U,female,40-49,Ventilator case,,2 pieces; significant residual fat (70%),artery_tibial
+GTEX-1GF9V-0426,Artery - Tibial,GTEX-1GF9V,male,60-69,Fast death - natural causes,atherosis,"2 pieces, no adherent fat; ~10% occlusive luminal atherosis, delineated",artery_tibial
+GTEX-1GF9W-0226,Artery - Tibial,GTEX-1GF9W,male,60-69,Intermediate death,,2 pieces; eccentric fibrosclerotic plaque with >50% luminal compromise,artery_tibial
+GTEX-1GF9X-1826,Artery - Tibial,GTEX-1GF9X,female,40-49,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-1GL5R-2126,Artery - Tibial,GTEX-1GL5R,male,50-59,Ventilator case,sclerotic,2 pieces; some intimal thickening/sclerosis,artery_tibial
+GTEX-1GMR2-2426,Artery - Tibial,GTEX-1GMR2,male,50-59,Ventilator case,,2 pieces; 1 piece fragmented; minimal plaque,artery_tibial
+GTEX-1GMR3-2326,Artery - Tibial,GTEX-1GMR3,male,40-49,Ventilator case,,"2 pieces, rim of adherent fascia up to ~1mm; no atherosis",artery_tibial
+GTEX-1GMR8-0526,Artery - Tibial,GTEX-1GMR8,female,50-59,Intermediate death,,2 pieces; well trimmed; no plaque,artery_tibial
+GTEX-1GMRU-0526,Artery - Tibial,GTEX-1GMRU,male,50-59,Fast death - natural causes,"monckeberg, sclerotic","2 pieces, no significant atherosis or adherent fat; prominent Monkeberg medial sclerosis, rep. delineated",artery_tibial
+GTEX-1GN1U-0426,Artery - Tibial,GTEX-1GN1U,female,50-59,Slow death,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1GN1V-0426,Artery - Tibial,GTEX-1GN1V,male,60-69,Fast death - natural causes,"atherosclerosis, calcification","2 pieces; one include focus of medial calcification and mild plaque, second shows significant calcific atherosclerosis with profound luminal narrowing",artery_tibial
+GTEX-1GN1W-0926,Artery - Tibial,GTEX-1GN1W,female,50-59,Ventilator case,calcification,2 pieces; well trimmed; minimal plaque; small calcific focus,artery_tibial
+GTEX-1GN2E-0626,Artery - Tibial,GTEX-1GN2E,male,60-69,Fast death - natural causes,"atherosis, calcification","2 pieces, ~50-60% occlusive atherosis,(delineated) focally calcified",artery_tibial
+GTEX-1GN73-0526,Artery - Tibial,GTEX-1GN73,male,60-69,Fast death - natural causes,,2 pieces; well trimmed; no plaques,artery_tibial
+GTEX-1GPI6-0526,Artery - Tibial,GTEX-1GPI6,male,60-69,Fast death - natural causes,atherosis,"2 pieces, minimal atherosis, no adherent fat.",artery_tibial
+GTEX-1GPI7-0626,Artery - Tibial,GTEX-1GPI7,male,20-29,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-1GTWX-0526,Artery - Tibial,GTEX-1GTWX,male,60-69,Fast death - natural causes,"monckeberg, sclerotic","2 pieces, no significant atherosis or adherent fat; prominent Monckeberg mediial sclerosis, rep delineated",artery_tibial
+GTEX-1GZ2Q-0626,Artery - Tibial,GTEX-1GZ2Q,male,40-49,Fast death - natural causes,,2 pieces; thin rim of adherent adventitia,artery_tibial
+GTEX-1GZ4H-1426,Artery - Tibial,GTEX-1GZ4H,female,50-59,Ventilator case,,2 pieces; 20% external fat on 1 piece,artery_tibial
+GTEX-1GZ4I-0426,Artery - Tibial,GTEX-1GZ4I,male,50-59,Fast death - natural causes,,2 pieces; no plaques; well dissected,artery_tibial
+GTEX-1GZHY-0526,Artery - Tibial,GTEX-1GZHY,female,50-59,Fast death - violent,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1H11D-0526,Artery - Tibial,GTEX-1H11D,male,40-49,Ventilator case,atherosclerosis,"2 pieces; well trimmed, mild atherosclerosis",artery_tibial
+GTEX-1H1CY-2426,Artery - Tibial,GTEX-1H1CY,female,60-69,Fast death - natural causes,,"2 pieces: 1 with 60% perivascular stroma, other with 20%",artery_tibial
+GTEX-1H1DE-1926,Artery - Tibial,GTEX-1H1DE,male,20-29,Ventilator case,,"2 pieces, no atherosis/adherent fat",artery_tibial
+GTEX-1H1DF-0426,Artery - Tibial,GTEX-1H1DF,female,40-49,Fast death - natural causes,,2 pieces; well trimmed; no lesions,artery_tibial
+GTEX-1H1DG-0626,Artery - Tibial,GTEX-1H1DG,male,70-79,Ventilator case,"atherosis, calcification, monckeberg","2 pieces extensive mural calcifications, atherosis vs Monckeberg type",artery_tibial
+GTEX-1H1E6-2326,Artery - Tibial,GTEX-1H1E6,male,30-39,Ventilator case,,"2 pieces; focal intimal thickening, include attachment of fat/fibroconnective tissue/pacinian corpuscle",artery_tibial
+GTEX-1H1ZS-0326,Artery - Tibial,GTEX-1H1ZS,male,70-79,Slow death,"atherosis, monckeberg, sclerotic","2 pieces, minimal atherosis, adherent fat; Monckeberg medial sclerosis present, rep focidelineated",artery_tibial
+GTEX-1H23P-0426,Artery - Tibial,GTEX-1H23P,male,60-69,Slow death,calcification,2 pieces; extensive [25%] medial calcification; moderate atheromatous plaque,artery_tibial
+GTEX-1H2FU-0426,Artery - Tibial,GTEX-1H2FU,female,60-69,Slow death,"calcification, sclerotic",2 pieces; pronounced medial calcific sclerosis,artery_tibial
+GTEX-1H3NZ-0426,Artery - Tibial,GTEX-1H3NZ,male,60-69,Slow death,,2 pieces; mild plaque; well trimmed,artery_tibial
+GTEX-1H3O1-0726,Artery - Tibial,GTEX-1H3O1,male,60-69,Fast death - natural causes,,"1 piece, section of muscular artery",artery_tibial
+GTEX-1H3VE-0526,Artery - Tibial,GTEX-1H3VE,male,40-49,Slow death,calcification,"2 pieces; patent lumen, mild plaque and medial calcifications (outlined); attached adventitia up to 0.86mm",artery_tibial
+GTEX-1H3VY-0426,Artery - Tibial,GTEX-1H3VY,male,50-59,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-1H4P4-0826,Artery - Tibial,GTEX-1H4P4,male,50-59,Fast death - natural causes,,"2 pieces; one includes attached portion of vein/fat; mild, focal plaque",artery_tibial
+GTEX-1HB9E-2826,Artery - Tibial,GTEX-1HB9E,male,50-59,Fast death - natural causes,atherosis,2 pieces subtotally occlusive calcifying atherosis (delineated); ~!mm nubbin of adherent fibroadipose tissue,artery_tibial
+GTEX-1HBPH-0726,Artery - Tibial,GTEX-1HBPH,female,40-49,Slow death,,"2 pieces; minimal plaque; well dissected, no fat",artery_tibial
+GTEX-1HBPI-1626,Artery - Tibial,GTEX-1HBPI,male,50-59,Fast death - natural causes,,2 pieces; moderate plaque with widely patent lumen; well trimmed,artery_tibial
+GTEX-1HBPM-0626,Artery - Tibial,GTEX-1HBPM,female,60-69,Slow death,,2 pieces; mild plaque,artery_tibial
+GTEX-1HBPN-0426,Artery - Tibial,GTEX-1HBPN,male,50-59,Ventilator case,atherosis,"2 pieces, no adherent fat; trace atherosis",artery_tibial
+GTEX-1HC8U-2426,Artery - Tibial,GTEX-1HC8U,female,40-49,Ventilator case,,"2 pieces; each has 75% nerve,  fat, & muscle",artery_tibial
+GTEX-1HCU6-0426,Artery - Tibial,GTEX-1HCU6,female,60-69,Fast death - natural causes,,2 pieces; well trimmed except for a 1.4 x 0.4mm external fat nodule,artery_tibial
+GTEX-1HCU7-0626,Artery - Tibial,GTEX-1HCU7,male,50-59,Ventilator case,,2 pieces; minimal intimal thickening,artery_tibial
+GTEX-1HCU8-1526,Artery - Tibial,GTEX-1HCU8,female,60-69,Fast death - natural causes,atherosis,"2 pieces, ~70% occlusive focally aclicifying atherosis, rep delineated",artery_tibial
+GTEX-1HCU9-1826,Artery - Tibial,GTEX-1HCU9,male,20-29,Ventilator case,,,artery_tibial
+GTEX-1HCUA-2026,Artery - Tibial,GTEX-1HCUA,female,50-59,Ventilator case,atherosclerosis,2 pieces; mild atherosclerosis,artery_tibial
+GTEX-1HCVE-0526,Artery - Tibial,GTEX-1HCVE,male,50-59,Slow death,,2 pieces; no adherent fat or significant atherosis,artery_tibial
+GTEX-1HFI6-0526,Artery - Tibial,GTEX-1HFI6,male,40-49,Fast death - natural causes,,"2 pieces, no atherosis. Beware ~6mm extraneous fragments of fat/fibroadipose tissue present in section, delineated",artery_tibial
+GTEX-1HFI7-2226,Artery - Tibial,GTEX-1HFI7,female,50-59,Ventilator case,,2 pieces,artery_tibial
+GTEX-1HGF4-2826,Artery - Tibial,GTEX-1HGF4,male,60-69,Fast death - natural causes,calcification,2 pieces; extensive medial calcification,artery_tibial
+GTEX-1HKZK-0526,Artery - Tibial,GTEX-1HKZK,male,40-49,Ventilator case,,2 pieces; relatively well trimmed,artery_tibial
+GTEX-1HR98-0626,Artery - Tibial,GTEX-1HR98,male,60-69,Slow death,fibrosis,2 pieces; well trimmed; fibrous plaques,artery_tibial
+GTEX-1HR9M-0526,Artery - Tibial,GTEX-1HR9M,male,60-69,Slow death,calcification,2 pieces; minimal intimal thickening; calcific foci in 1 piece; well trimmed,artery_tibial
+GTEX-1HSEH-0426,Artery - Tibial,GTEX-1HSEH,male,60-69,Ventilator case,,"2 pieces, trace rim of adherent fibradipose tissue up to ~0.5mm",artery_tibial
+GTEX-1HSGN-0526,Artery - Tibial,GTEX-1HSGN,female,40-49,Ventilator case,,"2 pieces, no significant adherenat fat, or atherosis",artery_tibial
+GTEX-1HSKV-0526,Artery - Tibial,GTEX-1HSKV,male,60-69,Fast death - natural causes,"calcification, sclerotic","2 pieces; medial calcific sclerosis, concentric plaque",artery_tibial
+GTEX-1HSMO-0426,Artery - Tibial,GTEX-1HSMO,male,60-69,Intermediate death,calcification,"2 pieces; little plaque, but prominent mural calcifications",artery_tibial
+GTEX-1HSMP-0526,Artery - Tibial,GTEX-1HSMP,male,70-79,Ventilator case,"monckeberg, sclerotic","2 pieces, no atherosis, minute foci of Monckeberg medial sclerosis, delineated.",artery_tibial
+GTEX-1HSMQ-1626,Artery - Tibial,GTEX-1HSMQ,male,50-59,Ventilator case,,"2 pieces; well trimmed, some intimal thickening, mild plaque",artery_tibial
+GTEX-1HT8W-0526,Artery - Tibial,GTEX-1HT8W,male,30-39,Fast death - natural causes,,"2 pieces, no adherent fat or significant atherosis",artery_tibial
+GTEX-1HUB1-0226,Artery - Tibial,GTEX-1HUB1,male,60-69,Ventilator case,calcification,2 pieces; extensive calcified atheromatous plaques centrally with thin rim of relatively normal wall at the periphery,artery_tibial
+GTEX-1I19N-1926,Artery - Tibial,GTEX-1I19N,male,70-79,Slow death,,2 pieces; well trimmed; intimal thickening/mild plaque,artery_tibial
+GTEX-1I1CD-0526,Artery - Tibial,GTEX-1I1CD,female,60-69,Slow death,,"2 pieces; well trimmed, intimal thickening/mild plaque",artery_tibial
+GTEX-1I1GP-0226,Artery - Tibial,GTEX-1I1GP,male,50-59,Fast death - natural causes,,"2 pieces, ~3x3mm nubbin aderent fibroadipose elements, one section, delineated",artery_tibial
+GTEX-1I1GQ-0526,Artery - Tibial,GTEX-1I1GQ,male,50-59,Fast death - natural causes,,2 pieces; patent lumen; up to 0.3 mm adventitia;,artery_tibial
+GTEX-1I1GR-0526,Artery - Tibial,GTEX-1I1GR,male,60-69,Fast death - natural causes,,"2 pieces, no adherent fat or significant atherosis.  One section disrupted.",artery_tibial
+GTEX-1I1GS-0526,Artery - Tibial,GTEX-1I1GS,male,60-69,Slow death,atherosis,"2 pieces(fragemented), partially occlusive calcifying (rep delineated) atherosis",artery_tibial
+GTEX-1I1GT-0326,Artery - Tibial,GTEX-1I1GT,female,60-69,Ventilator case,calcification,"2 pieces; mild plaque, focal medial calcification",artery_tibial
+GTEX-1I1GU-1926,Artery - Tibial,GTEX-1I1GU,male,40-49,Ventilator case,calcification,"3 pieces; no plaque, but extensive medial calcification",artery_tibial
+GTEX-1I1GV-0326,Artery - Tibial,GTEX-1I1GV,male,60-69,Fast death - natural causes,atherosis,"2 pieces, ~50-60% occlusive atherosis; rep delineated; no adherent fat",artery_tibial
+GTEX-1I1HK-0526,Artery - Tibial,GTEX-1I1HK,male,60-69,Intermediate death,,"2 pieces; well trimmed, mild intimal thickening/plaque",artery_tibial
+GTEX-1I4MK-2126,Artery - Tibial,GTEX-1I4MK,female,50-59,Ventilator case,,2 pieces; essentially free of plaque,artery_tibial
+GTEX-1I6K6-0526,Artery - Tibial,GTEX-1I6K6,male,30-39,Ventilator case,,2 pieces; essentially well trimmed,artery_tibial
+GTEX-1I6K7-0526,Artery - Tibial,GTEX-1I6K7,male,40-49,Ventilator case,fibrosis,"2 pieces: 1 well trimmed, other with 60% fatty, neural and fibrous stroma",artery_tibial
+GTEX-1ICG6-2926,Artery - Tibial,GTEX-1ICG6,female,70-79,Ventilator case,,2 pieces; external fat comprises 70% area in 1 piece; mild plaque formation,artery_tibial
+GTEX-1ICLY-0526,Artery - Tibial,GTEX-1ICLY,male,50-59,Ventilator case,,"2 pieces, no adherent fat or significant atherosis",artery_tibial
+GTEX-1ICLZ-0826,Artery - Tibial,GTEX-1ICLZ,male,60-69,Intermediate death,calcification,2 pieces; heavily calcified; small amount of residual arterial wall present,artery_tibial
+GTEX-1IDFM-1826,Artery - Tibial,GTEX-1IDFM,male,60-69,Slow death,"atherosclerosis, calcification, sclerotic","2 pieces; fragmented, medial calcific sclerosis, atherosclerosis",artery_tibial
+GTEX-1IDJC-1826,Artery - Tibial,GTEX-1IDJC,male,50-59,Ventilator case,"monckeberg, sclerotic","2 pieces, foci of Monckeberg medial sclerosis present; rep delineated",artery_tibial
+GTEX-1IDJD-1426,Artery - Tibial,GTEX-1IDJD,male,30-39,Ventilator case,,"2 pieces; not nerve, cross sections of artery with small rim of adventitia; lumen open",artery_tibial
+GTEX-1IDJE-2226,Artery - Tibial,GTEX-1IDJE,female,50-59,Ventilator case,calcification,2 pieces; small focal calcifications; adventitia up to 1mm thick,artery_tibial
+GTEX-1IDJF-0426,Artery - Tibial,GTEX-1IDJF,male,20-29,Ventilator case,,2 pieces; artery not nerve; well trimmed,artery_tibial
+GTEX-1IDJF-0526,Artery - Tibial,GTEX-1IDJF,male,20-29,Ventilator case,,"2 pieces; vein and stroma, not nerve",artery_tibial
+GTEX-1IDJH-0526,Artery - Tibial,GTEX-1IDJH,male,70-79,Fast death - violent,"atherosis, fibrosis, monckeberg, sclerotic","2 pieces, minimal atherosis; prominent Monckeberg sclerosis (rep delineated).  Rim of adherent fibrous tissue up to ~1mm",artery_tibial
+GTEX-1IDJI-0726,Artery - Tibial,GTEX-1IDJI,female,50-59,Ventilator case,"calcification, sclerotic","2 pieces; medial calcific sclerosis, both include significant extraneous tissue (fat, vein)",artery_tibial
+GTEX-1IDJU-2326,Artery - Tibial,GTEX-1IDJU,female,60-69,Ventilator case,,"2 pieces; well trimmed, no plaques",artery_tibial
+GTEX-1IDJV-0526,Artery - Tibial,GTEX-1IDJV,male,60-69,Intermediate death,,"2 pieces, no significant adherent fat",artery_tibial
+GTEX-1IE54-0526,Artery - Tibial,GTEX-1IE54,female,40-49,Ventilator case,,"2 pieces; 1 piece is well trimmed, 2nd has 40% attachment of fat/vein/nerve",artery_tibial
+GTEX-1IGQW-0426,Artery - Tibial,GTEX-1IGQW,male,60-69,Slow death,"atherosis, monckeberg, sclerotic","2 pieces, trace atherosis; prominent Monckeberg sclerosis, rep delineated",artery_tibial
+GTEX-1IKJJ-0526,Artery - Tibial,GTEX-1IKJJ,male,60-69,Fast death - natural causes,"atherosis, monckeberg, sclerotic","2 pieces no adherent fat, minimal atherosis; prominent Monckeberg medial sclerosis, rep delineated",artery_tibial
+GTEX-1IKK5-0126,Artery - Tibial,GTEX-1IKK5,male,60-69,Fast death - natural causes,calcification,2 pieces; mild to focally moderate degree of intimal fibroatheromatous plaques; widely patent lumens; minute calcification,artery_tibial
+GTEX-1IKOE-0526,Artery - Tibial,GTEX-1IKOE,female,30-39,Ventilator case,,2 pieces; well trimmed,artery_tibial
+GTEX-1IKOH-0526,Artery - Tibial,GTEX-1IKOH,female,60-69,Fast death - natural causes,atherosis,"2 pieces, no adherent fat; trace atherosis, minimally occlusive",artery_tibial
+GTEX-1IL2U-0626,Artery - Tibial,GTEX-1IL2U,male,60-69,Fast death - natural causes,atherosclerosis,2 pieces; circumferential flat atherosclerotic plaque with insignificant luminal compromise; lumen open; >0.5 mm attached adventitia,artery_tibial
+GTEX-1IL2V-0426,Artery - Tibial,GTEX-1IL2V,male,70-79,Fast death - natural causes,atherosis,"2 pieces, ath atherosis occludes ~30% of lumen, rep delineated",artery_tibial
+GTEX-1IOXB-0526,Artery - Tibial,GTEX-1IOXB,male,50-59,Fast death - natural causes,,2 pieces: slight plaque well trimmed,artery_tibial
+GTEX-1IY9M-0526,Artery - Tibial,GTEX-1IY9M,male,60-69,Fast death - violent,,"2 pieces; up to 0.3mm rim of adventitia, lumen open",artery_tibial
+GTEX-1J1OQ-0626,Artery - Tibial,GTEX-1J1OQ,female,40-49,Slow death,,"2 pieces, no atherosis or adherent fat",artery_tibial
+GTEX-1J1R8-2126,Artery - Tibial,GTEX-1J1R8,male,40-49,Ventilator case,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1J8EW-0526,Artery - Tibial,GTEX-1J8EW,female,60-69,Fast death - natural causes,,"2 pieces; well trimmed, minimal plaque",artery_tibial
+GTEX-1J8JJ-0426,Artery - Tibial,GTEX-1J8JJ,female,60-69,Fast death - natural causes,atherosis,"2 pieces, no adherent fat; atherosis occludes 30-40% of lumen, delineated",artery_tibial
+GTEX-1J8Q2-0226,Artery - Tibial,GTEX-1J8Q2,male,60-69,Intermediate death,atherosclerosis,2 pieces; atherosclerosis,artery_tibial
+GTEX-1J8Q3-1726,Artery - Tibial,GTEX-1J8Q3,male,60-69,Ventilator case,"calcification, sclerotic",3 pieces; severe intimal sclerosis and mainly medial calcification; well trimmed,artery_tibial
+GTEX-1J8QM-2526,Artery - Tibial,GTEX-1J8QM,female,60-69,Ventilator case,"calcification, fibrosis",2 pieces; medial calcifications (arrows); intimal accentuation likely early fibrous plaque formation,artery_tibial
+GTEX-1JJ6O-0426,Artery - Tibial,GTEX-1JJ6O,male,60-69,Slow death,,"2 pieces; small attachment of fat/vessels, mild, eccentric plaque",artery_tibial
+GTEX-1JJE9-0626,Artery - Tibial,GTEX-1JJE9,male,70-79,Intermediate death,calcification,2 pieces; 1 with moderate plaque & 2 calcific deposits up to 1.5mm; other with mild plaque; well trimmed  adventitia up to 1mm,artery_tibial
+GTEX-1JJEA-0526,Artery - Tibial,GTEX-1JJEA,male,60-69,Fast death - natural causes,"atherosis, fibrosis","2 pieces, minimal atherosis, rim of fibrous tissue up to ~1mm",artery_tibial
+GTEX-1JK1U-2326,Artery - Tibial,GTEX-1JK1U,male,60-69,Ventilator case,atherosis,"2 pieces, ~40% occlusive atherosis, rep delineated, no adherent fat",artery_tibial
+GTEX-1JKYN-2026,Artery - Tibial,GTEX-1JKYN,male,30-39,Ventilator case,,2 pieces; focal intimal thickening,artery_tibial
+GTEX-1JKYR-0526,Artery - Tibial,GTEX-1JKYR,male,20-29,Ventilator case,,2 pieces; no plaques; well dissected,artery_tibial
+GTEX-1JMI6-0426,Artery - Tibial,GTEX-1JMI6,female,50-59,Intermediate death,,,artery_tibial
+GTEX-1JMLX-0526,Artery - Tibial,GTEX-1JMLX,male,50-59,Fast death - natural causes,calcification,2 pieces; thin flat intimal plaques with focal  calcifications,artery_tibial
+GTEX-1JMOU-1326,Artery - Tibial,GTEX-1JMOU,female,60-69,Slow death,atherosis,"2 pieces, minimal adherent fat/atherosis",artery_tibial
+GTEX-1JMPY-1526,Artery - Tibial,GTEX-1JMPY,male,30-39,Ventilator case,,2 pieces; intimal thickening,artery_tibial
+GTEX-1JMPZ-0526,Artery - Tibial,GTEX-1JMPZ,male,30-39,Slow death,,2 pieces; thick adventitia & perivascular stroma up to 1.5mm,artery_tibial
+GTEX-1JMQI-1826,Artery - Tibial,GTEX-1JMQI,male,50-59,Ventilator case,calcification,"2 pieces; some intimal thickening, focal calcifications",artery_tibial
+GTEX-1JMQJ-0326,Artery - Tibial,GTEX-1JMQJ,male,50-59,Fast death - natural causes,"atherosclerosis, calcification",2 pieces; atherosclerosis and medial calcification,artery_tibial
+GTEX-1JMQK-0526,Artery - Tibial,GTEX-1JMQK,male,60-69,Ventilator case,"calcification, fibrosis",2 pieces; 1 with large eccentric fibrotic intimal plaque;  small calcific intimal deposits in both pieces,artery_tibial
+GTEX-1JMQL-0526,Artery - Tibial,GTEX-1JMQL,female,50-59,Ventilator case,"atherosis, monckeberg, sclerotic","2 pieces, small muscular artery, Monckeberg sclerosis delineated; focal atherosis.",artery_tibial
+GTEX-1JN1M-0426,Artery - Tibial,GTEX-1JN1M,female,60-69,Ventilator case,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1JN6P-0426,Artery - Tibial,GTEX-1JN6P,male,60-69,Ventilator case,,2 pieces; 10% external fat content,artery_tibial
+GTEX-1JN76-0526,Artery - Tibial,GTEX-1JN76,female,20-29,Ventilator case,,"2 pieces; well dissected, lesion free",artery_tibial
+GTEX-1K2DA-2326,Artery - Tibial,GTEX-1K2DA,male,50-59,Ventilator case,,2 pieces; intimal thickening,artery_tibial
+GTEX-1K2DU-2726,Artery - Tibial,GTEX-1K2DU,male,20-29,Ventilator case,,"1 piece, correlates with -2725, longitudinal section of muscular artery.",artery_tibial
+GTEX-1K9T9-0526,Artery - Tibial,GTEX-1K9T9,female,50-59,Ventilator case,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1KAFJ-2226,Artery - Tibial,GTEX-1KAFJ,male,50-59,Intermediate death,,2 pieces; no plaques; well trimmed,artery_tibial
+GTEX-1KANA-0326,Artery - Tibial,GTEX-1KANA,male,20-29,Ventilator case,,"2 pieces; well trimmed, widely patent with focal intimal thickening",artery_tibial
+GTEX-1KANB-0226,Artery - Tibial,GTEX-1KANB,male,50-59,Fast death - natural causes,,"2 pieces, small muscular artery",artery_tibial
+GTEX-1KANC-1726,Artery - Tibial,GTEX-1KANC,female,50-59,Ventilator case,,2 pieces; well trimmed; minimal intimal thickening,artery_tibial
+GTEX-1KD4Q-0526,Artery - Tibial,GTEX-1KD4Q,male,40-49,Fast death - natural causes,,2 pieces; slight intimal thickening; no plaque; 1 mm external fat deposit on 1 piece,artery_tibial
+GTEX-1KD5A-0626,Artery - Tibial,GTEX-1KD5A,male,50-59,Fast death - natural causes,,2 pieces; mild plaque,artery_tibial
+GTEX-1KWVE-1626,Artery - Tibial,GTEX-1KWVE,male,30-39,Fast death - violent,,2 pieces; well trimmed; minimal intimal thickening,artery_tibial
+GTEX-1KXAM-2626,Artery - Tibial,GTEX-1KXAM,male,60-69,Ventilator case,atherosis,"2 pieces, ~50% circumferential occlusive atherosis, rep. delineated",artery_tibial
+GTEX-1L5NE-2326,Artery - Tibial,GTEX-1L5NE,male,50-59,Ventilator case,fibrosis,"2 pieces, no atherosis, rim of fibrous tissue up to ~0.6mm",artery_tibial
+GTEX-1LB8K-0426,Artery - Tibial,GTEX-1LB8K,male,50-59,Fast death - natural causes,,2 pieces; minimal intimal thickening; several small calcium deposits in media; well trimmed,artery_tibial
+GTEX-1LBAC-0526,Artery - Tibial,GTEX-1LBAC,male,20-29,Ventilator case,fibrosis,2 pieces; includes attachment of fat/fibrous tissue/vessels from 30-60%,artery_tibial
+GTEX-1LC46-2426,Artery - Tibial,GTEX-1LC46,male,30-39,Ventilator case,calcification,2 pieces; fragments of vessel wall with significant medial calcification and attachment of fat (30-50%) and vessels,artery_tibial
+GTEX-1LC47-0426,Artery - Tibial,GTEX-1LC47,male,60-69,Intermediate death,"atherosis, monckeberg, sclerotic","2 pieces.  Minimal atherosis; prominent Monckeberg medial sclerosis, rep foci delineated",artery_tibial
+GTEX-1LG7Y-0326,Artery - Tibial,GTEX-1LG7Y,male,50-59,Fast death - natural causes,atherosis,"2 pieces, no adherent fat; minimal atherosis",artery_tibial
+GTEX-1LG7Z-1926,Artery - Tibial,GTEX-1LG7Z,male,30-39,Ventilator case,,2 pieces; minimal plaque; well trimmed,artery_tibial
+GTEX-1LGOU-1926,Artery - Tibial,GTEX-1LGOU,female,20-29,Ventilator case,,,artery_tibial
+GTEX-1LGRB-2726,Artery - Tibial,GTEX-1LGRB,female,50-59,Ventilator case,"calcification, sclerotic","2 pieces; medial calcific sclerosis, intimal thickening",artery_tibial
+GTEX-1LH75-2226,Artery - Tibial,GTEX-1LH75,female,50-59,Slow death,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1LKK1-0426,Artery - Tibial,GTEX-1LKK1,female,50-59,Slow death,,"2 pieces, no adherent fat or evident atherosis",artery_tibial
+GTEX-1LNCM-1526,Artery - Tibial,GTEX-1LNCM,female,50-59,Ventilator case,,"2 pieces; well trimmed of fat, attached smaller vessels, intimal thickening",artery_tibial
+GTEX-1LSNL-0326,Artery - Tibial,GTEX-1LSNL,male,50-59,Fast death - natural causes,"atherosis, fibrosis","2 pieces, nubbins of adherent fibrous/fatty tissue up to ~2mm, rep delineated.  Minimal atherosis",artery_tibial
+GTEX-1LSNM-2126,Artery - Tibial,GTEX-1LSNM,male,50-59,Ventilator case,calcification,"2 pieces; well trimmed, intimal thickening/mild plaque, focus of medial calcification",artery_tibial
+GTEX-1LSVX-0526,Artery - Tibial,GTEX-1LSVX,male,60-69,Slow death,calcification,2 pieces; 1 piece has 40% medial calcification; other has 10%; well trimmed,artery_tibial
+GTEX-1LVA9-0526,Artery - Tibial,GTEX-1LVA9,male,50-59,Fast death - natural causes,"atherosclerosis, calcification",2 pieces; mild atherosclerosis with focal calcification,artery_tibial
+GTEX-1LVAM-0526,Artery - Tibial,GTEX-1LVAM,female,50-59,Ventilator case,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1LVAN-0426,Artery - Tibial,GTEX-1LVAN,female,50-59,Ventilator case,,2 pieces; no plaques; well trimmed,artery_tibial
+GTEX-1LVAO-0426,Artery - Tibial,GTEX-1LVAO,male,60-69,Slow death,fibrosis,2 pieces; mild fibrous intimal thickening; well trimmed,artery_tibial
+GTEX-1M4P7-0426,Artery - Tibial,GTEX-1M4P7,male,60-69,Fast death - natural causes,"atherosis, monckeberg, sclerotic","2 pieces, prominent Monckeberg sclerosis; minimal atherosis; not adherent fat",artery_tibial
+GTEX-1M5QR-2026,Artery - Tibial,GTEX-1M5QR,male,40-49,Ventilator case,"atherosclerosis, calcification, sclerotic","2 pieces; atherosclerosis with luminal compromise >50%, medial calcific sclerosis",artery_tibial
+GTEX-1MA7W-1726,Artery - Tibial,GTEX-1MA7W,female,20-29,Ventilator case,,"2 pieces, not single artery but aggregate of smaller twigs",artery_tibial
+GTEX-1MA7X-1926,Artery - Tibial,GTEX-1MA7X,male,60-69,Fast death - natural causes,"calcification, sclerotic",2 pieces; slight intimal sclerotic plaques; single focus of medial calcification; 20 & 40% external fat,artery_tibial
+GTEX-1MCC2-2625,Artery - Tibial,GTEX-1MCC2,female,30-39,Ventilator case,,2 pieces; cross sections of vessels with attached fibrovascular and adipose tissue representing 50% tissue,artery_tibial
+GTEX-1MCQQ-0126,Artery - Tibial,GTEX-1MCQQ,male,60-69,Intermediate death,"calcification, monckeberg",2 pieces; slight intimal thickening; 2 calcific Monkeberg lesions in media of 1 piece; well dissected,artery_tibial
+GTEX-1MCYP-2226,Artery - Tibial,GTEX-1MCYP,female,20-29,Ventilator case,,"2 pieces; well trimmed of fat, includes smaller branch",artery_tibial
+GTEX-1MGNQ-0526,Artery - Tibial,GTEX-1MGNQ,male,40-49,Ventilator case,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1MJIX-1926,Artery - Tibial,GTEX-1MJIX,male,40-49,Ventilator case,fibrosis,"3 pieces; 2 pieces are artery with focal intimal thickening, 3rd piece is fat/fibrous/nerve",artery_tibial
+GTEX-1MJK2-0126,Artery - Tibial,GTEX-1MJK2,male,50-59,Fast death - natural causes,,2 pieces; atheromatous plaque with mural organizing thrombosis  narrowing the lumen by ~50% and 75% (arrows); ~1mm of attached adventitia,artery_tibial
+GTEX-1MJK3-1626,Artery - Tibial,GTEX-1MJK3,male,20-29,Ventilator case,,2 pieces; no plaques; external fat up to 2mm thick,artery_tibial
+GTEX-1MUQO-0426,Artery - Tibial,GTEX-1MUQO,male,60-69,Ventilator case,atherosis,"2 pieces, no adherent fat; trace atherosis",artery_tibial
+GTEX-1N2DV-0426,Artery - Tibial,GTEX-1N2DV,male,40-49,Ventilator case,,"2 pieces, nubbins of adherent fascia up to ~1mm, rep delineated",artery_tibial
+GTEX-1N2DW-0626,Artery - Tibial,GTEX-1N2DW,male,50-59,Fast death - natural causes,calcification,2 pieces; cross section and oblique/longitudinal  section of vessel with atheromatous plaque and medial calcifications; attached adventitia and  fat up to ~ 1.8mm and ~0.8mm,artery_tibial
+GTEX-1N2EE-0226,Artery - Tibial,GTEX-1N2EE,male,60-69,Fast death - violent,"atherosis, monckeberg, sclerotic","2 pieces, minimal atherosis, no adherent fat.  Monckeberg medial sclerosis; rep focus delineated",artery_tibial
+GTEX-1N2EF-0326,Artery - Tibial,GTEX-1N2EF,male,60-69,Intermediate death,,2 pieces; minimal plaque; well trimmed,artery_tibial
+GTEX-1N5O9-0526,Artery - Tibial,GTEX-1N5O9,male,60-69,Fast death - natural causes,"atherosclerosis, calcification",2 pieces; atherosclerotic intimal plaque up to 0.66mm; patent lumen; early medial  calcifications (arrows); internal elastic lamina with small red blood cells aggregates (outlined); up to 1.25mm attached adventitia,artery_tibial
+GTEX-1N7R6-0226,Artery - Tibial,GTEX-1N7R6,female,20-29,Slow death,calcification,2 pieces; trivial medial calcification and intimal thickening,artery_tibial
+GTEX-1NHNU-1326,Artery - Tibial,GTEX-1NHNU,male,50-59,Ventilator case,,2 pieces; well trimmed; no plaques,artery_tibial
+GTEX-1NSGN-0526,Artery - Tibial,GTEX-1NSGN,male,50-59,Ventilator case,,2 pieces; patent vessels; 0.5mm and 1mm attached adventitia,artery_tibial
+GTEX-1NT2E-0426,Artery - Tibial,GTEX-1NT2E,female,40-49,Ventilator case,,,artery_tibial
+GTEX-1NUQO-0326,Artery - Tibial,GTEX-1NUQO,female,20-29,Ventilator case,,2 pieces; patent; ~0.2mm attached adventitia,artery_tibial
+GTEX-1NV5F-0426,Artery - Tibial,GTEX-1NV5F,female,60-69,Slow death,calcification,2 pieces; widely patent; moderate medial calcification,artery_tibial
+GTEX-1NV88-0726,Artery - Tibial,GTEX-1NV88,male,50-59,Slow death,,,artery_tibial
+GTEX-1NV8Z-0426,Artery - Tibial,GTEX-1NV8Z,male,60-69,Fast death - natural causes,"atherosis, monckeberg, sclerotic","2 pieces, focal Monckeberg medial sclerosis, delineated; minmal atherosis or adherent fat",artery_tibial
+GTEX-1O97I-0526,Artery - Tibial,GTEX-1O97I,male,60-69,Intermediate death,fibrosis,2 pieces; mild flat intimal fibrous plaques; up to 0.5 mm fibrofatty cuff,artery_tibial
+GTEX-1O9I2-0426,Artery - Tibial,GTEX-1O9I2,male,50-59,Ventilator case,"monckeberg, sclerotic","2 pieces, prominent Monkeberg medial sclerosis, rep delineated; non adherent fat or significant atherosis",artery_tibial
+GTEX-1OFPY-2126,Artery - Tibial,GTEX-1OFPY,male,60-69,Ventilator case,fibrosis,2 pieces; well trimmed vessels 1 with eccentric fibrous plaque 1mm thick,artery_tibial
+GTEX-1OJC3-0526,Artery - Tibial,GTEX-1OJC3,male,20-29,Ventilator case,,2 pieces; ~0.25mm rim of adventitia,artery_tibial
+GTEX-1OJC4-0426,Artery - Tibial,GTEX-1OJC4,female,50-59,Fast death - natural causes,atherosclerosis,"2 pieces; one is relatively well trimmed without significant intimal thickening/plaque, second shows significant attachment (60-70%) of vein/fat and artery with 50-75% occlusion by atherosclerosis",artery_tibial
+GTEX-1OKEX-2626,Artery - Tibial,GTEX-1OKEX,male,60-69,Ventilator case,,,artery_tibial
+GTEX-1OZHM-0426,Artery - Tibial,GTEX-1OZHM,male,40-49,Slow death,,"2 pieces; one is pristine vessel, the other is primarily peripheral nerve/adipose/connective tissue, delineated.  Sample with caution.",artery_tibial
+GTEX-1P4AB-0526,Artery - Tibial,GTEX-1P4AB,male,50-59,Slow death,fibrosis,2 pieces; minimal fibrous intimal thickening; no plaques; well trimmed,artery_tibial
+GTEX-1PAR6-2326,Artery - Tibial,GTEX-1PAR6,female,30-39,Ventilator case,,,artery_tibial
+GTEX-1PBJI-0326,Artery - Tibial,GTEX-1PBJI,female,20-29,Fast death - violent,fibrosis,"2 pieces, no atherosis, trace rim of fibrous tissue, <0.3mm",artery_tibial
+GTEX-1PBJJ-0526,Artery - Tibial,GTEX-1PBJJ,male,30-39,Ventilator case,atherosclerosis,2 pieces; patent lumen; early atherosclerotic plaques (arrows); 0.5mm adventitia,artery_tibial
+GTEX-1PDJ9-0626,Artery - Tibial,GTEX-1PDJ9,male,20-29,Ventilator case,fibrosis,2 pieces; minimal focal intimal fibrous thickening; well dissected; no fat in adventitia,artery_tibial
+GTEX-1PFEY-2026,Artery - Tibial,GTEX-1PFEY,male,30-39,Ventilator case,atherosis,"2 pieces adherent nubbins of fat up to ~5mm, minimal atherosis",artery_tibial
+GTEX-1PIEJ-0526,Artery - Tibial,GTEX-1PIEJ,female,20-29,Ventilator case,,"2 pieces, no significant adherent fat/atherosis",artery_tibial
+GTEX-1PIGE-0426,Artery - Tibial,GTEX-1PIGE,male,20-29,Ventilator case,,"2 pieces; well trimmed, no extraneous tissues; no lesions",artery_tibial
+GTEX-1PIIG-0626,Artery - Tibial,GTEX-1PIIG,male,30-39,Ventilator case,congestion,2 pieces; congested adventitia measures up to 0.88mm,artery_tibial
+GTEX-1POEN-0526,Artery - Tibial,GTEX-1POEN,female,30-39,Fast death - violent,,"2 pieces, no adherent fat or significant atherosis",artery_tibial
+GTEX-1PPGY-0626,Artery - Tibial,GTEX-1PPGY,male,60-69,Fast death - natural causes,,2 pieces; close to 1mm of adventitia; lumen open,artery_tibial
+GTEX-1PPH6-0626,Artery - Tibial,GTEX-1PPH6,female,60-69,Fast death - natural causes,fibrosis,4 pieces; mild intimal fibrosis; 2 small branches also present,artery_tibial
+GTEX-1PPH7-2726,Artery - Tibial,GTEX-1PPH7,male,40-49,Ventilator case,,2 pieces; longitudinal sections with up to 30% fatty stroma; no plaque,artery_tibial
+GTEX-1PPH8-0526,Artery - Tibial,GTEX-1PPH8,male,20-29,Ventilator case,fibrosis,"2 pieces, one with adherent fibrous tissue up to ~1.5mm; other is sectioned at a bifurcation; sample carefully",artery_tibial
+GTEX-1PWST-0626,Artery - Tibial,GTEX-1PWST,male,70-79,Slow death,"atherosis, monckeberg, sclerotic","2 pieces, no adherent fat; trace atherosis.  Monckeberg medial sclerosis, rep foci delineated.",artery_tibial
+GTEX-1QAET-2526,Artery - Tibial,GTEX-1QAET,male,50-59,Ventilator case,"atherosclerosis, calcification",3 pieces; moderate intimal atherosclerosis; intimal and medial calcifications; well trimmed,artery_tibial
+GTEX-1QCLY-0626,Artery - Tibial,GTEX-1QCLY,male,30-39,Ventilator case,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1QCLZ-0526,Artery - Tibial,GTEX-1QCLZ,female,60-69,Ventilator case,atherosis,2 pieces; early atherosis; lumina open,artery_tibial
+GTEX-1QEPI-0426,Artery - Tibial,GTEX-1QEPI,female,60-69,Intermediate death,"calcification, fibrosis, sclerotic",2 pieces; severe medial calcification; moderate intimal fibrous sclerosis,artery_tibial
+GTEX-1QL29-0426,Artery - Tibial,GTEX-1QL29,male,40-49,Ventilator case,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1QMI2-0626,Artery - Tibial,GTEX-1QMI2,male,60-69,Fast death - natural causes,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1QP28-0426,Artery - Tibial,GTEX-1QP28,female,50-59,Ventilator case,,"2 pieces, no adherent fat or significant atherosis",artery_tibial
+GTEX-1QP29-0826,Artery - Tibial,GTEX-1QP29,male,50-59,Ventilator case,,2 pieces; over 1mm attached adventitia with vessels,artery_tibial
+GTEX-1QP2A-0426,Artery - Tibial,GTEX-1QP2A,male,50-59,Ventilator case,fibrosis,2 pieces; well trimmed; mild focal intimal fibrous thickening,artery_tibial
+GTEX-1QP66-1526,Artery - Tibial,GTEX-1QP66,male,50-59,Ventilator case,calcification,4 pieces; multiple cross sections of small vessels with attached fibroadipose tissue and nerves (arrows) and skeletal muscle (outlined); boxed calcification,artery_tibial
+GTEX-1QP67-2026,Artery - Tibial,GTEX-1QP67,female,40-49,Ventilator case,,"2 pieces, no significant atherosis or adherent fat",artery_tibial
+GTEX-1QP6S-0626,Artery - Tibial,GTEX-1QP6S,male,40-49,Fast death - natural causes,,2 pieces; lumina open; rim of adherent adventitia,artery_tibial
+GTEX-1QP9N-1726,Artery - Tibial,GTEX-1QP9N,male,30-39,Ventilator case,,2 pieces; well dissected; no lesions,artery_tibial
+GTEX-1QPFJ-0426,Artery - Tibial,GTEX-1QPFJ,female,30-39,Ventilator case,,1 piece; artery not nerve; well trimmed,artery_tibial
+GTEX-1QW4Y-1926,Artery - Tibial,GTEX-1QW4Y,male,30-39,Ventilator case,fibrosis,"2 pieces, no significant atherosis or adherent fat, partial edge of fibrous tissue up to ~1.5mm (sections are longitudinal, not cross sections)",artery_tibial
+GTEX-1R46S-0226,Artery - Tibial,GTEX-1R46S,female,60-69,Slow death,atherosis,"2 pieces, trace nubbin of adherent fat; trace atherosis",artery_tibial
+GTEX-1R7EU-0426,Artery - Tibial,GTEX-1R7EU,male,60-69,Ventilator case,"atherosis, calcification",2 pieces; early atherosis; focal medial calcification (outlined); ~1.4mm attached adventitia,artery_tibial
+GTEX-1R7EV-2226,Artery - Tibial,GTEX-1R7EV,male,40-49,Ventilator case,"atherosclerosis, calcification",2 pieces; atherosclerotic plaque and medial calcifications (arrows); ~50% attached adventitia and fat (outlined),artery_tibial
+GTEX-1R9JW-2326,Artery - Tibial,GTEX-1R9JW,female,30-39,Ventilator case,fibrosis,"2 pieces rim of adherent fat/fibrous tissue up to ~0.8mm, ~40% total tissue; sample with care",artery_tibial
+GTEX-1R9K4-0426,Artery - Tibial,GTEX-1R9K4,male,60-69,Ventilator case,"atherosclerosis, calcification",2 pieces; medial calcification (arrows)and atherosclerotic plaque with luminal narrowing by 25%,artery_tibial
+GTEX-1R9K5-0526,Artery - Tibial,GTEX-1R9K5,male,50-59,Ventilator case,"monckeberg, sclerotic","2 pieces, no significant atherosis or adherent fat; focal Monckeberg sclerosis, encircled",artery_tibial
+GTEX-1R9PM-2426,Artery - Tibial,GTEX-1R9PM,male,20-29,Ventilator case,fibrosis,"2 pieces, adherent rims of fibrous tissue/fat up to ~1mm",artery_tibial
+GTEX-1R9PN-2026,Artery - Tibial,GTEX-1R9PN,female,40-49,Ventilator case,,2 pieces; several arteries; no lesions,artery_tibial
+GTEX-1R9PO-2526,Artery - Tibial,GTEX-1R9PO,female,60-69,Intermediate death,,2 pieces; lumina open; ~0.7mm attached adventitia,artery_tibial
+GTEX-1RAZA-0326,Artery - Tibial,GTEX-1RAZA,male,20-29,Ventilator case,,2 pieces; lumina open; adherent adventitia and smaller vessels (outlined),artery_tibial
+GTEX-1RAZQ-0526,Artery - Tibial,GTEX-1RAZQ,male,30-39,Ventilator case,"atherosis, clean_specimens, fibrosis","2 pieces, trace atherosis delineated; adherent 2 mm nubbin fibrous tissue, otherwise clean",artery_tibial
+GTEX-1RAZR-0526,Artery - Tibial,GTEX-1RAZR,male,40-49,Ventilator case,calcification,2 pieces; focally calcified intima with minimal plaque; well trimmed,artery_tibial
+GTEX-1RAZS-0526,Artery - Tibial,GTEX-1RAZS,male,50-59,Intermediate death,calcification,2 pieces; fibrosclerotic plaque (arrows); medial discrete calcifications (outlined); lumina open  with ~25% narrowing; attached rim of adventitia,artery_tibial
+GTEX-1RB15-2426,Artery - Tibial,GTEX-1RB15,male,60-69,Ventilator case,,"2 pieces, confirmed target muscular artery, no significant atherosis/adherent fat",artery_tibial
+GTEX-1RDX4-0526,Artery - Tibial,GTEX-1RDX4,female,50-59,Intermediate death,"calcification, sclerotic","2 pieces; moderate intimal sclerosis with large, 1cm, calcific deposit in 1 piece",artery_tibial
+GTEX-1RLM8-2726,Artery - Tibial,GTEX-1RLM8,male,50-59,Slow death,,,artery_tibial
+GTEX-1RMOY-1926,Artery - Tibial,GTEX-1RMOY,male,50-59,Ventilator case,,2 pieces; open lumina; narrow rim of adventitia,artery_tibial
+GTEX-1RNSC-0426,Artery - Tibial,GTEX-1RNSC,male,60-69,Slow death,"atherosis, monckeberg, sclerotic","2 pieces, dense circumferential Monckeberg sclerosis, rep delineated.  Minimal atherosis",artery_tibial
+GTEX-1RNTQ-0326,Artery - Tibial,GTEX-1RNTQ,female,20-29,Ventilator case,,2 pieces; cross sections of vessels with attached adventitia and trace of external fat,artery_tibial
+GTEX-1RQEC-0226,Artery - Tibial,GTEX-1RQEC,male,60-69,Fast death - natural causes,,,artery_tibial
+GTEX-1RQED-0526,Artery - Tibial,GTEX-1RQED,male,60-69,Intermediate death,atherosis,"2 pieces, no adherent fat; ~20% occlusive luminal atherosis",artery_tibial
+GTEX-1S3DN-2626,Artery - Tibial,GTEX-1S3DN,male,50-59,Ventilator case,fibrosis,"2 pieces, no significant atherosis; trace adherent fibrous tissue",artery_tibial
+GTEX-1S5VW-0426,Artery - Tibial,GTEX-1S5VW,male,60-69,Intermediate death,"atherosis, monckeberg, sclerotic","2 pieces, no adherent fat; Monckeberg sclerosis, rep encircled; `20-30% occlusive atherosis",artery_tibial
+GTEX-1S5ZA-0426,Artery - Tibial,GTEX-1S5ZA,male,20-29,Ventilator case,fibrosis,"2 pieces, trace adherent fibrous tissue; no atherosis",artery_tibial
+GTEX-1S5ZU-0526,Artery - Tibial,GTEX-1S5ZU,female,20-29,Ventilator case,,2 pieces; no lesions; external fat on 1 piece,artery_tibial
+GTEX-1S82P-0526,Artery - Tibial,GTEX-1S82P,female,60-69,Ventilator case,"atherosis, calcification",2 pieces; medial calcifications (outlined); atherosis; lumina patent,artery_tibial
+GTEX-1S82U-1726,Artery - Tibial,GTEX-1S82U,female,30-39,Ventilator case,,"2 pieces, ~30% of tissue is adherent fatty nubbin, delineated",artery_tibial
+GTEX-1S82Y-2426,Artery - Tibial,GTEX-1S82Y,male,40-49,Ventilator case,,,artery_tibial
+GTEX-1S82Z-1226,Artery - Tibial,GTEX-1S82Z,female,30-39,Ventilator case,fibrosis,"2 pieces, ~50% arterial twigs, ~50% fibrous connective & adipose tissue",artery_tibial
+GTEX-1S831-0526,Artery - Tibial,GTEX-1S831,male,20-29,Ventilator case,,2 pieces; up to 1mm attached adventitia,artery_tibial
+GTEX-1S83E-0426,Artery - Tibial,GTEX-1S83E,male,40-49,Ventilator case,,2 pieces; lumina open; 0.5mm attached adventitia,artery_tibial
+GTEX-N7MS-0626,Artery - Tibial,GTEX-N7MS,male,60-69,Fast death - natural causes,calcification,"Medial calcif., OK for analysis",artery_tibial
+GTEX-NFK9-0526,Artery - Tibial,GTEX-NFK9,male,40-49,Ventilator case,,OK for analysis,artery_tibial
+GTEX-NL3G-1426,Artery - Tibial,GTEX-NL3G,female,60-69,Fast death - natural causes,,artery is ~50% of specimen; remainder is fat and veins,artery_tibial
+GTEX-NL3H-0726,Artery - Tibial,GTEX-NL3H,male,60-69,Intermediate death,,Artery plus  2 veins; minimal intimall  thickening,artery_tibial
+GTEX-NL4W-1726,Artery - Tibial,GTEX-NL4W,male,50-59,Slow death,clean_specimens,"Good, clean specimen",artery_tibial
+GTEX-NPJ7-0126,Artery - Tibial,GTEX-NPJ7,female,60-69,Slow death,"clean_specimens, monckeberg, sclerotic","Clean specimen; Monckeberg’s medial sclerosis, multifocal;",artery_tibial
+GTEX-NPJ8-1826,Artery - Tibial,GTEX-NPJ8,male,40-49,Slow death,,,artery_tibial
+GTEX-O5YT-1826,Artery - Tibial,GTEX-O5YT,male,20-29,Ventilator case,,2 pieces; no lesions,artery_tibial
+GTEX-O5YU-0926,Artery - Tibial,GTEX-O5YU,male,60-69,Slow death,calcification,large calcifications,artery_tibial
+GTEX-O5YV-1626,Artery - Tibial,GTEX-O5YV,female,60-69,Intermediate death,,0; artery is 24% of area; mostly nerves,artery_tibial
+GTEX-O5YW-1826,Artery - Tibial,GTEX-O5YW,male,50-59,Ventilator case,,"2 pieces, 3x2 mm; 80% atheromatous intimal narrowing",artery_tibial
+GTEX-OHPJ-0626,Artery - Tibial,GTEX-OHPJ,male,60-69,Ventilator case,,"Peripheral nerve, not artery.  Nerve accounts for central 50% of specimen; remainder is fat. Verified mix-up.VAI to change site from Artery to Nerve",artery_tibial
+GTEX-OHPK-1826,Artery - Tibial,GTEX-OHPK,female,50-59,Ventilator case,"atherosclerosis, sclerotic",mild athersclerotic vascular disease,artery_tibial
+GTEX-OHPL-1826,Artery - Tibial,GTEX-OHPL,female,60-69,Ventilator case,,"Artery, vein, nerve",artery_tibial
+GTEX-OHPM-1826,Artery - Tibial,GTEX-OHPM,male,50-59,Ventilator case,"atherosclerosis, sclerotic",Prominent atherosclerotic narrowing (~40%).  Vessel is central 75% of specimen; peripheral fat/connective tissue,artery_tibial
+GTEX-OHPN-2826,Artery - Tibial,GTEX-OHPN,female,60-69,Ventilator case,,1 x 2mm nodule of fat attached to 2.6 x 2.8mm vessel,artery_tibial
+GTEX-OIZF-1826,Artery - Tibial,GTEX-OIZF,male,60-69,Ventilator case,calcification,"Minimal intimal thickening, small focal calcification, no surrounding fat",artery_tibial
+GTEX-OIZG-1526,Artery - Tibial,GTEX-OIZG,male,50-59,Ventilator case,,Minimal intimal thickening,artery_tibial
+GTEX-OIZH-1826,Artery - Tibial,GTEX-OIZH,male,50-59,Ventilator case,"monckeberg, sclerotic",4 x 6.5mm specimen.  Foci of Monckeberg’s medial sclerosis,artery_tibial
+GTEX-OIZI-0526,Artery - Tibial,GTEX-OIZI,male,40-49,Ventilator case,,No lesion. 2mm diameter,artery_tibial
+GTEX-OOBJ-1826,Artery - Tibial,GTEX-OOBJ,male,60-69,Ventilator case,,4.4 x 6.8 mm specimen.,artery_tibial
+GTEX-OOBK-1826,Artery - Tibial,GTEX-OOBK,male,40-49,Ventilator case,,Trace shreds of fibroadipose tissue; no artery present,artery_tibial
+GTEX-OXRK-0526,Artery - Tibial,GTEX-OXRK,female,50-59,Ventilator case,,No lesion. 3x2mm diameter.,artery_tibial
+GTEX-OXRL-1826,Artery - Tibial,GTEX-OXRL,male,50-59,Ventilator case,sclerotic,Minimal sclerosis. Two sections. 6 x 2.5mm,artery_tibial
+GTEX-OXRN-1226,Artery - Tibial,GTEX-OXRN,male,50-59,Ventilator case,atherosclerosis,Artery with 60% occlusion by atheromatous plaque,artery_tibial
+GTEX-OXRO-1926,Artery - Tibial,GTEX-OXRO,female,60-69,Slow death,,2 pieces: 4.9x3.4mm; 3.5x1.4mm,artery_tibial
+GTEX-OXRP-2426,Artery - Tibial,GTEX-OXRP,female,60-69,Intermediate death,"atherosclerosis, clean_specimens, sclerotic","4.7x1.5mm.  Good clean specimen, minimal atherosclerotic damage",artery_tibial
+GTEX-P44G-0426,Artery - Tibial,GTEX-P44G,male,30-39,Ventilator case,clean_specimens,1.8x1.8mm.  Good clean specimen,artery_tibial
+GTEX-P44H-0626,Artery - Tibial,GTEX-P44H,male,40-49,Slow death,clean_specimens,2.6x2.5mm.  Clean specimen,artery_tibial
+GTEX-P4PP-1826,Artery - Tibial,GTEX-P4PP,female,30-39,Ventilator case,,2  ~1.5mm diameter sections,artery_tibial
+GTEX-P4PQ-1826,Artery - Tibial,GTEX-P4PQ,male,60-69,Ventilator case,,Not artery; 2 ~1.2mm pieces peripheral nerve with 0.5mm rim of fat,artery_tibial
+GTEX-P4QR-0526,Artery - Tibial,GTEX-P4QR,male,60-69,Ventilator case,"atherosclerosis, monckeberg, sclerotic","2  ~3mm pieces. Mild atheromatous luminal deposits, severe Monckeberg’s medial sclerosis",artery_tibial
+GTEX-P4QS-1826,Artery - Tibial,GTEX-P4QS,male,60-69,Ventilator case,,"2  ~2.5mm pieces, with 0.5-1mm rim of fat/fibrous tissue",artery_tibial
+GTEX-P4QT-1826,Artery - Tibial,GTEX-P4QT,female,50-59,Ventilator case,atherosis,"2 pieces of 2 small arteries joined by connective tissue, each ~1mm in diameter. Focal atherosis",artery_tibial
+GTEX-P78B-0726,Artery - Tibial,GTEX-P78B,female,40-49,Ventilator case,atherosis,2 pieces of 2 muscular arteries ; slight intimal thickening. Focal atherosis,artery_tibial
+GTEX-PLZ4-1326,Artery - Tibial,GTEX-PLZ4,female,50-59,Ventilator case,,2  ~ 4x3mm pieces; 50% of aliquot is fat/connective tissue,artery_tibial
+GTEX-PLZ5-1926,Artery - Tibial,GTEX-PLZ5,male,50-59,Ventilator case,,Not artery.  One piece of peripheral nerve; one piece fat with minute vein (0.2x0.6mm,artery_tibial
+GTEX-PLZ6-1626,Artery - Tibial,GTEX-PLZ6,male,30-39,Ventilator case,calcification,2 pieces of 2 muscular arteries about 2mm in diameter; calcified deposits in intima; 10% adherent fat in one piece,artery_tibial
+GTEX-POMQ-2126,Artery - Tibial,GTEX-POMQ,female,20-29,Ventilator case,,"2 pieces, ~2 x 0.6mm, normal artery",artery_tibial
+GTEX-POYW-0326,Artery - Tibial,GTEX-POYW,male,60-69,Ventilator case,"monckeberg, sclerotic","2 pieces, ~4mm d. Extensive Monckeberg’s medial sclerosis in both aliquots",artery_tibial
+GTEX-PSDG-0526,Artery - Tibial,GTEX-PSDG,male,50-59,Ventilator case,,"2 pieces, ~2.5 mm diameter",artery_tibial
+GTEX-PVOW-0726,Artery - Tibial,GTEX-PVOW,male,40-49,Fast death - natural causes,sclerotic,"2 pieces, ~2x1.3 mm. Minimal intimal sclerosis; no adherent fat (good dissection); focal tissue tears (probably  not due to fixation)",artery_tibial
+GTEX-PW2O-1926,Artery - Tibial,GTEX-PW2O,male,20-29,Ventilator case,clean_specimens,"2  ~ 2x1mm pieces, relatively clean",artery_tibial
+GTEX-PWCY-2226,Artery - Tibial,GTEX-PWCY,female,20-29,Ventilator case,,"2 pieces, 2 mm diameter; no extraneous fat",artery_tibial
+GTEX-PWN1-1826,Artery - Tibial,GTEX-PWN1,female,40-49,Ventilator case,,"2 pieces, 1 with 1 mm artery and vein; 1 with 1 mm artery; each with 20% fat and stroma",artery_tibial
+GTEX-PWO3-0126,Artery - Tibial,GTEX-PWO3,female,60-69,Slow death,clean_specimens,2   ~1.3x 0.8mm aliquots; good clean small muscular artery specimens,artery_tibial
+GTEX-PWOO-2426,Artery - Tibial,GTEX-PWOO,female,40-49,Ventilator case,clean_specimens,"2  ~ 1.5d aliquots, good clean specimens",artery_tibial
+GTEX-PX3G-1826,Artery - Tibial,GTEX-PX3G,female,20-29,Ventilator case,,"2 pieces, 5.5x2 mm 2 veins and 1 artery& 3x2 mm 2 arteries & 1 vein; up to 30% adipose",artery_tibial
+GTEX-Q2AG-0526,Artery - Tibial,GTEX-Q2AG,female,40-49,Fast death - natural causes,clean_specimens,"2  ~2mm d aliquots,  clean specimens",artery_tibial
+GTEX-Q2AH-2026,Artery - Tibial,GTEX-Q2AH,male,40-49,Ventilator case,,"2 pieces with arteries, 3x1.6mm; veins, 1 large; minor fat component",artery_tibial
+GTEX-Q2AI-1726,Artery - Tibial,GTEX-Q2AI,male,40-49,Ventilator case,,2 pieces each with 1mm artery and 0.8 mm vein plus ~30% of each 2.5 mm aliquot with surrounding fat and stroma,artery_tibial
+GTEX-Q734-2226,Artery - Tibial,GTEX-Q734,female,40-49,Ventilator case,,"2   ~4x2mm aliquots.    ~50% of aliquots are peri-arterial connective tissue, fat, small vessels",artery_tibial
+GTEX-QCQG-1926,Artery - Tibial,GTEX-QCQG,female,50-59,Ventilator case,,"2 pieces, each  ~2.5x3.5 mm; minimal  adipose",artery_tibial
+GTEX-QDT8-0426,Artery - Tibial,GTEX-QDT8,female,30-39,Slow death,,2   ~2.5x1.5mm aliquots,artery_tibial
+GTEX-QDVJ-2126,Artery - Tibial,GTEX-QDVJ,male,50-59,Ventilator case,,"2 pieces, 2.4 mm; mild intimal thickening; no external fat",artery_tibial
+GTEX-QDVN-2326,Artery - Tibial,GTEX-QDVN,male,50-59,Ventilator case,"atherosclerosis, sclerotic",2  7x6mm aliquots; prominent peripheral atherosclerosis,artery_tibial
+GTEX-QEG4-1226,Artery - Tibial,GTEX-QEG4,male,30-39,Fast death - violent,clean_specimens,"2 ~2.3x1.2mm aliquots, good clean specimens",artery_tibial
+GTEX-QEG5-0626,Artery - Tibial,GTEX-QEG5,male,20-29,Ventilator case,,"2 pieces, each with 1 1mm artery and 1.5mm vein; 20% adipose tissue",artery_tibial
+GTEX-QEL4-0526,Artery - Tibial,GTEX-QEL4,male,50-59,Intermediate death,clean_specimens,"2   ~3mm d aliquots, clean specimens",artery_tibial
+GTEX-QESD-1826,Artery - Tibial,GTEX-QESD,male,20-29,Ventilator case,,"2 pieces, 1.5 – 2 mm diameter; no plaques; no extraneous adipose tissue",artery_tibial
+GTEX-QLQ7-1926,Artery - Tibial,GTEX-QLQ7,male,60-69,Ventilator case,"monckeberg, sclerotic","2  ~2x1mm aliquots, substantial rims of fat/fibrous tissue around both (up to 1-2mm). Focal Monckeberg’s medial sclerosis noted",artery_tibial
+GTEX-QLQW-1526,Artery - Tibial,GTEX-QLQW,male,30-39,Ventilator case,,2 pieces ~3x2 mm; 2 arteries and 1 vein; tissue tears (histologic); embedded in ~40% stroma,artery_tibial
+GTEX-QMR6-1826,Artery - Tibial,GTEX-QMR6,male,50-59,Slow death,,"2  3x1mm aliquots, surrounded in to or part by up to 2mm rim of fat, small vessels & connective tissue",artery_tibial
+GTEX-QMRM-2026,Artery - Tibial,GTEX-QMRM,male,50-59,Ventilator case,,"2 arteries 3.2&2.7 mm; folded, polypoid  intima",artery_tibial
+GTEX-QV31-1626,Artery - Tibial,GTEX-QV31,male,30-39,Ventilator case,clean_specimens,"2   ~3mm d aliquots, one with extra 2mm artery segment attached.  Good clean specimen",artery_tibial
+GTEX-QV44-2226,Artery - Tibial,GTEX-QV44,male,50-59,Ventilator case,,2 arteries ~4 mm and 2 veins; minimal intimal thickening,artery_tibial
+GTEX-QVJO-1726,Artery - Tibial,GTEX-QVJO,female,60-69,Slow death,clean_specimens,2   ~5mm d aliquots—good clean specimens,artery_tibial
+GTEX-QVUS-1926,Artery - Tibial,GTEX-QVUS,female,60-69,Slow death,"atherosclerosis, calcification, monckeberg, sclerotic","2   ~4.5mm d. aliquots, subtotally occlusive & calcifying atherosclerotic luminal deposits; Monckeberg’s sclerosis of media, extensive",artery_tibial
+GTEX-QXCU-0226,Artery - Tibial,GTEX-QXCU,male,50-59,Fast death - violent,clean_specimens,2   ~2.5mm d. aliquots; excellent clean specimens,artery_tibial
+GTEX-R3RS-0326,Artery - Tibial,GTEX-R3RS,female,40-49,Slow death,calcification,"2 calcified arteries, ~2.5 mm diameter; 1 with adjacent nerve; both with adjacent vein",artery_tibial
+GTEX-R45C-0326,Artery - Tibial,GTEX-R45C,female,60-69,Ventilator case,calcification,"2 pieces, 4x4 & 3x3 mm arteries; one with medial calcification",artery_tibial
+GTEX-R53T-2026,Artery - Tibial,GTEX-R53T,female,50-59,Ventilator case,clean_specimens,"2 aliquots,  ~4mm d.  Good clean specimens",artery_tibial
+GTEX-R55C-1826,Artery - Tibial,GTEX-R55C,male,40-49,Ventilator case,clean_specimens,"2 pieces, 3x2.5 & 4x1.8 mm; clean (no adipose tissue); mildly elevated intimal plaques",artery_tibial
+GTEX-R55D-0426,Artery - Tibial,GTEX-R55D,male,50-59,Ventilator case,clean_specimens,"2 aliquots.  Good clean specimen, minimal adherent fat",artery_tibial
+GTEX-R55E-0326,Artery - Tibial,GTEX-R55E,male,20-29,Fast death - violent,,"2 pieces, 4x2 & 3x3 mm; ~60% adipose surrounds vessels",artery_tibial
+GTEX-R55F-1626,Artery - Tibial,GTEX-R55F,male,50-59,Slow death,clean_specimens,"2 pieces, ~6 mm artery; no sclerosis; no external adipose [good clean vessel]",artery_tibial
+GTEX-REY6-0726,Artery - Tibial,GTEX-REY6,male,60-69,Ventilator case,clean_specimens,"2 pieces, each 2mm arteries with no sclerosis or adherent adipose [good clean specimens]",artery_tibial
+GTEX-RM2N-1826,Artery - Tibial,GTEX-RM2N,male,50-59,Ventilator case,,"2 aliquots,  ~1.5mm d.  One has ~0.5mm nubbins of adherent fat.",artery_tibial
+GTEX-RN5K-0226,Artery - Tibial,GTEX-RN5K,female,50-59,Slow death,clean_specimens,"2 aliquots,  ~2.4x0.5mm, one with small amount adherent fat, other good clean specimen",artery_tibial
+GTEX-RN64-0526,Artery - Tibial,GTEX-RN64,male,50-59,Fast death - violent,clean_specimens,"2 aliquots, 2.5mm d.  Good clean specimens",artery_tibial
+GTEX-RNOR-0426,Artery - Tibial,GTEX-RNOR,female,50-59,Fast death - violent,,"2 pieces, 2x2 & 2.5x1 mm; <5% adipose",artery_tibial
+GTEX-RTLS-0426,Artery - Tibial,GTEX-RTLS,female,60-69,Slow death,,"2 pieces, ~2 mm arteries with ~30% peripheral adipose, fibrous and nerve tissue",artery_tibial
+GTEX-RU1J-1926,Artery - Tibial,GTEX-RU1J,female,20-29,Ventilator case,,2 pieces 2 mm in diameter; normal arteries minimal adipose tissue,artery_tibial
+GTEX-RU72-1226,Artery - Tibial,GTEX-RU72,female,50-59,Fast death - natural causes,clean_specimens,"2 aliquots,  ~2.5mm d.  Excellent clean specimens",artery_tibial
+GTEX-RUSQ-1926,Artery - Tibial,GTEX-RUSQ,male,50-59,Ventilator case,clean_specimens,"2 aliquots,  ~3mm d. LDACC NOTE: Good clean specimens, no adipose tissue",artery_tibial
+GTEX-RVPU-1526,Artery - Tibial,GTEX-RVPU,male,50-59,Fast death - natural causes,"atherosclerosis, calcification, monckeberg, sclerotic","2 aliquots,  ~3mm d.  Subtoally occlusive calcified atherosclerosis; also Monckeberg's medial sclerosis",artery_tibial
+GTEX-RVPV-0226,Artery - Tibial,GTEX-RVPV,male,60-69,Intermediate death,,2 pieces ~ 4x2 mm; ~40% peripheral adipose,artery_tibial
+GTEX-RWS6-2326,Artery - Tibial,GTEX-RWS6,female,60-69,Ventilator case,,"2 pieces, 3x2 mm each; a 1 mm adipose nodule at the edge of 1 piece",artery_tibial
+GTEX-RWSA-0526,Artery - Tibial,GTEX-RWSA,male,40-49,Fast death - violent,clean_specimens,"2 aliquots,  ~1.5mm in d.  Good, clean specimens, no adherent fat",artery_tibial
+GTEX-S32W-2426,Artery - Tibial,GTEX-S32W,female,50-59,Ventilator case,,2 pieces 2.4x1.2 & 1.4x1.8 mm; mostly fat free,artery_tibial
+GTEX-S33H-2426,Artery - Tibial,GTEX-S33H,male,30-39,Fast death - natural causes,clean_specimens,"2 pieces, 2 mm artery; one clean, other ~40% fibroadipose peripherally",artery_tibial
+GTEX-S341-2026,Artery - Tibial,GTEX-S341,female,40-49,Ventilator case,clean_specimens,"2 aliquots,  ~2mm d.  Good clean specimens",artery_tibial
+GTEX-S3LF-0326,Artery - Tibial,GTEX-S3LF,male,70-79,Fast death - natural causes,,"2 aliquots,   4x3mm.  Agglomeration of vessels/?bifurcation of 2 vessels, acceptable.  Small amount interstital fat",artery_tibial
+GTEX-S3XE-1826,Artery - Tibial,GTEX-S3XE,male,50-59,Ventilator case,clean_specimens,"2 pieces of 5mm artery; clean, no adipose; no sclerosis",artery_tibial
+GTEX-S4P3-1826,Artery - Tibial,GTEX-S4P3,female,50-59,Ventilator case,,2 pieces 2 mm artery,artery_tibial
+GTEX-S4Q7-1326,Artery - Tibial,GTEX-S4Q7,male,20-29,Ventilator case,clean_specimens,"2 aliquots,   ~4.5mm d.  Fairly clean specimens",artery_tibial
+GTEX-S4UY-0426,Artery - Tibial,GTEX-S4UY,female,40-49,Ventilator case,,"2 aliquots,  ~1.5mm d.",artery_tibial
+GTEX-S4Z8-2026,Artery - Tibial,GTEX-S4Z8,male,60-69,Ventilator case,"monckeberg, sclerotic","2 pieces ~2.6 mm; moderate Monckeberg sclerosis; clean, no adipose",artery_tibial
+GTEX-S7PM-0426,Artery - Tibial,GTEX-S7PM,male,60-69,Ventilator case,"monckeberg, sclerotic","2 aliquots,  ~2.5mm d.  Monckeberg's sclerosis noted; representative foci encircled",artery_tibial
+GTEX-S7SE-0526,Artery - Tibial,GTEX-S7SE,male,50-59,Fast death - natural causes,clean_specimens,"2 aliquoqts,  ~2.5mm.  Good clean speimens",artery_tibial
+GTEX-S7SF-2226,Artery - Tibial,GTEX-S7SF,female,20-29,Ventilator case,fibrosis,"2 pieces: 3x2 & 1.8x1.7 mm; larger contains 2 normal arteries, 1 small vein & 40% surrounding fibrous stroma; Smaller artery has 20% stroma",artery_tibial
+GTEX-S95S-1626,Artery - Tibial,GTEX-S95S,male,60-69,Ventilator case,,"2 aliquots,  ~2mm d.  Small tags of focally adherent fibrous tissue ensquared.",artery_tibial
+GTEX-SE5C-2026,Artery - Tibial,GTEX-SE5C,female,40-49,Ventilator case,no_abnormalities,2 pieces 2 mm arteries with no abnormalities,artery_tibial
+GTEX-SIU7-2126,Artery - Tibial,GTEX-SIU7,male,50-59,Ventilator case,"calcification, hemorrhage, monckeberg, sclerotic",2 pieces 4x2 mm; severe Monckeberg sclerosis (medial calcification) and mural hemorrhage with greatly narrowed lumen,artery_tibial
+GTEX-SIU8-0426,Artery - Tibial,GTEX-SIU8,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces  ~2mm d.  Good, clean specimens",artery_tibial
+GTEX-SJXC-0426,Artery - Tibial,GTEX-SJXC,male,60-69,Fast death - natural causes,,"2 pieces,  ~2mm d",artery_tibial
+GTEX-SN8G-0526,Artery - Tibial,GTEX-SN8G,female,50-59,Fast death - natural causes,clean_specimens,"2 pieces,  ~2mm d.  Good clean specimens",artery_tibial
+GTEX-SNMC-1526,Artery - Tibial,GTEX-SNMC,male,20-29,Ventilator case,clean_specimens,"2 pieces 5x2 & 3x2 mm; larger with an artery and vein; other with artery. clean, no adherent adipose, no lesions",artery_tibial
+GTEX-SNOS-1726,Artery - Tibial,GTEX-SNOS,male,40-49,Ventilator case,"calcification, clean_specimens","2 pieces ,2 mm artery; a few punctate calcium deposits in intima; clean, no adipose",artery_tibial
+GTEX-SSA3-0426,Artery - Tibial,GTEX-SSA3,male,60-69,Ventilator case,,2 pieces  ~4mm d.  Rim of fibrous tissue 0.5 --1mm around larger aliquot,artery_tibial
+GTEX-SUCS-1526,Artery - Tibial,GTEX-SUCS,male,70-79,Ventilator case,,2 pieces ~2 mm diameter; no lesions; cleaned of adipose,artery_tibial
+GTEX-T2IS-1026,Artery - Tibial,GTEX-T2IS,female,20-29,Fast death - violent,clean_specimens,"2 pieces,  ~ 2mm d.  Good clean specimens, no atherosclerosis",artery_tibial
+GTEX-T2YK-0426,Artery - Tibial,GTEX-T2YK,male,50-59,Slow death,,2 pieces 4 mm in diameter; no extraneous adipose,artery_tibial
+GTEX-T5JC-0226,Artery - Tibial,GTEX-T5JC,male,20-29,Fast death - natural causes,,"2 pieces, ~ 2 mm diameter; artery no extraneous adipose",artery_tibial
+GTEX-T5JW-2126,Artery - Tibial,GTEX-T5JW,female,20-29,Ventilator case,clean_specimens,"2 pieces 3mm, good clean specimens.  One addtional small fragment",artery_tibial
+GTEX-T6MN-0426,Artery - Tibial,GTEX-T6MN,male,50-59,Fast death - natural causes,,2 pieces ~2mm arteries & smaller branches; ~20% adipose amongst one aliquot,artery_tibial
+GTEX-T6MO-1926,Artery - Tibial,GTEX-T6MO,female,40-49,Ventilator case,clean_specimens,"2 pieces   ~4.5mm d generally clean specimen, trace adherent fat/fibrous tissue",artery_tibial
+GTEX-T8EM-1626,Artery - Tibial,GTEX-T8EM,male,40-49,Ventilator case,,,artery_tibial
+GTEX-TKQ1-1226,Artery - Tibial,GTEX-TKQ1,male,30-39,Ventilator case,clean_specimens,"2 pieces  ~5mm d.  Excellent clean specimens; one aliquot with small branch arteries, encircled, suitable for analysis.",artery_tibial
+GTEX-TKQ2-1026,Artery - Tibial,GTEX-TKQ2,male,50-59,Ventilator case,clean_specimens,"2 pieces,  ~2.5mm d. Good clean specimen",artery_tibial
+GTEX-TMKS-0526,Artery - Tibial,GTEX-TMKS,male,50-59,Ventilator case,"atherosclerosis, calcification, sclerotic","2 pieces  ~2.5mm d.  Marked circumferential calcification, pattern suggests calcified atherosclerotic deposits rather than Monckeberg's medial sclerosis.",artery_tibial
+GTEX-TML8-1726,Artery - Tibial,GTEX-TML8,female,40-49,Ventilator case,,"2 pieces 5x2 & 4x2 mm; small vessels, arteries and veins, (1x0.6 mm & 0.8 mm) embedded in ~60 & ~90% adipose",artery_tibial
+GTEX-TMMY-0626,Artery - Tibial,GTEX-TMMY,female,40-49,Ventilator case,"atherosclerosis, clean_specimens, sclerotic","2 pieces   ~1.5-2mm d.  Good clean specimens, minimal atherosclerosis",artery_tibial
+GTEX-TMZS-0426,Artery - Tibial,GTEX-TMZS,male,60-69,Ventilator case,,"2 pieces 9x4 & 8x5 mm; Organized recanalized thrombus occupies entire lumen and ~50% of aliquot; calcium ~30%, little normal arterial wall in one aliquot; other has little normal wall as well with large recent thrombus and mural calcium. No patent lumen in either. (See photo)",artery_tibial
+GTEX-TSE9-0426,Artery - Tibial,GTEX-TSE9,female,60-69,Ventilator case,,2 pieces 2x1.5 mm each; small vein at edge of one,artery_tibial
+GTEX-U3ZG-0526,Artery - Tibial,GTEX-U3ZG,male,50-59,Ventilator case,"atherosclerosis, calcification, clean_specimens, sclerotic",2 pieces  ~2.5mm d.  Subtotally occlusive calcified atherosclerosis.  Good clean specimens,artery_tibial
+GTEX-U3ZH-1726,Artery - Tibial,GTEX-U3ZH,male,30-39,Ventilator case,,2 pieces  ~1.5mm.  NOTE:  up to 1.5mm layer of adherent fat and smaller vessels,artery_tibial
+GTEX-U3ZM-1326,Artery - Tibial,GTEX-U3ZM,male,40-49,Ventilator case,"monckeberg, sclerotic","2 pieces   ~5mm d.  Foci of Monckeberg medial sclerosis, encircled",artery_tibial
+GTEX-U3ZN-2526,Artery - Tibial,GTEX-U3ZN,female,30-39,Ventilator case,,2 pieces 1x2 & 3x2mm with 1x1.5 mm arteries and large amounts of adipose (~50% in the larger and ~40% in the other); large vein also in smaller piece,artery_tibial
+GTEX-U412-0226,Artery - Tibial,GTEX-U412,male,60-69,Intermediate death,"atherosclerosis, calcification, sclerotic","2 pieces, both with severely caclified partially occlusive atherosclerosis, encircled 2.5mm d.",artery_tibial
+GTEX-U4B1-1926,Artery - Tibial,GTEX-U4B1,male,40-49,Ventilator case,calcification,"2 pieces, 3.9x5.6 & 5.5x4.7 mm; focal medial calcification in one piece; small vein at periphery of other piece; clean of extraneous adipose",artery_tibial
+GTEX-U8T8-0326,Artery - Tibial,GTEX-U8T8,male,60-69,Ventilator case,,"2 pieces, 2.7 & 3mm in diameter; no extraneous adipose",artery_tibial
+GTEX-U8XE-0626,Artery - Tibial,GTEX-U8XE,male,30-39,Slow death,clean_specimens,2 pieces  ~2mm d.  Good clean specimens,artery_tibial
+GTEX-UJHI-1926,Artery - Tibial,GTEX-UJHI,female,50-59,Ventilator case,,"2 pieces, 3 & 3mm in diameter; no plaques, no calcium, no extraneous adipose",artery_tibial
+GTEX-UJMC-2026,Artery - Tibial,GTEX-UJMC,male,50-59,Ventilator case,"atherosclerosis, sclerotic","2 pieces  ~5mm d.,  moderate atherosclerosis, evidence of dissection",artery_tibial
+GTEX-UPJH-0726,Artery - Tibial,GTEX-UPJH,male,50-59,Fast death - natural causes,"monckeberg, sclerotic","2 pieces  ~2.5mm d.  Good clean specimens; Monckeberg's medial sclerosis present, foci encircled",artery_tibial
+GTEX-UPK5-0626,Artery - Tibial,GTEX-UPK5,male,40-49,Ventilator case,clean_specimens,"2 pieces, 3x1 & 3x2mm; ~2 mm clean arteries & 1 small branch; free of adipose;",artery_tibial
+GTEX-UTHO-0226,Artery - Tibial,GTEX-UTHO,male,60-69,Intermediate death,calcification,"2 pieces, 3x2 & 4x2mm; extensive medial calcification",artery_tibial
+GTEX-V1D1-2626,Artery - Tibial,GTEX-V1D1,male,50-59,Ventilator case,clean_specimens,2 pieces  ~2mm d.  Good clean specimen,artery_tibial
+GTEX-V955-2626,Artery - Tibial,GTEX-V955,male,60-69,Ventilator case,"atherosclerosis, clean_specimens, sclerotic","2 pieces ~8x6mm.  20% occlusive atherosclerosis, relatively clean specimens",artery_tibial
+GTEX-VJWN-0526,Artery - Tibial,GTEX-VJWN,female,50-59,Fast death - natural causes,,"2 pieces, 2x2 & 3x2mm; 3 arteries, no nerve; relabel",artery_tibial
+GTEX-VJWN-0626,Artery - Tibial,GTEX-VJWN,female,50-59,Fast death - natural causes,,"2 pieces, 2x1 & 2.5x2mm; one artery, one vein; ~50% adipose encasing vessels",artery_tibial
+GTEX-VJYA-1826,Artery - Tibial,GTEX-VJYA,male,60-69,Ventilator case,"atherosclerosis, calcification, sclerotic","2 pieces~4mm d.  Subtotal occlusive atherosclerotic debris, calcified, in both, encircled",artery_tibial
+GTEX-VUSG-2826,Artery - Tibial,GTEX-VUSG,male,50-59,Ventilator case,clean_specimens,"2 pieces  ~4mm d,  clean specimens, but one aliqout with adherent fibsrovascular nubbin  ~4x2mm",artery_tibial
+GTEX-VUSH-0526,Artery - Tibial,GTEX-VUSH,male,30-39,Ventilator case,,"2 pieces, 3x2 & 3.5x2mm;1, 2mm artery and 0.6 mm vein in each; <10% adipose",artery_tibial
+GTEX-W5WG-2226,Artery - Tibial,GTEX-W5WG,female,50-59,Ventilator case,clean_specimens,2 pieces  ~2.5mm d.  Excellent clean specimens,artery_tibial
+GTEX-W5X1-2926,Artery - Tibial,GTEX-W5X1,female,40-49,Ventilator case,calcification,"2 pieces, 5x1 & 5x3.5mm; heavily calcified; half of 1 piece without lesion",artery_tibial
+GTEX-WCDI-0426,Artery - Tibial,GTEX-WCDI,male,50-59,Ventilator case,,"2 pieces  ~6x4mm.  Arteries encircled,  adherent fibroadipose tissue present on both, ~30% of both",artery_tibial
+GTEX-WEY5-2126,Artery - Tibial,GTEX-WEY5,female,40-49,Ventilator case,calcification,"2 pieces, 3x2 & 3.5x3mm; so stroma, no lesions except for a minute calification",artery_tibial
+GTEX-WFG7-2326,Artery - Tibial,GTEX-WFG7,male,20-29,Ventilator case,,"2 pieces  ~4mm.  Adherent rim of fibrous tissue circmferentially on both, ~0.5mm--1mm",artery_tibial
+GTEX-WFG8-2626,Artery - Tibial,GTEX-WFG8,male,20-29,Ventilator case,clean_specimens,"2 pieces, good clean specimens,  ~4mm d.  No atherosis",artery_tibial
+GTEX-WFJO-2126,Artery - Tibial,GTEX-WFJO,male,30-39,Ventilator case,,"2 pieces, 2.5x2 & 4x2mm; small plaques",artery_tibial
+GTEX-WFON-2526,Artery - Tibial,GTEX-WFON,male,40-49,Ventilator case,,2 pieces  ~1mm d. encircled;  75% of both aliquots (overall ~4x2mm) are attached vein and adipose tissue,artery_tibial
+GTEX-WH7G-2526,Artery - Tibial,GTEX-WH7G,male,40-49,Ventilator case,,"2 pieces, 4x3 & 4x4mm; No plaques, no extraneous tissue.",artery_tibial
+GTEX-WHPG-2326,Artery - Tibial,GTEX-WHPG,male,50-59,Ventilator case,,"2 pieces, 3x2 & 3x3mm; Well trimmed of extraneous tissue.",artery_tibial
+GTEX-WHSB-2226,Artery - Tibial,GTEX-WHSB,male,50-59,Ventilator case,,"2 pieces   ~2.5mm d, delineated.  Fibroconnective circumferential layer  `~0.5mm,",artery_tibial
+GTEX-WHSE-1126,Artery - Tibial,GTEX-WHSE,male,20-29,Intermediate death,clean_specimens,2 pieces  ~2.5mm  d.  Good clean specimens; one has adherent nubbin of additiona vessel  ~0.5mm d.,artery_tibial
+GTEX-WHWD-2426,Artery - Tibial,GTEX-WHWD,male,50-59,Ventilator case,,"2 pieces, 3x2 & 2x2mm;  no lesions",artery_tibial
+GTEX-WI4N-0126,Artery - Tibial,GTEX-WI4N,female,40-49,Ventilator case,clean_specimens,"2 pieces ~2mm d. Good clean specimens, no atherosis.",artery_tibial
+GTEX-WK11-1926,Artery - Tibial,GTEX-WK11,male,50-59,Fast death - violent,,"2 pieces, 3x3 & 4x2.5mm; no lesions; 20% peripheral fibroadipose tissue",artery_tibial
+GTEX-WL46-0526,Artery - Tibial,GTEX-WL46,male,50-59,Fast death - natural causes,clean_specimens,2 pieces ~2mm d. Good clean specimens,artery_tibial
+GTEX-WOFL-0426,Artery - Tibial,GTEX-WOFL,male,60-69,Ventilator case,calcification,"2 pieces, 4x4 & 5x3mm; 1 severely calcified, 1 without lesions but with 60% peripheral fibroadipose",artery_tibial
+GTEX-WOFM-1726,Artery - Tibial,GTEX-WOFM,male,20-29,Ventilator case,clean_specimens,2 pieces  ~2mm d.  Good clean specimens,artery_tibial
+GTEX-WQUQ-0726,Artery - Tibial,GTEX-WQUQ,male,60-69,Ventilator case,"atherosclerosis, monckeberg, sclerotic","2 pieces  ~4mm d. Moderate peripheral occlusive atherosclerosis  ~30%,delineated Monckeberg's medial sclerosis in both",artery_tibial
+GTEX-WRHK-1726,Artery - Tibial,GTEX-WRHK,female,20-29,Ventilator case,,"3 pieces, up to 4x3mm; no extraneous adipose",artery_tibial
+GTEX-WRHU-0726,Artery - Tibial,GTEX-WRHU,female,50-59,Fast death - violent,atherosis,"2 pieces  ~3mm d.  Subtotal occlusive atherosis/thrombosis with recanalization, representative areas delineated",artery_tibial
+GTEX-WVJS-0426,Artery - Tibial,GTEX-WVJS,male,50-59,Ventilator case,calcification,"2 pieces, 3x2 & 3x3mm; severe medial calcification; a small 0.7mm artery (and vein) nearby are free of lesions",artery_tibial
+GTEX-WVLH-0426,Artery - Tibial,GTEX-WVLH,male,50-59,Fast death - natural causes,clean_specimens,2 pieces ~2.5mm d.  good clean specimens,artery_tibial
+GTEX-WWTW-0526,Artery - Tibial,GTEX-WWTW,male,50-59,Ventilator case,,2 pieces unusually badly autolyzed,artery_tibial
+GTEX-WWYW-0426,Artery - Tibial,GTEX-WWYW,female,50-59,Intermediate death,clean_specimens,2 pieces ~2mm d.  Clean specimens,artery_tibial
+GTEX-WXYG-2726,Artery - Tibial,GTEX-WXYG,female,50-59,Ventilator case,clean_specimens,"2 pieces, 3x2 & 3x2mm; clean specimen",artery_tibial
+GTEX-WY7C-2826,Artery - Tibial,GTEX-WY7C,male,50-59,Ventilator case,clean_specimens,2 pieces  ~2.5mm d.  Clean specimens,artery_tibial
+GTEX-WYBS-0426,Artery - Tibial,GTEX-WYBS,female,60-69,Ventilator case,clean_specimens,"2 pieces, 3x1 & 2.5x1mm; good clean specimens",artery_tibial
+GTEX-WYJK-0426,Artery - Tibial,GTEX-WYJK,male,50-59,Ventilator case,clean_specimens,"2 pieces, 3x1 & 3x1mm; good clean specimens",artery_tibial
+GTEX-WYVS-2526,Artery - Tibial,GTEX-WYVS,female,40-49,Ventilator case,clean_specimens,"2 pieces, 2x1 & 2x1mm; , clean specimens",artery_tibial
+GTEX-WZTO-1126,Artery - Tibial,GTEX-WZTO,male,40-49,Fast death - violent,clean_specimens,"2 pieces, 2.5x2 & 2x1.5mm; good clean specimens",artery_tibial
+GTEX-X15G-2626,Artery - Tibial,GTEX-X15G,female,50-59,Ventilator case,clean_specimens,"2 pieces, 2x2 & 3x2mm; good clean specimens; no adherent fat",artery_tibial
+GTEX-X261-0526,Artery - Tibial,GTEX-X261,male,50-59,Slow death,,"2 pieces, 4x3.5 & 4x4mm; small foci of peripheral adipose",artery_tibial
+GTEX-X3Y1-2526,Artery - Tibial,GTEX-X3Y1,male,40-49,Ventilator case,fibrosis,"2 pieces, 3x2 & 4x4mm; intimal fibrosis 0.2 mm; minimal external adipose",artery_tibial
+GTEX-X4EO-0226,Artery - Tibial,GTEX-X4EO,female,60-69,Intermediate death,,"2 pieces, 3x1 & 3x1mm; well trimmed but with tissue fracture artifacts",artery_tibial
+GTEX-X4EP-0826,Artery - Tibial,GTEX-X4EP,female,60-69,Slow death,,"2 pieces, 4x2 & 3x2.5mm; up to~0.5mm adherent fat, discontinuous, delineated",artery_tibial
+GTEX-X4LF-2026,Artery - Tibial,GTEX-X4LF,male,50-59,Ventilator case,clean_specimens,"3 pieces, up to 6x5mm; up to imm adherent fat, delineated, generally clean good specimens",artery_tibial
+GTEX-X4XX-0526,Artery - Tibial,GTEX-X4XX,male,60-69,Slow death,"calcification, sclerotic","2 pieces, 3x3 & 3x2mm;  Heavily calcified sclerotic plaques. Hardly any normal tissue. Lumen 0.6mm. One piece has 30% adipose. Lots of empty space where calcified tissue has dropped out.",artery_tibial
+GTEX-X4XY-0526,Artery - Tibial,GTEX-X4XY,male,60-69,Ventilator case,,"2 pieces, 4x2 & 4x1mm; well trimmed",artery_tibial
+GTEX-X585-0526,Artery - Tibial,GTEX-X585,male,50-59,Slow death,calcification,"2 pieces, 3x2 & 3x2mm;  Heavily calcified.",artery_tibial
+GTEX-X5EB-2626,Artery - Tibial,GTEX-X5EB,male,40-49,Ventilator case,clean_specimens,"2 pieces, 2x2 & 2x2mm; good clean specimen; no fat",artery_tibial
+GTEX-X62O-1626,Artery - Tibial,GTEX-X62O,male,50-59,Ventilator case,clean_specimens,"2 pieces, 3x3 & 3x3mm; good clean specimens",artery_tibial
+GTEX-X638-0526,Artery - Tibial,GTEX-X638,female,70-79,Ventilator case,atherosclerosis,"2 pieces, 2x2 & 2.5x2mm; Heavily atheromatous, recanalized arteries with very small lumens.",artery_tibial
+GTEX-X88G-0426,Artery - Tibial,GTEX-X88G,male,30-39,Ventilator case,,"2 pieces  ~5mm d.  Adherent fibroadipose tissue, discontinuous, delineated, up to ~2mm",artery_tibial
+GTEX-X8HC-0426,Artery - Tibial,GTEX-X8HC,female,50-59,Ventilator case,,"2 pieces, 2x1 & 2x1mm;  Delicate arteries; well dissected, no adipose",artery_tibial
+GTEX-XAJ8-1226,Artery - Tibial,GTEX-XAJ8,male,40-49,Ventilator case,,"2 pieces,  ~1.5mm d.; discontinuous adherent fibrous tissue up to ~0.5mm",artery_tibial
+GTEX-XBEC-0526,Artery - Tibial,GTEX-XBEC,male,50-59,Fast death - natural causes,clean_specimens,2 pieces 3x3 & 3x3mm; good clean specimens,artery_tibial
+GTEX-XBED-2426,Artery - Tibial,GTEX-XBED,male,60-69,Ventilator case,,"2 pieces, 4x4 & 4x4mm; No lesions. Up to 1 mm concentric adventitial fibrous tissue",artery_tibial
+GTEX-XBEW-0826,Artery - Tibial,GTEX-XBEW,male,40-49,Ventilator case,clean_specimens,"2 pieces, 3x1 & 2.5x2mm; good clean specimen,",artery_tibial
+GTEX-XGQ4-2426,Artery - Tibial,GTEX-XGQ4,male,50-59,Ventilator case,,"2 pieces 2.5x2 & 2x2mm; adherent fibrous/peripheral nerve focally, delineated",artery_tibial
+GTEX-XK95-1326,Artery - Tibial,GTEX-XK95,male,40-49,Ventilator case,"calcification, monckeberg, sclerotic",2 pieces. 3x3 & 3x2mm; Severe medial (Monckeberg) calcified sclerosis.,artery_tibial
+GTEX-XLM4-0426,Artery - Tibial,GTEX-XLM4,male,60-69,Intermediate death,clean_specimens,"2 pieces, 3x2 & 3x2mm; fairly clean specimens",artery_tibial
+GTEX-XMD1-0426,Artery - Tibial,GTEX-XMD1,male,60-69,Slow death,clean_specimens,2 pieces 4x2 & 4x2mm; good clean specimens,artery_tibial
+GTEX-XMD2-0426,Artery - Tibial,GTEX-XMD2,female,60-69,Ventilator case,"atherosclerosis, calcification","2 pieces, 2.5x2.5 & 3x2mm; severe occlusive atherosclerosis; medial calcification",artery_tibial
+GTEX-XMD3-0426,Artery - Tibial,GTEX-XMD3,female,50-59,Ventilator case,,"2 pieces. 2x1 & 3x1mm; well dissected, adipose free; no lesions",artery_tibial
+GTEX-XMK1-2526,Artery - Tibial,GTEX-XMK1,male,40-49,Ventilator case,,2 pieces. 2x1 & 2x2mm; rim of fat ~0.5mm delineated,artery_tibial
+GTEX-XOT4-0426,Artery - Tibial,GTEX-XOT4,female,60-69,Fast death - natural causes,,2 pieces. 2x2 & 2.5x2mm; well trimmed of adipose,artery_tibial
+GTEX-XOTO-0426,Artery - Tibial,GTEX-XOTO,male,50-59,Fast death - natural causes,atherosclerosis,2 pieces. 3x2 & 3x2mm;  atherosclerotic occlusion ~60-70% of lumen,artery_tibial
+GTEX-XPT6-2226,Artery - Tibial,GTEX-XPT6,male,20-29,Ventilator case,clean_specimens,2 pieces ~3mm d.  Clean specimens.,artery_tibial
+GTEX-XPVG-2926,Artery - Tibial,GTEX-XPVG,male,50-59,Ventilator case,calcification,"2 pieces. 5x5 & 7x5mm; Well trimmed, slight plaque, minute calcification",artery_tibial
+GTEX-XQ3S-0326,Artery - Tibial,GTEX-XQ3S,male,20-29,Fast death - violent,clean_specimens,"2 pieces, 2x2 & 3x2mm; good clean aliquots",artery_tibial
+GTEX-XQ8I-0826,Artery - Tibial,GTEX-XQ8I,male,50-59,Ventilator case,,"2 pieces, 3x2.5 & 3x2mm; well trimmed, no lesions",artery_tibial
+GTEX-XUJ4-2826,Artery - Tibial,GTEX-XUJ4,female,60-69,Ventilator case,"atherosclerosis, calcification, clean_specimens, sclerotic","4 pieces, up to 7x5mm; prominent calcfied atherosclerosis, good clean specimens",artery_tibial
+GTEX-XUW1-0726,Artery - Tibial,GTEX-XUW1,female,50-59,Ventilator case,"calcification, fibrosis","2 pieces, 2x2 & 3x1mm; intimal fibrosis and in one, focal calcification",artery_tibial
+GTEX-XUYS-0426,Artery - Tibial,GTEX-XUYS,male,50-59,Ventilator case,,"2 pieces, 6x5 & 6x6mm.   1 with 50% occlusive fibrocalcific plaque; 1x2mm extraneous fibroadipose tissue",artery_tibial
+GTEX-XUZC-2026,Artery - Tibial,GTEX-XUZC,female,30-39,Ventilator case,clean_specimens,"2 pieces, 3x2 & 4x4mm; clean specimens",artery_tibial
+GTEX-XV7Q-2826,Artery - Tibial,GTEX-XV7Q,female,40-49,Ventilator case,"monckeberg, sclerotic","2 pieces, 5x4 & 6x5mm; clean specimens; Monckeberg's medial sclerosis in both",artery_tibial
+GTEX-XXEK-2626,Artery - Tibial,GTEX-XXEK,male,50-59,Ventilator case,,"2 pieces, 5x2 & 3x3mm; both are aggregates of smaller artery branches, one with 2.5x1mm aggregate of interstitial fat and small peripheral nerve, delineated. Sample with caution",artery_tibial
+GTEX-XYKS-2626,Artery - Tibial,GTEX-XYKS,female,60-69,Ventilator case,calcification,"2 pieces, 4x3 & 6x4mm; 1 has artery + 2 veins and 30% adherent stroma; other artery is fragmented; both contain medial calcification",artery_tibial
+GTEX-Y111-0426,Artery - Tibial,GTEX-Y111,male,50-59,Fast death - violent,,"2 pieces, 5x3 & 5x2mm; specimens are both arteries with 40% adipose",artery_tibial
+GTEX-Y114-2726,Artery - Tibial,GTEX-Y114,female,50-59,Ventilator case,,"2 pieces, 6x4.5 & 7x5mm; 1mm adherent fibrous &/or peripher al nerve on both",artery_tibial
+GTEX-Y3I4-2526,Artery - Tibial,GTEX-Y3I4,male,50-59,Ventilator case,,"2 pieces, 2x1 & 2x2mm; peripheral nerve:  unknown origin.",artery_tibial
+GTEX-Y3IK-2826,Artery - Tibial,GTEX-Y3IK,female,50-59,Ventilator case,,"2 pieces, 8x5 & 6.5x4mm. Well trimmed, minimal adventitial stroma. Each piece has a large and a small artery.",artery_tibial
+GTEX-Y5LM-2326,Artery - Tibial,GTEX-Y5LM,female,40-49,Ventilator case,,2 pieces. 4x3 & 5x4mm; Well  dissected.,artery_tibial
+GTEX-Y5V5-2726,Artery - Tibial,GTEX-Y5V5,female,60-69,Ventilator case,,"2 pieces, 3x2.5 & 4x3mm; one aliquot has ~0.5mm nubbin of adherent fat/fibrous tissue",artery_tibial
+GTEX-Y5V6-2826,Artery - Tibial,GTEX-Y5V6,male,60-69,Ventilator case,calcification,"2 pieces, 3x2 & 3x2mm; large calcified deposits in one, up to 1 cm; other piece has small calfied deposit.",artery_tibial
+GTEX-Y8DK-0526,Artery - Tibial,GTEX-Y8DK,male,60-69,Fast death - natural causes,,2 pieces 2 x 2 and 3 x 2 mm.  Well trimmed.  No lesions.,artery_tibial
+GTEX-Y8E4-0926,Artery - Tibial,GTEX-Y8E4,male,40-49,Ventilator case,,"2 pieces, 3x2 &3x2mm; well trimmed.",artery_tibial
+GTEX-Y8E5-0426,Artery - Tibial,GTEX-Y8E5,male,60-69,Ventilator case,atherosclerosis,"2 pieces, 8.5x5 & 9x5mm; discontinuous adherent fims of fibrous tissue on both up to 1.1mm.  60-70% occlusive atheroscerosis",artery_tibial
+GTEX-Y8LW-2226,Artery - Tibial,GTEX-Y8LW,female,50-59,Ventilator case,,"2 pieces, 2x1 & 2x2mm; small nubbin of ahderent smaller vessels in one sectoin, delineated",artery_tibial
+GTEX-Y9LG-2326,Artery - Tibial,GTEX-Y9LG,male,30-39,Ventilator case,,"2 pieces, 3x3 & 4x3mm.    Well trimmed. Layers annotated.",artery_tibial
+GTEX-YB5E-2426,Artery - Tibial,GTEX-YB5E,male,40-49,Ventilator case,clean_specimens,"4 pieces, up to 6x6mm; reasonably clean specimens, discontinuous rims of fibrous tissue,  ~0.5mm around all, rep areas delineated",artery_tibial
+GTEX-YB5K-2526,Artery - Tibial,GTEX-YB5K,female,40-49,Ventilator case,,2 pieces. 3.5x2 & 4x4mm; Very well  trimmed of extraneous tissue.,artery_tibial
+GTEX-YBZK-0226,Artery - Tibial,GTEX-YBZK,female,50-59,Ventilator case,"atherosclerosis, calcification, sclerotic",3 pieces   ~6mm d.  : well trimmed with only scant attached adipose tissue; atherosclerotic plaque with calcification and occlusion up to 70%,artery_tibial
+GTEX-YEC3-1126,Artery - Tibial,GTEX-YEC3,male,50-59,Ventilator case,,"2 pieces, 6x3 and 4x4mm; circumferential adherent fibrous/adipose tissue up to 1.5mm thick, some with minute vessels, delineated",artery_tibial
+GTEX-YEC4-2326,Artery - Tibial,GTEX-YEC4,male,40-49,Ventilator case,,"2 pieces,  3.5x2 and 2x2mm, ~1.5mm d.  Minimal adherent fibrous tissue /fat",artery_tibial
+GTEX-YECK-0526,Artery - Tibial,GTEX-YECK,male,60-69,Intermediate death,,"2 pieces (2x1.5 and 3x2.5mm), artery, one separate minute frament of contaminant fibrous tissue. One arery aliquot has small nubbin of fibrous tissue ~0.5mm, delineated",artery_tibial
+GTEX-YF7O-2726,Artery - Tibial,GTEX-YF7O,male,50-59,Ventilator case,,"4 pieces, from 5.5x6.5 to 9x5mm; moderate intimal thickening",artery_tibial
+GTEX-YFC4-0926,Artery - Tibial,GTEX-YFC4,female,40-49,Fast death - violent,clean_specimens,"2 pieces, perfect clean specimens, not atherosis noted",artery_tibial
+GTEX-YFCO-2226,Artery - Tibial,GTEX-YFCO,male,40-49,Ventilator case,"atherosclerosis, calcification, sclerotic",3 pieces; up to 30% occlusive atherosclerosis with focal calcification,artery_tibial
+GTEX-YJ89-0426,Artery - Tibial,GTEX-YJ89,male,60-69,Fast death - natural causes,"atherosclerosis, calcification, sclerotic","2 pieces, fragmented, due to severe medial calcification with bone formation.  Calcific atherosclerosis with narrowing of the lumen.",artery_tibial
+GTEX-YJ8A-0826,Artery - Tibial,GTEX-YJ8A,male,20-29,Ventilator case,,2 pieces; no lesions; well trimmed of extraneous tissue,artery_tibial
+GTEX-YJ8O-2726,Artery - Tibial,GTEX-YJ8O,female,40-49,Fast death - violent,clean_specimens,"2 pieces with additional minute fragments of fat/fibrous tissue, ensquared (avoid); fairly clean specimens, one a section through a bifurcation in the artery",artery_tibial
+GTEX-Z93S-0926,Artery - Tibial,GTEX-Z93S,male,50-59,Fast death - natural causes,clean_specimens,"2 pieces, good clean specimens",artery_tibial
+GTEX-Z93T-0426,Artery - Tibial,GTEX-Z93T,male,50-59,Fast death - natural causes,calcification,2 pieces. 30-40% occlusion by calcified plaques,artery_tibial
+GTEX-Z9EW-1926,Artery - Tibial,GTEX-Z9EW,male,40-49,Ventilator case,,"2 pieces, one with adherent 'tag' of fibrovascular tissue, ~2mm long",artery_tibial
+GTEX-ZA64-2226,Artery - Tibial,GTEX-ZA64,male,20-29,Ventilator case,,"4 pieces, up to 1mm adherent nubbins of fibrous tissue, delineated",artery_tibial
+GTEX-ZAB4-1926,Artery - Tibial,GTEX-ZAB4,male,40-49,Slow death,,2 pieces. Well trimmed. Minimal intimal thickening.,artery_tibial
+GTEX-ZAB5-2026,Artery - Tibial,GTEX-ZAB5,male,50-59,Ventilator case,,"2 pieces, well-trimmed",artery_tibial
+GTEX-ZAJG-0426,Artery - Tibial,GTEX-ZAJG,female,50-59,Intermediate death,clean_specimens,"2 pieces, good clean specimens",artery_tibial
+GTEX-ZAK1-0426,Artery - Tibial,GTEX-ZAK1,female,50-59,Fast death - natural causes,clean_specimens,"2 pieces, generally clean, 0.5mm nubbin fibrous tissue on one, delineated",artery_tibial
+GTEX-ZAKK-0426,Artery - Tibial,GTEX-ZAKK,male,70-79,Fast death - natural causes,"atherosclerosis, sclerotic",2 pieces. Moderate to severe atherosclerosis with up to 90%  occlusion.,artery_tibial
+GTEX-ZC5H-0426,Artery - Tibial,GTEX-ZC5H,female,40-49,Ventilator case,,"2 pieces, circumferential adherent fibrous tissue  ~0.5mm",artery_tibial
+GTEX-ZDTS-0426,Artery - Tibial,GTEX-ZDTS,male,60-69,Fast death - natural causes,,2 pieces,artery_tibial
+GTEX-ZDTT-2426,Artery - Tibial,GTEX-ZDTT,male,60-69,Ventilator case,,"4 pieces, well-trimmed.  Some intimal thickening.",artery_tibial
+GTEX-ZDXO-0526,Artery - Tibial,GTEX-ZDXO,male,60-69,Fast death - natural causes,"atherosclerosis, calcification, sclerotic","2 pieces, calcified atherosclerosis in both, ~20% occlusive; adherent aggregates fat, peripheral nerve, fibrous tissue up to ~1x2mm, delineated.  Multiple lumina",artery_tibial
+GTEX-ZDYS-1626,Artery - Tibial,GTEX-ZDYS,male,50-59,Ventilator case,,"2 pieces, well-trimmed of fat",artery_tibial
+GTEX-ZE7O-0526,Artery - Tibial,GTEX-ZE7O,female,50-59,Fast death - natural causes,,"2 pieces, well trimmed; mild intimal thickening",artery_tibial
+GTEX-ZE9C-0326,Artery - Tibial,GTEX-ZE9C,male,60-69,Fast death - natural causes,"monckeberg, sclerotic","2 pieces, Monckeberg's medial sclerosis present in both",artery_tibial
+GTEX-ZEX8-2626,Artery - Tibial,GTEX-ZEX8,male,50-59,Ventilator case,,4 pieces. Large fibrotic plaques narrow up to 60% of lumen.,artery_tibial
+GTEX-ZF28-0426,Artery - Tibial,GTEX-ZF28,male,60-69,Slow death,,2 pieces. well trimmed; fibrotic wall,artery_tibial
+GTEX-ZF29-2526,Artery - Tibial,GTEX-ZF29,female,60-69,Ventilator case,"atherosclerosis, calcification, sclerotic","2 pieces, calcific atherosclerosis with narrowing of the lumen.",artery_tibial
+GTEX-ZF2S-2426,Artery - Tibial,GTEX-ZF2S,female,50-59,Ventilator case,,2 pieces. small amount of periadventitial fat  and fibrous tissue,artery_tibial
+GTEX-ZF3C-0526,Artery - Tibial,GTEX-ZF3C,female,50-59,Ventilator case,,"2 pieces, well trimmed",artery_tibial
+GTEX-ZG7Y-0726,Artery - Tibial,GTEX-ZG7Y,male,50-59,Ventilator case,"clean_specimens, monckeberg, sclerotic","2pieces, clean specimens.  Focal Monckeberg medial sclerosis",artery_tibial
+GTEX-ZGAY-0926,Artery - Tibial,GTEX-ZGAY,female,40-49,Ventilator case,clean_specimens,"2 pieces minimal adherent fibrous tissue/minute vessel, good specimens",artery_tibial
+GTEX-ZLFU-2426,Artery - Tibial,GTEX-ZLFU,male,40-49,Ventilator case,"calcification, monckeberg, sclerotic","3 pieces, 2 with extensive medial calcification (Monckeberg sclerosis)",artery_tibial
+GTEX-ZLV1-1926,Artery - Tibial,GTEX-ZLV1,female,60-69,Ventilator case,"clean_specimens, monckeberg, sclerotic","2 pieces, foci of Monckeberg's sclerosis, rep foci delineated.  Good clean specimens",artery_tibial
+GTEX-ZLWG-2426,Artery - Tibial,GTEX-ZLWG,female,50-59,Ventilator case,,"2 pieces, well trimmed",artery_tibial
+GTEX-ZP4G-2126,Artery - Tibial,GTEX-ZP4G,female,20-29,Ventilator case,clean_specimens,"4 pieces, good clean specimens",artery_tibial
+GTEX-ZPCL-2326,Artery - Tibial,GTEX-ZPCL,female,60-69,Ventilator case,,2 pieces. Well trimmed.,artery_tibial
+GTEX-ZPIC-2426,Artery - Tibial,GTEX-ZPIC,female,40-49,Ventilator case,,"2 pieces, pristine specimens. No atherosis",artery_tibial
+GTEX-ZPU1-2726,Artery - Tibial,GTEX-ZPU1,male,40-49,Ventilator case,"calcification, sclerotic","2 pieces, not nerve as originally labeled; well trimmed artery with medial calcific sclerosis",artery_tibial
+GTEX-ZQG8-1426,Artery - Tibial,GTEX-ZQG8,female,60-69,Ventilator case,,"2 pieces, with 20% external fat",artery_tibial
+GTEX-ZQUD-1326,Artery - Tibial,GTEX-ZQUD,male,30-39,Ventilator case,clean_specimens,"2 pieces, good clean specimens, no atherosis noted",artery_tibial
+GTEX-ZT9W-2726,Artery - Tibial,GTEX-ZT9W,male,50-59,Ventilator case,,2 pieces. well trimmed,artery_tibial
+GTEX-ZT9X-2026,Artery - Tibial,GTEX-ZT9X,male,40-49,Ventilator case,"atherosis, clean_specimens","2 pieces, clean specimens, one with ~50% occlusion by atherosis (delineated)",artery_tibial
+GTEX-ZTPG-0426,Artery - Tibial,GTEX-ZTPG,female,20-29,Ventilator case,,4 pieces,artery_tibial
+GTEX-ZTSS-1626,Artery - Tibial,GTEX-ZTSS,male,40-49,Ventilator case,,2 pieces. well trimmed,artery_tibial
+GTEX-ZTTD-0826,Artery - Tibial,GTEX-ZTTD,male,50-59,Intermediate death,clean_specimens,"2 pieces, no atherosis, excellent clean specimens",artery_tibial
+GTEX-ZTX8-1826,Artery - Tibial,GTEX-ZTX8,male,20-29,Ventilator case,,"2 pieces,residual partial rim of adipose tissue, no atherosis",artery_tibial
+GTEX-ZU9S-0826,Artery - Tibial,GTEX-ZU9S,male,30-39,Fast death - natural causes,,2 pieces. 30% external fat on one. No plaques.,artery_tibial
+GTEX-ZUA1-0626,Artery - Tibial,GTEX-ZUA1,male,40-49,Fast death - natural causes,,2 pieces. Well trimmed.,artery_tibial
+GTEX-ZV68-0426,Artery - Tibial,GTEX-ZV68,female,50-59,Fast death - natural causes,clean_specimens,"2 pieces, excellent clean specimens",artery_tibial
+GTEX-ZV6S-2026,Artery - Tibial,GTEX-ZV6S,female,40-49,Ventilator case,calcification,"2 pieces, few small foci of calcification within wall, both with attachment of fibrofatty tissue",artery_tibial
+GTEX-ZV7C-2526,Artery - Tibial,GTEX-ZV7C,male,50-59,Ventilator case,atherosis,"1 piece, ~30% atherosis, nubbin of adherent fibrous tissue, ~0.5mm, delineated",artery_tibial
+GTEX-ZVE1-0426,Artery - Tibial,GTEX-ZVE1,female,50-59,Ventilator case,"calcification, sclerotic","2 pieces, one piece is rim of vessel with fragments of calcified material, second is incomplete section due to severe calcific sclerosis with narrowing of the lumen",artery_tibial
+GTEX-ZVE2-0526,Artery - Tibial,GTEX-ZVE2,male,50-59,Ventilator case,,"2 pieces, well trimmed",artery_tibial
+GTEX-ZVP2-2226,Artery - Tibial,GTEX-ZVP2,male,50-59,Ventilator case,"atherosclerosis, calcification, sclerotic","1 piece, small attachment of fat, atherosclerosis with focal calcification",artery_tibial
+GTEX-ZVT2-2626,Artery - Tibial,GTEX-ZVT2,female,50-59,Ventilator case,,1 piece; 20% external fibroadipose tissue,artery_tibial
+GTEX-ZVT3-0426,Artery - Tibial,GTEX-ZVT3,female,60-69,Fast death - natural causes,,"2 pieces 1.5mm nubbin of fat attached to one, delineated",artery_tibial
+GTEX-ZVT4-0526,Artery - Tibial,GTEX-ZVT4,female,50-59,Intermediate death,"calcification, monckeberg, sclerotic","2 pieces,adherent fibrofatty rim on one, ~1.5mm; both show Monckeberg medial sclerosis/calcifications/ rep foci delineated",artery_tibial
+GTEX-ZVTK-0726,Artery - Tibial,GTEX-ZVTK,male,20-29,Fast death - violent,,"2 pieces, well trimmed",artery_tibial
+GTEX-ZVZO-0426,Artery - Tibial,GTEX-ZVZO,male,40-49,Fast death - violent,"atherosclerosis, sclerotic","2 pieces, atherosclerotic plaque and organizing thrombus, numerous RBCs, attached portions of fibrous, vascular and adipose tissue",artery_tibial
+GTEX-ZVZP-2726,Artery - Tibial,GTEX-ZVZP,male,50-59,Ventilator case,calcification,4 pieces; all heavily calcified medially; no luminal plaques; up to 1 mm external fat,artery_tibial
+GTEX-ZVZQ-0226,Artery - Tibial,GTEX-ZVZQ,female,60-69,Fast death - violent,,"2 pieces rim of fibroadipose tissue up to 1.5mm on one, delineated",artery_tibial
+GTEX-ZWKS-0726,Artery - Tibial,GTEX-ZWKS,male,30-39,Slow death,,"2 pieces, minimal  adherent fat",artery_tibial
+GTEX-ZXES-2126,Artery - Tibial,GTEX-ZXES,female,30-39,Ventilator case,,"2 pieces, well trimmed",artery_tibial
+GTEX-ZXG5-0526,Artery - Tibial,GTEX-ZXG5,male,60-69,Intermediate death,,2 pieces; eccentric plaque on larger piece,artery_tibial
+GTEX-ZY6K-1926,Artery - Tibial,GTEX-ZY6K,male,50-59,Ventilator case,"atherosclerosis, sclerotic","2 pieces, well trimmed, mild atherosclerosis",artery_tibial
+GTEX-ZYFC-0726,Artery - Tibial,GTEX-ZYFC,male,50-59,Fast death - natural causes,"atherosclerosis, sclerotic","2 pieces, atherosclerosis",artery_tibial
+GTEX-ZYFD-0526,Artery - Tibial,GTEX-ZYFD,male,50-59,Intermediate death,,2 pieces; well trimmed,artery_tibial
+GTEX-ZYFG-2626,Artery - Tibial,GTEX-ZYFG,female,60-69,Ventilator case,sclerotic,"4 pieces, with moderate intimal sclerosis and calcium",artery_tibial
+GTEX-ZYT6-1526,Artery - Tibial,GTEX-ZYT6,male,30-39,Fast death - violent,clean_specimens,"2 pieces, good clean specimens",artery_tibial
+GTEX-ZYVF-0826,Artery - Tibial,GTEX-ZYVF,female,50-59,Ventilator case,clean_specimens,"2 pieces, good clean specimens",artery_tibial
+GTEX-ZYW4-0426,Artery - Tibial,GTEX-ZYW4,male,60-69,Intermediate death,calcification,2 pieces; prominent medial calcification; up to 1x0.5 mm perivascular fat,artery_tibial
+GTEX-ZYWO-2826,Artery - Tibial,GTEX-ZYWO,female,40-49,Ventilator case,,2 pieces,artery_tibial
+GTEX-ZYY3-0426,Artery - Tibial,GTEX-ZYY3,female,60-69,Slow death,clean_specimens,"2 pieces, minimal fat, good specimens",artery_tibial
+GTEX-ZZ64-1326,Artery - Tibial,GTEX-ZZ64,male,20-29,Ventilator case,,2 pieces,artery_tibial
+GTEX-ZZPT-0526,Artery - Tibial,GTEX-ZZPT,male,50-59,Slow death,clean_specimens,"2 pieces, good clean specimens, minimal fat",artery_tibial
+GTEX-ZZPU-2426,Artery - Tibial,GTEX-ZZPU,female,50-59,Ventilator case,,2 pieces,artery_tibial

@@ -1,0 +1,1002 @@
+Tissue Sample ID,Tissue,Subject ID,Sex,Age Bracket,Hardy Scale,Pathology Categories,Pathology Notes,Tissue ID
+GTEX-1117F-0126,Skin - Sun Exposed (Lower leg),GTEX-1117F,female,60-69,Slow death,,"6 pieces, minimal fat, squamous epithelium is ~50-70 microns",skin_sun
+GTEX-111CU-1926,Skin - Sun Exposed (Lower leg),GTEX-111CU,male,50-59,Ventilator case,,"6 pieces, several with 10-30% predominantly attached adipose tissue, squamous epithelium is ~45-50 microns thick",skin_sun
+GTEX-111FC-0126,Skin - Sun Exposed (Lower leg),GTEX-111FC,male,60-69,Fast death - violent,,"6 pieces, include 5-10% attached and internal adipose tissue, squamous epithelium is 30-42 microns thick",skin_sun
+GTEX-111VG-2426,Skin - Sun Exposed (Lower leg),GTEX-111VG,male,60-69,Intermediate death,,6 pieces; well trimmed,skin_sun
+GTEX-111YS-2526,Skin - Sun Exposed (Lower leg),GTEX-111YS,male,60-69,Ventilator case,,"6 pieces; all dermis, no epidermis; may have been incorrectly embedded",skin_sun
+GTEX-1122O-2126,Skin - Sun Exposed (Lower leg),GTEX-1122O,female,60-69,Ventilator case,,"6 pieces, includes 10-30% attached and internal fat, squamous epithelium measures 36 to 45 microns",skin_sun
+GTEX-1128S-2326,Skin - Sun Exposed (Lower leg),GTEX-1128S,female,60-69,Fast death - natural causes,,"6 pieces, squamous epithelium is 40-50 microns",skin_sun
+GTEX-113IC-0126,Skin - Sun Exposed (Lower leg),GTEX-113IC,male,60-69,Fast death - natural causes,,"6 pieces, squamous epithelium is ~60 microns thick",skin_sun
+GTEX-113JC-2326,Skin - Sun Exposed (Lower leg),GTEX-113JC,female,50-59,Fast death - natural causes,,6 pieces; up to 30% fat within the dermis,skin_sun
+GTEX-117XS-2726,Skin - Sun Exposed (Lower leg),GTEX-117XS,male,60-69,Fast death - natural causes,,"6 pieces, some pieces include up to 10% attached and internal adipose tissue",skin_sun
+GTEX-117YW-2626,Skin - Sun Exposed (Lower leg),GTEX-117YW,male,50-59,Intermediate death,,"6 pieces, predominantly well trimmed, one piece includes attached fat ~10%, squamous epithelium is ~30 microns thick",skin_sun
+GTEX-117YX-2326,Skin - Sun Exposed (Lower leg),GTEX-117YX,male,50-59,Ventilator case,,4 pieces; well trimmed,skin_sun
+GTEX-1192W-2626,Skin - Sun Exposed (Lower leg),GTEX-1192W,male,60-69,Fast death - natural causes,,"6 pieces, squamous epithelium is ~60-70microns thick, minimal adherent fat",skin_sun
+GTEX-1192X-0226,Skin - Sun Exposed (Lower leg),GTEX-1192X,male,50-59,Slow death,,"6 pieces, trace adherent dermal fat",skin_sun
+GTEX-11DXW-0226,Skin - Sun Exposed (Lower leg),GTEX-11DXW,male,40-49,Fast death - natural causes,,"6 pieces, well trimmed, squamous epithelium measures up to 70 microns",skin_sun
+GTEX-11DXX-2426,Skin - Sun Exposed (Lower leg),GTEX-11DXX,female,60-69,Ventilator case,,"6 pieces, some with attached fat (up to 10%), squamous epithelium measures 40-45 microns",skin_sun
+GTEX-11DXY-2626,Skin - Sun Exposed (Lower leg),GTEX-11DXY,male,60-69,Fast death - natural causes,,"4 pieces, well trimmed, minimal fat, squamous epithelium measures 23 to 36 microns",skin_sun
+GTEX-11DXZ-2326,Skin - Sun Exposed (Lower leg),GTEX-11DXZ,male,50-59,Ventilator case,,"6 pieces, well trimmed, squamous epithelium measures 45-65 microns",skin_sun
+GTEX-11DYG-0126,Skin - Sun Exposed (Lower leg),GTEX-11DYG,male,60-69,Fast death - natural causes,,6 pieces; well trimmed,skin_sun
+GTEX-11DZ1-0126,Skin - Sun Exposed (Lower leg),GTEX-11DZ1,male,50-59,Slow death,,6 pieces; up to 0.5mm subcutaneous fat,skin_sun
+GTEX-11EI6-0126,Skin - Sun Exposed (Lower leg),GTEX-11EI6,male,60-69,Slow death,,"6 pieces, minimal dermal fat; squamous epithelium is ~50microns",skin_sun
+GTEX-11EM3-2426,Skin - Sun Exposed (Lower leg),GTEX-11EM3,female,20-29,Ventilator case,,"6 pieces, well trimmed with minimal internal adipose tissue, squamous epithelium measures 40-70 microns",skin_sun
+GTEX-11EMC-2926,Skin - Sun Exposed (Lower leg),GTEX-11EMC,female,60-69,Fast death - natural causes,,"6 pieces, focal adherent dermal fat",skin_sun
+GTEX-11EQ8-0126,Skin - Sun Exposed (Lower leg),GTEX-11EQ8,male,60-69,Slow death,,"6 pieces, minimal attached and internal fat (<10%)",skin_sun
+GTEX-11EQ9-2426,Skin - Sun Exposed (Lower leg),GTEX-11EQ9,male,30-39,Fast death - natural causes,,"6 pieces, minimal adherent fat",skin_sun
+GTEX-11GS4-2726,Skin - Sun Exposed (Lower leg),GTEX-11GS4,male,60-69,Fast death - natural causes,,"6 pieces, relatively well trimmed and with minimal internal fat, squamous epithelium measures 38-43 microns",skin_sun
+GTEX-11GSO-2426,Skin - Sun Exposed (Lower leg),GTEX-11GSO,male,60-69,Fast death - natural causes,,"6 pieces, relatively well trimmed with <10% attached/internal fat, squamous epithelium measures 26 to 30 microns",skin_sun
+GTEX-11GSP-2526,Skin - Sun Exposed (Lower leg),GTEX-11GSP,female,60-69,Fast death - natural causes,,6 pieces; well dissected,skin_sun
+GTEX-11H98-0126,Skin - Sun Exposed (Lower leg),GTEX-11H98,male,50-59,Fast death - natural causes,,6 pieces; well trimmed,skin_sun
+GTEX-11I78-2726,Skin - Sun Exposed (Lower leg),GTEX-11I78,female,50-59,Ventilator case,,"6 pieces, squamous epithelium is ~50 microns thick,, 2-3% total thickness; minimal dermal fat",skin_sun
+GTEX-11ILO-0126,Skin - Sun Exposed (Lower leg),GTEX-11ILO,female,40-49,Ventilator case,,6 pieces; up to 40% internal fat,skin_sun
+GTEX-11LCK-1026,Skin - Sun Exposed (Lower leg),GTEX-11LCK,male,30-39,Ventilator case,,"6 pieces, trace adherent dermal fat, delineated; squamous epithelium is ~45microns thick",skin_sun
+GTEX-11NSD-2226,Skin - Sun Exposed (Lower leg),GTEX-11NSD,male,20-29,Ventilator case,,"6 pieces, no dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-11NUK-0126,Skin - Sun Exposed (Lower leg),GTEX-11NUK,male,50-59,Fast death - natural causes,,"6 pieces, include internal and attached adipose tissue up to 40%, squamous epithelium measures ~40 microns",skin_sun
+GTEX-11NV4-0126,Skin - Sun Exposed (Lower leg),GTEX-11NV4,male,60-69,Fast death - natural causes,,"6 pieces, predominantly well trimmed, but 2 with attached and internal fat up to ~10%, squamous epithelium measures 25-50 microns",skin_sun
+GTEX-11O72-0126,Skin - Sun Exposed (Lower leg),GTEX-11O72,male,40-49,Fast death - natural causes,,6 pieces; well; trimmed; contains 10% internal fat,skin_sun
+GTEX-11OC5-0126,Skin - Sun Exposed (Lower leg),GTEX-11OC5,male,60-69,Fast death - natural causes,,"6 pieces, no significant dermal fat; squamous epithelium is ~30 microns",skin_sun
+GTEX-11OF3-2626,Skin - Sun Exposed (Lower leg),GTEX-11OF3,male,60-69,Fast death - natural causes,,6 pieces; well trimmed except for 1 with 1 mm subcutaneous fat,skin_sun
+GTEX-11ONC-2626,Skin - Sun Exposed (Lower leg),GTEX-11ONC,male,60-69,Fast death - natural causes,,6 pieces; up to 1 mm subcutaneous fat on all pieces,skin_sun
+GTEX-11P7K-2126,Skin - Sun Exposed (Lower leg),GTEX-11P7K,male,30-39,Ventilator case,,6 pieces; well trimmed,skin_sun
+GTEX-11P81-2326,Skin - Sun Exposed (Lower leg),GTEX-11P81,female,30-39,Ventilator case,,"6 pieces, epidermis and dermis with 10-20% attached and internal fat, squamous epithelium measures 35-40 microns",skin_sun
+GTEX-11P82-1626,Skin - Sun Exposed (Lower leg),GTEX-11P82,male,20-29,Fast death - violent,,"6 pieces squamous epithelium is ~50-60 microns; nubbins of adherent dermal fat up to ~2mm, delineated",skin_sun
+GTEX-11PRG-0526,Skin - Sun Exposed (Lower leg),GTEX-11PRG,male,50-59,Fast death - natural causes,,"6 pieces, squamous epithelium is ~50 micrrons, trace adherent dermal fat, ~1mm, delineated",skin_sun
+GTEX-11TT1-2526,Skin - Sun Exposed (Lower leg),GTEX-11TT1,male,20-29,Ventilator case,,"6 pieces, attached and internal adipose tissue up to ~20%, squamous epithelium measured 45 to 54 microns",skin_sun
+GTEX-11TTK-0126,Skin - Sun Exposed (Lower leg),GTEX-11TTK,female,60-69,Slow death,sweat_glands,6 pieces; sweat glands moderately autolyzed,skin_sun
+GTEX-11TUW-2726,Skin - Sun Exposed (Lower leg),GTEX-11TUW,male,60-69,Fast death - natural causes,,"6 pieces, include 5-10% attached and internal adipose tissue, squamous epithelium measures 40-50 microns",skin_sun
+GTEX-11UD1-0126,Skin - Sun Exposed (Lower leg),GTEX-11UD1,female,40-49,Intermediate death,,"6 pieces, well trimmed, squamous epithelium measures ~40-45 microns",skin_sun
+GTEX-11UD2-0226,Skin - Sun Exposed (Lower leg),GTEX-11UD2,male,50-59,Fast death - natural causes,,"6 pieces, squmous epithelium is ~60-70 microns, minimal fat",skin_sun
+GTEX-11VI4-1726,Skin - Sun Exposed (Lower leg),GTEX-11VI4,female,40-49,Ventilator case,,6 pieces; internal fatty island make up 10%,skin_sun
+GTEX-11VI4-5010,Skin - Sun Exposed (Lower leg),GTEX-11VI4,female,40-49,Ventilator case,,1 piece,skin_sun
+GTEX-11WQC-2526,Skin - Sun Exposed (Lower leg),GTEX-11WQC,male,60-69,Fast death - natural causes,,"6 pieces, fairly well trimmed, squamous epithelium measures 20-30 microns thick",skin_sun
+GTEX-11WQK-0526,Skin - Sun Exposed (Lower leg),GTEX-11WQK,male,50-59,Fast death - natural causes,,"6 pieces, minimal fat, squamous epitheliums is ~40 microns",skin_sun
+GTEX-11XUK-2026,Skin - Sun Exposed (Lower leg),GTEX-11XUK,female,40-49,Ventilator case,,6 pieces; well trimmed; up to 20% intradermal fat,skin_sun
+GTEX-11ZTS-0126,Skin - Sun Exposed (Lower leg),GTEX-11ZTS,female,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat, squamous epithelium is ~50 microns",skin_sun
+GTEX-11ZTT-2426,Skin - Sun Exposed (Lower leg),GTEX-11ZTT,female,60-69,Ventilator case,,"6 pieces, all contain residual attached adipose tissue from 10-30%, squamous epithelium measures 30-40 microns",skin_sun
+GTEX-11ZTT-5009,Skin - Sun Exposed (Lower leg),GTEX-11ZTT,female,60-69,Ventilator case,,1 piece,skin_sun
+GTEX-11ZU8-2526,Skin - Sun Exposed (Lower leg),GTEX-11ZU8,male,60-69,Slow death,,"6 pieces, minimal fat, sqaumous epithelium is ~50-60 microns",skin_sun
+GTEX-11ZUS-0626,Skin - Sun Exposed (Lower leg),GTEX-11ZUS,male,30-39,Fast death - violent,,"6 pieces, 5 of 6 do not show squamous epithelium (? embedding)",skin_sun
+GTEX-11ZVC-2526,Skin - Sun Exposed (Lower leg),GTEX-11ZVC,female,50-59,Fast death - natural causes,,6 pieces; well trimmed,skin_sun
+GTEX-1211K-2026,Skin - Sun Exposed (Lower leg),GTEX-1211K,female,60-69,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-1211K-5016,Skin - Sun Exposed (Lower leg),GTEX-1211K,female,60-69,Ventilator case,,1 piece correlates with PGT-fixed aliquot,skin_sun
+GTEX-12126-0326,Skin - Sun Exposed (Lower leg),GTEX-12126,male,20-29,Fast death - violent,,"6 pieces; well  trimmed, but with 10% intradermal fat",skin_sun
+GTEX-1212Z-2526,Skin - Sun Exposed (Lower leg),GTEX-1212Z,male,60-69,Fast death - natural causes,,"6 pieces, each with ~10% attached and intradermal fat, squamous epithelium measures 30-40 microns",skin_sun
+GTEX-12584-0126,Skin - Sun Exposed (Lower leg),GTEX-12584,male,40-49,Intermediate death,,6 pieces; well trimmed; 10% intradermal fat,skin_sun
+GTEX-12696-2426,Skin - Sun Exposed (Lower leg),GTEX-12696,male,60-69,Intermediate death,,"6 pieces, minimal dermal fat; squamous epithelium is ~30 microns",skin_sun
+GTEX-1269C-2526,Skin - Sun Exposed (Lower leg),GTEX-1269C,female,60-69,Fast death - natural causes,,"6 pieces, 5-10% predominantly internal fat, squamous epithelium measures ~45 microns",skin_sun
+GTEX-1269W-0326,Skin - Sun Exposed (Lower leg),GTEX-1269W,male,60-69,Slow death,,,skin_sun
+GTEX-12BJ1-2426,Skin - Sun Exposed (Lower leg),GTEX-12BJ1,male,60-69,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is 35-50 microns",skin_sun
+GTEX-12C56-1726,Skin - Sun Exposed (Lower leg),GTEX-12C56,male,20-29,Ventilator case,,"6 pieces, up to 20% attached fat, squamous epithelium is 30-35 microns",skin_sun
+GTEX-12C56-5012,Skin - Sun Exposed (Lower leg),GTEX-12C56,male,20-29,Ventilator case,,1 piece,skin_sun
+GTEX-12KS4-0326,Skin - Sun Exposed (Lower leg),GTEX-12KS4,male,30-39,Ventilator case,,"6 pieces, minimal dermal fat;squamous epithelium is ~50-6-microns",skin_sun
+GTEX-12WS9-0126,Skin - Sun Exposed (Lower leg),GTEX-12WS9,female,50-59,Intermediate death,,"6 pieces, no dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-12WSA-0226,Skin - Sun Exposed (Lower leg),GTEX-12WSA,male,60-69,Slow death,,"6 pieces, minimal dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-12WSB-0126,Skin - Sun Exposed (Lower leg),GTEX-12WSB,female,60-69,Slow death,,6 pieces; well trimmed; <10% intradermal fat,skin_sun
+GTEX-12WSC-0126,Skin - Sun Exposed (Lower leg),GTEX-12WSC,male,50-59,Fast death - natural causes,,"6 pieces, well trimmed but with ~10% intradermal fat, squamous epithelium measures ~33 microns; specimen sequenced and fingerprint confirmed as match to other donor specimens",skin_sun
+GTEX-12WSD-0126,Skin - Sun Exposed (Lower leg),GTEX-12WSD,female,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat. Squamous epithelium is ~45-50 microns.",skin_sun
+GTEX-12WSE-0526,Skin - Sun Exposed (Lower leg),GTEX-12WSE,male,20-29,Fast death - natural causes,,6 pieces; small amount of subcutaneous fat and 10% intradermal fat,skin_sun
+GTEX-12WSF-0126,Skin - Sun Exposed (Lower leg),GTEX-12WSF,male,70-79,Slow death,,"6 pieces, minimal dermal fat, squamous epithelium is ~40-60 microns",skin_sun
+GTEX-12WSG-2826,Skin - Sun Exposed (Lower leg),GTEX-12WSG,female,50-59,Ventilator case,,"6 pieces, well trimmed, but include up to 20% internal fat, squamous epithelium measures ~35 microns",skin_sun
+GTEX-12WSG-5019,Skin - Sun Exposed (Lower leg),GTEX-12WSG,female,50-59,Ventilator case,,1 piece,skin_sun
+GTEX-12WSH-2426,Skin - Sun Exposed (Lower leg),GTEX-12WSH,male,50-59,Fast death - natural causes,,6 pieces; 10% intradermal fat,skin_sun
+GTEX-12WSI-2526,Skin - Sun Exposed (Lower leg),GTEX-12WSI,male,50-59,Fast death - natural causes,,"6 pieces trace dermal fat(delineated), squamous epithelium is ~70-80 microns",skin_sun
+GTEX-12WSJ-1826,Skin - Sun Exposed (Lower leg),GTEX-12WSJ,female,40-49,Ventilator case,,"6 pieces, include up to 10% internal and attached fat, squamous epithelium measures ~31 microns",skin_sun
+GTEX-12WSK-2326,Skin - Sun Exposed (Lower leg),GTEX-12WSK,female,40-49,Ventilator case,,"6 pieces, minimal dermal fat, squamous epithelium is ~30 microns",skin_sun
+GTEX-12WSL-2526,Skin - Sun Exposed (Lower leg),GTEX-12WSL,male,50-59,Ventilator case,,6 pieces; 10% intradermal fat,skin_sun
+GTEX-12WSM-0126,Skin - Sun Exposed (Lower leg),GTEX-12WSM,male,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat, squamous epithelium is 25-40 microns",skin_sun
+GTEX-12WSN-2326,Skin - Sun Exposed (Lower leg),GTEX-12WSN,male,40-49,Ventilator case,,6 pieces well trimmed; 60.63um thickness of the epidermis,skin_sun
+GTEX-12WSN-5019,Skin - Sun Exposed (Lower leg),GTEX-12WSN,male,40-49,Ventilator case,,1 piece,skin_sun
+GTEX-12ZZW-0126,Skin - Sun Exposed (Lower leg),GTEX-12ZZW,male,50-59,Slow death,,"6 pieces, focal adherent dermal fat up to ~1mm, delineated. Squamous epithelium is ~70-90 microns",skin_sun
+GTEX-12ZZX-0126,Skin - Sun Exposed (Lower leg),GTEX-12ZZX,female,40-49,Fast death - violent,,"6 pieces, squamous epithelium is ~60 microns; minimal dermal fat",skin_sun
+GTEX-12ZZY-0226,Skin - Sun Exposed (Lower leg),GTEX-12ZZY,male,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium is 30-50 microns",skin_sun
+GTEX-12ZZZ-0626,Skin - Sun Exposed (Lower leg),GTEX-12ZZZ,male,60-69,Fast death - natural causes,,6 pieces; well trimmed; 10% intradermal fat,skin_sun
+GTEX-13111-1626,Skin - Sun Exposed (Lower leg),GTEX-13111,male,50-59,Ventilator case,,6 pieces; each piece contains external fat up to 2.6 mm thick; epidermis measures 42.9 um in thickness,skin_sun
+GTEX-13112-2826,Skin - Sun Exposed (Lower leg),GTEX-13112,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; 10% intradermal fat,skin_sun
+GTEX-13113-1926,Skin - Sun Exposed (Lower leg),GTEX-13113,female,60-69,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~50microns.",skin_sun
+GTEX-13113-5016,Skin - Sun Exposed (Lower leg),GTEX-13113,female,60-69,Ventilator case,,1 piece c/w PGT,skin_sun
+GTEX-1313W-0126,Skin - Sun Exposed (Lower leg),GTEX-1313W,female,50-59,Fast death - natural causes,,"6 pieces, well trimmed, squamous epithelium measures ~50 microns",skin_sun
+GTEX-1314G-1526,Skin - Sun Exposed (Lower leg),GTEX-1314G,male,30-39,Ventilator case,,6 pieces; 3 have up to 10% subcutaneous fat,skin_sun
+GTEX-1314G-5013,Skin - Sun Exposed (Lower leg),GTEX-1314G,male,30-39,Ventilator case,,1 piece; 10% intradermal fat,skin_sun
+GTEX-131XE-2326,Skin - Sun Exposed (Lower leg),GTEX-131XE,male,50-59,Ventilator case,,6 pieces; well dissected,skin_sun
+GTEX-131XF-2126,Skin - Sun Exposed (Lower leg),GTEX-131XF,male,60-69,Ventilator case,,6 pieces; 10% intradermal fat; well trimmed,skin_sun
+GTEX-131XF-5016,Skin - Sun Exposed (Lower leg),GTEX-131XF,male,60-69,Ventilator case,,1 piece; well trimmed,skin_sun
+GTEX-131XG-2626,Skin - Sun Exposed (Lower leg),GTEX-131XG,female,50-59,Ventilator case,,"1 piece skin, as with 2625.",skin_sun
+GTEX-131XH-2226,Skin - Sun Exposed (Lower leg),GTEX-131XH,male,50-59,Fast death - natural causes,,"2 pieces, minimal dermal fat; squamous epithelium is ~40-50 microns",skin_sun
+GTEX-131XW-0426,Skin - Sun Exposed (Lower leg),GTEX-131XW,female,50-59,Slow death,,"6 pieces, well trimmed, squamous epithelium measures up to 83 microns",skin_sun
+GTEX-131YS-0126,Skin - Sun Exposed (Lower leg),GTEX-131YS,female,60-69,Fast death - natural causes,,6 pieces; ~10% external/internal fat; epidermis measures up to 40um,skin_sun
+GTEX-132AR-0126,Skin - Sun Exposed (Lower leg),GTEX-132AR,female,50-59,Ventilator case,,"6 pieces; well trimmed, <5% intradermal fat",skin_sun
+GTEX-132NY-0326,Skin - Sun Exposed (Lower leg),GTEX-132NY,male,60-69,Fast death - violent,,"6 pieces, no dermal fat, squamous epithelium is ~40-50 microns",skin_sun
+GTEX-132Q8-0226,Skin - Sun Exposed (Lower leg),GTEX-132Q8,male,60-69,Slow death,,"6 pieces; 5-10% attached/internal fat, squamous epithelium measures 40-60 microns",skin_sun
+GTEX-132QS-2226,Skin - Sun Exposed (Lower leg),GTEX-132QS,male,60-69,Ventilator case,,"6 pieces, focal adherent fat up to ~1.5 mm, delineated; sqaumous epithelium is ~50-60 microns",skin_sun
+GTEX-1339X-2226,Skin - Sun Exposed (Lower leg),GTEX-1339X,male,40-49,Ventilator case,,6 pieces; all contain excessive subcutaneous fat up to 3 mm thick; (note that 26 tissue trimmed),skin_sun
+GTEX-133LE-1826,Skin - Sun Exposed (Lower leg),GTEX-133LE,female,20-29,Ventilator case,,6 pieces; 20% intradermal fat; well dissected,skin_sun
+GTEX-1399Q-0526,Skin - Sun Exposed (Lower leg),GTEX-1399Q,male,40-49,Ventilator case,,"6 pieces; 10-20% internal/external fat, squamous epithelium measures 45 microns thick",skin_sun
+GTEX-1399R-2726,Skin - Sun Exposed (Lower leg),GTEX-1399R,male,30-39,Ventilator case,,6 pieces; 10-20 % intradermal fat,skin_sun
+GTEX-1399S-2826,Skin - Sun Exposed (Lower leg),GTEX-1399S,female,30-39,Ventilator case,,"6 pieces few foci adherent fat ~0.5-1mm, delineated",skin_sun
+GTEX-1399T-2826,Skin - Sun Exposed (Lower leg),GTEX-1399T,male,60-69,Fast death - natural causes,,6 pieces; ~15% internal fat; epidermis 34.81 um thick,skin_sun
+GTEX-1399U-2326,Skin - Sun Exposed (Lower leg),GTEX-1399U,female,50-59,Ventilator case,,"6 pieces, minimal dermal fat, squamous epithelium is ~50-60 microns",skin_sun
+GTEX-139D8-0226,Skin - Sun Exposed (Lower leg),GTEX-139D8,female,30-39,Ventilator case,,6 pieces; 10% intradermal fat,skin_sun
+GTEX-139T4-0226,Skin - Sun Exposed (Lower leg),GTEX-139T4,female,50-59,Intermediate death,,6 pieces; all have up to 1 mm subcutaneous fat;,skin_sun
+GTEX-139T6-1926,Skin - Sun Exposed (Lower leg),GTEX-139T6,male,50-59,Ventilator case,,"6 pieces, up to ~2mm adherent dermal fat, delineated; squamous epithelium is~30 microns",skin_sun
+GTEX-139T8-0126,Skin - Sun Exposed (Lower leg),GTEX-139T8,male,60-69,Slow death,edema,"6 pieces, edematous dermis, atrophic squamous epithelium (~15-20 microns)",skin_sun
+GTEX-139TS-2826,Skin - Sun Exposed (Lower leg),GTEX-139TS,male,60-69,Fast death - natural causes,,"5 pieces; predominantly well trimmed, epidermis measures 24 to 34 microns thick",skin_sun
+GTEX-139TT-0126,Skin - Sun Exposed (Lower leg),GTEX-139TT,male,60-69,Fast death - natural causes,,6 pieces; well trimmed; 10-20% intradermal fat,skin_sun
+GTEX-139TU-0126,Skin - Sun Exposed (Lower leg),GTEX-139TU,male,60-69,Intermediate death,,"6 pieces; relatively well trimmed, epidermis measures 38 microns",skin_sun
+GTEX-139UC-2526,Skin - Sun Exposed (Lower leg),GTEX-139UC,male,60-69,Fast death - natural causes,,"6 pieces, squamous epithelium is ~50 microns",skin_sun
+GTEX-139UW-2826,Skin - Sun Exposed (Lower leg),GTEX-139UW,male,60-69,Fast death - natural causes,,6 pieces; <10% intradermal fat; well trimmed;,skin_sun
+GTEX-139YR-2326,Skin - Sun Exposed (Lower leg),GTEX-139YR,male,50-59,Ventilator case,,"6 pieces; ~10% attached and internal fat, epidermis measures about 35 microns thick",skin_sun
+GTEX-13CF2-2526,Skin - Sun Exposed (Lower leg),GTEX-13CF2,male,60-69,Fast death - natural causes,,"6 pieces, adherent fat up to ~1mm, rep. delineated; squamous epithelium ~50 microns",skin_sun
+GTEX-13CF3-2426,Skin - Sun Exposed (Lower leg),GTEX-13CF3,female,60-69,Ventilator case,,6 pieces; well trimmed; <5% intradermal fat,skin_sun
+GTEX-13CIG-0226,Skin - Sun Exposed (Lower leg),GTEX-13CIG,male,50-59,Fast death - natural causes,,2 pieces; well trimmed; 10% intradermal fat,skin_sun
+GTEX-13CZU-2026,Skin - Sun Exposed (Lower leg),GTEX-13CZU,male,20-29,Ventilator case,,6 pieces; well trimmed; <5% intradermal fat,skin_sun
+GTEX-13CZV-0226,Skin - Sun Exposed (Lower leg),GTEX-13CZV,male,60-69,Fast death - natural causes,,7 pieces; subcutaneous fat on 3; up to 20% intradermal fat,skin_sun
+GTEX-13D11-2426,Skin - Sun Exposed (Lower leg),GTEX-13D11,female,50-59,Ventilator case,,"6 pieces, no signifcnt dermal fat, squamous epithelium is ~55-60 microns",skin_sun
+GTEX-13FH7-2026,Skin - Sun Exposed (Lower leg),GTEX-13FH7,female,50-59,Ventilator case,,"6 pieces; well trimmed, epidermis measures 32 microns, focal parakeratosis",skin_sun
+GTEX-13FHO-0226,Skin - Sun Exposed (Lower leg),GTEX-13FHO,male,60-69,Ventilator case,,"6 pieces; predominantly well trimmed, but with 5-20% internal (mostly) and attached fat, epidermis measures 32 microns",skin_sun
+GTEX-13FHP-0126,Skin - Sun Exposed (Lower leg),GTEX-13FHP,male,50-59,Slow death,,6 pieces; well trimmed; 5% intradermal fat,skin_sun
+GTEX-13FLV-2426,Skin - Sun Exposed (Lower leg),GTEX-13FLV,male,50-59,Fast death - natural causes,,"6 pieces; include 5-10% internal (predominant) and attached fat, epidermis measures about 35 microns",skin_sun
+GTEX-13FLW-2226,Skin - Sun Exposed (Lower leg),GTEX-13FLW,male,50-59,Fast death - natural causes,,"6 pieces; well trimmed, the epidermis measures 33 to 53 microns",skin_sun
+GTEX-13FTW-2626,Skin - Sun Exposed (Lower leg),GTEX-13FTW,male,40-49,Ventilator case,,"2 pieces; original image 53397 is pituitary, NOT SKIN; recut of block reveals skin (image 53794) with up to 10% attached and internal fat, epidermis measures 42 microns",skin_sun
+GTEX-13FTX-1826,Skin - Sun Exposed (Lower leg),GTEX-13FTX,female,20-29,Ventilator case,,"6 pieces; each with residual attached fat up to ~15%, epidermis is ~30 microns thick",skin_sun
+GTEX-13FTY-0526,Skin - Sun Exposed (Lower leg),GTEX-13FTY,female,40-49,Fast death - natural causes,,"6 pieces; 5-15% attached and internal fat, epidermis measures 37 microns, detached fragment of skeletal muscle",skin_sun
+GTEX-13FTZ-2326,Skin - Sun Exposed (Lower leg),GTEX-13FTZ,male,60-69,Fast death - natural causes,,"6 pieces; include variable amount of internal fat up to 30% (and minimal attached fat), epidermis measures 22-42 microns",skin_sun
+GTEX-13FXS-0226,Skin - Sun Exposed (Lower leg),GTEX-13FXS,male,50-59,Fast death - natural causes,,"7 pieces; predominantly well trimmed with minimal attached fat, up to 30% internal fat, epidermis measures 37 microns",skin_sun
+GTEX-13G51-2526,Skin - Sun Exposed (Lower leg),GTEX-13G51,male,60-69,Fast death - natural causes,solar_elastosis,"6 pieces; solar elastosis, epidermis measures 41 um thick",skin_sun
+GTEX-13IVO-0126,Skin - Sun Exposed (Lower leg),GTEX-13IVO,male,70-79,Slow death,solar_elastosis,"6 pieces; solar elastosis, attenuation of the epidermis:21.67um thick; up to 25% dermal fat",skin_sun
+GTEX-13JUV-2726,Skin - Sun Exposed (Lower leg),GTEX-13JUV,female,40-49,Ventilator case,,"6 pieces; well trimmed, epidermis measures 34 microns",skin_sun
+GTEX-13JVG-0326,Skin - Sun Exposed (Lower leg),GTEX-13JVG,male,60-69,Fast death - natural causes,,"6 pieces; small amount of residual attached fat and internal fat up to ~10%, epidermis measures 25 to 31 microns, includes detached fragments of skeletal muscle",skin_sun
+GTEX-13N11-2526,Skin - Sun Exposed (Lower leg),GTEX-13N11,female,50-59,Ventilator case,,"6 pieces; up to 60% attached fat, epidermis measures 35 to 50 microns",skin_sun
+GTEX-13N1W-0126,Skin - Sun Exposed (Lower leg),GTEX-13N1W,male,70-79,Ventilator case,,6 pieces; about 10% internal fat; one fragment devoid of epidermis; epidermis measures 53.1um thick,skin_sun
+GTEX-13N2G-2626,Skin - Sun Exposed (Lower leg),GTEX-13N2G,male,60-69,Fast death - natural causes,,6 pieces; 10% to 30% of internal/external fat; 71 um thick epidermis,skin_sun
+GTEX-13NYB-2526,Skin - Sun Exposed (Lower leg),GTEX-13NYB,male,40-49,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-13NYC-0326,Skin - Sun Exposed (Lower leg),GTEX-13NYC,male,60-69,Fast death - natural causes,solar_elastosis,6 pieces; 10% to 20% internal fat; solar elastosis,skin_sun
+GTEX-13NYS-0126,Skin - Sun Exposed (Lower leg),GTEX-13NYS,male,60-69,Slow death,solar_elastosis,"6 pieces; attenuated epidermis (25um), solar elastosis; well trimmed, 10% dermal fat",skin_sun
+GTEX-13NZ8-0826,Skin - Sun Exposed (Lower leg),GTEX-13NZ8,female,60-69,Slow death,,6 pieces; well trimmed deep surface; up to 30% intradermal fat,skin_sun
+GTEX-13NZ9-0426,Skin - Sun Exposed (Lower leg),GTEX-13NZ9,male,50-59,Ventilator case,,"6 pieces, no dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-13NZA-0226,Skin - Sun Exposed (Lower leg),GTEX-13NZA,male,60-69,Fast death - natural causes,,"6 pieces; minimal attached and internal fat (<10%), epidermis measures 41 microns",skin_sun
+GTEX-13NZB-2526,Skin - Sun Exposed (Lower leg),GTEX-13NZB,male,30-39,Ventilator case,,"6 pieces; up to 25% attached fat on few sections, epidermis measures about 44 microns",skin_sun
+GTEX-13O1R-0126,Skin - Sun Exposed (Lower leg),GTEX-13O1R,male,60-69,Fast death - natural causes,,6 pieces; hyperkeratosis; dermal mucinous change; 20% intradermal fat,skin_sun
+GTEX-13O21-1426,Skin - Sun Exposed (Lower leg),GTEX-13O21,male,50-59,Ventilator case,,"6 pieces, adherent fat up to 3mm thick, delineated, squamous epithelium is ~50-60 microns",skin_sun
+GTEX-13O3O-0126,Skin - Sun Exposed (Lower leg),GTEX-13O3O,female,60-69,Intermediate death,,6 pieces; well dissected; 10% intradermal fat,skin_sun
+GTEX-13O3P-0126,Skin - Sun Exposed (Lower leg),GTEX-13O3P,male,50-59,Slow death,,6 pieces; well trimmed; 10% intradermal fat,skin_sun
+GTEX-13O3Q-2426,Skin - Sun Exposed (Lower leg),GTEX-13O3Q,male,50-59,Fast death - natural causes,,6 pieces;well trimmed; 10% intradermal fat,skin_sun
+GTEX-13O61-2226,Skin - Sun Exposed (Lower leg),GTEX-13O61,male,60-69,Ventilator case,,4 pieces; up to 10% intradermal fat,skin_sun
+GTEX-13OVG-1926,Skin - Sun Exposed (Lower leg),GTEX-13OVG,male,60-69,Ventilator case,,"8 pieces, minimal dermal fat; squamous epithelium is 60-70 microns",skin_sun
+GTEX-13OVG-5016,Skin - Sun Exposed (Lower leg),GTEX-13OVG,male,60-69,Ventilator case,,"1 piece, correlates with PGT fixed tissue.",skin_sun
+GTEX-13OVH-0126,Skin - Sun Exposed (Lower leg),GTEX-13OVH,male,70-79,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-13OVI-1426,Skin - Sun Exposed (Lower leg),GTEX-13OVI,female,60-69,Ventilator case,,"6 pieces, minimal adherent dermal fat, squamous epithelium is ~30 microns, atrophic",skin_sun
+GTEX-13OVJ-0126,Skin - Sun Exposed (Lower leg),GTEX-13OVJ,female,50-59,Fast death - natural causes,solar_elastosis,"6 pieces; solar elastosis, epidermis measures about 67 microns",skin_sun
+GTEX-13OVK-2026,Skin - Sun Exposed (Lower leg),GTEX-13OVK,male,40-49,Ventilator case,,6 pieces; 10% dermal fat; variable subcutaneous fat,skin_sun
+GTEX-13OVL-0226,Skin - Sun Exposed (Lower leg),GTEX-13OVL,male,50-59,Fast death - natural causes,,6 pieces; well  trimmed; 20% intradermal fat,skin_sun
+GTEX-13OW5-0126,Skin - Sun Exposed (Lower leg),GTEX-13OW5,male,60-69,Intermediate death,solar_elastosis,"6 pieces, minimal dermal fat.  Squamous epithelium is ~50microns.  Moderate solar elastosis in upper dermis.",skin_sun
+GTEX-13OW6-0426,Skin - Sun Exposed (Lower leg),GTEX-13OW6,male,50-59,Fast death - natural causes,,"6 pieces; small amount of external/internal fat, epidermis is 49.3 um",skin_sun
+GTEX-13OW7-0126,Skin - Sun Exposed (Lower leg),GTEX-13OW7,male,50-59,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-13OW8-1326,Skin - Sun Exposed (Lower leg),GTEX-13OW8,male,60-69,Fast death - natural causes,,"6 pieces; well trimmed with minimal internal fat, epidermis measures 38 microns",skin_sun
+GTEX-13PDP-0126,Skin - Sun Exposed (Lower leg),GTEX-13PDP,male,60-69,Slow death,,"6 pieces; predominantly well trimmed with minimal attached/internal fat, epidermis measures 31 microns",skin_sun
+GTEX-13PL6-0126,Skin - Sun Exposed (Lower leg),GTEX-13PL6,female,40-49,Intermediate death,,"6 pieces, minimal dermal fat.  Squamous epithelium is ~40 microns",skin_sun
+GTEX-13PL7-1526,Skin - Sun Exposed (Lower leg),GTEX-13PL7,female,60-69,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-13PLJ-0226,Skin - Sun Exposed (Lower leg),GTEX-13PLJ,female,60-69,Fast death - natural causes,edema,6 pieces; dermal edema and hyperkeratosis; subcutaneous fat up to 0.5 mm thick,skin_sun
+GTEX-13PVQ-0126,Skin - Sun Exposed (Lower leg),GTEX-13PVQ,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; 10% intradermal fat,skin_sun
+GTEX-13PVR-2326,Skin - Sun Exposed (Lower leg),GTEX-13PVR,female,60-69,Ventilator case,,"6 pieces, no significant dermal fat; squamous epithelium is ~50-60 microns",skin_sun
+GTEX-13QBU-2626,Skin - Sun Exposed (Lower leg),GTEX-13QBU,female,40-49,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-13QIC-1726,Skin - Sun Exposed (Lower leg),GTEX-13QIC,female,60-69,Fast death - natural causes,,6 pieces; 10 - 20% internal fat; epidermis between 33 and 47um thick,skin_sun
+GTEX-13QJ3-0326,Skin - Sun Exposed (Lower leg),GTEX-13QJ3,male,50-59,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~30 microns",skin_sun
+GTEX-13QJC-2726,Skin - Sun Exposed (Lower leg),GTEX-13QJC,female,60-69,Fast death - natural causes,,6 pieces; well trimmed; up to 20% intradermal fat,skin_sun
+GTEX-13RTJ-2426,Skin - Sun Exposed (Lower leg),GTEX-13RTJ,male,60-69,Slow death,,"6 pieces, minimal dermal fat; squamous epithelium unusually atrophic, ~15-20 microns",skin_sun
+GTEX-13RTK-1426,Skin - Sun Exposed (Lower leg),GTEX-13RTK,male,20-29,Ventilator case,,"6 pieces, squamous epithelium is ~50 microns, minimal dermal fat, rep focus delineated",skin_sun
+GTEX-13RTL-0126,Skin - Sun Exposed (Lower leg),GTEX-13RTL,male,40-49,Slow death,,"6 pieces; includes up to 20% attached and internal fat, epidermis measures 23 microns",skin_sun
+GTEX-13S7M-0126,Skin - Sun Exposed (Lower leg),GTEX-13S7M,female,60-69,Fast death - natural causes,,6 pieces; well trimmed; 5% intradermal fat,skin_sun
+GTEX-13S86-2226,Skin - Sun Exposed (Lower leg),GTEX-13S86,male,40-49,Ventilator case,,6 pieces; well dissected; 5% dermal fat,skin_sun
+GTEX-13SLW-0126,Skin - Sun Exposed (Lower leg),GTEX-13SLW,male,70-79,Fast death - natural causes,,"6 pieces, minimal dermal fat, squamous epithelium is ~30 microns",skin_sun
+GTEX-13SLX-0526,Skin - Sun Exposed (Lower leg),GTEX-13SLX,female,50-59,Fast death - natural causes,,6 pieces; 46um thick epidermis; up to 10% internal and external fat; compact keratosis,skin_sun
+GTEX-13U4I-0126,Skin - Sun Exposed (Lower leg),GTEX-13U4I,female,40-49,Ventilator case,,"6 pieces, minimal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-13VXT-0126,Skin - Sun Exposed (Lower leg),GTEX-13VXT,female,20-29,Ventilator case,,6 pieces; subcutaneous fat on 4 of 6 pieces up to 1.5mm thick. 10% intradermal fat,skin_sun
+GTEX-13VXU-0126,Skin - Sun Exposed (Lower leg),GTEX-13VXU,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; 5% intradermal fat,skin_sun
+GTEX-13W3W-2426,Skin - Sun Exposed (Lower leg),GTEX-13W3W,female,60-69,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-13W46-0226,Skin - Sun Exposed (Lower leg),GTEX-13W46,male,50-59,Ventilator case,,"6 pieces; ~10% internal/periadnexal fat, 31um thick epidermis",skin_sun
+GTEX-13X6H-2126,Skin - Sun Exposed (Lower leg),GTEX-13X6H,female,50-59,Ventilator case,,6 pieces; excessive subcutaneous fat up to 1.7mm thick,skin_sun
+GTEX-13X6I-0626,Skin - Sun Exposed (Lower leg),GTEX-13X6I,male,60-69,Slow death,,"6 pieces; well trimmed, epidermis measures 30 microns",skin_sun
+GTEX-13X6J-0126,Skin - Sun Exposed (Lower leg),GTEX-13X6J,male,50-59,Fast death - natural causes,,6 pieces; ~10% external/periadnexal fat; 49um epidermis,skin_sun
+GTEX-13X6K-0126,Skin - Sun Exposed (Lower leg),GTEX-13X6K,female,60-69,Slow death,,"6 pieces, minimal dermal fat; squamous epithelium is ~70 Microns",skin_sun
+GTEX-13YAN-0326,Skin - Sun Exposed (Lower leg),GTEX-13YAN,male,60-69,Ventilator case,,"6 pieces, minimal dermal fat",skin_sun
+GTEX-1445S-0526,Skin - Sun Exposed (Lower leg),GTEX-1445S,male,60-69,Intermediate death,,"6 pieces, no dermal fat; squamous epithelium is ~50 Microns",skin_sun
+GTEX-144FL-0126,Skin - Sun Exposed (Lower leg),GTEX-144FL,male,50-59,Fast death - natural causes,,"6 pieces, no dermal fat, squamous epithelium is ~40-50 microns",skin_sun
+GTEX-144GL-0126,Skin - Sun Exposed (Lower leg),GTEX-144GL,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; 5-10% dermal fat,skin_sun
+GTEX-144GM-1826,Skin - Sun Exposed (Lower leg),GTEX-144GM,male,20-29,Ventilator case,,"6 pieces, no dermal fat, squamous epithelium is ~50 microns",skin_sun
+GTEX-144GN-2326,Skin - Sun Exposed (Lower leg),GTEX-144GN,male,50-59,Ventilator case,,"6 pieces; well trimmed, but 1; 10% dermal fat",skin_sun
+GTEX-144GO-1526,Skin - Sun Exposed (Lower leg),GTEX-144GO,male,60-69,Slow death,,6 pieces; 10% to 20% external fat and 10% internal fat; 24um thick epidermis; thick walled vessel (outlined),skin_sun
+GTEX-145LS-0126,Skin - Sun Exposed (Lower leg),GTEX-145LS,female,60-69,Slow death,,pieces; 5% dermal fat; well trimmed,skin_sun
+GTEX-145LT-1726,Skin - Sun Exposed (Lower leg),GTEX-145LT,male,40-49,Ventilator case,,"6 pieces, no dermal fat, squamous epithelium is ~50-60 microns",skin_sun
+GTEX-145LU-0126,Skin - Sun Exposed (Lower leg),GTEX-145LU,male,50-59,Fast death - natural causes,,6 pieces; 10% dermal fat,skin_sun
+GTEX-145LV-2126,Skin - Sun Exposed (Lower leg),GTEX-145LV,male,50-59,Ventilator case,,6 pieces; 10% dermal fat; no sign of sclerosis or vasculitis,skin_sun
+GTEX-145ME-1826,Skin - Sun Exposed (Lower leg),GTEX-145ME,female,40-49,Ventilator case,,"6 pieces, minimal/negative dermal fat; squamous epithelium is ~70 microns",skin_sun
+GTEX-145ME-5013,Skin - Sun Exposed (Lower leg),GTEX-145ME,female,40-49,Ventilator case,,"1 piece, correlates with PFPE specimen",skin_sun
+GTEX-145MF-0626,Skin - Sun Exposed (Lower leg),GTEX-145MF,male,50-59,Fast death - natural causes,,"6 pieces, trace adherent dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-145MG-0526,Skin - Sun Exposed (Lower leg),GTEX-145MG,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; <5% dermal fat,skin_sun
+GTEX-145MH-0126,Skin - Sun Exposed (Lower leg),GTEX-145MH,male,50-59,Fast death - violent,,"6 pieces; 5-10% attached and internal fat, epidermis is 41 microns thick",skin_sun
+GTEX-145MI-0526,Skin - Sun Exposed (Lower leg),GTEX-145MI,female,60-69,Fast death - natural causes,,4 pieces; well trimmed; up to 10% intradermal fat,skin_sun
+GTEX-145MN-2226,Skin - Sun Exposed (Lower leg),GTEX-145MN,male,30-39,Ventilator case,,6 pieces; well dissected; 5% dermal fat,skin_sun
+GTEX-145MO-0326,Skin - Sun Exposed (Lower leg),GTEX-145MO,male,60-69,Intermediate death,,"6 pieces, no significant dermal fat; squamous epithelium is ~40-50 microns",skin_sun
+GTEX-146FH-0126,Skin - Sun Exposed (Lower leg),GTEX-146FH,female,50-59,Ventilator case,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-146FQ-0126,Skin - Sun Exposed (Lower leg),GTEX-146FQ,male,30-39,Ventilator case,,6 pieces; up to 50% external (subcutaneous) fat; 38.53um thick epidermis; 10% intradermal fat,skin_sun
+GTEX-146FR-1326,Skin - Sun Exposed (Lower leg),GTEX-146FR,female,60-69,Ventilator case,,"6 pieces, trace dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-14753-0426,Skin - Sun Exposed (Lower leg),GTEX-14753,male,60-69,Slow death,,4 small pieces; up to 20% dermal fat,skin_sun
+GTEX-1477Z-2026,Skin - Sun Exposed (Lower leg),GTEX-1477Z,male,60-69,Slow death,,"6 pieces, squamous epithelium is ~40 microns, no significant dermal fat",skin_sun
+GTEX-147F3-0526,Skin - Sun Exposed (Lower leg),GTEX-147F3,female,50-59,Ventilator case,,6 pieces; up to 10% attached and internal fat; 41.67um thick epidermis,skin_sun
+GTEX-147F4-0226,Skin - Sun Exposed (Lower leg),GTEX-147F4,male,50-59,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-147GR-0526,Skin - Sun Exposed (Lower leg),GTEX-147GR,male,60-69,Fast death - natural causes,,6 pieces; well trimmed; 20% dermal fat,skin_sun
+GTEX-147JS-0326,Skin - Sun Exposed (Lower leg),GTEX-147JS,male,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat, squamous epithelium is ~40-50 microns",skin_sun
+GTEX-148VI-1626,Skin - Sun Exposed (Lower leg),GTEX-148VI,female,60-69,Ventilator case,,"6 pieces; well trimmed, <10% internal fat, epidermis measures 34 microns",skin_sun
+GTEX-148VJ-0126,Skin - Sun Exposed (Lower leg),GTEX-148VJ,male,70-79,Fast death - natural causes,,"6 pieces, minimal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-1497J-2426,Skin - Sun Exposed (Lower leg),GTEX-1497J,male,60-69,Ventilator case,,"6 pieces, squamous epithelium is ~50 microns; minimal adherent dermal fat",skin_sun
+GTEX-14A5H-0426,Skin - Sun Exposed (Lower leg),GTEX-14A5H,male,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-14A5I-0126,Skin - Sun Exposed (Lower leg),GTEX-14A5I,female,50-59,Slow death,,"6 pieces, squamous epithelium is ~30 microns, minimal dermal fat",skin_sun
+GTEX-14A6H-0126,Skin - Sun Exposed (Lower leg),GTEX-14A6H,male,30-39,Ventilator case,,"6 pieces; significant external fat from 10-40%, epidermis measures 49 microns",skin_sun
+GTEX-14A6H-5001,Skin - Sun Exposed (Lower leg),GTEX-14A6H,male,30-39,Ventilator case,,1 piece,skin_sun
+GTEX-14ABY-0226,Skin - Sun Exposed (Lower leg),GTEX-14ABY,male,50-59,Fast death - natural causes,,6 pieces; ~10 - 20% interstitial (periadnexal) fat,skin_sun
+GTEX-14AS3-1926,Skin - Sun Exposed (Lower leg),GTEX-14AS3,female,40-49,Ventilator case,,"4 pieces; well trimmed, epidermis measures 36 microns",skin_sun
+GTEX-14ASI-0126,Skin - Sun Exposed (Lower leg),GTEX-14ASI,male,60-69,Fast death - natural causes,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-14B4R-1926,Skin - Sun Exposed (Lower leg),GTEX-14B4R,male,30-39,Ventilator case,,"6 pieces; includes from 5-15% internal fat, epidermis measures 35 microns",skin_sun
+GTEX-14BIL-0126,Skin - Sun Exposed (Lower leg),GTEX-14BIL,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-14BIM-0226,Skin - Sun Exposed (Lower leg),GTEX-14BIM,female,60-69,Intermediate death,,"6 pieces, minimal adherent dermal fat; squamous epithelium is ~50microns",skin_sun
+GTEX-14BIN-0626,Skin - Sun Exposed (Lower leg),GTEX-14BIN,female,50-59,Fast death - natural causes,,6 pieces; 10% dermal fat,skin_sun
+GTEX-14BMU-2226,Skin - Sun Exposed (Lower leg),GTEX-14BMU,female,20-29,Ventilator case,,"6 pieces, squamous epithelium is ~60 microns, trace adherent dermal fat, rep delineated",skin_sun
+GTEX-14BMV-0126,Skin - Sun Exposed (Lower leg),GTEX-14BMV,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; 5% intradermal fat,skin_sun
+GTEX-14C38-0226,Skin - Sun Exposed (Lower leg),GTEX-14C38,male,50-59,Ventilator case,,"4 pieces, no dermal fat, squamous epithelium is ~30-35 microns",skin_sun
+GTEX-14C39-2826,Skin - Sun Exposed (Lower leg),GTEX-14C39,male,40-49,Fast death - natural causes,,"8 pieces, minimal dermal fat, squamous epithelium is ~50-60 microns",skin_sun
+GTEX-14C5O-0126,Skin - Sun Exposed (Lower leg),GTEX-14C5O,male,60-69,Slow death,,"6 pieces; small amount of internal fat, epidermis measures 35 microns",skin_sun
+GTEX-14DAQ-0126,Skin - Sun Exposed (Lower leg),GTEX-14DAQ,female,60-69,Slow death,,"6 pieces, minimal dermal fat, squamous epithelium is ~35 microns",skin_sun
+GTEX-14DAR-2026,Skin - Sun Exposed (Lower leg),GTEX-14DAR,male,50-59,Ventilator case,,"6 pieces, squamous epithelium is ~40 microns, few foci of adherent dermal fat, delineated",skin_sun
+GTEX-14E1K-2226,Skin - Sun Exposed (Lower leg),GTEX-14E1K,male,50-59,Ventilator case,,"6 pieces, minimal dermal fat, squamous epithelium is ~40 microns",skin_sun
+GTEX-14E6C-0126,Skin - Sun Exposed (Lower leg),GTEX-14E6C,male,40-49,Slow death,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-14E6D-0126,Skin - Sun Exposed (Lower leg),GTEX-14E6D,male,50-59,Fast death - natural causes,,6 pieces; ~10% internal fat (periadnexal); epidermis ~40 um thick,skin_sun
+GTEX-14E6E-1826,Skin - Sun Exposed (Lower leg),GTEX-14E6E,male,30-39,Ventilator case,,6 pieces; considerable deep fat and intradermal fat,skin_sun
+GTEX-14E7W-0126,Skin - Sun Exposed (Lower leg),GTEX-14E7W,male,70-79,Fast death - natural causes,,6 pieces; ~10% internal fat (periadnexal); well trimmed,skin_sun
+GTEX-14H4A-1126,Skin - Sun Exposed (Lower leg),GTEX-14H4A,female,40-49,Ventilator case,,"6 pieces; well trimmed, epidermis measures 32 microns, small amount of internal fat",skin_sun
+GTEX-14ICK-0226,Skin - Sun Exposed (Lower leg),GTEX-14ICK,male,40-49,Ventilator case,,6 pieces; well trimmed; 5-10% dermal fat,skin_sun
+GTEX-14ICL-0226,Skin - Sun Exposed (Lower leg),GTEX-14ICL,male,30-39,Ventilator case,,"6 pieces, squamous epithelium is ~40-50 microns; minimal adherent dermal fat",skin_sun
+GTEX-14JFF-0126,Skin - Sun Exposed (Lower leg),GTEX-14JFF,male,60-69,Slow death,,"6 pieces, minimal dermal fat; squamous epithelium is ~60-70 microns",skin_sun
+GTEX-14JG1-0426,Skin - Sun Exposed (Lower leg),GTEX-14JG1,male,40-49,Fast death - natural causes,,6 pieces; up to 10% dermal fat,skin_sun
+GTEX-14JG6-2226,Skin - Sun Exposed (Lower leg),GTEX-14JG6,female,30-39,Ventilator case,,"6 pieces; mostly well trimmed with up to 10% fat (predominantly internal), epidermis measures 52 microns, detached fragment of skeletal muscle",skin_sun
+GTEX-14JIY-0126,Skin - Sun Exposed (Lower leg),GTEX-14JIY,male,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat, squamous epithelium is ~50 microns",skin_sun
+GTEX-14LLW-0126,Skin - Sun Exposed (Lower leg),GTEX-14LLW,female,70-79,Slow death,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-14LZ3-0226,Skin - Sun Exposed (Lower leg),GTEX-14LZ3,female,60-69,Intermediate death,,"6 pieces; ~10% internal fat, epidermis measures 31 microns",skin_sun
+GTEX-14PHW-0126,Skin - Sun Exposed (Lower leg),GTEX-14PHW,female,60-69,Slow death,,"6 pieces, minimal fat, squamous epithelium is ~30 microns",skin_sun
+GTEX-14PHX-2326,Skin - Sun Exposed (Lower leg),GTEX-14PHX,male,50-59,Ventilator case,,"6 pieces; well trimmed, <5% dermal fat",skin_sun
+GTEX-14PHY-2326,Skin - Sun Exposed (Lower leg),GTEX-14PHY,female,60-69,Ventilator case,,"6 pieces; poorly trimmed, up to 2 mm subcutaneous fat",skin_sun
+GTEX-14PII-0226,Skin - Sun Exposed (Lower leg),GTEX-14PII,male,60-69,Slow death,,"6 pieces, minimal adherent fat, squamous epithelium is ~60 microns",skin_sun
+GTEX-14PJ2-0126,Skin - Sun Exposed (Lower leg),GTEX-14PJ2,male,50-59,Ventilator case,,6 pieces; ~10% internal (periadnexal) fat; epidermis is 34um thick,skin_sun
+GTEX-14PJ3-1826,Skin - Sun Exposed (Lower leg),GTEX-14PJ3,male,50-59,Ventilator case,,"6 pieces; relatively well trimmed, epidermis measures up to 35 microns",skin_sun
+GTEX-14PJ4-2326,Skin - Sun Exposed (Lower leg),GTEX-14PJ4,male,60-69,Ventilator case,,"6 pieces; 10% internal/external fat,  epidermis ~ 37um in thickness",skin_sun
+GTEX-14PJ5-1626,Skin - Sun Exposed (Lower leg),GTEX-14PJ5,female,60-69,Ventilator case,,"6 pieces, adherent fat up to 2 mm some sections, squamous epithelium is ~20-30 microns",skin_sun
+GTEX-14PJ5-5013,Skin - Sun Exposed (Lower leg),GTEX-14PJ5,female,60-69,Ventilator case,,"1 piece, correlates with PFPE",skin_sun
+GTEX-14PJ6-2126,Skin - Sun Exposed (Lower leg),GTEX-14PJ6,female,60-69,Ventilator case,,"6 pieces, squamous epithelium is ~30 microns; adherent dermal fat focallky present up to ~1.5mm",skin_sun
+GTEX-14PJM-0226,Skin - Sun Exposed (Lower leg),GTEX-14PJM,female,50-59,Fast death - natural causes,,6 pieces; well trimmed; 5-10% dermal fat,skin_sun
+GTEX-14PJN-1926,Skin - Sun Exposed (Lower leg),GTEX-14PJN,male,30-39,Ventilator case,,"6 pieces, adherent dermal fat up to ~5-6mm; squamous epithelium is ~30 microns",skin_sun
+GTEX-14PJO-0126,Skin - Sun Exposed (Lower leg),GTEX-14PJO,male,60-69,Slow death,,6 pieces; well trimmed; minimal dermal fat,skin_sun
+GTEX-14PJP-0126,Skin - Sun Exposed (Lower leg),GTEX-14PJP,male,20-29,Ventilator case,,"6 pieces; includes up to 30% attached fat, epidermis measures 33 microns",skin_sun
+GTEX-14PK6-1926,Skin - Sun Exposed (Lower leg),GTEX-14PK6,female,70-79,Ventilator case,,"6 pieces, focal dermal fat up to ~1mm, squamous epithelium is ~40 microns",skin_sun
+GTEX-14PKU-1826,Skin - Sun Exposed (Lower leg),GTEX-14PKU,female,40-49,Ventilator case,,"6 pieces, focal adherent dermal fat up to ~1mm, delineated",skin_sun
+GTEX-14PKV-0526,Skin - Sun Exposed (Lower leg),GTEX-14PKV,female,20-29,Ventilator case,,"6 pieces, focal adherent fat up to ~1mm, rep delineated; squamous epithelium is ~60 microns",skin_sun
+GTEX-14PN3-2426,Skin - Sun Exposed (Lower leg),GTEX-14PN3,female,60-69,Ventilator case,,6 pieces; <10% dermal fat,skin_sun
+GTEX-14PN4-0126,Skin - Sun Exposed (Lower leg),GTEX-14PN4,male,50-59,Fast death - natural causes,,"6 pieces; 10 - 20% external/internal fat, epidermis 31um thick",skin_sun
+GTEX-14PQA-0226,Skin - Sun Exposed (Lower leg),GTEX-14PQA,female,50-59,Slow death,solar_elastosis,6 pieces; well trimmed with ~10% internal fat; solar elastosis,skin_sun
+GTEX-14XAO-2326,Skin - Sun Exposed (Lower leg),GTEX-14XAO,female,60-69,Ventilator case,,"6 pieces, trace adherent dermal fat, squamous epithelium is ~40 microns",skin_sun
+GTEX-15CHC-2126,Skin - Sun Exposed (Lower leg),GTEX-15CHC,female,60-69,Ventilator case,solar_elastosis,6 pieces; dermal elastosis; 50% dermal fat,skin_sun
+GTEX-15CHQ-0126,Skin - Sun Exposed (Lower leg),GTEX-15CHQ,male,60-69,Slow death,,6 pieces; well trimmed; up to 10% dermal fat,skin_sun
+GTEX-15CHR-2226,Skin - Sun Exposed (Lower leg),GTEX-15CHR,male,50-59,Ventilator case,,"6 pieces; includes 5-10% fat, epidermis measures 36 microns in thickness",skin_sun
+GTEX-15CHS-0126,Skin - Sun Exposed (Lower leg),GTEX-15CHS,male,50-59,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium is ~60 microns",skin_sun
+GTEX-15D1Q-0126,Skin - Sun Exposed (Lower leg),GTEX-15D1Q,male,40-49,Fast death - natural causes,,"6 pieces, squamous epithelium is ~30-40 microns",skin_sun
+GTEX-15D79-0126,Skin - Sun Exposed (Lower leg),GTEX-15D79,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-15DCD-0126,Skin - Sun Exposed (Lower leg),GTEX-15DCD,female,70-79,Fast death - natural causes,,6 pieces; 10 to 20% internal (periadnexal) fat; epidermis is ~35 microns,skin_sun
+GTEX-15DCE-0226,Skin - Sun Exposed (Lower leg),GTEX-15DCE,male,20-29,Ventilator case,,6 pieces; up to 4 mm extraneous  subcutaneous fat,skin_sun
+GTEX-15DCZ-0126,Skin - Sun Exposed (Lower leg),GTEX-15DCZ,female,20-29,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-15DDE-0126,Skin - Sun Exposed (Lower leg),GTEX-15DDE,female,50-59,Intermediate death,,"6 pieces, trace dermal fat.  Squamous epithelium is ~50 microns",skin_sun
+GTEX-15DYW-0126,Skin - Sun Exposed (Lower leg),GTEX-15DYW,female,60-69,Fast death - natural causes,,6 pieces; 10% dermal fat; well trimmed,skin_sun
+GTEX-15DZA-1826,Skin - Sun Exposed (Lower leg),GTEX-15DZA,female,30-39,Ventilator case,,"6 pieces, adherent dermal fat up to ~1.5mm, rep delineated; squamous epithelium is ~50 microns",skin_sun
+GTEX-15EO6-0526,Skin - Sun Exposed (Lower leg),GTEX-15EO6,male,50-59,Slow death,,"6 pieces, minimal dermal fat; squamous epithelium is ~50-60 microns",skin_sun
+GTEX-15EOM-0126,Skin - Sun Exposed (Lower leg),GTEX-15EOM,female,20-29,Ventilator case,,"6 pieces; up to 30% attached fat, only focal strip of epidermis measuring 49 microns",skin_sun
+GTEX-15EOM-5001,Skin - Sun Exposed (Lower leg),GTEX-15EOM,female,20-29,Ventilator case,,1 piece; only focal epidermis,skin_sun
+GTEX-15ER7-0326,Skin - Sun Exposed (Lower leg),GTEX-15ER7,female,20-29,Fast death - violent,,"6 pieces; well trimmed, epidermis measures 44 microns",skin_sun
+GTEX-15ETS-0126,Skin - Sun Exposed (Lower leg),GTEX-15ETS,female,40-49,Ventilator case,,"6 pieces, no dermal fat, squamous epithelium is ~50 microns",skin_sun
+GTEX-15EU6-0426,Skin - Sun Exposed (Lower leg),GTEX-15EU6,male,50-59,Ventilator case,,"6 pieces, minimal adherent fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-15F5U-1526,Skin - Sun Exposed (Lower leg),GTEX-15F5U,male,40-49,Ventilator case,,6 pieces; 3 with subcutaneous fat and 1 0.9mm artery [circled]; up to 10% dermal fat,skin_sun
+GTEX-15FZZ-2126,Skin - Sun Exposed (Lower leg),GTEX-15FZZ,female,30-39,Ventilator case,,6 pieces; excessive subcutaneous fat and up to 20% dermal fat,skin_sun
+GTEX-15G19-0126,Skin - Sun Exposed (Lower leg),GTEX-15G19,male,60-69,Fast death - natural causes,,6 pieces; minimal internal (periadnexal) fat; squamous epithelium is up to ~30um,skin_sun
+GTEX-15G1A-2126,Skin - Sun Exposed (Lower leg),GTEX-15G1A,male,30-39,Ventilator case,,"6 pieces, trace adherent dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-15RIE-2226,Skin - Sun Exposed (Lower leg),GTEX-15RIE,male,60-69,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-15RIF-1926,Skin - Sun Exposed (Lower leg),GTEX-15RIF,male,20-29,Ventilator case,,"6 pieces, trace dermal fat, squamous epithelium is ~50 microns",skin_sun
+GTEX-15RIG-0226,Skin - Sun Exposed (Lower leg),GTEX-15RIG,male,40-49,Ventilator case,,"6 pieces, minimal adherent dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-15RJ7-2226,Skin - Sun Exposed (Lower leg),GTEX-15RJ7,male,40-49,Ventilator case,,"6 pieces; ~10% internal fat (periadnexal), squamous epithelium  ~ 32um",skin_sun
+GTEX-15RJE-0126,Skin - Sun Exposed (Lower leg),GTEX-15RJE,male,40-49,Slow death,,"6 pieces; 5 of 6 have subcutaneous fat, up to 0.8mm thick; 10% dermal fat",skin_sun
+GTEX-15SB6-1726,Skin - Sun Exposed (Lower leg),GTEX-15SB6,female,50-59,Ventilator case,,"6 pieces; up to 10% attached and internal fat, epidermis measures 35 microns",skin_sun
+GTEX-15SDE-2226,Skin - Sun Exposed (Lower leg),GTEX-15SDE,female,50-59,Ventilator case,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-15SHU-0126,Skin - Sun Exposed (Lower leg),GTEX-15SHU,female,40-49,Fast death - natural causes,,6 pieces; well trimmed; <5% dermal fat,skin_sun
+GTEX-15SHV-2426,Skin - Sun Exposed (Lower leg),GTEX-15SHV,male,60-69,Ventilator case,,6 pieces; subcutaneous fat up to 1.6 mm thick; up to 10% dermal fat,skin_sun
+GTEX-15SHW-0326,Skin - Sun Exposed (Lower leg),GTEX-15SHW,male,60-69,Ventilator case,,"6 pieces; well trimmed, epidermis measures 34 microns",skin_sun
+GTEX-15SKB-0126,Skin - Sun Exposed (Lower leg),GTEX-15SKB,male,60-69,Ventilator case,,"6 pieces, squamous epithelium is ~30 microns, minimal/no dermal fat",skin_sun
+GTEX-15SZO-0126,Skin - Sun Exposed (Lower leg),GTEX-15SZO,male,50-59,Fast death - natural causes,,"6 pieces, trace adherent fat, squamous epithelium is ~40-50 microns",skin_sun
+GTEX-15TU5-0226,Skin - Sun Exposed (Lower leg),GTEX-15TU5,male,60-69,Slow death,,6 pieces; up to 1 mm subcutaneous fat on 3 of 6; virtually no dermal fat,skin_sun
+GTEX-15UF6-0826,Skin - Sun Exposed (Lower leg),GTEX-15UF6,female,70-79,Slow death,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-15UF7-2026,Skin - Sun Exposed (Lower leg),GTEX-15UF7,male,40-49,Ventilator case,,"6 pieces; well trimmed with minimal internal fat, epidermis measures 45 microns",skin_sun
+GTEX-15UKP-0426,Skin - Sun Exposed (Lower leg),GTEX-15UKP,male,20-29,Ventilator case,,"6 pieces; predominantly well trimmed with minimal internal/external fat, epidermis measures 40 microns",skin_sun
+GTEX-169BO-1326,Skin - Sun Exposed (Lower leg),GTEX-169BO,male,50-59,Ventilator case,,"6 pieces, trace adherent dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-16A39-1826,Skin - Sun Exposed (Lower leg),GTEX-16A39,female,30-39,Ventilator case,,"6 pieces; ~5% internal/periadnexal fat, epidermis ~40 microns thick",skin_sun
+GTEX-16AAH-1726,Skin - Sun Exposed (Lower leg),GTEX-16AAH,male,50-59,Ventilator case,,"6 pieces, minmal dermal fat, squamous epithelium is ~50-60microns",skin_sun
+GTEX-16BQI-0226,Skin - Sun Exposed (Lower leg),GTEX-16BQI,female,30-39,Ventilator case,,6 pieces; well trimmed; fragmented dermis; 3 have 20% dermal fat; 3 have 10% dermal fat,skin_sun
+GTEX-16GPK-0126,Skin - Sun Exposed (Lower leg),GTEX-16GPK,male,60-69,Fast death - natural causes,,6 pieces; 5% internal (periadnexal) fat; epidermis ~31 microns,skin_sun
+GTEX-16MT8-0426,Skin - Sun Exposed (Lower leg),GTEX-16MT8,female,60-69,Slow death,,"6 pieces, trace adherent fat, squamous epithelium is ~30-40 microns",skin_sun
+GTEX-16MT9-0626,Skin - Sun Exposed (Lower leg),GTEX-16MT9,female,60-69,Ventilator case,,6 pieces; 10 to 20% mostly internal (periadnexal) fat; epidermis measures ~39 microns,skin_sun
+GTEX-16MTA-2226,Skin - Sun Exposed (Lower leg),GTEX-16MTA,male,50-59,Ventilator case,,"6 pieces; few pieces include residual attached fat, up to 15%, epidermis measures 49 microns",skin_sun
+GTEX-16NFA-2326,Skin - Sun Exposed (Lower leg),GTEX-16NFA,male,50-59,Ventilator case,,6 pieces; 10% dermal fat,skin_sun
+GTEX-16NGA-1726,Skin - Sun Exposed (Lower leg),GTEX-16NGA,female,40-49,Ventilator case,,6 pieces; well trimmed,skin_sun
+GTEX-16NPV-0126,Skin - Sun Exposed (Lower leg),GTEX-16NPV,female,50-59,Slow death,,6 pieces; well trimmed; 10% dermal fat; dermal fragmentation,skin_sun
+GTEX-16NPX-0226,Skin - Sun Exposed (Lower leg),GTEX-16NPX,male,50-59,Ventilator case,,"6 pieces, minimal adherent dermal fat; squamous epthelium is ~30-40 microns",skin_sun
+GTEX-16XZY-2126,Skin - Sun Exposed (Lower leg),GTEX-16XZY,male,70-79,Ventilator case,,6 pieces; ~10% external/internal fat; squamous epithelium 22 to 28 micron thick,skin_sun
+GTEX-16XZZ-0126,Skin - Sun Exposed (Lower leg),GTEX-16XZZ,male,60-69,Ventilator case,,6 pieces; excessive subcutaneous fat included in sample; makes up 50%  of area,skin_sun
+GTEX-16YQH-0126,Skin - Sun Exposed (Lower leg),GTEX-16YQH,male,30-39,Fast death - violent,,"6 pieces, minimal dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-16Z82-0226,Skin - Sun Exposed (Lower leg),GTEX-16Z82,male,60-69,Fast death - natural causes,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-178AV-2026,Skin - Sun Exposed (Lower leg),GTEX-178AV,male,40-49,Ventilator case,,"6 pieces, squamous epithelium is ~30-40 microns",skin_sun
+GTEX-17EUY-0426,Skin - Sun Exposed (Lower leg),GTEX-17EUY,male,20-29,Ventilator case,,"6 pieces; well trimmed with minimal internal fat, epidermis measures 45 microns",skin_sun
+GTEX-17EVP-0326,Skin - Sun Exposed (Lower leg),GTEX-17EVP,male,40-49,Fast death - natural causes,,6 pieces; <10% dermal fat; ~50 microns thick epidermis; well trimmed,skin_sun
+GTEX-17EVQ-0226,Skin - Sun Exposed (Lower leg),GTEX-17EVQ,male,70-79,Fast death - violent,,"6 pieces, minimal dermal fat; squamous eiptheliums is ~40-50 microns",skin_sun
+GTEX-17F96-1626,Skin - Sun Exposed (Lower leg),GTEX-17F96,male,70-79,Ventilator case,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-17F97-0326,Skin - Sun Exposed (Lower leg),GTEX-17F97,male,50-59,Slow death,,6 pieces; well trimmed; minimal dermal fat,skin_sun
+GTEX-17F98-0626,Skin - Sun Exposed (Lower leg),GTEX-17F98,female,40-49,Ventilator case,,"6 pieces; excessive subcutaneous fat on all pieces, up to 2 mm thick & up to 40% surface area",skin_sun
+GTEX-17F9E-0326,Skin - Sun Exposed (Lower leg),GTEX-17F9E,male,50-59,Ventilator case,,"6 pieces, adherent fat, ~0.5mm, delineated.  SQuamous eipthelium is ~50-60 microns",skin_sun
+GTEX-17F9E-5004,Skin - Sun Exposed (Lower leg),GTEX-17F9E,male,50-59,Ventilator case,,"1 piece, correleates with PFPE aliquot.",skin_sun
+GTEX-17F9Y-0226,Skin - Sun Exposed (Lower leg),GTEX-17F9Y,female,70-79,Ventilator case,solar_elastosis,"6 pieces, trace dermal fat, squamous epithelium is 50-60 microns, moderate dermal solar elastosis",skin_sun
+GTEX-17GQL-2026,Skin - Sun Exposed (Lower leg),GTEX-17GQL,male,60-69,Ventilator case,,"6 pieces, minimal fat, squamous epithelium is ~60 microns",skin_sun
+GTEX-17GQL-5022,Skin - Sun Exposed (Lower leg),GTEX-17GQL,male,60-69,Ventilator case,,"1 piece, correlates with PGT aliquot",skin_sun
+GTEX-17HG3-2226,Skin - Sun Exposed (Lower leg),GTEX-17HG3,female,30-39,Fast death - natural causes,,"6 pieces; ~5-10% internal fat, epidermis measures 57 microns, focal parakeratosis",skin_sun
+GTEX-17HGU-0226,Skin - Sun Exposed (Lower leg),GTEX-17HGU,male,50-59,Ventilator case,,6 pieces; well trimmed; 5-10% dermall fat,skin_sun
+GTEX-17HHE-2026,Skin - Sun Exposed (Lower leg),GTEX-17HHE,male,50-59,Ventilator case,,"6 pieces, trace adherent dermal fat nubbins up to ~1mm; squamous epithelium is ~40 microns",skin_sun
+GTEX-17HHY-0126,Skin - Sun Exposed (Lower leg),GTEX-17HHY,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; <5% dermal fat,skin_sun
+GTEX-17HII-0226,Skin - Sun Exposed (Lower leg),GTEX-17HII,male,50-59,Fast death - natural causes,,"6 pieces, no adherent dermal fat; squamous epithelium is ~45-50 microns",skin_sun
+GTEX-17JCI-0126,Skin - Sun Exposed (Lower leg),GTEX-17JCI,female,60-69,Ventilator case,,"6 pieces; well trimmed, but with 30-40% dermal fat",skin_sun
+GTEX-17KNJ-2326,Skin - Sun Exposed (Lower leg),GTEX-17KNJ,male,50-59,Ventilator case,,"6 pieces, squamous epithelium is ~30-40 microns; minimal adherent dermal fat",skin_sun
+GTEX-17MF6-0126,Skin - Sun Exposed (Lower leg),GTEX-17MF6,male,40-49,Fast death - natural causes,,6 pieces; essentially well trimmed; one piece ~5% external fat; epidermis ~41 um thick,skin_sun
+GTEX-17MFQ-1726,Skin - Sun Exposed (Lower leg),GTEX-17MFQ,male,20-29,Ventilator case,,"6 pieces, trace dermal fat, delineated; squamous epithelium is ~50-60 microns",skin_sun
+GTEX-183FY-0126,Skin - Sun Exposed (Lower leg),GTEX-183FY,male,20-29,Ventilator case,,6 pieces; squamous epithelium is ~60 microns; minimal dermal fat,skin_sun
+GTEX-183WM-0126,Skin - Sun Exposed (Lower leg),GTEX-183WM,female,70-79,Slow death,,"6 pieces, squamous epithelium up to ~ 60-70 microns. Minimal dermal fat.",skin_sun
+GTEX-18464-0126,Skin - Sun Exposed (Lower leg),GTEX-18464,male,50-59,Slow death,,"6 pieces; well trimmed, epidermis measures 45 microns",skin_sun
+GTEX-18465-0126,Skin - Sun Exposed (Lower leg),GTEX-18465,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; minimal dermal fat,skin_sun
+GTEX-18A66-0226,Skin - Sun Exposed (Lower leg),GTEX-18A66,male,60-69,Slow death,,"6 pieces, no significant dermal fat; squamous epithelium is ~45-50 microns",skin_sun
+GTEX-18A67-0126,Skin - Sun Exposed (Lower leg),GTEX-18A67,male,50-59,Ventilator case,,6 pieces; 10% to 20% internal/external fat; ~44 micron thick epidermis,skin_sun
+GTEX-18A6Q-0126,Skin - Sun Exposed (Lower leg),GTEX-18A6Q,male,60-69,Fast death - natural causes,,"6 pieces, squamous epithelium is ~50-60 microns, trace adherent fat",skin_sun
+GTEX-18A7A-0226,Skin - Sun Exposed (Lower leg),GTEX-18A7A,female,50-59,Fast death - natural causes,,6 pieces; well trimmed; up to 10% dermal fat,skin_sun
+GTEX-18A7B-0126,Skin - Sun Exposed (Lower leg),GTEX-18A7B,male,70-79,Intermediate death,,6 fragmented pieces; 1 mm subcutaneous fat on 3 of 6 pieces,skin_sun
+GTEX-18D9A-1926,Skin - Sun Exposed (Lower leg),GTEX-18D9A,female,30-39,Ventilator case,,6 pieces; minimal dermal fat content,skin_sun
+GTEX-18D9B-0526,Skin - Sun Exposed (Lower leg),GTEX-18D9B,male,60-69,Ventilator case,,6 pieces; well trimmed; 5-10% dermal fat,skin_sun
+GTEX-18D9U-0226,Skin - Sun Exposed (Lower leg),GTEX-18D9U,male,40-49,Ventilator case,,"6 pieces, trace dermal fat (delineated); squamous epithelium is ~0 microns",skin_sun
+GTEX-18QFQ-0126,Skin - Sun Exposed (Lower leg),GTEX-18QFQ,male,30-39,Ventilator case,,"6 pieces; epidermis measures 36 microns, few pieces include attached fat up to 15%",skin_sun
+GTEX-19HZE-0126,Skin - Sun Exposed (Lower leg),GTEX-19HZE,female,70-79,Intermediate death,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1A32A-0126,Skin - Sun Exposed (Lower leg),GTEX-1A32A,female,50-59,Fast death - natural causes,,6 pieces; generally well trimmed except for deep 1 mm focus of fat in 1 and large blood vessels in another piece [arrowed]; 10-20% dermal fat,skin_sun
+GTEX-1A3MV-1926,Skin - Sun Exposed (Lower leg),GTEX-1A3MV,male,30-39,Ventilator case,,6 pieces; predominantly well trimmed with up to 5-10% internal/external fat. epidermis measures 53 micorns,skin_sun
+GTEX-1A3MW-0126,Skin - Sun Exposed (Lower leg),GTEX-1A3MW,female,60-69,Slow death,,6 pieces; well trimmed; dermal fat <5%,skin_sun
+GTEX-1A3MX-0126,Skin - Sun Exposed (Lower leg),GTEX-1A3MX,male,60-69,Slow death,,"6 pieces, no dermal fat, squamous epithelium is ~50 microns",skin_sun
+GTEX-1A8FM-0226,Skin - Sun Exposed (Lower leg),GTEX-1A8FM,female,50-59,Fast death - natural causes,,6 pieces; well trimmed; 1% dermal fat,skin_sun
+GTEX-1A8G6-0426,Skin - Sun Exposed (Lower leg),GTEX-1A8G6,male,60-69,Fast death - natural causes,,"6 pieces, no adherent fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1A8G7-0126,Skin - Sun Exposed (Lower leg),GTEX-1A8G7,male,60-69,Fast death - natural causes,,"6 pieces; well trimmed, epidermis measures 38 microns",skin_sun
+GTEX-1AMEY-1326,Skin - Sun Exposed (Lower leg),GTEX-1AMEY,female,30-39,Ventilator case,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1AMFI-2026,Skin - Sun Exposed (Lower leg),GTEX-1AMFI,female,50-59,Ventilator case,,"6 pieces, squamous epithelium is ~40 microns; no significant dermal fat",skin_sun
+GTEX-1AX8Y-2026,Skin - Sun Exposed (Lower leg),GTEX-1AX8Y,male,40-49,Ventilator case,,"6 pieces; few pieces with up to 10% internal/external fat, epidermis measures 46 microns",skin_sun
+GTEX-1AX8Z-0126,Skin - Sun Exposed (Lower leg),GTEX-1AX8Z,male,60-69,Ventilator case,,6 pieces; 20% dermal fat; well trimmed,skin_sun
+GTEX-1AX9I-0126,Skin - Sun Exposed (Lower leg),GTEX-1AX9I,male,60-69,Fast death - natural causes,,6 pieces; well trimmed; <2% dermal fat,skin_sun
+GTEX-1AX9J-0226,Skin - Sun Exposed (Lower leg),GTEX-1AX9J,male,60-69,Ventilator case,,"6 pieces, no significant dermal fat, squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1AX9K-2326,Skin - Sun Exposed (Lower leg),GTEX-1AX9K,male,50-59,Ventilator case,,6 pieces; well trimmed; up to 10% dermal fat,skin_sun
+GTEX-1AYCT-2426,Skin - Sun Exposed (Lower leg),GTEX-1AYCT,male,50-59,Ventilator case,,"6 pieces; includes 5-20% internal/external fat, epidermis measures 47 microns",skin_sun
+GTEX-1AYD5-2426,Skin - Sun Exposed (Lower leg),GTEX-1AYD5,male,50-59,Ventilator case,,6 pieces; ~47um thick epidermis; essentially well trimmed except one piece containing ~15% external fat (outlined),skin_sun
+GTEX-1B8KE-2126,Skin - Sun Exposed (Lower leg),GTEX-1B8KE,male,50-59,Ventilator case,,"6 pieces, squamous epithelium is 30-40microns, minute nubbin adherent dermal fat, delineated",skin_sun
+GTEX-1B8KZ-2026,Skin - Sun Exposed (Lower leg),GTEX-1B8KZ,male,50-59,Ventilator case,,6 pieces; ~34um thick epidermis; insignificant amount of internal/external fat except one piece containing ~10% of external fat (outlined),skin_sun
+GTEX-1B8L1-2526,Skin - Sun Exposed (Lower leg),GTEX-1B8L1,male,60-69,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~40-50 microns",skin_sun
+GTEX-1B8SF-1426,Skin - Sun Exposed (Lower leg),GTEX-1B8SF,male,60-69,Fast death - natural causes,,"6 pieces; well trimmed, epidermis measures 35 to 48 um thick",skin_sun
+GTEX-1B8SG-0126,Skin - Sun Exposed (Lower leg),GTEX-1B8SG,male,50-59,Fast death - natural causes,,"6 pieces; includes up to ~20% internal fat, epidermis measures 37 microns",skin_sun
+GTEX-1B932-0126,Skin - Sun Exposed (Lower leg),GTEX-1B932,female,40-49,Ventilator case,,4 pieces; ~15% internal (periadnexal) fat; epidermis ~39um thick,skin_sun
+GTEX-1B933-0126,Skin - Sun Exposed (Lower leg),GTEX-1B933,female,50-59,Fast death - natural causes,,"6 pieces, squamous epithelium is ~40 microns, no adherent dermal fat.",skin_sun
+GTEX-1B97I-1626,Skin - Sun Exposed (Lower leg),GTEX-1B97I,male,40-49,Ventilator case,,"6 pieces, squamous epithelium up to ~40 microns; no dermal fat",skin_sun
+GTEX-1B97J-2026,Skin - Sun Exposed (Lower leg),GTEX-1B97J,female,50-59,Ventilator case,,"6 pieces, no significant dermal fat; squamous epithelium is 30-40 microns",skin_sun
+GTEX-1B98T-0126,Skin - Sun Exposed (Lower leg),GTEX-1B98T,male,60-69,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~30 microns",skin_sun
+GTEX-1B996-0226,Skin - Sun Exposed (Lower leg),GTEX-1B996,male,60-69,Fast death - natural causes,,6 pieces;  ~36um thick epidermis; minimal periadnexal fat; numerous empty spaces (fixation related?),skin_sun
+GTEX-1BAJH-0526,Skin - Sun Exposed (Lower leg),GTEX-1BAJH,male,70-79,Fast death - natural causes,,"6 pieces; up to ~10% internal fat, mostly periadnexal",skin_sun
+GTEX-1C2JI-1826,Skin - Sun Exposed (Lower leg),GTEX-1C2JI,male,50-59,Ventilator case,,"6 pieces; predominantly well trimmed, small amount internal fat, epidermis measures 48 microns",skin_sun
+GTEX-1C475-1826,Skin - Sun Exposed (Lower leg),GTEX-1C475,female,40-49,Ventilator case,,"6 pieces; includes up to 10% internal/attached fat, epidermis measures 52 microns",skin_sun
+GTEX-1C4CL-0526,Skin - Sun Exposed (Lower leg),GTEX-1C4CL,male,30-39,Ventilator case,,"6 pieces, adherent dermal fat up to ~1.5mm, squamous epithelium is ~45-50 microns",skin_sun
+GTEX-1C64N-0126,Skin - Sun Exposed (Lower leg),GTEX-1C64N,male,50-59,Fast death - natural causes,,5 pieces; ~10% to 20% internal fat; epidermis is ~30 microns thick,skin_sun
+GTEX-1C64O-0126,Skin - Sun Exposed (Lower leg),GTEX-1C64O,male,60-69,Ventilator case,,"6 pieces, no dermal fat; squamous epithelium is ~20-30 microns",skin_sun
+GTEX-1C6VQ-0126,Skin - Sun Exposed (Lower leg),GTEX-1C6VQ,male,50-59,Fast death - natural causes,,"6 pieces; minimal internal fat, epidermis measures 43 microns",skin_sun
+GTEX-1C6VR-2426,Skin - Sun Exposed (Lower leg),GTEX-1C6VR,male,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat, squamous epithelium is ~40-50 microns",skin_sun
+GTEX-1C6VS-0526,Skin - Sun Exposed (Lower leg),GTEX-1C6VS,male,60-69,Fast death - natural causes,,6 pieces; ~20% to 30% internal fat; ~30 microns epidermis,skin_sun
+GTEX-1C6WA-0126,Skin - Sun Exposed (Lower leg),GTEX-1C6WA,male,60-69,Fast death - natural causes,,6 pieces; up to 4 hair follicles per piece; 10 to 40% dermal fat,skin_sun
+GTEX-1CAMQ-0226,Skin - Sun Exposed (Lower leg),GTEX-1CAMQ,male,40-49,Fast death - natural causes,,6 pieces; ~40 microns thick epidermis; ~20% internal fat; well trimmed,skin_sun
+GTEX-1CAMR-1926,Skin - Sun Exposed (Lower leg),GTEX-1CAMR,male,20-29,Ventilator case,,"6 pieces, no significant dermal fat, squamous epithelium is ~25-35 microns",skin_sun
+GTEX-1CAMS-0426,Skin - Sun Exposed (Lower leg),GTEX-1CAMS,female,40-49,Ventilator case,,6 pieces; ~36 microns thick epidermis; ~10 to 15% internal fat (periadnexal),skin_sun
+GTEX-1CAMS-5004,Skin - Sun Exposed (Lower leg),GTEX-1CAMS,female,40-49,Ventilator case,,1 piece; comparable to content in PAXgene sample,skin_sun
+GTEX-1CAV2-2226,Skin - Sun Exposed (Lower leg),GTEX-1CAV2,female,40-49,Fast death - natural causes,,"6 pieces; well trimmed, well preserved",skin_sun
+GTEX-1CB4E-2226,Skin - Sun Exposed (Lower leg),GTEX-1CB4E,male,60-69,Ventilator case,,6 pieces; thick (up to 4 mm) untrimmed subcutaneous layer,skin_sun
+GTEX-1CB4F-0426,Skin - Sun Exposed (Lower leg),GTEX-1CB4F,male,60-69,Ventilator case,,"6 pieces; well trimmed, small portion periadnexal fat",skin_sun
+GTEX-1CB4G-0226,Skin - Sun Exposed (Lower leg),GTEX-1CB4G,male,60-69,Fast death - natural causes,,"6 pieces, no dermal fat, squamous epithelium is 25-50 microns",skin_sun
+GTEX-1CB4H-0226,Skin - Sun Exposed (Lower leg),GTEX-1CB4H,female,60-69,Slow death,,6 pieces; well trimmed; minimal dermal fat,skin_sun
+GTEX-1CB4I-0226,Skin - Sun Exposed (Lower leg),GTEX-1CB4I,male,50-59,Ventilator case,,6 pieces; up to 1 mm subcutaneous fat  in 2 of 6 pieces; up to 10% dermal fat,skin_sun
+GTEX-1CB4J-0626,Skin - Sun Exposed (Lower leg),GTEX-1CB4J,male,60-69,Intermediate death,,"6 pieces, no significant dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1E1VI-0126,Skin - Sun Exposed (Lower leg),GTEX-1E1VI,male,50-59,Fast death - natural causes,,"6 pieces; 5-15% internal and residual attached fat, epidermis measures 39 microns",skin_sun
+GTEX-1E2YA-0126,Skin - Sun Exposed (Lower leg),GTEX-1E2YA,male,50-59,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1EH9U-0126,Skin - Sun Exposed (Lower leg),GTEX-1EH9U,male,60-69,Slow death,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-1EKGG-0226,Skin - Sun Exposed (Lower leg),GTEX-1EKGG,male,60-69,Fast death - natural causes,,"1 piece; not adipose tissue, skin",skin_sun
+GTEX-1EMGI-0126,Skin - Sun Exposed (Lower leg),GTEX-1EMGI,male,60-69,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-1EN7A-0126,Skin - Sun Exposed (Lower leg),GTEX-1EN7A,male,40-49,Fast death - natural causes,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1EU9M-0226,Skin - Sun Exposed (Lower leg),GTEX-1EU9M,male,60-69,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-1EWIQ-0126,Skin - Sun Exposed (Lower leg),GTEX-1EWIQ,female,70-79,Fast death - natural causes,,"6 pieces; up to ~10% fat, largely external, epidermis measures 41 microns",skin_sun
+GTEX-1EX96-1626,Skin - Sun Exposed (Lower leg),GTEX-1EX96,male,50-59,Fast death - natural causes,,"6 pieces, no significant dermal fat; squamous epithelium up to ~40-50 microns",skin_sun
+GTEX-1F48J-0126,Skin - Sun Exposed (Lower leg),GTEX-1F48J,female,50-59,Slow death,"atrophy, edema",6 pieces; atrophic and edematous; well trimmed,skin_sun
+GTEX-1F52S-0126,Skin - Sun Exposed (Lower leg),GTEX-1F52S,female,60-69,Slow death,,6 pieces; 10% dermal fat; well trimmed,skin_sun
+GTEX-1F5PK-2426,Skin - Sun Exposed (Lower leg),GTEX-1F5PK,male,50-59,Ventilator case,,6 pieces; well trimmed,skin_sun
+GTEX-1F5PL-0326,Skin - Sun Exposed (Lower leg),GTEX-1F5PL,female,40-49,Ventilator case,,"6 pieces, no dermal fat; squamous epithelium is ~ 40-50 microns",skin_sun
+GTEX-1F6I4-0126,Skin - Sun Exposed (Lower leg),GTEX-1F6I4,male,60-69,Fast death - natural causes,,"6 pieces; well trimmed with minimal internal fat, epidermis measures about 30 microns",skin_sun
+GTEX-1F6IF-0726,Skin - Sun Exposed (Lower leg),GTEX-1F6IF,male,60-69,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~45-60 microns",skin_sun
+GTEX-1F6RS-0126,Skin - Sun Exposed (Lower leg),GTEX-1F6RS,female,60-69,Slow death,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-1F75A-0126,Skin - Sun Exposed (Lower leg),GTEX-1F75A,male,50-59,Fast death - natural causes,,"6 pieces, trace dermal fat (rep delineated); squamous epithelium is ~40-50 microns",skin_sun
+GTEX-1F75B-0126,Skin - Sun Exposed (Lower leg),GTEX-1F75B,male,50-59,Slow death,,6 pieces; 1% to 5% dermal fat; ~34 micron thick epidermis,skin_sun
+GTEX-1F75I-0326,Skin - Sun Exposed (Lower leg),GTEX-1F75I,male,40-49,Ventilator case,,6 pieces; ~5% to 10% dermal fat,skin_sun
+GTEX-1F75W-0126,Skin - Sun Exposed (Lower leg),GTEX-1F75W,male,60-69,Fast death - natural causes,,6 pieces; well trimmed; dermal fat 5%,skin_sun
+GTEX-1F7RK-0126,Skin - Sun Exposed (Lower leg),GTEX-1F7RK,female,20-29,Fast death - violent,,"6 pieces; from 5-25% fat (mostly attached), epidermis measures about 49 microns",skin_sun
+GTEX-1F88E-0426,Skin - Sun Exposed (Lower leg),GTEX-1F88E,female,60-69,Slow death,atrophy,"6 pieces, trace dermal fat up to ~0.5mm, delineated; squamous epithelium atrophic, ~10-30 microns",skin_sun
+GTEX-1F88F-2726,Skin - Sun Exposed (Lower leg),GTEX-1F88F,female,60-69,Fast death - natural causes,,6 pieces; 10% dermal fat; prominent artery & hair follicle in 1 piece,skin_sun
+GTEX-1FIGZ-1526,Skin - Sun Exposed (Lower leg),GTEX-1FIGZ,male,40-49,Ventilator case,,"6 pieces; few contain significant attached adipose tissue (up to 50%), one lacks epidermis in this section, elsewhere epidermis measures about 29 microns",skin_sun
+GTEX-1GF9U-2126,Skin - Sun Exposed (Lower leg),GTEX-1GF9U,female,40-49,Ventilator case,,"6 pieces; variable amount of residual attached fat, up to 20%, epidermis measures 38 microns",skin_sun
+GTEX-1GF9V-0326,Skin - Sun Exposed (Lower leg),GTEX-1GF9V,male,60-69,Fast death - natural causes,,"6 pieces, squamous epithelium is ~60 microns; minimal dermal fat",skin_sun
+GTEX-1GF9W-0326,Skin - Sun Exposed (Lower leg),GTEX-1GF9W,male,60-69,Intermediate death,,6 pieces; up to 5-10% dermal fat; epidermis 30 to 40 microns thick,skin_sun
+GTEX-1GF9X-2026,Skin - Sun Exposed (Lower leg),GTEX-1GF9X,female,40-49,Ventilator case,,6 pieces; deep fat not trimmed on half pieces; 10% dermal fat,skin_sun
+GTEX-1GL5R-1826,Skin - Sun Exposed (Lower leg),GTEX-1GL5R,male,50-59,Ventilator case,,"6 pieces; include from 5-10% internal fat, epidermis measures about 34 microns",skin_sun
+GTEX-1GMR2-2226,Skin - Sun Exposed (Lower leg),GTEX-1GMR2,male,50-59,Ventilator case,,6 pieces; well trimmed skin;minimal dermal fat,skin_sun
+GTEX-1GMR3-1926,Skin - Sun Exposed (Lower leg),GTEX-1GMR3,male,40-49,Ventilator case,,6 pieces trace dermal fat (delineated); squamous epithelium is ~40-50 microns,skin_sun
+GTEX-1GMR8-0126,Skin - Sun Exposed (Lower leg),GTEX-1GMR8,female,50-59,Intermediate death,,6 pieces; well trimmed; 20% dermal fat,skin_sun
+GTEX-1GMRU-0126,Skin - Sun Exposed (Lower leg),GTEX-1GMRU,male,50-59,Fast death - natural causes,,"6 pieces, trace dermal fat; rep delineated; squamous epithelium is ~40 microns",skin_sun
+GTEX-1GN1U-0126,Skin - Sun Exposed (Lower leg),GTEX-1GN1U,female,50-59,Slow death,,"6 pieces, trace dermal fat; squamous epithelium is ~40-50 microns",skin_sun
+GTEX-1GN1V-0126,Skin - Sun Exposed (Lower leg),GTEX-1GN1V,male,60-69,Fast death - natural causes,,"6 pieces; up to 10% predominantly attached fat, epidermis measures 34 microns",skin_sun
+GTEX-1GN1W-0526,Skin - Sun Exposed (Lower leg),GTEX-1GN1W,female,50-59,Ventilator case,,6 pieces; up to 20% dermal fat,skin_sun
+GTEX-1GN2E-0426,Skin - Sun Exposed (Lower leg),GTEX-1GN2E,male,60-69,Fast death - natural causes,,"6 pieces, squamous epithelium is ~40-50 microns; no dermal fat.",skin_sun
+GTEX-1GN73-0226,Skin - Sun Exposed (Lower leg),GTEX-1GN73,male,60-69,Fast death - natural causes,,6 pieces; up to 30% subcutaneous tissue,skin_sun
+GTEX-1GPI6-0126,Skin - Sun Exposed (Lower leg),GTEX-1GPI6,male,60-69,Fast death - natural causes,,"6 pieces, trace dermal fat, squamous epithelium is ~35-45 microns",skin_sun
+GTEX-1GPI7-0126,Skin - Sun Exposed (Lower leg),GTEX-1GPI7,male,20-29,Ventilator case,,"6 pieces; well trimmed, minimal internal fat, epidermis measures 35 microns",skin_sun
+GTEX-1GTWX-0126,Skin - Sun Exposed (Lower leg),GTEX-1GTWX,male,60-69,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~50-60 microns",skin_sun
+GTEX-1GZ2Q-0226,Skin - Sun Exposed (Lower leg),GTEX-1GZ2Q,male,40-49,Fast death - natural causes,,"6 pieces; benign keratosis and 20% to 40% intradermal fat and empty spaces, ~34 microns thick epidermis",skin_sun
+GTEX-1GZ4H-1726,Skin - Sun Exposed (Lower leg),GTEX-1GZ4H,female,50-59,Ventilator case,,6 pieces: up to 1.3 mm subcutaneous fat,skin_sun
+GTEX-1GZ4I-0126,Skin - Sun Exposed (Lower leg),GTEX-1GZ4I,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; 10% dermal fat; foci of benign keratosis,skin_sun
+GTEX-1GZHY-0326,Skin - Sun Exposed (Lower leg),GTEX-1GZHY,female,50-59,Fast death - violent,,"6 pieces, dermal fat up to ~1mm, rep delineated; squamous epithelium is ~ 40 microns",skin_sun
+GTEX-1H11D-0226,Skin - Sun Exposed (Lower leg),GTEX-1H11D,male,40-49,Ventilator case,,"6 pieces; relatively well trimmed, includes ~5% internal/external fat, epidermis measures 37 microns",skin_sun
+GTEX-1H1CY-2826,Skin - Sun Exposed (Lower leg),GTEX-1H1CY,female,60-69,Fast death - natural causes,,6 pieces: 1 with excess subcutaneous fat; others well trimmed,skin_sun
+GTEX-1H1DE-2126,Skin - Sun Exposed (Lower leg),GTEX-1H1DE,male,20-29,Ventilator case,,"6 pieces, no adherent fat; squamous epithelium is ~35-45 microns",skin_sun
+GTEX-1H1DF-0126,Skin - Sun Exposed (Lower leg),GTEX-1H1DF,female,40-49,Fast death - natural causes,,6  pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1H1DG-0126,Skin - Sun Exposed (Lower leg),GTEX-1H1DG,male,70-79,Ventilator case,,"6 pieces, adherent  dermal fat up to ~1mm nubbins, rep delineated; squamous epithelium is ~50 microns",skin_sun
+GTEX-1H1E6-1726,Skin - Sun Exposed (Lower leg),GTEX-1H1E6,male,30-39,Ventilator case,,"6 pieces; well trimmed, trivial fat only, epidermis measures 37 micorns",skin_sun
+GTEX-1H1ZS-0426,Skin - Sun Exposed (Lower leg),GTEX-1H1ZS,male,70-79,Slow death,,"6 pieces, trace dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-1H23P-0126,Skin - Sun Exposed (Lower leg),GTEX-1H23P,male,60-69,Slow death,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1H2FU-0126,Skin - Sun Exposed (Lower leg),GTEX-1H2FU,female,60-69,Slow death,,"6 pieces; include up to 10% mostly periadnexal fat, epidermis measures 36 microns",skin_sun
+GTEX-1H3NZ-0126,Skin - Sun Exposed (Lower leg),GTEX-1H3NZ,male,60-69,Slow death,"atrophy, edema","6 pieces; atrophic, thin epidermis; edematous dermis; well trimmed",skin_sun
+GTEX-1H3O1-0426,Skin - Sun Exposed (Lower leg),GTEX-1H3O1,male,60-69,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~30-35 microns",skin_sun
+GTEX-1H3VE-0326,Skin - Sun Exposed (Lower leg),GTEX-1H3VE,male,40-49,Slow death,,6 pieces; essentially well trimmed; epidermis ~35 microns,skin_sun
+GTEX-1H3VY-0126,Skin - Sun Exposed (Lower leg),GTEX-1H3VY,male,50-59,Ventilator case,,"6 pieces; include up to 20% mostly periadnexal fat, epidermis measures 34 microns",skin_sun
+GTEX-1H4P4-0726,Skin - Sun Exposed (Lower leg),GTEX-1H4P4,male,50-59,Fast death - natural causes,,"6 pieces; include up to 10% internal/external fat, epidermis measures 45 microns, some sections fragmented",skin_sun
+GTEX-1HB9E-0226,Skin - Sun Exposed (Lower leg),GTEX-1HB9E,male,50-59,Fast death - natural causes,,6 pieces; no significant dermal fat; squamous epithelium is ~50 microns,skin_sun
+GTEX-1HBPH-0426,Skin - Sun Exposed (Lower leg),GTEX-1HBPH,female,40-49,Slow death,,6 pieces; well trimmed; 5-10% dermal fat,skin_sun
+GTEX-1HBPI-1526,Skin - Sun Exposed (Lower leg),GTEX-1HBPI,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; 20% dermal fat,skin_sun
+GTEX-1HBPM-0226,Skin - Sun Exposed (Lower leg),GTEX-1HBPM,female,60-69,Slow death,solar_elastosis,"6 pieces; includes up to ~10% internal fat, epidermis measures 20 to 31 microns, hyperkeratosis, solar elastosis",skin_sun
+GTEX-1HBPN-0226,Skin - Sun Exposed (Lower leg),GTEX-1HBPN,male,50-59,Ventilator case,,"6 pieces, no significant dermal fat; squamous epithelium is ~35 microns",skin_sun
+GTEX-1HC8U-2226,Skin - Sun Exposed (Lower leg),GTEX-1HC8U,female,40-49,Ventilator case,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1HCU6-0126,Skin - Sun Exposed (Lower leg),GTEX-1HCU6,female,60-69,Fast death - natural causes,,6 pieces; upp to 20% dermal fat; well trimmed,skin_sun
+GTEX-1HCU7-0226,Skin - Sun Exposed (Lower leg),GTEX-1HCU7,male,50-59,Ventilator case,,6 pieces; up to 20% dermal/subcutaneous fat,skin_sun
+GTEX-1HCU8-0626,Skin - Sun Exposed (Lower leg),GTEX-1HCU8,female,60-69,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-1HCU9-1526,Skin - Sun Exposed (Lower leg),GTEX-1HCU9,male,20-29,Ventilator case,,6 fragmented pieces; moderate untrimmed subcutaneous fat; 5% dermal fat,skin_sun
+GTEX-1HCUA-2426,Skin - Sun Exposed (Lower leg),GTEX-1HCUA,female,50-59,Ventilator case,,"6 pieces; ~10% internal fat, but multiple tissue defects",skin_sun
+GTEX-1HCVE-0126,Skin - Sun Exposed (Lower leg),GTEX-1HCVE,male,50-59,Slow death,,6 pieces; minimal dermal fat; squamous epithelium is ~50 microns,skin_sun
+GTEX-1HFI6-0226,Skin - Sun Exposed (Lower leg),GTEX-1HFI6,male,40-49,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~40-50 microns",skin_sun
+GTEX-1HFI7-1826,Skin - Sun Exposed (Lower leg),GTEX-1HFI7,female,50-59,Ventilator case,,"6 pieces; includes up to 20% internal fat, epidermis measures 28-38 microns",skin_sun
+GTEX-1HGF4-2426,Skin - Sun Exposed (Lower leg),GTEX-1HGF4,male,60-69,Fast death - natural causes,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1HKZK-0326,Skin - Sun Exposed (Lower leg),GTEX-1HKZK,male,40-49,Ventilator case,,"6 pieces; epidermis measures about 44 microns, small portion of internal (periadnexal) fat",skin_sun
+GTEX-1HR98-0126,Skin - Sun Exposed (Lower leg),GTEX-1HR98,male,60-69,Slow death,,6 pieces; well trimmed;dermal fat <5%,skin_sun
+GTEX-1HR9M-0126,Skin - Sun Exposed (Lower leg),GTEX-1HR9M,male,60-69,Slow death,atrophy,"6 pieces; 10% dermal fat; some thickening of collagen bundles and atrophy of adnexal structures, but no clear-cut signs of dermal scleroderma",skin_sun
+GTEX-1HSEH-0126,Skin - Sun Exposed (Lower leg),GTEX-1HSEH,male,60-69,Ventilator case,,"6 pieces, adherent dermal fat up to ~0.7mm, rep delineated; squamous epithelium is ~50-60 microns",skin_sun
+GTEX-1HSGN-0226,Skin - Sun Exposed (Lower leg),GTEX-1HSGN,female,40-49,Ventilator case,,"6 pieces, squamous epithelium is ~30-40 microns; tags of adherent dermal fat up to ~0.3mm",skin_sun
+GTEX-1HSKV-0226,Skin - Sun Exposed (Lower leg),GTEX-1HSKV,male,60-69,Fast death - natural causes,,"6 pieces; well trimmed, minimal periadnexal fat, epidermis measures ~57 microns",skin_sun
+GTEX-1HSMO-0126,Skin - Sun Exposed (Lower leg),GTEX-1HSMO,male,60-69,Intermediate death,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-1HSMP-0126,Skin - Sun Exposed (Lower leg),GTEX-1HSMP,male,70-79,Ventilator case,,"6 pieces, trace dermal fat ;squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1HSMQ-1226,Skin - Sun Exposed (Lower leg),GTEX-1HSMQ,male,50-59,Ventilator case,,"6 pieces; essentially well trimmed, but with up to 10% periadnexal fat, epidermis measures 34 microns",skin_sun
+GTEX-1HT8W-0126,Skin - Sun Exposed (Lower leg),GTEX-1HT8W,male,30-39,Fast death - natural causes,,"6 pieces, trace dermal fat; squamous epithelium is ~50-60 microns",skin_sun
+GTEX-1HUB1-0426,Skin - Sun Exposed (Lower leg),GTEX-1HUB1,male,60-69,Ventilator case,,6 pieces; 5-10% dermal fat; well trimmed,skin_sun
+GTEX-1I19N-0326,Skin - Sun Exposed (Lower leg),GTEX-1I19N,male,70-79,Slow death,,6 pieces; essentially well trimmed; insignificant subcutaneous and periadnexal fat; epidermis measures 33 microns,skin_sun
+GTEX-1I1CD-0126,Skin - Sun Exposed (Lower leg),GTEX-1I1CD,female,60-69,Slow death,,"6 pieces; well trimmed, epidermis measures 33 microns",skin_sun
+GTEX-1I1GP-2226,Skin - Sun Exposed (Lower leg),GTEX-1I1GP,male,50-59,Fast death - natural causes,,"6 pieces, focal adherent fat, nubbins up to ~1mm, rep delineated.  Squamous epithelium is ~35-40 microns",skin_sun
+GTEX-1I1GQ-0126,Skin - Sun Exposed (Lower leg),GTEX-1I1GQ,male,50-59,Fast death - natural causes,,6 pieces; ~10% internal/external fat; ~39 micron thick epidermis,skin_sun
+GTEX-1I1GR-0126,Skin - Sun Exposed (Lower leg),GTEX-1I1GR,male,60-69,Fast death - natural causes,,"6 pieces, trace dermal fat (rep delineated); squamous epithelium is ~50 microns",skin_sun
+GTEX-1I1GS-0126,Skin - Sun Exposed (Lower leg),GTEX-1I1GS,male,60-69,Slow death,,6 pieces; adherent dermal fat focally up to ~0.5mm; squamous epithelium is ~20-3- microns,skin_sun
+GTEX-1I1GT-0626,Skin - Sun Exposed (Lower leg),GTEX-1I1GT,female,60-69,Ventilator case,,"6 pieces; well trimmed, epidermis measures 34 microns",skin_sun
+GTEX-1I1GU-2226,Skin - Sun Exposed (Lower leg),GTEX-1I1GU,male,40-49,Ventilator case,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-1I1GV-0526,Skin - Sun Exposed (Lower leg),GTEX-1I1GV,male,60-69,Fast death - natural causes,,"6 pieces, no significant dermal fat; squamous epithelium is ~50-60 microns",skin_sun
+GTEX-1I1HK-0126,Skin - Sun Exposed (Lower leg),GTEX-1I1HK,male,60-69,Intermediate death,solar_elastosis,"6 pieces; includes from 5-15% internal fat, epidermis measures 33 microns, solar elastosis",skin_sun
+GTEX-1I4MK-2226,Skin - Sun Exposed (Lower leg),GTEX-1I4MK,female,50-59,Ventilator case,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1I6K6-0126,Skin - Sun Exposed (Lower leg),GTEX-1I6K6,male,30-39,Ventilator case,,"6 pieces; include up to ~10% mostly internal fat, epidermis measures 34 microns",skin_sun
+GTEX-1I6K6-5001,Skin - Sun Exposed (Lower leg),GTEX-1I6K6,male,30-39,Ventilator case,,1 piece (fragmented),skin_sun
+GTEX-1I6K7-0126,Skin - Sun Exposed (Lower leg),GTEX-1I6K7,male,40-49,Ventilator case,,6 pieces; well trimmed; 10% dermal fat; epidermis 33um thick,skin_sun
+GTEX-1ICG6-2526,Skin - Sun Exposed (Lower leg),GTEX-1ICG6,female,70-79,Ventilator case,,6 pieces; half are poorly trimmed with fat and several large arteries;,skin_sun
+GTEX-1ICG6-5016,Skin - Sun Exposed (Lower leg),GTEX-1ICG6,female,70-79,Ventilator case,,1 piece; fat and artery [labeled] in deep dermis,skin_sun
+GTEX-1ICLY-0126,Skin - Sun Exposed (Lower leg),GTEX-1ICLY,male,50-59,Ventilator case,,"6 pieces, no dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1ICLZ-0126,Skin - Sun Exposed (Lower leg),GTEX-1ICLZ,male,60-69,Intermediate death,"atrophy, sweat_glands",6 pieces; sweat glands appear atrophic; 5 of 6 pieces are well trimmed; <5% dermal fat,skin_sun
+GTEX-1IDFM-0126,Skin - Sun Exposed (Lower leg),GTEX-1IDFM,male,60-69,Slow death,,"6 pieces; mostly well trimmed, few with up to ~10% primarily internal fat, epidermis measures 35 microns",skin_sun
+GTEX-1IDJC-1726,Skin - Sun Exposed (Lower leg),GTEX-1IDJC,male,50-59,Ventilator case,,"6 pieces, squamou epithelium is ~50 microns; adherent dermal fat nubbins up to ~2mm, rep delineated",skin_sun
+GTEX-1IDJD-1126,Skin - Sun Exposed (Lower leg),GTEX-1IDJD,male,30-39,Ventilator case,,6 pieces;~47 micron thick epidermis; ~10% periadnexal fat (arrows),skin_sun
+GTEX-1IDJD-5007,Skin - Sun Exposed (Lower leg),GTEX-1IDJD,male,30-39,Ventilator case,,1 piece,skin_sun
+GTEX-1IDJE-2126,Skin - Sun Exposed (Lower leg),GTEX-1IDJE,female,50-59,Ventilator case,,6 pieces; well trimmed,skin_sun
+GTEX-1IDJF-0126,Skin - Sun Exposed (Lower leg),GTEX-1IDJF,male,20-29,Ventilator case,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-1IDJH-0326,Skin - Sun Exposed (Lower leg),GTEX-1IDJH,male,70-79,Fast death - violent,,"6 pieces, no dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-1IDJI-0226,Skin - Sun Exposed (Lower leg),GTEX-1IDJI,female,50-59,Ventilator case,,"6 pieces; well trimmed, epidermis measures 29 microns",skin_sun
+GTEX-1IDJU-2626,Skin - Sun Exposed (Lower leg),GTEX-1IDJU,female,60-69,Ventilator case,,6 pieces; generally well trimmed; 10% dermal fat,skin_sun
+GTEX-1IDJV-0226,Skin - Sun Exposed (Lower leg),GTEX-1IDJV,male,60-69,Intermediate death,,"6 pieces, moderate interstitial dermal fat, rep. delineated; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1IE54-0126,Skin - Sun Exposed (Lower leg),GTEX-1IE54,female,40-49,Ventilator case,,"6 pieces; include from 10-20% mostly internal fat, epidermis measures 38 microns",skin_sun
+GTEX-1IGQW-0126,Skin - Sun Exposed (Lower leg),GTEX-1IGQW,male,60-69,Slow death,,"6 pieces, trace dermal fat; squamous epithelium is ~30 microns",skin_sun
+GTEX-1IKJJ-0126,Skin - Sun Exposed (Lower leg),GTEX-1IKJJ,male,60-69,Fast death - natural causes,,"6 pieces, trace dermal fat, rep delineated; squamous epithelium is ~40-50 microns",skin_sun
+GTEX-1IKK5-0626,Skin - Sun Exposed (Lower leg),GTEX-1IKK5,male,60-69,Fast death - natural causes,,6 pieces; 1% dermal fat; well trimmed,skin_sun
+GTEX-1IKOE-0126,Skin - Sun Exposed (Lower leg),GTEX-1IKOE,female,30-39,Ventilator case,,"6 pieces; well trimmed, only trivial fat, epidermis measures 44 microns",skin_sun
+GTEX-1IKOH-0226,Skin - Sun Exposed (Lower leg),GTEX-1IKOH,female,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium is %0-60 microns",skin_sun
+GTEX-1IL2U-0226,Skin - Sun Exposed (Lower leg),GTEX-1IL2U,male,60-69,Fast death - natural causes,,6 pieces; ~5% internal (periadnexal) fat; epidermis ~ 34um,skin_sun
+GTEX-1IL2V-0126,Skin - Sun Exposed (Lower leg),GTEX-1IL2V,male,70-79,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-1IOXB-0126,Skin - Sun Exposed (Lower leg),GTEX-1IOXB,male,50-59,Fast death - natural causes,,6 pieces; well trimmed; up to 10% dermal fat,skin_sun
+GTEX-1IY9M-0126,Skin - Sun Exposed (Lower leg),GTEX-1IY9M,male,60-69,Fast death - violent,,"6 pieces; ~10% internal/external fat, epidermis measures ~34 microns",skin_sun
+GTEX-1J1OQ-0226,Skin - Sun Exposed (Lower leg),GTEX-1J1OQ,female,40-49,Slow death,,6 pieces. No dermal fat.  Squamous epithelium is ~20-30 microns,skin_sun
+GTEX-1J1R8-1726,Skin - Sun Exposed (Lower leg),GTEX-1J1R8,male,40-49,Ventilator case,,"6 pieces, adherent dermal fat up to ~1.5mm; squamous epithelium is ~40-50 microns",skin_sun
+GTEX-1J8EW-0126,Skin - Sun Exposed (Lower leg),GTEX-1J8EW,female,60-69,Fast death - natural causes,,"6 pieces; well trimmed; 1 piece with a large, 2mmx0.25mm, artery on the deep aspect [arrowed]",skin_sun
+GTEX-1J8JJ-0226,Skin - Sun Exposed (Lower leg),GTEX-1J8JJ,female,60-69,Fast death - natural causes,solar_elastosis,"6 pieces, trace dermal fat (delineated); prominent solar elastosis in dermis (rep foci delineated); squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1J8Q2-0526,Skin - Sun Exposed (Lower leg),GTEX-1J8Q2,male,60-69,Intermediate death,,"6 pieces; well trimmed, epidermis measures 37 microns",skin_sun
+GTEX-1J8Q3-1626,Skin - Sun Exposed (Lower leg),GTEX-1J8Q3,male,60-69,Ventilator case,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1J8QM-2126,Skin - Sun Exposed (Lower leg),GTEX-1J8QM,female,60-69,Ventilator case,,6 pieces; ~10% - 15% internal/periadnexal fat; epidermis ~35 microns thick,skin_sun
+GTEX-1JJ6O-0126,Skin - Sun Exposed (Lower leg),GTEX-1JJ6O,male,60-69,Slow death,,5 pieces; well trimmed epidermis measures 35 microns,skin_sun
+GTEX-1JJE9-0326,Skin - Sun Exposed (Lower leg),GTEX-1JJE9,male,70-79,Intermediate death,,6 pieces; well trimmed; dermal fat up to 10%,skin_sun
+GTEX-1JJEA-0326,Skin - Sun Exposed (Lower leg),GTEX-1JJEA,male,60-69,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~50-60 microns",skin_sun
+GTEX-1JK1U-2026,Skin - Sun Exposed (Lower leg),GTEX-1JK1U,male,60-69,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~35 microns",skin_sun
+GTEX-1JK1U-5016,Skin - Sun Exposed (Lower leg),GTEX-1JK1U,male,60-69,Ventilator case,,1 piece; correlates with PFPE sections,skin_sun
+GTEX-1JKYN-1326,Skin - Sun Exposed (Lower leg),GTEX-1JKYN,male,30-39,Ventilator case,,"6 pieces; mostly well trimmed with minimal internal/external fat, 1 with ~10% attached fat, epidermis measures 41 microns",skin_sun
+GTEX-1JKYR-0126,Skin - Sun Exposed (Lower leg),GTEX-1JKYR,male,20-29,Ventilator case,,6 pieces; well trimmed; dermal fat 10%,skin_sun
+GTEX-1JMI6-0126,Skin - Sun Exposed (Lower leg),GTEX-1JMI6,female,50-59,Intermediate death,,,skin_sun
+GTEX-1JMLX-0226,Skin - Sun Exposed (Lower leg),GTEX-1JMLX,male,50-59,Fast death - natural causes,,6 pieces; <2% dermal fat; well trimmed,skin_sun
+GTEX-1JMOU-1526,Skin - Sun Exposed (Lower leg),GTEX-1JMOU,female,60-69,Slow death,,"6 pieces, squamous epithelium is ~35 microns; no dermal fat",skin_sun
+GTEX-1JMPY-1326,Skin - Sun Exposed (Lower leg),GTEX-1JMPY,male,30-39,Ventilator case,,"6 pieces; well trimmed, epidermis measured 38 microns",skin_sun
+GTEX-1JMPZ-0226,Skin - Sun Exposed (Lower leg),GTEX-1JMPZ,male,30-39,Slow death,,6 pieces; subcutaneous fat & blood vessels occupy 40% of 2 of 6 pieces; minimal dermal fat,skin_sun
+GTEX-1JMQI-2226,Skin - Sun Exposed (Lower leg),GTEX-1JMQI,male,50-59,Ventilator case,,"2 pieces; well trimmed, epidermis measures 33 microns",skin_sun
+GTEX-1JMQJ-0526,Skin - Sun Exposed (Lower leg),GTEX-1JMQJ,male,50-59,Fast death - natural causes,,"6 pieces; well trimmed, epidermis measures 36 microns",skin_sun
+GTEX-1JMQK-0226,Skin - Sun Exposed (Lower leg),GTEX-1JMQK,male,60-69,Ventilator case,,6 pieces; well trimmed; <5% dermal fat,skin_sun
+GTEX-1JMQL-0226,Skin - Sun Exposed (Lower leg),GTEX-1JMQL,female,50-59,Ventilator case,,"2 pieces, minimal dermal fat; squamous epithelium is ~50 microns",skin_sun
+GTEX-1JN1M-0326,Skin - Sun Exposed (Lower leg),GTEX-1JN1M,female,60-69,Ventilator case,,"6 pieces, no dermal fat; squamous epithelium is ~25 microns",skin_sun
+GTEX-1JN6P-0126,Skin - Sun Exposed (Lower leg),GTEX-1JN6P,male,60-69,Ventilator case,,6 pieces; well trimmed; up to 20% dermal fat,skin_sun
+GTEX-1JN76-0126,Skin - Sun Exposed (Lower leg),GTEX-1JN76,female,20-29,Ventilator case,,6 pieces; well trimmed with 5 - 20% dermal fat,skin_sun
+GTEX-1K2DA-1826,Skin - Sun Exposed (Lower leg),GTEX-1K2DA,male,50-59,Ventilator case,,"6 pieces; well trimmed with <10% attached and internal fat, epidermis measures 26 microns",skin_sun
+GTEX-1K2DU-2326,Skin - Sun Exposed (Lower leg),GTEX-1K2DU,male,20-29,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~60 microns",skin_sun
+GTEX-1K9T9-0126,Skin - Sun Exposed (Lower leg),GTEX-1K9T9,female,50-59,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~45 microns",skin_sun
+GTEX-1KAFJ-2026,Skin - Sun Exposed (Lower leg),GTEX-1KAFJ,male,50-59,Intermediate death,,6 pieces; well trimmed; <5% dermal fat,skin_sun
+GTEX-1KAFJ-5013,Skin - Sun Exposed (Lower leg),GTEX-1KAFJ,male,50-59,Intermediate death,,1 piece,skin_sun
+GTEX-1KANA-0726,Skin - Sun Exposed (Lower leg),GTEX-1KANA,male,20-29,Ventilator case,,"6 pieces; well trimmed, epidermis measures about 34 microns",skin_sun
+GTEX-1KANB-0526,Skin - Sun Exposed (Lower leg),GTEX-1KANB,male,50-59,Fast death - natural causes,,"6 pieces, no dermal fat; squamous epithelium is ~40-45 microns",skin_sun
+GTEX-1KANC-1526,Skin - Sun Exposed (Lower leg),GTEX-1KANC,female,50-59,Ventilator case,sweat_glands,"6 pieces; well trimmed, minimal dermal fat; few sweat glands",skin_sun
+GTEX-1KD4Q-0226,Skin - Sun Exposed (Lower leg),GTEX-1KD4Q,male,40-49,Fast death - natural causes,,6 pieces; up to 20% dermal fat,skin_sun
+GTEX-1KD5A-0226,Skin - Sun Exposed (Lower leg),GTEX-1KD5A,male,50-59,Fast death - natural causes,,"6 pieces; essentially well trimmed, epidermis measures 39 microns",skin_sun
+GTEX-1KWVE-1426,Skin - Sun Exposed (Lower leg),GTEX-1KWVE,male,30-39,Fast death - violent,,6 fragmented pieces; up to 40% dermal fat content,skin_sun
+GTEX-1KXAM-2226,Skin - Sun Exposed (Lower leg),GTEX-1KXAM,male,60-69,Ventilator case,,"6 pieces, trace dermal fat, rep delineated; squamous epithelium up to ~4-45 microns",skin_sun
+GTEX-1L5NE-2526,Skin - Sun Exposed (Lower leg),GTEX-1L5NE,male,50-59,Ventilator case,,"6 pieces, adherent dermal fat up to ~1mm rep delineated; squamous epithelium is ~50 microns",skin_sun
+GTEX-1LB8K-0226,Skin - Sun Exposed (Lower leg),GTEX-1LB8K,male,50-59,Fast death - natural causes,,6 pieces; intradermal nevus in 2 of 6 pieces [labeled]; well trimmed; 1% dermal fat,skin_sun
+GTEX-1LBAC-0126,Skin - Sun Exposed (Lower leg),GTEX-1LBAC,male,20-29,Ventilator case,,"6 pieces; includes variable internal/external fat up to ~15%, epidermis measures 38 microns",skin_sun
+GTEX-1LC46-2026,Skin - Sun Exposed (Lower leg),GTEX-1LC46,male,30-39,Ventilator case,,"6 pieces; variable component of fat, mostly attached, up to 10%, epidermis measures 36 microns",skin_sun
+GTEX-1LC47-0326,Skin - Sun Exposed (Lower leg),GTEX-1LC47,male,60-69,Intermediate death,solar_elastosis,6 pieces; no dermal fat; squamous epithelium is ~30 microns.  Notable dermal solar elastosis.,skin_sun
+GTEX-1LG7Y-0526,Skin - Sun Exposed (Lower leg),GTEX-1LG7Y,male,50-59,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium is ~40-45 microns",skin_sun
+GTEX-1LG7Z-1726,Skin - Sun Exposed (Lower leg),GTEX-1LG7Z,male,30-39,Ventilator case,,5 pieces; poorly trimmed: up to 2mm subcutaneous fat present,skin_sun
+GTEX-1LGOU-2026,Skin - Sun Exposed (Lower leg),GTEX-1LGOU,female,20-29,Ventilator case,,,skin_sun
+GTEX-1LGRB-2526,Skin - Sun Exposed (Lower leg),GTEX-1LGRB,female,50-59,Ventilator case,,"6 pieces; skin with up to ~10% internal fat, epidermis measures 25-35 microns",skin_sun
+GTEX-1LH75-2426,Skin - Sun Exposed (Lower leg),GTEX-1LH75,female,50-59,Slow death,,"6  pieces, minimal dermal fat; squamous epithelium up to ~35 microns",skin_sun
+GTEX-1LKK1-0526,Skin - Sun Exposed (Lower leg),GTEX-1LKK1,female,50-59,Slow death,,"6 pieces, moderate amounts adherent/interstitial dermal fat; squamous epithelium is ~25 microns",skin_sun
+GTEX-1LNCM-1126,Skin - Sun Exposed (Lower leg),GTEX-1LNCM,female,50-59,Ventilator case,,"6 pieces; includes up to ~50% mostly attached fat and large vessels, epidermis measures about 34 microns, one piece is only fat and vessel",skin_sun
+GTEX-1LSNL-0226,Skin - Sun Exposed (Lower leg),GTEX-1LSNL,male,50-59,Fast death - natural causes,,"6  pieces, minimal dermal fat (rep delineated); squamous epithelium is ~30 microns",skin_sun
+GTEX-1LSNM-1926,Skin - Sun Exposed (Lower leg),GTEX-1LSNM,male,50-59,Ventilator case,,6 pieces; includes from 5-15% fat; epidermis measures ~35-40 microns,skin_sun
+GTEX-1LSVX-0326,Skin - Sun Exposed (Lower leg),GTEX-1LSVX,male,60-69,Slow death,,6 pieces; up to 10% dermal fat; well trimmed,skin_sun
+GTEX-1LVA9-0126,Skin - Sun Exposed (Lower leg),GTEX-1LVA9,male,50-59,Fast death - natural causes,,"6 pieces; well trimmed with minimal internal/periadnexal fat, epidermis measures about 34 microns, few collections of lymphocytes",skin_sun
+GTEX-1LVAM-0126,Skin - Sun Exposed (Lower leg),GTEX-1LVAM,female,50-59,Ventilator case,,"6 pieces, trace dermal fat; squamous epithelium is ~40 microns",skin_sun
+GTEX-1LVAN-0226,Skin - Sun Exposed (Lower leg),GTEX-1LVAN,female,50-59,Ventilator case,,6 pieces; 5-10% dermal fat; well trimmed,skin_sun
+GTEX-1LVAO-0126,Skin - Sun Exposed (Lower leg),GTEX-1LVAO,male,60-69,Slow death,,6 pieces; 5% dermal fat; well trimmed,skin_sun
+GTEX-1M4P7-0226,Skin - Sun Exposed (Lower leg),GTEX-1M4P7,male,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium up to ~30 microns",skin_sun
+GTEX-1M5QR-1226,Skin - Sun Exposed (Lower leg),GTEX-1M5QR,male,40-49,Ventilator case,,"6 pieces; includes up to ~10% attached and internal fat, epidermis measures",skin_sun
+GTEX-1MA7W-2026,Skin - Sun Exposed (Lower leg),GTEX-1MA7W,female,20-29,Ventilator case,,"6 pieces, trace dermal fat, ~1-2mm nubbins; squamous epithelium is ~50 microns",skin_sun
+GTEX-1MA7X-2226,Skin - Sun Exposed (Lower leg),GTEX-1MA7X,male,60-69,Fast death - natural causes,,6 pieces; well dissected; 5% dermal fat,skin_sun
+GTEX-1MCC2-2525,Skin - Sun Exposed (Lower leg),GTEX-1MCC2,female,30-39,Ventilator case,,6 pieces; 5% to 15% internal/ periadnexal fat; ~34 micron thick epidermis,skin_sun
+GTEX-1MCQQ-0826,Skin - Sun Exposed (Lower leg),GTEX-1MCQQ,male,60-69,Intermediate death,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1MCYP-1926,Skin - Sun Exposed (Lower leg),GTEX-1MCYP,female,20-29,Ventilator case,,"6 pieces; includes 10-20% attached and internal fat, epidermis measures 42 microns",skin_sun
+GTEX-1MGNQ-0126,Skin - Sun Exposed (Lower leg),GTEX-1MGNQ,male,40-49,Ventilator case,,"6 pieces, adherent fat nubbins up to ~4mm; squamous epithelium is ~40-50 microns",skin_sun
+GTEX-1MJIX-2226,Skin - Sun Exposed (Lower leg),GTEX-1MJIX,male,40-49,Ventilator case,,"6 pieces; includes up to ~20% attached fat, epidermis measures 33 microns",skin_sun
+GTEX-1MJK2-0426,Skin - Sun Exposed (Lower leg),GTEX-1MJK2,male,50-59,Fast death - natural causes,,6 pieces; 0 to 10% internal (periadnexal fat) and  one piece with ~20% external fat (outlined); ~36 micron thick epidermis,skin_sun
+GTEX-1MJK3-1726,Skin - Sun Exposed (Lower leg),GTEX-1MJK3,male,20-29,Ventilator case,,6 pieces; 5% dermal fat; well trimmed,skin_sun
+GTEX-1MUQO-0126,Skin - Sun Exposed (Lower leg),GTEX-1MUQO,male,60-69,Ventilator case,,"6 pieces moderate amounts of dermal fat, rep delineated; squamous epithelium is ~35-40 microns",skin_sun
+GTEX-1N2DV-0226,Skin - Sun Exposed (Lower leg),GTEX-1N2DV,male,40-49,Ventilator case,,"6 pieces, trace adherent fat.  Squamous epithelium up to ~30 microns",skin_sun
+GTEX-1N2DW-0226,Skin - Sun Exposed (Lower leg),GTEX-1N2DW,male,50-59,Fast death - natural causes,fibrosis,6 pieces; thickened dermis with spindle cell proliferation c/w dialysis related nephrogenic fibrosing dermopathy (arrows); trace of adherent fat;  ~46 microns epidermis,skin_sun
+GTEX-1N2EE-0426,Skin - Sun Exposed (Lower leg),GTEX-1N2EE,male,60-69,Fast death - violent,,"6 pieces, trace adherent dermal fat; squamous epithelium is ~35-40 microns",skin_sun
+GTEX-1N2EF-0226,Skin - Sun Exposed (Lower leg),GTEX-1N2EF,male,60-69,Intermediate death,,"6 pieces; well trimmed; 10% dermal fat; TRF indicates skin, leg",skin_sun
+GTEX-1N5O9-0326,Skin - Sun Exposed (Lower leg),GTEX-1N5O9,male,60-69,Fast death - natural causes,,"6 pieces; variable amounts of internal/external fat, ; ~38 microns epidermis",skin_sun
+GTEX-1N7R6-0426,Skin - Sun Exposed (Lower leg),GTEX-1N7R6,female,20-29,Slow death,,"6 pieces; includes up to ~10% mostly internal fat, epidermis measures 36 microns",skin_sun
+GTEX-1NHNU-1026,Skin - Sun Exposed (Lower leg),GTEX-1NHNU,male,50-59,Ventilator case,,6 pieces; well trimmed; <5% dermal fat; 36um thick epidermis,skin_sun
+GTEX-1NSGN-0126,Skin - Sun Exposed (Lower leg),GTEX-1NSGN,male,50-59,Ventilator case,,6 pieces; well trimmed skin; periadnexal fat; ~37.4 microns  epidermis,skin_sun
+GTEX-1NT2E-0326,Skin - Sun Exposed (Lower leg),GTEX-1NT2E,female,40-49,Ventilator case,,,skin_sun
+GTEX-1NUQO-0526,Skin - Sun Exposed (Lower leg),GTEX-1NUQO,female,20-29,Ventilator case,,6 pieces; several empty spaces; 10 to 20% internal/external fat; ~50.5 micron thick epidermis,skin_sun
+GTEX-1NV5F-0226,Skin - Sun Exposed (Lower leg),GTEX-1NV5F,female,60-69,Slow death,,6 pieces; well trimmed; 10% dermal fat; 28um thick epidermis,skin_sun
+GTEX-1NV88-0526,Skin - Sun Exposed (Lower leg),GTEX-1NV88,male,50-59,Slow death,,,skin_sun
+GTEX-1NV8Z-0126,Skin - Sun Exposed (Lower leg),GTEX-1NV8Z,male,60-69,Fast death - natural causes,,"6 pieces, minimal dermal fat; squamous epithelium is ~40-45 microns",skin_sun
+GTEX-1O97I-0326,Skin - Sun Exposed (Lower leg),GTEX-1O97I,male,60-69,Intermediate death,,6 pieces; half well trimed; other 3 have up to 20% dermal fat,skin_sun
+GTEX-1O9I2-0126,Skin - Sun Exposed (Lower leg),GTEX-1O9I2,male,50-59,Ventilator case,solar_elastosis,"6 pieces, minimal dermal fat; diffuse moderate dermal soalr elastosis; squamous epithelium is ~60 microns",skin_sun
+GTEX-1OFPY-2426,Skin - Sun Exposed (Lower leg),GTEX-1OFPY,male,60-69,Ventilator case,,6 pieces; well trimmed; minimal dermal fat,skin_sun
+GTEX-1OJC3-0126,Skin - Sun Exposed (Lower leg),GTEX-1OJC3,male,20-29,Ventilator case,,6 pieces; ; epidermis ~41 microns thick; 5% to 20% of periadnexal (internal) fat; a few hair follicles,skin_sun
+GTEX-1OJC4-0126,Skin - Sun Exposed (Lower leg),GTEX-1OJC4,female,50-59,Fast death - natural causes,,"6 pieces; relatively well trimmed, include up to ~10% mostly internal fat, epidermis measures 44 microns",skin_sun
+GTEX-1OKEX-2326,Skin - Sun Exposed (Lower leg),GTEX-1OKEX,male,60-69,Ventilator case,,,skin_sun
+GTEX-1OZHM-0126,Skin - Sun Exposed (Lower leg),GTEX-1OZHM,male,40-49,Slow death,,"6 pieces; squamous epithelium is ~40 microns; abundant adherent dermal fat up to ~2mm, rep delineated",skin_sun
+GTEX-1P4AB-0126,Skin - Sun Exposed (Lower leg),GTEX-1P4AB,male,50-59,Slow death,,6 pieces; 10-40% dermal fat,skin_sun
+GTEX-1PAR6-2126,Skin - Sun Exposed (Lower leg),GTEX-1PAR6,female,30-39,Ventilator case,,,skin_sun
+GTEX-1PBJI-0526,Skin - Sun Exposed (Lower leg),GTEX-1PBJI,female,20-29,Fast death - violent,,"6 pieces, no significant dermal fat; squamous epithelium up to ~50 microns",skin_sun
+GTEX-1PBJJ-0126,Skin - Sun Exposed (Lower leg),GTEX-1PBJJ,male,30-39,Ventilator case,,6 pieces; ~15% internal (periadnexal) fat; epidermis  38 micron thick,skin_sun
+GTEX-1PDJ9-0326,Skin - Sun Exposed (Lower leg),GTEX-1PDJ9,male,20-29,Ventilator case,,6 pieces; thick subcutaneous fat up to 1.6mm in 3 pieces; dermal fat 10%,skin_sun
+GTEX-1PFEY-1526,Skin - Sun Exposed (Lower leg),GTEX-1PFEY,male,30-39,Ventilator case,,"6 pieces, adherent dermal fat up to ~1mm, rep delineated; squamous epithelium is ~30 microns",skin_sun
+GTEX-1PIEJ-0126,Skin - Sun Exposed (Lower leg),GTEX-1PIEJ,female,20-29,Ventilator case,,"6 pieces, moderate dermal fat, focally adherent up to ~0.8mm, rep delineated; squamous epithelium is ~35-40 microns",skin_sun
+GTEX-1PIGE-0126,Skin - Sun Exposed (Lower leg),GTEX-1PIGE,male,20-29,Ventilator case,,6 pieces; well dissected; <2% dermal fat,skin_sun
+GTEX-1PIIG-0226,Skin - Sun Exposed (Lower leg),GTEX-1PIIG,male,30-39,Ventilator case,,6 pieces; 10 to 25% internal (periadnexal) fat; trace of external fat (outlined); ~47 micron thick epidermis,skin_sun
+GTEX-1POEN-0126,Skin - Sun Exposed (Lower leg),GTEX-1POEN,female,30-39,Fast death - violent,,"6 pieces, mild dermal fat (Rep delineated); squamous epithelium up to ~50 microns",skin_sun
+GTEX-1PPGY-0226,Skin - Sun Exposed (Lower leg),GTEX-1PPGY,male,60-69,Fast death - natural causes,,6 pieces; trace to ~5% external/internal fat; ~38 microns thick epidermis,skin_sun
+GTEX-1PPH6-0226,Skin - Sun Exposed (Lower leg),GTEX-1PPH6,female,60-69,Fast death - natural causes,,6 pieces; well trimmed; up to 20% dermal fat,skin_sun
+GTEX-1PPH7-2326,Skin - Sun Exposed (Lower leg),GTEX-1PPH7,male,40-49,Ventilator case,,6 pieces; 2 pieces have sloughed epidermis; subcutaneous fat up to 2mm thick,skin_sun
+GTEX-1PPH8-0226,Skin - Sun Exposed (Lower leg),GTEX-1PPH8,male,20-29,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~35-40 microns",skin_sun
+GTEX-1PWST-0226,Skin - Sun Exposed (Lower leg),GTEX-1PWST,male,70-79,Slow death,solar_elastosis,"6 pieces, no significant dermal fat; mild  dermal solar elastosis. Squamous epithlium is ~50-55 microns",skin_sun
+GTEX-1QAET-0926,Skin - Sun Exposed (Lower leg),GTEX-1QAET,male,50-59,Ventilator case,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-1QCLY-0326,Skin - Sun Exposed (Lower leg),GTEX-1QCLY,male,30-39,Ventilator case,,"6 pieces, moderate dermal fat, rep. delineated; squamous epithelium is ~40 microns",skin_sun
+GTEX-1QCLZ-0126,Skin - Sun Exposed (Lower leg),GTEX-1QCLZ,female,60-69,Ventilator case,,6 pieces; from 10% to 50% internal/external fat; epidermis 35microns thick,skin_sun
+GTEX-1QEPI-0126,Skin - Sun Exposed (Lower leg),GTEX-1QEPI,female,60-69,Intermediate death,,6 pieces; well trimmed; 10% dermal fat,skin_sun
+GTEX-1QL29-0126,Skin - Sun Exposed (Lower leg),GTEX-1QL29,male,40-49,Ventilator case,,"6 pieces, no dermal fat; squamous epithelium is ~ 35-40 microns",skin_sun
+GTEX-1QMI2-0226,Skin - Sun Exposed (Lower leg),GTEX-1QMI2,male,60-69,Fast death - natural causes,,6 pieces; trace dermal fat; squamous epithelium is ~35-40 microns,skin_sun
+GTEX-1QP28-0126,Skin - Sun Exposed (Lower leg),GTEX-1QP28,female,50-59,Ventilator case,,"6 pieces, moderate dermal fat (rep delineated); squamous epithelium is ~35-40 microns",skin_sun
+GTEX-1QP29-0626,Skin - Sun Exposed (Lower leg),GTEX-1QP29,male,50-59,Ventilator case,,6 pieces; trace periadnexal fat; epidermis 36 micron thick; rare hair follicles (arrows),skin_sun
+GTEX-1QP2A-0126,Skin - Sun Exposed (Lower leg),GTEX-1QP2A,male,50-59,Ventilator case,,6 pieces; 3 with and 3 without subcutaneous fat up to 1.2mm,skin_sun
+GTEX-1QP66-1726,Skin - Sun Exposed (Lower leg),GTEX-1QP66,male,50-59,Ventilator case,,6 pieces; up to 20% moderately autolyzed internal/external fat (outlined); epidermis ~35 micron thick,skin_sun
+GTEX-1QP67-1626,Skin - Sun Exposed (Lower leg),GTEX-1QP67,female,40-49,Ventilator case,,"6 pieces, moderate dermal fat; squamous epithelium is ~405-50 microns",skin_sun
+GTEX-1QP6S-0226,Skin - Sun Exposed (Lower leg),GTEX-1QP6S,male,40-49,Fast death - natural causes,,"6 pieces; 5% to 20% internal/external fat, mostly periadnexal; epidermis ~40 micron thick; one piece with empty spaces mostly subepidermal and epidermal gap (outlined)",skin_sun
+GTEX-1QP9N-1426,Skin - Sun Exposed (Lower leg),GTEX-1QP9N,male,30-39,Ventilator case,,6 pieces; 10% dermal fat with appendages; well trimmed,skin_sun
+GTEX-1QPFJ-0226,Skin - Sun Exposed (Lower leg),GTEX-1QPFJ,female,30-39,Ventilator case,,6 pieces; 10-20% dermal fat,skin_sun
+GTEX-1QW4Y-1526,Skin - Sun Exposed (Lower leg),GTEX-1QW4Y,male,30-39,Ventilator case,,"6 pieces, moderate dermal fat (rep delineated); squamous epithelium is ~50-60 microns",skin_sun
+GTEX-1R46S-0626,Skin - Sun Exposed (Lower leg),GTEX-1R46S,female,60-69,Slow death,,"6 pieces, moderate dermal fat; squamous epithelium is ~35 microns",skin_sun
+GTEX-1R7EU-0226,Skin - Sun Exposed (Lower leg),GTEX-1R7EU,male,60-69,Ventilator case,,4 pieces; tangentially cut hair bearing skin; ~34 microns thick epidermis,skin_sun
+GTEX-1R7EV-2426,Skin - Sun Exposed (Lower leg),GTEX-1R7EV,male,40-49,Ventilator case,,6 pieces; thin epidermis up to ~30 micron thick; ~50% external fat,skin_sun
+GTEX-1R9JW-2626,Skin - Sun Exposed (Lower leg),GTEX-1R9JW,female,30-39,Ventilator case,,"6 pieces, adherent dermal fat up to ~2mm, delineated; squamous epithelium is ~20-30 microns",skin_sun
+GTEX-1R9K4-0126,Skin - Sun Exposed (Lower leg),GTEX-1R9K4,male,60-69,Ventilator case,"fibrosis, hyperplasia, scarring",6 pieces; psoriasiform epidermal hyperplasia; epidermis over 200 microns thick; stasis dermatitis and dermal fibrosis and vascular accentuation with scar/keloid like features; possible dermal mucin (sample from the right leg),skin_sun
+GTEX-1R9K5-0126,Skin - Sun Exposed (Lower leg),GTEX-1R9K5,male,50-59,Ventilator case,,"6 pieces, trace dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1R9PM-2026,Skin - Sun Exposed (Lower leg),GTEX-1R9PM,male,20-29,Ventilator case,,"6 pieces, adherent/dermal fat, moderate, squamous epithelium is ~50-6- microns",skin_sun
+GTEX-1R9PN-1626,Skin - Sun Exposed (Lower leg),GTEX-1R9PN,female,40-49,Ventilator case,,6 pieces; 20-40% dermal fat; partly fragmented,skin_sun
+GTEX-1R9PO-2126,Skin - Sun Exposed (Lower leg),GTEX-1R9PO,female,60-69,Intermediate death,solar_elastosis,6 pieces; solar elastosis; up to 37 microns thick epidermis; mostly periadnexal fat,skin_sun
+GTEX-1RAZA-0126,Skin - Sun Exposed (Lower leg),GTEX-1RAZA,male,20-29,Ventilator case,,6 pieces; mostly periadnexal fat (outlined); ~36microns thick epidermis,skin_sun
+GTEX-1RAZQ-0726,Skin - Sun Exposed (Lower leg),GTEX-1RAZQ,male,30-39,Ventilator case,,"6 pieces, no significant dermal fat; squamous epithelium is ~50-60 microns.",skin_sun
+GTEX-1RAZR-0126,Skin - Sun Exposed (Lower leg),GTEX-1RAZR,male,40-49,Ventilator case,,6 pieces; well trimmed; dermal fat 10%; several hair follicles,skin_sun
+GTEX-1RAZS-0126,Skin - Sun Exposed (Lower leg),GTEX-1RAZS,male,50-59,Intermediate death,,6 pieces; periadnexal fat and 5% and 15% external fat (outlined),skin_sun
+GTEX-1RB15-2126,Skin - Sun Exposed (Lower leg),GTEX-1RB15,male,60-69,Ventilator case,,"6 pieces, moderate dermal fat, focal adherent fat up to ~1.5mm, rep delineated. Squamous epithelium is ~40-50microns",skin_sun
+GTEX-1RDX4-0126,Skin - Sun Exposed (Lower leg),GTEX-1RDX4,female,50-59,Intermediate death,,6 pieces; well trimmed; 5% dermal fat,skin_sun
+GTEX-1RLM8-2326,Skin - Sun Exposed (Lower leg),GTEX-1RLM8,male,50-59,Slow death,,,skin_sun
+GTEX-1RMOY-2326,Skin - Sun Exposed (Lower leg),GTEX-1RMOY,male,50-59,Ventilator case,,6 pieces; well trimmed skin with some periadnexal fat; ~33 microns thick epidermis,skin_sun
+GTEX-1RNSC-0126,Skin - Sun Exposed (Lower leg),GTEX-1RNSC,male,60-69,Slow death,,"6 pieces, moderate dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1RNTQ-0126,Skin - Sun Exposed (Lower leg),GTEX-1RNTQ,female,20-29,Ventilator case,,6 pieces; 10% to 30% external fat (outlined); insignificant periadnexal fat; ~37 microns thick epidermis,skin_sun
+GTEX-1RQEC-0426,Skin - Sun Exposed (Lower leg),GTEX-1RQEC,male,60-69,Fast death - natural causes,,,skin_sun
+GTEX-1RQED-0226,Skin - Sun Exposed (Lower leg),GTEX-1RQED,male,60-69,Intermediate death,,"6 pieces, moderate dermal fat, squamous epithelium 35-35 microns",skin_sun
+GTEX-1S3DN-2226,Skin - Sun Exposed (Lower leg),GTEX-1S3DN,male,50-59,Ventilator case,,"6 pieces, minimal dermal fat; squamous epitheliumis ~30-40 microns",skin_sun
+GTEX-1S5VW-0126,Skin - Sun Exposed (Lower leg),GTEX-1S5VW,male,60-69,Intermediate death,,"5 pieces, moderate dermal fat; squamous epithelium is ~30-35 microns",skin_sun
+GTEX-1S5ZA-0126,Skin - Sun Exposed (Lower leg),GTEX-1S5ZA,male,20-29,Ventilator case,,"6 pieces, trace  dermal fat; squamous epithelium is ~30-40 microns",skin_sun
+GTEX-1S5ZU-0126,Skin - Sun Exposed (Lower leg),GTEX-1S5ZU,female,20-29,Ventilator case,,4 pieces; well trimmed; 10% dermal  fat,skin_sun
+GTEX-1S82P-0126,Skin - Sun Exposed (Lower leg),GTEX-1S82P,female,60-69,Ventilator case,,6 pieces; periadnexal internal fat; up to 50% external fat (outlined); ~42 microns thick epidermis,skin_sun
+GTEX-1S82U-1526,Skin - Sun Exposed (Lower leg),GTEX-1S82U,female,30-39,Ventilator case,,"6 pieces, squamous epithelium is ~30-35 microns; moderate dermal fat",skin_sun
+GTEX-1S82Y-2026,Skin - Sun Exposed (Lower leg),GTEX-1S82Y,male,40-49,Ventilator case,,,skin_sun
+GTEX-1S82Z-0826,Skin - Sun Exposed (Lower leg),GTEX-1S82Z,female,30-39,Ventilator case,,"6 pieces, squamous epithelium is ~40 microns; abundant dermal fat up to ~4.5mm",skin_sun
+GTEX-1S831-0226,Skin - Sun Exposed (Lower leg),GTEX-1S831,male,20-29,Ventilator case,,6 pieces; well trimmed skin with mostly periadnexal fat; 43 micron thick epidermis,skin_sun
+GTEX-1S83E-0126,Skin - Sun Exposed (Lower leg),GTEX-1S83E,male,40-49,Ventilator case,,6 pieces; ~10% mostly periadnexal fat; ~37 microns thick epidermis,skin_sun
+GTEX-N7MS-0226,Skin - Sun Exposed (Lower leg),GTEX-N7MS,male,60-69,Fast death - natural causes,,OK for analysis,skin_sun
+GTEX-NFK9-0226,Skin - Sun Exposed (Lower leg),GTEX-NFK9,male,40-49,Ventilator case,,OK for anlysis,skin_sun
+GTEX-NL3G-0126,Skin - Sun Exposed (Lower leg),GTEX-NL3G,female,60-69,Fast death - natural causes,,Adequate,skin_sun
+GTEX-NL3H-0126,Skin - Sun Exposed (Lower leg),GTEX-NL3H,male,60-69,Intermediate death,,3 pieces. Few appendages,skin_sun
+GTEX-NL4W-0126,Skin - Sun Exposed (Lower leg),GTEX-NL4W,male,50-59,Slow death,,Epidermis is about 2% of total thickness of specimen; mainly dermis + subcutaneous fat,skin_sun
+GTEX-NPJ7-0626,Skin - Sun Exposed (Lower leg),GTEX-NPJ7,female,60-69,Slow death,solar_elastosis,Epidermis is ~2% thickness of specimen. Marked dermal elastosis,skin_sun
+GTEX-NPJ8-0126,Skin - Sun Exposed (Lower leg),GTEX-NPJ8,male,40-49,Slow death,,Epidermis is 3% of total thickness of specimen.,skin_sun
+GTEX-O5YT-0126,Skin - Sun Exposed (Lower leg),GTEX-O5YT,male,20-29,Ventilator case,,3 pieces; no lesions,skin_sun
+GTEX-O5YU-0126,Skin - Sun Exposed (Lower leg),GTEX-O5YU,male,60-69,Slow death,,3 pieces,skin_sun
+GTEX-O5YV-0126,Skin - Sun Exposed (Lower leg),GTEX-O5YV,female,60-69,Intermediate death,,3 pieces,skin_sun
+GTEX-O5YW-0126,Skin - Sun Exposed (Lower leg),GTEX-O5YW,male,50-59,Ventilator case,,3 pieces,skin_sun
+GTEX-OHPJ-0226,Skin - Sun Exposed (Lower leg),GTEX-OHPJ,male,60-69,Ventilator case,,Epidermis is ~3-4% of total specimen thickness,skin_sun
+GTEX-OHPK-0126,Skin - Sun Exposed (Lower leg),GTEX-OHPK,female,50-59,Ventilator case,,Squamous epithelium is ~203% of thickness,skin_sun
+GTEX-OHPL-0126,Skin - Sun Exposed (Lower leg),GTEX-OHPL,female,60-69,Ventilator case,,3 pieces.,skin_sun
+GTEX-OHPM-0126,Skin - Sun Exposed (Lower leg),GTEX-OHPM,male,50-59,Ventilator case,,Epidermis is ~2% of specimen thickness,skin_sun
+GTEX-OHPN-0126,Skin - Sun Exposed (Lower leg),GTEX-OHPN,female,60-69,Ventilator case,,Epithelium is 5-8% of specimen thickness,skin_sun
+GTEX-OIZF-0126,Skin - Sun Exposed (Lower leg),GTEX-OIZF,male,60-69,Ventilator case,,Epidermis is 3% of aliquot thickness,skin_sun
+GTEX-OIZG-0726,Skin - Sun Exposed (Lower leg),GTEX-OIZG,male,50-59,Ventilator case,,Epidermis is 3% of aliquot thickness,skin_sun
+GTEX-OIZH-0126,Skin - Sun Exposed (Lower leg),GTEX-OIZH,male,50-59,Ventilator case,,Epidermis is 3-5% of specimen thickness,skin_sun
+GTEX-OIZI-0326,Skin - Sun Exposed (Lower leg),GTEX-OIZI,male,40-49,Ventilator case,,7x3mm. Epidermis 0.082mm,skin_sun
+GTEX-OOBJ-0126,Skin - Sun Exposed (Lower leg),GTEX-OOBJ,male,60-69,Ventilator case,,Epidermis is ~2-3% of specimen thickness.  Patchy areas of soft tissue (deep)  are poorly fixed.,skin_sun
+GTEX-OOBK-0126,Skin - Sun Exposed (Lower leg),GTEX-OOBK,male,40-49,Ventilator case,,"0-1.  9.7x3mm.  Epithelium is ~115micronc, 3-5% of specimen thickness",skin_sun
+GTEX-OXRK-0226,Skin - Sun Exposed (Lower leg),GTEX-OXRK,female,50-59,Ventilator case,,8.5x4mm. Epidermis 0.084mm,skin_sun
+GTEX-OXRL-0126,Skin - Sun Exposed (Lower leg),GTEX-OXRL,male,50-59,Ventilator case,,Prominent defects along subcutaneous fat.  7.6x3.5 mm,skin_sun
+GTEX-OXRN-0126,Skin - Sun Exposed (Lower leg),GTEX-OXRN,male,50-59,Ventilator case,,Hollow defects in dermal fat.,skin_sun
+GTEX-OXRO-0126,Skin - Sun Exposed (Lower leg),GTEX-OXRO,female,60-69,Slow death,,3 pieces 9.5x1.8mm. Epidermis 30um,skin_sun
+GTEX-OXRP-0126,Skin - Sun Exposed (Lower leg),GTEX-OXRP,female,60-69,Intermediate death,,3 pieces.  Epidermis is 1.5-2.5% of total specimen thickness (~1.5mm),skin_sun
+GTEX-P44G-0226,Skin - Sun Exposed (Lower leg),GTEX-P44G,male,30-39,Ventilator case,,".  Epidermis is 2-3% of specimen thickness.  Areas of poor fixation, subcutaneous fat",skin_sun
+GTEX-P44H-0226,Skin - Sun Exposed (Lower leg),GTEX-P44H,male,40-49,Slow death,,3 ~9x2mm pieces.  Epithelium is ~1% or less of specimen thickness. Areas of poor fixation with tears/holes in dermis,skin_sun
+GTEX-P4PP-0126,Skin - Sun Exposed (Lower leg),GTEX-P4PP,female,30-39,Ventilator case,,3  ~8x1.5mm pieces.  Squamous epithelium is 1-2% of thickness,skin_sun
+GTEX-P4PQ-0126,Skin - Sun Exposed (Lower leg),GTEX-P4PQ,male,60-69,Ventilator case,,6   ~8x2.5mm pieces. Squamous mucosa is ~1-2% of thickness.  Areas of poor fixation with tears.,skin_sun
+GTEX-P4QR-0326,Skin - Sun Exposed (Lower leg),GTEX-P4QR,male,60-69,Ventilator case,,6   ~5-8x2.5mm pieces. Squamous epithelium is ~2% of specimen thickness,skin_sun
+GTEX-P4QS-0126,Skin - Sun Exposed (Lower leg),GTEX-P4QS,male,60-69,Ventilator case,,6   ~5-6x2mm pieces.  Squamous epithelium is 1-2% of thickness,skin_sun
+GTEX-P4QT-0126,Skin - Sun Exposed (Lower leg),GTEX-P4QT,female,50-59,Ventilator case,,6  ~5-6x 2.5mm pieces.  Squamous epithelium is ~1% of specimen thickness,skin_sun
+GTEX-P78B-0126,Skin - Sun Exposed (Lower leg),GTEX-P78B,female,40-49,Ventilator case,,"6  ~10x2 mm pieces.  Severe fractured dermis, poorly fixed",skin_sun
+GTEX-PLZ4-0126,Skin - Sun Exposed (Lower leg),GTEX-PLZ4,female,50-59,Ventilator case,,6  ~10x1.5mm pieces.  Squamous epithelium is ~1-1.5% of  aliquot thickness,skin_sun
+GTEX-PLZ5-2026,Skin - Sun Exposed (Lower leg),GTEX-PLZ5,male,50-59,Ventilator case,,6   ~7x2mm pieces;  squamous epithelium is ~  2-3% of specimen thickness,skin_sun
+GTEX-PLZ6-1426,Skin - Sun Exposed (Lower leg),GTEX-PLZ6,male,30-39,Ventilator case,,6  ~10x3.7 mm (maximum) pieces.  Fragmented dermis in 2 pieces (poor fixation),skin_sun
+GTEX-POMQ-2226,Skin - Sun Exposed (Lower leg),GTEX-POMQ,female,20-29,Ventilator case,hemorrhage,"6 pieces, ~8x3mm. focal dermal hemorrhages",skin_sun
+GTEX-POYW-0626,Skin - Sun Exposed (Lower leg),GTEX-POYW,male,60-69,Ventilator case,,6 ~ 8.5x2.5mm pieces; squamous mucosa is ~1-2% of specimen thickness,skin_sun
+GTEX-PSDG-0226,Skin - Sun Exposed (Lower leg),GTEX-PSDG,male,50-59,Ventilator case,clean_specimens,"6 pieces, ~8x2.5mm; good appendages",skin_sun
+GTEX-PVOW-0126,Skin - Sun Exposed (Lower leg),GTEX-PVOW,male,40-49,Fast death - natural causes,sweat_glands,6 pieces~8.5x2.5mm; many sweat and sebaceous glands; tissue tears,skin_sun
+GTEX-PW2O-1526,Skin - Sun Exposed (Lower leg),GTEX-PW2O,male,20-29,Ventilator case,,6   ~ 7x3.5 pieces; squamous mucosa is ~1.5—2% of thickness,skin_sun
+GTEX-PWCY-1826,Skin - Sun Exposed (Lower leg),GTEX-PWCY,female,20-29,Ventilator case,,"6 pieces, ~8x3 mm.; numerous tissue tears in dermis",skin_sun
+GTEX-PWN1-0126,Skin - Sun Exposed (Lower leg),GTEX-PWN1,female,40-49,Ventilator case,,6 pieces up to 8x2.5 mm,skin_sun
+GTEX-PWO3-1526,Skin - Sun Exposed (Lower leg),GTEX-PWO3,female,60-69,Slow death,,6   ~8x1.5mm pieces.  Squamous mucosa is 1.5-2% of thickness,skin_sun
+GTEX-PWOO-2126,Skin - Sun Exposed (Lower leg),GTEX-PWOO,female,40-49,Ventilator case,,6   ~6x2.5mm pieces.  Squamous epithelium is ~1.5-2% of thickness (~40-50 microns),skin_sun
+GTEX-PX3G-0126,Skin - Sun Exposed (Lower leg),GTEX-PX3G,female,20-29,Ventilator case,,"6 pieces, up to 7.5x2.5 mm; scattered dermal fractures",skin_sun
+GTEX-Q2AG-0126,Skin - Sun Exposed (Lower leg),GTEX-Q2AG,female,40-49,Fast death - natural causes,,6   ~8x2.5mm pieces.  Squamous epithelium is ~1--2% of thickness,skin_sun
+GTEX-Q2AH-1626,Skin - Sun Exposed (Lower leg),GTEX-Q2AH,male,40-49,Ventilator case,,6 pieces up to 7.7x2.6 mm; several sectioning lines and tissue tears,skin_sun
+GTEX-Q2AI-1326,Skin - Sun Exposed (Lower leg),GTEX-Q2AI,male,40-49,Ventilator case,,6 pieces up to 8x3 mm; moderate tissue tears,skin_sun
+GTEX-Q734-1926,Skin - Sun Exposed (Lower leg),GTEX-Q734,female,40-49,Ventilator case,,"6 pieces,  ~8x3mm.  Squamous epithelium is ~1.5-2% of  thickness",skin_sun
+GTEX-QCQG-1726,Skin - Sun Exposed (Lower leg),GTEX-QCQG,female,50-59,Ventilator case,,"6 pieces, up to 9x3.6 mm",skin_sun
+GTEX-QDT8-0126,Skin - Sun Exposed (Lower leg),GTEX-QDT8,female,30-39,Slow death,,6   ~7x1.5mm pieces.  Squamous epithelium is ~ 2-4% of thickness%,skin_sun
+GTEX-QDVJ-1726,Skin - Sun Exposed (Lower leg),GTEX-QDVJ,male,50-59,Ventilator case,,6 pieces up to 7x3 mm,skin_sun
+GTEX-QDVN-2026,Skin - Sun Exposed (Lower leg),GTEX-QDVN,male,50-59,Ventilator case,,6    ~6.5x2.5mm pieces; squamous epithelium is  ~1--2% of thickness,skin_sun
+GTEX-QEG4-0226,Skin - Sun Exposed (Lower leg),GTEX-QEG4,male,30-39,Fast death - violent,,6 ~7.5x2.5mm pieces. Squamous epithelium is ~1-2% of thickness; several pieces have adherent aggregates of subcutaneous fat up to ~9x2mm.,skin_sun
+GTEX-QEG5-0226,Skin - Sun Exposed (Lower leg),GTEX-QEG5,male,20-29,Ventilator case,,6 pieces up to 7x3 mm,skin_sun
+GTEX-QEL4-0226,Skin - Sun Exposed (Lower leg),GTEX-QEL4,male,50-59,Intermediate death,,6   ~8x3mm pieces.  Squamous epithelium is  ~1-2% of thickness.   ~1mm layer of subcutaneous fat present in 5 pieces,skin_sun
+GTEX-QESD-1426,Skin - Sun Exposed (Lower leg),GTEX-QESD,male,20-29,Ventilator case,,"6 pieces, up to ~5 x 3.8 mm; epidermis ~90um",skin_sun
+GTEX-QLQ7-1626,Skin - Sun Exposed (Lower leg),GTEX-QLQ7,male,60-69,Ventilator case,,6   ~6.5x2.5mm pieces; squamous epithelium is ~1-2% of thickness,skin_sun
+GTEX-QLQW-1126,Skin - Sun Exposed (Lower leg),GTEX-QLQW,male,30-39,Ventilator case,,6 pieces up to 9x3 mm; epidermis 66um thick,skin_sun
+GTEX-QMR6-1726,Skin - Sun Exposed (Lower leg),GTEX-QMR6,male,50-59,Slow death,,6   ~8.5x3mm pieces; squamous epithelium is  ~1-2% of thickness.,skin_sun
+GTEX-QMRM-1826,Skin - Sun Exposed (Lower leg),GTEX-QMRM,male,50-59,Ventilator case,,6 pieces up to 8.6x2.8 mm,skin_sun
+GTEX-QV31-1226,Skin - Sun Exposed (Lower leg),GTEX-QV31,male,30-39,Ventilator case,,6   ~8x2.5mm pieces.  Squamous epithelium is ~2% of thickness,skin_sun
+GTEX-QV44-1926,Skin - Sun Exposed (Lower leg),GTEX-QV44,male,50-59,Ventilator case,,6 pieces  up to 9x3 mm; moderate tissue tears,skin_sun
+GTEX-QVJO-1626,Skin - Sun Exposed (Lower leg),GTEX-QVJO,female,60-69,Slow death,,6   ~9x1.5mm pieces.  Squamous epithelium is ~2-3% of thickness,skin_sun
+GTEX-QVUS-1726,Skin - Sun Exposed (Lower leg),GTEX-QVUS,female,60-69,Slow death,,6   ~8x1.5mm  pieces.  Squamous epithelium is  ~2-3% of thickness,skin_sun
+GTEX-QXCU-2326,Skin - Sun Exposed (Lower leg),GTEX-QXCU,male,50-59,Fast death - violent,,6  ~8.5x2.5mm pieces; squamous epithelium is  ~1-3% of thickness,skin_sun
+GTEX-R3RS-0126,Skin - Sun Exposed (Lower leg),GTEX-R3RS,female,40-49,Slow death,,"6 pieces, up to 8x2.5 mm",skin_sun
+GTEX-R45C-0126,Skin - Sun Exposed (Lower leg),GTEX-R45C,female,60-69,Ventilator case,,6 pieces up to 9X3 mm;,skin_sun
+GTEX-R53T-1726,Skin - Sun Exposed (Lower leg),GTEX-R53T,female,50-59,Ventilator case,,"6 pieces,  ~9x2mm, squamous epithelium is ~ 2% of thickness",skin_sun
+GTEX-R55C-1526,Skin - Sun Exposed (Lower leg),GTEX-R55C,male,40-49,Ventilator case,,"6 pieces, up to 9x3.7 mm;",skin_sun
+GTEX-R55D-0226,Skin - Sun Exposed (Lower leg),GTEX-R55D,male,50-59,Ventilator case,,6 pieces.  Squamous epithelium is -2-3% of thickness,skin_sun
+GTEX-R55E-0126,Skin - Sun Exposed (Lower leg),GTEX-R55E,male,20-29,Fast death - violent,,6 pieces up to 7x3.5 mm,skin_sun
+GTEX-R55F-0126,Skin - Sun Exposed (Lower leg),GTEX-R55F,male,50-59,Slow death,,6 pieces up to 9x3 mm;,skin_sun
+GTEX-R55G-2526,Skin - Sun Exposed (Lower leg),GTEX-R55G,female,40-49,Ventilator case,,6 pieces  ~8x2mm.  Squamous epithelium is 2-3% of thickness,skin_sun
+GTEX-REY6-0226,Skin - Sun Exposed (Lower leg),GTEX-REY6,male,60-69,Ventilator case,,6 pieces up to 7.4x5 mm;  excessive subcutaneous adipose tissue over 50% of specimens; epidermis completely sloughed,skin_sun
+GTEX-RM2N-1426,Skin - Sun Exposed (Lower leg),GTEX-RM2N,male,50-59,Ventilator case,,"6 pieces,   ~8.5x2mm.  Squamous epithelium is 2-3% of thickness",skin_sun
+GTEX-RN5K-1626,Skin - Sun Exposed (Lower leg),GTEX-RN5K,female,50-59,Slow death,,"6 pieces,   ~7x2mm.  Squamous epithelium is ~1-2% of thickness",skin_sun
+GTEX-RN64-0126,Skin - Sun Exposed (Lower leg),GTEX-RN64,male,50-59,Fast death - violent,,"6 pieces,  ~6.5x2mm.  Squamous epithelium is ~2% of thickness",skin_sun
+GTEX-RNOR-0126,Skin - Sun Exposed (Lower leg),GTEX-RNOR,female,50-59,Fast death - violent,,6 pieces up to 7x3 mm;,skin_sun
+GTEX-RTLS-0126,Skin - Sun Exposed (Lower leg),GTEX-RTLS,female,60-69,Slow death,,6 pieces up to 8.6x2.2 mm;,skin_sun
+GTEX-RU1J-1526,Skin - Sun Exposed (Lower leg),GTEX-RU1J,female,20-29,Ventilator case,,6 pieces up to 8x3.4 mm;,skin_sun
+GTEX-RU72-0926,Skin - Sun Exposed (Lower leg),GTEX-RU72,female,50-59,Fast death - natural causes,,"6 pieces,  ~7.5x3mm; squamous epithelium is ~1-2% of thickness",skin_sun
+GTEX-RUSQ-1526,Skin - Sun Exposed (Lower leg),GTEX-RUSQ,male,50-59,Ventilator case,,6 pieces  ~9x4mm.  Squamous epithelium is  ~1% of thickness.,skin_sun
+GTEX-RVPU-2226,Skin - Sun Exposed (Lower leg),GTEX-RVPU,male,50-59,Fast death - natural causes,,"6 pieces,  ~7x2.5mm.  Squamous epithelium is ~1-2% of thickness",skin_sun
+GTEX-RVPV-0126,Skin - Sun Exposed (Lower leg),GTEX-RVPV,male,60-69,Intermediate death,,6 pieces up to 11x5 mm;,skin_sun
+GTEX-RWS6-2026,Skin - Sun Exposed (Lower leg),GTEX-RWS6,female,60-69,Ventilator case,,6 pieces up to 8x4 mm; large holes in the dermis of the thicker pieces (unfixed?),skin_sun
+GTEX-RWSA-0126,Skin - Sun Exposed (Lower leg),GTEX-RWSA,male,40-49,Fast death - violent,,6 pieces  ~6.5x2.5mm.  Squamous epithelium is  ~1-3% of thickness,skin_sun
+GTEX-S32W-2126,Skin - Sun Exposed (Lower leg),GTEX-S32W,female,50-59,Ventilator case,,6 pieces up to 9x3 mm; up to 1.8 mm of  subcutaneous adipose; trim visible fat,skin_sun
+GTEX-S33H-1026,Skin - Sun Exposed (Lower leg),GTEX-S33H,male,30-39,Fast death - natural causes,,6 pieces up to 6x3 mm; minimal subcutaneous adipose,skin_sun
+GTEX-S341-1726,Skin - Sun Exposed (Lower leg),GTEX-S341,female,40-49,Ventilator case,,"6 pieces, ~ 7.5x2.5mm.  Squamous epithelium is 2-3% of thickness",skin_sun
+GTEX-S3LF-0126,Skin - Sun Exposed (Lower leg),GTEX-S3LF,male,70-79,Fast death - natural causes,,6 pieces  ~8x2mm.  Squamous epithelium is ~2-3% of thickness,skin_sun
+GTEX-S3XE-1726,Skin - Sun Exposed (Lower leg),GTEX-S3XE,male,50-59,Ventilator case,,6 pieces up to 9x3.6 mm;,skin_sun
+GTEX-S4P3-1426,Skin - Sun Exposed (Lower leg),GTEX-S4P3,female,50-59,Ventilator case,,6 pieces up to 7x3.8 mm; 5 pieces have up to 1.5 mm subcutaneous adipose,skin_sun
+GTEX-S4Q7-1726,Skin - Sun Exposed (Lower leg),GTEX-S4Q7,male,20-29,Ventilator case,,"6 pieces,  ~9x4mm.  Squamous epithelium is ~2-3% of thickness.",skin_sun
+GTEX-S4UY-0126,Skin - Sun Exposed (Lower leg),GTEX-S4UY,female,40-49,Ventilator case,,"6pieces, 6.5x2.5mm, squamous epithelium is  ~1-3% of thickness",skin_sun
+GTEX-S4Z8-1626,Skin - Sun Exposed (Lower leg),GTEX-S4Z8,male,60-69,Ventilator case,,6 pieces up to 8x3 mm; 3 pieces have subcutaneous adipose tissue up to 1.8 mm; should have been trimmed,skin_sun
+GTEX-S7PM-0126,Skin - Sun Exposed (Lower leg),GTEX-S7PM,male,60-69,Ventilator case,,"6 pieces, ~7x3mm.  Squamous mucosa is ~2-3% of thickness",skin_sun
+GTEX-S7SE-0126,Skin - Sun Exposed (Lower leg),GTEX-S7SE,male,50-59,Fast death - natural causes,,"6 pieces, 6xx3mm.  Squamous mucosa is  ~2-3% of thickness.",skin_sun
+GTEX-S7SF-1626,Skin - Sun Exposed (Lower leg),GTEX-S7SF,female,20-29,Ventilator case,,6 pieces up to 9x4.5 mm; subcutaneous  fat is up to 2.5 mm thick,skin_sun
+GTEX-S95S-1226,Skin - Sun Exposed (Lower leg),GTEX-S95S,male,60-69,Ventilator case,,"6 pieces, ~7x2.5mm. Squamous epithelium is  ~1-3% of thickness",skin_sun
+GTEX-SE5C-1626,Skin - Sun Exposed (Lower leg),GTEX-SE5C,female,40-49,Ventilator case,,6 pieces up to 8x3 mm,skin_sun
+GTEX-SIU7-1726,Skin - Sun Exposed (Lower leg),GTEX-SIU7,male,50-59,Ventilator case,,6 pieces up to 9x4 mm,skin_sun
+GTEX-SIU8-0126,Skin - Sun Exposed (Lower leg),GTEX-SIU8,male,50-59,Fast death - natural causes,,"6 pieces,  ~7x3mm.  Squamous epithelium is ~2-3% thickness",skin_sun
+GTEX-SJXC-0126,Skin - Sun Exposed (Lower leg),GTEX-SJXC,male,60-69,Fast death - natural causes,,6 pieces  ~7x2.5mm.  Squamous epithelium is 2-3% of thickness,skin_sun
+GTEX-SN8G-0126,Skin - Sun Exposed (Lower leg),GTEX-SN8G,female,50-59,Fast death - natural causes,,"6 pieces,  ~7x2mm.  Squamous epithelium is ~2-3% thickness",skin_sun
+GTEX-SNMC-1226,Skin - Sun Exposed (Lower leg),GTEX-SNMC,male,20-29,Ventilator case,,6 pieces up to 7x4 mm; thin remnant of subcutaneous fat,skin_sun
+GTEX-SNOS-1326,Skin - Sun Exposed (Lower leg),GTEX-SNOS,male,40-49,Ventilator case,,6 pieces up to 9x3 mm; minimal subcutaneous adipose,skin_sun
+GTEX-SSA3-0126,Skin - Sun Exposed (Lower leg),GTEX-SSA3,male,60-69,Ventilator case,,"5 pieces + one fragment,  ~8x2mm.  Squamous epithelium is  ~2-3% of thickness.",skin_sun
+GTEX-SUCS-1926,Skin - Sun Exposed (Lower leg),GTEX-SUCS,male,70-79,Ventilator case,,6 pieces up to 8x2 mm; most subcutaneous adipose removed; considerable tissue fracture,skin_sun
+GTEX-T2IS-0126,Skin - Sun Exposed (Lower leg),GTEX-T2IS,female,20-29,Fast death - violent,,6 pieces  ~ 6x3mm. Squamous epithelium is ~2-3% of thickness,skin_sun
+GTEX-T2YK-0526,Skin - Sun Exposed (Lower leg),GTEX-T2YK,male,50-59,Slow death,,6 pieces up to 8x3.5 mm; subcutaneous adipose up to 0.6mm,skin_sun
+GTEX-T5JC-0426,Skin - Sun Exposed (Lower leg),GTEX-T5JC,male,20-29,Fast death - natural causes,,6 pieces up to 8x3 mm; no subcutaneous adipose,skin_sun
+GTEX-T5JW-1626,Skin - Sun Exposed (Lower leg),GTEX-T5JW,female,20-29,Ventilator case,,"6 pieces, ~ 7.5x3mm, squamous epithelium is ~2-3% of thickness",skin_sun
+GTEX-T6MN-0126,Skin - Sun Exposed (Lower leg),GTEX-T6MN,male,50-59,Fast death - natural causes,,6 pieces up to 8x5mm; thin layer of subcutaneous adipose,skin_sun
+GTEX-T6MO-1626,Skin - Sun Exposed (Lower leg),GTEX-T6MO,female,40-49,Ventilator case,,"6 pieces,  ~7x2.5mm, squamous epithelium is  ~3-5% of thickness",skin_sun
+GTEX-T8EM-1026,Skin - Sun Exposed (Lower leg),GTEX-T8EM,male,40-49,Ventilator case,,,skin_sun
+GTEX-TKQ1-1026,Skin - Sun Exposed (Lower leg),GTEX-TKQ1,male,30-39,Ventilator case,,"6 pieces,  ~6x2.5mm.  Squamous epithelium is  ~2-3% of thickness.",skin_sun
+GTEX-TKQ2-1626,Skin - Sun Exposed (Lower leg),GTEX-TKQ2,male,50-59,Ventilator case,,6 pieces  ~7x3mm. Squamous epithelium is ~2-3% of thickness,skin_sun
+GTEX-TMKS-0126,Skin - Sun Exposed (Lower leg),GTEX-TMKS,male,50-59,Ventilator case,,6 pieces   ~7.5x3mm.  Squamous epithelium is ~2-3% of thickness.,skin_sun
+GTEX-TML8-1926,Skin - Sun Exposed (Lower leg),GTEX-TML8,female,40-49,Ventilator case,,6 pieces up to 8x3 mm; subcutaneous fat well trimmed; numerous tissue fractures in dermis,skin_sun
+GTEX-TMMY-0226,Skin - Sun Exposed (Lower leg),GTEX-TMMY,female,40-49,Ventilator case,,6 pieces  ~6x2.5mm; squamous epithelium is  ~2-3% of thickness,skin_sun
+GTEX-TMZS-0126,Skin - Sun Exposed (Lower leg),GTEX-TMZS,male,60-69,Ventilator case,,6 pieces up to 10x3 mm; well trimmed of subcutaneous adipose,skin_sun
+GTEX-TSE9-0126,Skin - Sun Exposed (Lower leg),GTEX-TSE9,female,60-69,Ventilator case,,6 pieces up to 7x3 mm; 0.5 mm subcutaneous adipose on three pieces,skin_sun
+GTEX-U3ZG-0126,Skin - Sun Exposed (Lower leg),GTEX-U3ZG,male,50-59,Ventilator case,,6 pieces  ~7x2.5mm.  Squamous epithelium is ~2-3% of thickness,skin_sun
+GTEX-U3ZH-2026,Skin - Sun Exposed (Lower leg),GTEX-U3ZH,male,30-39,Ventilator case,,6 pieces  ~7x3mm.  Squamous epithelium is 1-2% of thickness,skin_sun
+GTEX-U3ZM-1526,Skin - Sun Exposed (Lower leg),GTEX-U3ZM,male,40-49,Ventilator case,,"6 pieces,  ~7x3mm.  Squamous epithelium is ~2-3% of thickness",skin_sun
+GTEX-U3ZN-2326,Skin - Sun Exposed (Lower leg),GTEX-U3ZN,female,30-39,Ventilator case,,6 pieces up to 7x3 mm; up to 1.5 mm subcutaneous adipose in 3 pieces,skin_sun
+GTEX-U412-0426,Skin - Sun Exposed (Lower leg),GTEX-U412,male,60-69,Intermediate death,,6 pieces  ~6x1.5mm  Squamous epithelium is ~2-3% thickness,skin_sun
+GTEX-U4B1-1826,Skin - Sun Exposed (Lower leg),GTEX-U4B1,male,40-49,Ventilator case,,"6 pieces, up to 9.6x3 mm; well cleaned of subcutaneous adipose",skin_sun
+GTEX-U8T8-0126,Skin - Sun Exposed (Lower leg),GTEX-U8T8,male,60-69,Ventilator case,,"6 pieces, up to 3.4x7.7mm; subcutaneous adipose well trimmed",skin_sun
+GTEX-U8XE-0326,Skin - Sun Exposed (Lower leg),GTEX-U8XE,male,30-39,Slow death,,"6 pieces  ~7x3.5 mm, squamous epithelium is ~2-3% of thickness",skin_sun
+GTEX-UJHI-1526,Skin - Sun Exposed (Lower leg),GTEX-UJHI,female,50-59,Ventilator case,,6 pieces. up to 6x3mm; free of subcutaneous adipose,skin_sun
+GTEX-UJMC-1626,Skin - Sun Exposed (Lower leg),GTEX-UJMC,male,50-59,Ventilator case,,"6 pieces,   ~6x3mm squamous mucosa is ~2-3% of thickness  or ~50 microns thick",skin_sun
+GTEX-UPIC-1626,Skin - Sun Exposed (Lower leg),GTEX-UPIC,female,20-29,Ventilator case,,"6 pieces, up to 8x3mm; most subcutaneous adipose removed; keratin layer looks thicker than usual",skin_sun
+GTEX-UPJH-0326,Skin - Sun Exposed (Lower leg),GTEX-UPJH,male,50-59,Fast death - natural causes,,6 pieces  ~7x2mm.  Squamous epithelium is 2-3% thickness,skin_sun
+GTEX-UPK5-0726,Skin - Sun Exposed (Lower leg),GTEX-UPK5,male,40-49,Ventilator case,,"6 pieces, 7x3mm; largely free of subcutaneous adipose",skin_sun
+GTEX-UTHO-0326,Skin - Sun Exposed (Lower leg),GTEX-UTHO,male,60-69,Intermediate death,,6 pieces; up to 6x1mm; 2 have subcutaneous adipose up to 1 mm,skin_sun
+GTEX-V1D1-2226,Skin - Sun Exposed (Lower leg),GTEX-V1D1,male,50-59,Ventilator case,,6 pieces  ~6x3mm.  Squamous epithelium is  ~1% thickness,skin_sun
+GTEX-V955-2226,Skin - Sun Exposed (Lower leg),GTEX-V955,male,60-69,Ventilator case,,8 pieces  ~10x4mm.  Squamous mucosa is 1-2% thickness,skin_sun
+GTEX-VJWN-0126,Skin - Sun Exposed (Lower leg),GTEX-VJWN,female,50-59,Fast death - natural causes,,"6 pieces, up to 6x3.5mm; subcutaneous adipose up to 0.7mm on 2 pieces",skin_sun
+GTEX-VJYA-1126,Skin - Sun Exposed (Lower leg),GTEX-VJYA,male,60-69,Ventilator case,,"6 pieces, ~6x3mm, squamous epithelium is 1-2% thickness",skin_sun
+GTEX-VUSG-2526,Skin - Sun Exposed (Lower leg),GTEX-VUSG,male,50-59,Ventilator case,,6 pieces   ~8x2mm.  Squamous epithelium is ~2-3% of thickness,skin_sun
+GTEX-VUSH-0126,Skin - Sun Exposed (Lower leg),GTEX-VUSH,male,30-39,Ventilator case,,"6 pieces, up to 9x4.5mm; up to 2 mm thick subcutaneous adipose in 5 pieces",skin_sun
+GTEX-W5WG-1826,Skin - Sun Exposed (Lower leg),GTEX-W5WG,female,50-59,Ventilator case,,"6 pieces  ~7x3mm. Squamous epithelium is ~1-2% of thickness.  ~20% of dermis contains intermingled fat, areas of extreme separation noted",skin_sun
+GTEX-W5X1-3026,Skin - Sun Exposed (Lower leg),GTEX-W5X1,female,40-49,Ventilator case,,"6 pieces, up to 8x3mm; subcutaneous adipose well trimmed",skin_sun
+GTEX-WCDI-0126,Skin - Sun Exposed (Lower leg),GTEX-WCDI,male,50-59,Ventilator case,,6 pieces   ~8x3mm.  Fat is ~50% of all sections.  Squamous mucosa is ~2% of thickness.  Non adipose components circled by line in representative sections for guidance.,skin_sun
+GTEX-WEY5-1826,Skin - Sun Exposed (Lower leg),GTEX-WEY5,female,40-49,Ventilator case,,"6 pieces, up to 10x3.5mm; up to 0.7mm subcutaneous adipose",skin_sun
+GTEX-WFG7-2626,Skin - Sun Exposed (Lower leg),GTEX-WFG7,male,20-29,Ventilator case,,6 pieces  ~7x2.5mm  Squamous epithelium is ~2% thickness,skin_sun
+GTEX-WFG8-2226,Skin - Sun Exposed (Lower leg),GTEX-WFG8,male,20-29,Ventilator case,,6 pieces   ~7x3mm.  Squamous epithelium is ~2-3% of thickness,skin_sun
+GTEX-WFJO-1826,Skin - Sun Exposed (Lower leg),GTEX-WFJO,male,30-39,Ventilator case,,"6 pieces, up to 9.5x3mm; well trimmed subcutaneous adipose tissue",skin_sun
+GTEX-WFON-2126,Skin - Sun Exposed (Lower leg),GTEX-WFON,male,40-49,Ventilator case,,"6 pieces  ~7x2mm.  Up to  ~1mm layer of fat on dermal surface of several, delineated.  Squamous mucosa is ~2-3% of thickness",skin_sun
+GTEX-WH7G-2326,Skin - Sun Exposed (Lower leg),GTEX-WH7G,male,40-49,Ventilator case,sweat_glands,"6 pieces, up to 7x3mm; Subcutaneous adipose is well trimmed. Abundant sweat glands.",skin_sun
+GTEX-WHPG-2526,Skin - Sun Exposed (Lower leg),GTEX-WHPG,male,50-59,Ventilator case,,"6 pieces, up to 11x5.5; up to 2 mm thick band of subcutaneous adipose tissue",skin_sun
+GTEX-WHSB-1526,Skin - Sun Exposed (Lower leg),GTEX-WHSB,male,50-59,Ventilator case,,"6 pieces  ~9x2.5mm, Squamous epithelium is 1-2% thickness",skin_sun
+GTEX-WHSE-0226,Skin - Sun Exposed (Lower leg),GTEX-WHSE,male,20-29,Intermediate death,,6 pieces ~5x2.5mm.  Squamous epithelium is ~2-3% of thickness.,skin_sun
+GTEX-WHWD-2026,Skin - Sun Exposed (Lower leg),GTEX-WHWD,male,50-59,Ventilator case,,"6 pieces, up to 8.5x3mm; subcutaneous fat is well trimmed",skin_sun
+GTEX-WI4N-1026,Skin - Sun Exposed (Lower leg),GTEX-WI4N,female,40-49,Ventilator case,,6 pieces ~7x2mm; squamous epithelium is  ~1-2% of thickness,skin_sun
+GTEX-WK11-0126,Skin - Sun Exposed (Lower leg),GTEX-WK11,male,50-59,Fast death - violent,,"6 pieces, up to 8x3mm; up to 0.5mm subcutaneous adipose",skin_sun
+GTEX-WL46-0226,Skin - Sun Exposed (Lower leg),GTEX-WL46,male,50-59,Fast death - natural causes,,"6 pieces  ~8x2.5mm, squamous epithelium is ~2-3% of thickness",skin_sun
+GTEX-WOFL-0126,Skin - Sun Exposed (Lower leg),GTEX-WOFL,male,60-69,Ventilator case,,"6 pieces, up to 8x3mm; most subcutaneous adipose tissue trimmed",skin_sun
+GTEX-WOFM-1226,Skin - Sun Exposed (Lower leg),GTEX-WOFM,male,20-29,Ventilator case,,6 pieces  ~11x4mm.  Squmous epithelium is ~2-3% of thickness,skin_sun
+GTEX-WQUQ-0426,Skin - Sun Exposed (Lower leg),GTEX-WQUQ,male,60-69,Ventilator case,,6 pieces ~7x2.5mm; squamous epithelium is ~2% thickness,skin_sun
+GTEX-WRHK-1426,Skin - Sun Exposed (Lower leg),GTEX-WRHK,female,20-29,Ventilator case,,"6 pieces, up to 11x4mm; well trimmed without subcutaneous adipose",skin_sun
+GTEX-WRHU-2526,Skin - Sun Exposed (Lower leg),GTEX-WRHU,female,50-59,Fast death - violent,,6pieces ~7x3mm; squamous epithelium is ~1-2% thickness,skin_sun
+GTEX-WVJS-0126,Skin - Sun Exposed (Lower leg),GTEX-WVJS,male,50-59,Ventilator case,,"6 pieces, up to 8x3mm; 3 have up to 1 mm subcutaneous adipose",skin_sun
+GTEX-WVLH-0126,Skin - Sun Exposed (Lower leg),GTEX-WVLH,male,50-59,Fast death - natural causes,,6 pieces  ~6x3mm squamous epithelium is 1.5-2% thickness,skin_sun
+GTEX-WWTW-0126,Skin - Sun Exposed (Lower leg),GTEX-WWTW,male,50-59,Ventilator case,,"6 pieces, ~ 7x.25mm -squamous epithelium is less than 2 % of thickness",skin_sun
+GTEX-WWYW-0126,Skin - Sun Exposed (Lower leg),GTEX-WWYW,female,50-59,Intermediate death,,6  pieces  ~8x3mm; squamous epithelium is 1.5-2% thickness,skin_sun
+GTEX-WXYG-2326,Skin - Sun Exposed (Lower leg),GTEX-WXYG,female,50-59,Ventilator case,,"6 pieces, up to 5.5x3mm; Squamous epithelium ~2% thicknesss",skin_sun
+GTEX-WY7C-2326,Skin - Sun Exposed (Lower leg),GTEX-WY7C,male,50-59,Ventilator case,,6 pieces   ~8x3.5mm. Squamous epithelium is ~ 2% of thickness,skin_sun
+GTEX-WYBS-0126,Skin - Sun Exposed (Lower leg),GTEX-WYBS,female,60-69,Ventilator case,,"6 pieces, up to 8x2mm; squamous epithelium peculiarly atrophic, less than 1% thickness",skin_sun
+GTEX-WYJK-0126,Skin - Sun Exposed (Lower leg),GTEX-WYJK,male,50-59,Ventilator case,,"6 pieces, up to 8x3mm; squmous epithlium is ~~2% thickness",skin_sun
+GTEX-WYVS-2126,Skin - Sun Exposed (Lower leg),GTEX-WYVS,female,40-49,Ventilator case,,"6 pieces, up to 10x3mm; sqaumous epithilum is ~2% thickness",skin_sun
+GTEX-WZTO-0126,Skin - Sun Exposed (Lower leg),GTEX-WZTO,male,40-49,Fast death - violent,,"6 pieces, up to 6.5x3mm; squamous epithelium is ~2-3% thickness",skin_sun
+GTEX-X15G-2226,Skin - Sun Exposed (Lower leg),GTEX-X15G,female,50-59,Ventilator case,,"6 pieces, up to 5x2mm; squamous epithelium is ~2-3% thickness",skin_sun
+GTEX-X261-0126,Skin - Sun Exposed (Lower leg),GTEX-X261,male,50-59,Slow death,,"6 pieces, up to 6x2mm; subcutaneous fat well trimmed",skin_sun
+GTEX-X3Y1-2126,Skin - Sun Exposed (Lower leg),GTEX-X3Y1,male,40-49,Ventilator case,,"6 pieces, up to 8x4.5mm; too much subcutaneous adipose (up to 1.5 mm)",skin_sun
+GTEX-X4EO-0326,Skin - Sun Exposed (Lower leg),GTEX-X4EO,female,60-69,Intermediate death,,"6 pieces, up to 8x2mm; well trimmed but with central holes (artifacts)",skin_sun
+GTEX-X4EP-0126,Skin - Sun Exposed (Lower leg),GTEX-X4EP,female,60-69,Slow death,,"6 pieces, up to 7.5x2mm; squamous epithelium is ~2% thickness",skin_sun
+GTEX-X4LF-1626,Skin - Sun Exposed (Lower leg),GTEX-X4LF,male,50-59,Ventilator case,,"6 pieces, up to 11x2mm; squamous epitherlium is ~2-3% of thickness",skin_sun
+GTEX-X4XX-0126,Skin - Sun Exposed (Lower leg),GTEX-X4XX,male,60-69,Slow death,,"6 pieces, up to 7x3mm;  Well trimmed, no subcutaneous adipose, but internal adipose is up to 30%.",skin_sun
+GTEX-X4XY-0226,Skin - Sun Exposed (Lower leg),GTEX-X4XY,male,60-69,Ventilator case,,"6 pieces, up to 7x3mm; well dissected without subcutaneous  adipose",skin_sun
+GTEX-X585-0226,Skin - Sun Exposed (Lower leg),GTEX-X585,male,50-59,Slow death,,"6 pieces, up to 8x3mm;  Well trimmed, free of subcutaneous adipose.",skin_sun
+GTEX-X5EB-2226,Skin - Sun Exposed (Lower leg),GTEX-X5EB,male,40-49,Ventilator case,,"6 pieces, up to 11x3mm; squamous epithelium is ~1% thickness",skin_sun
+GTEX-X62O-0126,Skin - Sun Exposed (Lower leg),GTEX-X62O,male,50-59,Ventilator case,,"6 pieces, up to 7x2mm; squamous epitheiium is ~2% of thickness",skin_sun
+GTEX-X638-0126,Skin - Sun Exposed (Lower leg),GTEX-X638,female,70-79,Ventilator case,,"6 pieces, up to 8x3.5mm;  All have considerable subcutaneous adipose up to 3.5x 1 mm.",skin_sun
+GTEX-X88G-0126,Skin - Sun Exposed (Lower leg),GTEX-X88G,male,30-39,Ventilator case,,"6 pieces  ~8x4mm.  Squamous epithelium is ~2% thickness.  Small nubbins of adherent fat, delineated",skin_sun
+GTEX-X8HC-0126,Skin - Sun Exposed (Lower leg),GTEX-X8HC,female,50-59,Ventilator case,,"6 pieces, up to 8x4mm; 3 with 1 mm subcutaneous adipose",skin_sun
+GTEX-XAJ8-0826,Skin - Sun Exposed (Lower leg),GTEX-XAJ8,male,40-49,Ventilator case,,6 pieces  ~8x3mm; squamous epithelium is ~1.5-2% of thickness,skin_sun
+GTEX-XBEC-0226,Skin - Sun Exposed (Lower leg),GTEX-XBEC,male,50-59,Fast death - natural causes,,"6 pieces, up to 8x3mm; squamous epithelium is ~2% of thickness",skin_sun
+GTEX-XBED-2226,Skin - Sun Exposed (Lower leg),GTEX-XBED,male,60-69,Ventilator case,,"6 pieces, up to 6.5x3mm; Well trimmed of subcutaneous adipose",skin_sun
+GTEX-XBEW-0626,Skin - Sun Exposed (Lower leg),GTEX-XBEW,male,40-49,Ventilator case,,"6 pieces, up to 8x3.5mm; squamous epithelium is ~2% thickness",skin_sun
+GTEX-XGQ4-2126,Skin - Sun Exposed (Lower leg),GTEX-XGQ4,male,50-59,Ventilator case,,6 pieces up to 6.5x4mm  Squamous epithelium is ~1-2% thickness,skin_sun
+GTEX-XK95-0326,Skin - Sun Exposed (Lower leg),GTEX-XK95,male,40-49,Ventilator case,,6 pieces. up to 7x2mm; 3/6 have up to 0.8 mm subcutaneous adipose.,skin_sun
+GTEX-XLM4-0126,Skin - Sun Exposed (Lower leg),GTEX-XLM4,male,60-69,Intermediate death,,"6 pieces, up to 7x3mm; Squamous epithelium thiinner than usual (25microns),  ~1% thickness",skin_sun
+GTEX-XMD1-0226,Skin - Sun Exposed (Lower leg),GTEX-XMD1,male,60-69,Slow death,,"6 pieces up to 6.5x3mm; squamous mucosa markedly atrophic, <1% of thickness",skin_sun
+GTEX-XMD2-0126,Skin - Sun Exposed (Lower leg),GTEX-XMD2,female,60-69,Ventilator case,,"6 pieces, up to 7.5x3mm; well trimmed, no subcutaneous adipose",skin_sun
+GTEX-XMD3-0126,Skin - Sun Exposed (Lower leg),GTEX-XMD3,female,50-59,Ventilator case,,6 pieces. up to 7.5x3mm; up to 1 mm subcutaneous adipose,skin_sun
+GTEX-XMK1-2126,Skin - Sun Exposed (Lower leg),GTEX-XMK1,male,40-49,Ventilator case,,6 pieces. up to 9x4mm; squamous epithelium~1.5% thickness,skin_sun
+GTEX-XOT4-0126,Skin - Sun Exposed (Lower leg),GTEX-XOT4,female,60-69,Fast death - natural causes,,6 pieces. up to 8x3mm; subcutaneous adipose in 2/6,skin_sun
+GTEX-XOTO-0126,Skin - Sun Exposed (Lower leg),GTEX-XOTO,male,50-59,Fast death - natural causes,,6 pieces. up to 8x3mm; squamous epithelium is ~2-3% thickness,skin_sun
+GTEX-XPT6-1826,Skin - Sun Exposed (Lower leg),GTEX-XPT6,male,20-29,Ventilator case,,"6 pieces ~8x4mm, squamous epithelium is ~1-2% thickness",skin_sun
+GTEX-XPVG-2626,Skin - Sun Exposed (Lower leg),GTEX-XPVG,male,50-59,Ventilator case,,6 pieces. up to 5x4.5mm; well trimmed,skin_sun
+GTEX-XQ3S-1526,Skin - Sun Exposed (Lower leg),GTEX-XQ3S,male,20-29,Fast death - violent,,"6 pieces, up to 7x4mm; squamous epithelium is ~1-2% thickness",skin_sun
+GTEX-XQ8I-0426,Skin - Sun Exposed (Lower leg),GTEX-XQ8I,male,50-59,Ventilator case,,"6 pieces, up to 8x2.5mm; 1 piece without epidermis (in this cut). most subcutaneous adipose trimmed",skin_sun
+GTEX-XUJ4-2426,Skin - Sun Exposed (Lower leg),GTEX-XUJ4,female,60-69,Ventilator case,,"6 pieces, up to 12x4mm;  squamous epithelium ~1-2% thickness",skin_sun
+GTEX-XUW1-0426,Skin - Sun Exposed (Lower leg),GTEX-XUW1,female,50-59,Ventilator case,,"6 pieces, up to 8x3mm; well trimmed, virtually free of subcutaneous adipose",skin_sun
+GTEX-XUYS-0126,Skin - Sun Exposed (Lower leg),GTEX-XUYS,male,50-59,Ventilator case,,"6 pieces, up to 12x5.5mm.  All have large amounts of subcutaneous adipose tissue, up to 4.7 mm thick (skin is 3mm thick); 2 have attached subcutaneous veins",skin_sun
+GTEX-XUZC-1726,Skin - Sun Exposed (Lower leg),GTEX-XUZC,female,30-39,Ventilator case,,"8 pieces, up to 11x5mm; squamous epithelium is ~2% thickness",skin_sun
+GTEX-XV7Q-2526,Skin - Sun Exposed (Lower leg),GTEX-XV7Q,female,40-49,Ventilator case,,"6 pieces, up to 11x3.5mm;  ~2% thickness is squamous epithelium",skin_sun
+GTEX-XXEK-2226,Skin - Sun Exposed (Lower leg),GTEX-XXEK,male,50-59,Ventilator case,solar_elastosis,"6 pieces, up to 8x4mm; squamous epithelium is ~2.5-3% thickness.  Solar elastosis of papillary dermis",skin_sun
+GTEX-XYKS-2126,Skin - Sun Exposed (Lower leg),GTEX-XYKS,female,60-69,Ventilator case,,"6 pieces, up to 9x5mm; up to 2mm of subcutaneous adipose with several large vessels",skin_sun
+GTEX-Y111-0126,Skin - Sun Exposed (Lower leg),GTEX-Y111,male,50-59,Fast death - violent,,"6 pieces, up to 11.5x4mm;",skin_sun
+GTEX-Y114-2426,Skin - Sun Exposed (Lower leg),GTEX-Y114,female,50-59,Ventilator case,,"6 pieces, up to 9x3.5mm; squamous epithelium is ~3%  ofthickness",skin_sun
+GTEX-Y3I4-2126,Skin - Sun Exposed (Lower leg),GTEX-Y3I4,male,50-59,Ventilator case,,"6 pieces, up to 10x4mm; squamous epithelium is ~2% thickness.  Adherent subcutaneous fat on several, up to 1.5mm thick",skin_sun
+GTEX-Y3IK-2426,Skin - Sun Exposed (Lower leg),GTEX-Y3IK,female,50-59,Ventilator case,,"6 pieces, up to 9x2mm. Well trimmed, but with 10-20%  intradermal adipose",skin_sun
+GTEX-Y5LM-1926,Skin - Sun Exposed (Lower leg),GTEX-Y5LM,female,40-49,Ventilator case,,6 pieces. up to 10x3.5mm; 5 of 6 have well trimmed deep aspect.,skin_sun
+GTEX-Y5V5-2326,Skin - Sun Exposed (Lower leg),GTEX-Y5V5,female,60-69,Ventilator case,,"6 pieces, up to 12x2.5mm; squamous epithelium is ~1-2% thickness",skin_sun
+GTEX-Y5V6-2426,Skin - Sun Exposed (Lower leg),GTEX-Y5V6,male,60-69,Ventilator case,,"6 pieces, up to 7x4mm; well dissected",skin_sun
+GTEX-Y8DK-0126,Skin - Sun Exposed (Lower leg),GTEX-Y8DK,male,60-69,Fast death - natural causes,,6 pieces up to 8 x 3 mm.  Well trimmed of subcutaneous adipose tissue.,skin_sun
+GTEX-Y8E4-0626,Skin - Sun Exposed (Lower leg),GTEX-Y8E4,male,40-49,Ventilator case,,"1 piece 9x3 mm, well trimmed of adipose",skin_sun
+GTEX-Y8E5-0126,Skin - Sun Exposed (Lower leg),GTEX-Y8E5,male,60-69,Ventilator case,,"6 pieces, up to 8x4mm; squamous epithelium ~1%thickness",skin_sun
+GTEX-Y8LW-1826,Skin - Sun Exposed (Lower leg),GTEX-Y8LW,female,50-59,Ventilator case,,"1 piece, 11x2mm; squamous epithelium is 1-1.%% thickness",skin_sun
+GTEX-Y9LG-2126,Skin - Sun Exposed (Lower leg),GTEX-Y9LG,male,30-39,Ventilator case,,1 piece 5x3mm; well trimmed,skin_sun
+GTEX-YB5E-2026,Skin - Sun Exposed (Lower leg),GTEX-YB5E,male,40-49,Ventilator case,,"1 piece, 10.5x2mm; squamous epithelium is ~1.5% thickness",skin_sun
+GTEX-YB5K-2126,Skin - Sun Exposed (Lower leg),GTEX-YB5K,female,40-49,Ventilator case,,1 piece. 10x4mm; well trimmed subcutaneous fat; about 10% internal adipose.,skin_sun
+GTEX-YBZK-0126,Skin - Sun Exposed (Lower leg),GTEX-YBZK,female,50-59,Ventilator case,,"6 pieces , ~13x4mm  : all have residual subcutaneous adipose tissue up to 2mm in thickness; skin is up to 3.5mm thick",skin_sun
+GTEX-YEC3-1826,Skin - Sun Exposed (Lower leg),GTEX-YEC3,male,50-59,Ventilator case,,"1 piece, 9x3mm; correlates with 1825",skin_sun
+GTEX-YEC4-2126,Skin - Sun Exposed (Lower leg),GTEX-YEC4,male,40-49,Ventilator case,,"1 piece (8x3mm), correlates with2125",skin_sun
+GTEX-YECK-0126,Skin - Sun Exposed (Lower leg),GTEX-YECK,male,60-69,Intermediate death,,1 piece; correlates with -0125,skin_sun
+GTEX-YF7O-2326,Skin - Sun Exposed (Lower leg),GTEX-YF7O,male,50-59,Ventilator case,,"1 piece; well trimmed, comparable to 25 block",skin_sun
+GTEX-YFC4-0126,Skin - Sun Exposed (Lower leg),GTEX-YFC4,female,40-49,Fast death - violent,,1 piece.  Correlates perfectly with -0125 above.,skin_sun
+GTEX-YFCO-2126,Skin - Sun Exposed (Lower leg),GTEX-YFCO,male,40-49,Ventilator case,,"6 pieces; well-trimmed, squamous epithelium measures ~ 1-1.5% of thickness.",skin_sun
+GTEX-YJ89-0126,Skin - Sun Exposed (Lower leg),GTEX-YJ89,male,60-69,Fast death - natural causes,,6 pieces; residual adipose tissue comprises ~5-10%; squamous epithelium is 1.5-3% of thickness.,skin_sun
+GTEX-YJ8A-0426,Skin - Sun Exposed (Lower leg),GTEX-YJ8A,male,20-29,Ventilator case,,6 pieces; too much subcutaneous fat on 4 of 6,skin_sun
+GTEX-YJ8O-2326,Skin - Sun Exposed (Lower leg),GTEX-YJ8O,female,40-49,Fast death - violent,,"6 pieces, some have adherent fat up to ~1mm; squamous epithelium is ~50-60microns thick",skin_sun
+GTEX-Z93S-0126,Skin - Sun Exposed (Lower leg),GTEX-Z93S,male,50-59,Fast death - natural causes,,"6 pieces, squamous epithelium is ~80 microns thick",skin_sun
+GTEX-Z93T-0126,Skin - Sun Exposed (Lower leg),GTEX-Z93T,male,50-59,Fast death - natural causes,,6 pieces. 3 well trimmed; 3 with subcutaneous fat up to 1 mm.,skin_sun
+GTEX-Z9EW-1626,Skin - Sun Exposed (Lower leg),GTEX-Z9EW,male,40-49,Ventilator case,,"6 pieces, minimal subcutaneous fat; squamou epithelium is ~ 40-60 microns thick",skin_sun
+GTEX-ZA64-1926,Skin - Sun Exposed (Lower leg),GTEX-ZA64,male,20-29,Ventilator case,,"6 pieces, minimal subcutaneous fat; squamous epitheliums is ~0.05-0.1mm thick",skin_sun
+GTEX-ZAB4-0226,Skin - Sun Exposed (Lower leg),GTEX-ZAB4,male,40-49,Slow death,,6 pieces. Well trimmed.,skin_sun
+GTEX-ZAB5-1826,Skin - Sun Exposed (Lower leg),GTEX-ZAB5,male,50-59,Ventilator case,,"6 pieces, 3 with up to 10% adipose tissue",skin_sun
+GTEX-ZAJG-0126,Skin - Sun Exposed (Lower leg),GTEX-ZAJG,female,50-59,Intermediate death,,6 pieces.  Squamous epithelium is ~3% of thickness.  Minimal dermal fat,skin_sun
+GTEX-ZAK1-0126,Skin - Sun Exposed (Lower leg),GTEX-ZAK1,female,50-59,Fast death - natural causes,,"6 pieces, squamous epithelium is ~10microns thick, 1-2 % total thickness",skin_sun
+GTEX-ZAKK-0126,Skin - Sun Exposed (Lower leg),GTEX-ZAKK,male,70-79,Fast death - natural causes,,6 pieces. All 6 are poorly trimmed with up to 2.5  mm of subcutaneous fat (half the total thickness of the specimen).,skin_sun
+GTEX-ZC5H-0226,Skin - Sun Exposed (Lower leg),GTEX-ZC5H,female,40-49,Ventilator case,,"6 pieces, trace fat (~0.5mm) on a few sections.  Squamous epithelium is ~50-60 microns thick",skin_sun
+GTEX-ZDTS-0126,Skin - Sun Exposed (Lower leg),GTEX-ZDTS,male,60-69,Fast death - natural causes,,6 pieces; well trimmed of subcutaneous fat,skin_sun
+GTEX-ZDTT-2726,Skin - Sun Exposed (Lower leg),GTEX-ZDTT,male,60-69,Ventilator case,,"6 pieces, well-trimmed, squamous epithelium is about 1.5-2% of thickness.",skin_sun
+GTEX-ZDXO-3026,Skin - Sun Exposed (Lower leg),GTEX-ZDXO,male,60-69,Fast death - natural causes,,"6 pieces, squamous epithelium is ~40-50 microns thick.  Adherent dermal fat present in several sections, rep foci delineated",skin_sun
+GTEX-ZDYS-2026,Skin - Sun Exposed (Lower leg),GTEX-ZDYS,male,50-59,Ventilator case,,"6 pieces, dermal fat present in several sections, squamous epithelium is ~40-50 microns thick.",skin_sun
+GTEX-ZE7O-0126,Skin - Sun Exposed (Lower leg),GTEX-ZE7O,female,50-59,Fast death - natural causes,,6 pieces;  10-30% subcutaneous fat,skin_sun
+GTEX-ZE9C-2726,Skin - Sun Exposed (Lower leg),GTEX-ZE9C,male,60-69,Fast death - natural causes,,"6 pieces focal adherent fat delineated, minimal. Squamous epithelium is ~50 microns",skin_sun
+GTEX-ZEX8-2426,Skin - Sun Exposed (Lower leg),GTEX-ZEX8,male,50-59,Ventilator case,,6 pieces. Well trimmed.,skin_sun
+GTEX-ZF28-0126,Skin - Sun Exposed (Lower leg),GTEX-ZF28,male,60-69,Slow death,,6 pieces. well trimmed,skin_sun
+GTEX-ZF29-2326,Skin - Sun Exposed (Lower leg),GTEX-ZF29,female,60-69,Ventilator case,,"6 pieces, internal and attached dermal adipose tissue of 5-15% in all pieces",skin_sun
+GTEX-ZF2S-2326,Skin - Sun Exposed (Lower leg),GTEX-ZF2S,female,50-59,Ventilator case,,6 pieces. well dissected.,skin_sun
+GTEX-ZF3C-0126,Skin - Sun Exposed (Lower leg),GTEX-ZF3C,female,50-59,Ventilator case,,"6 pieces, 5-30% internal and attached dermal adipose tissue.  Squamous epithelium measures 35 to 60 microns thick.",skin_sun
+GTEX-ZG7Y-0626,Skin - Sun Exposed (Lower leg),GTEX-ZG7Y,male,50-59,Ventilator case,,"6 pieces, a few with ~1mm adherent dermal fat, delineated.  Squamous eptihelium is ~ 50 microns",skin_sun
+GTEX-ZGAY-0526,Skin - Sun Exposed (Lower leg),GTEX-ZGAY,female,40-49,Ventilator case,,"6 pieces, minimal adherent dermal fat.  Squamous epithelium is ~7-90 microns thick",skin_sun
+GTEX-ZLFU-2726,Skin - Sun Exposed (Lower leg),GTEX-ZLFU,male,40-49,Ventilator case,,6 pieces; small amount of subcutaneous fat,skin_sun
+GTEX-ZLV1-1726,Skin - Sun Exposed (Lower leg),GTEX-ZLV1,female,60-69,Ventilator case,,5 pieces.  Squamous epithelium is ~50-60 microns thick,skin_sun
+GTEX-ZLWG-2326,Skin - Sun Exposed (Lower leg),GTEX-ZLWG,female,50-59,Ventilator case,,"6 pieces, 5-10% attached and internal adipose tissue, squamous epithelium measures 30-40 microns in thickness",skin_sun
+GTEX-ZP4G-2426,Skin - Sun Exposed (Lower leg),GTEX-ZP4G,female,20-29,Ventilator case,,"6 pieces, minimal dermal fat, squamous epitheliums is ~50-60 microns, <!% thickness",skin_sun
+GTEX-ZPCL-2226,Skin - Sun Exposed (Lower leg),GTEX-ZPCL,female,60-69,Ventilator case,,2 pieces. Well trimmed except for 1mm subcutaneous fat on 1 piece.,skin_sun
+GTEX-ZPIC-1726,Skin - Sun Exposed (Lower leg),GTEX-ZPIC,female,40-49,Ventilator case,,"6 pieces, minimal dermal fat; squamous epithelium is ~80 microns thick",skin_sun
+GTEX-ZPU1-2526,Skin - Sun Exposed (Lower leg),GTEX-ZPU1,male,40-49,Ventilator case,,"6 pieces, up to 10% attached and internal adipose tissue, squamous epithelium is 50 to 75 microns thick",skin_sun
+GTEX-ZQG8-1626,Skin - Sun Exposed (Lower leg),GTEX-ZQG8,female,60-69,Ventilator case,edema,6  pieces. Atrophic skin (not adipose as originally labeled). Dermis is atrophic and edematous.,skin_sun
+GTEX-ZQUD-1426,Skin - Sun Exposed (Lower leg),GTEX-ZQUD,male,30-39,Ventilator case,,6 pieces.  Squamous epithelium is ~1.5-2% thickness; minimal dermal fat,skin_sun
+GTEX-ZT9W-2426,Skin - Sun Exposed (Lower leg),GTEX-ZT9W,male,50-59,Ventilator case,,6 pieces. well trimmed.,skin_sun
+GTEX-ZT9X-1726,Skin - Sun Exposed (Lower leg),GTEX-ZT9X,male,40-49,Ventilator case,,"6 pieces, trace adherent dermal fat on one, delineated",skin_sun
+GTEX-ZTPG-0326,Skin - Sun Exposed (Lower leg),GTEX-ZTPG,female,20-29,Ventilator case,,"6 pieces, well trimmed",skin_sun
+GTEX-ZTSS-1926,Skin - Sun Exposed (Lower leg),GTEX-ZTSS,male,40-49,Ventilator case,,6 pieces. Well trimmed; up to 0.5 mm fat,skin_sun
+GTEX-ZTTD-0126,Skin - Sun Exposed (Lower leg),GTEX-ZTTD,male,50-59,Intermediate death,,"6 pieces, adherent dermal fat up to ~1mm on several.  Squamous integument is ~40 microns",skin_sun
+GTEX-ZTX8-1426,Skin - Sun Exposed (Lower leg),GTEX-ZTX8,male,20-29,Ventilator case,,"6 pieces, squamous epithelium is ~50 microns thick",skin_sun
+GTEX-ZU9S-0226,Skin - Sun Exposed (Lower leg),GTEX-ZU9S,male,30-39,Fast death - natural causes,,6 pieces. Up to 1 mm subcutaneous fat.,skin_sun
+GTEX-ZUA1-0126,Skin - Sun Exposed (Lower leg),GTEX-ZUA1,male,40-49,Fast death - natural causes,,6 pieces. Well trimmed,skin_sun
+GTEX-ZV68-0126,Skin - Sun Exposed (Lower leg),GTEX-ZV68,female,50-59,Fast death - natural causes,,"6 pieces.  Prominent adherent dermal fat on 4/6 up to ~2.5mm thick, delineated",skin_sun
+GTEX-ZV6S-2326,Skin - Sun Exposed (Lower leg),GTEX-ZV6S,female,40-49,Ventilator case,,"6 pieces, well trimmed, squamous epithelium measures 50-70 microns thick",skin_sun
+GTEX-ZV7C-2226,Skin - Sun Exposed (Lower leg),GTEX-ZV7C,male,50-59,Ventilator case,,3 pieces squamous epithelium is ~100microns,skin_sun
+GTEX-ZVE1-0126,Skin - Sun Exposed (Lower leg),GTEX-ZVE1,female,50-59,Ventilator case,,"6 pieces, well trimmed, squamous epithelium is 30-65 microns thick",skin_sun
+GTEX-ZVE2-0226,Skin - Sun Exposed (Lower leg),GTEX-ZVE2,male,50-59,Ventilator case,,"6 pieces, well trimmed",skin_sun
+GTEX-ZVP2-1926,Skin - Sun Exposed (Lower leg),GTEX-ZVP2,male,50-59,Ventilator case,,"3 pieces, largest piece has ~15--20% attached adipose tissue, squamous epithelium is 30-45 microns thick",skin_sun
+GTEX-ZVT2-2526,Skin - Sun Exposed (Lower leg),GTEX-ZVT2,female,50-59,Ventilator case,,"3 pieces, well dissected",skin_sun
+GTEX-ZVT3-0126,Skin - Sun Exposed (Lower leg),GTEX-ZVT3,female,60-69,Fast death - natural causes,,"6 pieces, minimal fat",skin_sun
+GTEX-ZVT4-0126,Skin - Sun Exposed (Lower leg),GTEX-ZVT4,female,50-59,Intermediate death,,"6 pieces, minimal adherent fat",skin_sun
+GTEX-ZVTK-0426,Skin - Sun Exposed (Lower leg),GTEX-ZVTK,male,20-29,Fast death - violent,,6 pieces; well trimmed,skin_sun
+GTEX-ZVZO-0126,Skin - Sun Exposed (Lower leg),GTEX-ZVZO,male,40-49,Fast death - violent,,"6 pieces, each with attached adipose tissue from 20-50%, squamous epithelium measures 30-50 microns thick",skin_sun
+GTEX-ZVZP-2426,Skin - Sun Exposed (Lower leg),GTEX-ZVZP,male,50-59,Ventilator case,,6 pieces; well trimmed,skin_sun
+GTEX-ZVZQ-0326,Skin - Sun Exposed (Lower leg),GTEX-ZVZQ,female,60-69,Fast death - violent,,"6 pieces, minimal fat, squamous epithelium is ~50-70 microns",skin_sun
+GTEX-ZWKS-0126,Skin - Sun Exposed (Lower leg),GTEX-ZWKS,male,30-39,Slow death,,"6 pieces, squamous epithelium is ~50-75 microns; minimal adherent fat",skin_sun
+GTEX-ZXES-1826,Skin - Sun Exposed (Lower leg),GTEX-ZXES,female,30-39,Ventilator case,,"6 pieces, minimal attached fat, squamous epithelium is 40-50 microns thick",skin_sun
+GTEX-ZXG5-0126,Skin - Sun Exposed (Lower leg),GTEX-ZXG5,male,60-69,Intermediate death,,6 pieces; well trimmed of fat,skin_sun
+GTEX-ZY6K-1826,Skin - Sun Exposed (Lower leg),GTEX-ZY6K,male,50-59,Ventilator case,,"6 pieces, well trimmed, squamous epithelium measures 23 to 54 microns thick",skin_sun
+GTEX-ZYFC-0226,Skin - Sun Exposed (Lower leg),GTEX-ZYFC,male,50-59,Fast death - natural causes,,"6 pieces, predominantly well trimmed, up to 10% internal and attached fat, squamous epithelium measures 30-40 microns thick",skin_sun
+GTEX-ZYFD-0126,Skin - Sun Exposed (Lower leg),GTEX-ZYFD,male,50-59,Intermediate death,,6 pieces; up to 1 mm subcutaneous fat on all,skin_sun
+GTEX-ZYFG-2326,Skin - Sun Exposed (Lower leg),GTEX-ZYFG,female,60-69,Ventilator case,,6 pieces; well trimmed,skin_sun
+GTEX-ZYT6-0226,Skin - Sun Exposed (Lower leg),GTEX-ZYT6,male,30-39,Fast death - violent,,"6 pieces, squamous epithelium is ~50-70 microns; minimal nubbins adherent dermal fat, delineated",skin_sun
+GTEX-ZYVF-0126,Skin - Sun Exposed (Lower leg),GTEX-ZYVF,female,50-59,Ventilator case,,"6  pieces, trace dermal fat, delineated; squamous epithelium is ~70-90 microns thick",skin_sun
+GTEX-ZYW4-0126,Skin - Sun Exposed (Lower leg),GTEX-ZYW4,male,60-69,Intermediate death,,"6 pieces, 4 have up to 0.5 mm fat",skin_sun
+GTEX-ZYWO-2426,Skin - Sun Exposed (Lower leg),GTEX-ZYWO,female,40-49,Ventilator case,,"5 pieces, include up to 30% attached and internal fat, squamous epithelium is 30-45 microns thick",skin_sun
+GTEX-ZYY3-0126,Skin - Sun Exposed (Lower leg),GTEX-ZYY3,female,60-69,Slow death,,"6 pieces, minimal fat",skin_sun
+GTEX-ZZ64-1726,Skin - Sun Exposed (Lower leg),GTEX-ZZ64,male,20-29,Ventilator case,,6 pieces,skin_sun
+GTEX-ZZPT-0226,Skin - Sun Exposed (Lower leg),GTEX-ZZPT,male,50-59,Slow death,edema,"6 pieces; squamous epithelium is ~1.5-2% thickness, ~30-40 microns.  Dermis appears edematous",skin_sun
+GTEX-ZZPU-2526,Skin - Sun Exposed (Lower leg),GTEX-ZZPU,female,50-59,Ventilator case,,"6 pieces, all with significant attached adipose tissue, likely 50+%, central holes (? poor fixation), squamous epithelium is 27 to 44 microns thick",skin_sun
