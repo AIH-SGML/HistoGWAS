@@ -3,7 +3,8 @@
 Code and job scripts for reproducing the HistoGWAS analyses: slide preprocessing,
 encoder selection, genome-wide association, and downstream characterisation.
 
-Preprint: [HistoGWAS: An AI Framework for Automated and Interpretable Genetic Analysis of Tissue Phenotypes](https://www.biorxiv.org/content/10.1101/2024.06.09.597752v3)
+Article: HistoGWAS: an AI-enabled framework for automated genetic analysis of tissue phenotypes in histology cohorts  
+https://doi.org/10.1186/s13059-026-04031-z
 
 Please raise an issue for questions and bug reports.
 
@@ -53,12 +54,11 @@ Each script directory documents its own CLI arguments and expected inputs.
 
 ## Citation
 ```
-@article{chaudhary2024histogwas,
-  title={HistoGWAS: An AI-enabled Framework for Automated Genetic Analysis of Tissue Phenotypes in Histology Cohorts},
+@article{chaudhary2026histogwas,
+  title={HistoGWAS: an AI-enabled framework for automated genetic analysis of tissue phenotypes in histology cohorts},
   author={Chaudhary, Shubham and Voigts, Almut and Bereket, Michael and Albert, Matthew L and Schwamborn, Kristina and Zeggini, Eleftheria and Casale, Francesco Paolo},
-  journal={bioRxiv},
-  pages={2024--06},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory}
+  journal={Genome Biology},
+  year={2026},
+  doi={10.1186/s13059-026-04031-z}
 }
 ```
