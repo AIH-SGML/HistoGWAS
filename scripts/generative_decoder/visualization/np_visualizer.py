@@ -9,7 +9,7 @@ from PIL import Image
 
 def make_numpy_grid(arrays_list, gridMaxWidth=2048,
                     imgMinSize=128,
-                    interpolation='nearest'):
+                    interpolation='nearest', nrow=None):
 
     # NCWH format
     N, C, W, H = arrays_list.shape
@@ -23,7 +23,12 @@ def make_numpy_grid(arrays_list, gridMaxWidth=2048,
 
     imgSize = max(W, imgMinSize)
     imgHeight = int((float(imgSize) / W) * H)
-    nImgsPerRows = min(N, int(gridMaxWidth // imgSize))
+
+    if nrow is None:
+        nImgsPerRows = min(N, int(gridMaxWidth // imgSize))
+    else:
+        nImgsPerRows = min(N, max(1, int(nrow)))
+
 
     gridWidth = nImgsPerRows * imgSize
 
@@ -95,7 +100,7 @@ def saveTensor(data, out_size_image, path):
         out_size_image = out_size_image[0]
     data = torch.clamp(data, min=-1, max=1)
     outdata = make_numpy_grid(
-        data.numpy(), imgMinSize=out_size_image, interpolation=interpolation)
+        data.numpy(), imgMinSize=out_size_image, interpolation=interpolation, nrow=8)
     imageio.imwrite(path, outdata)
 
 

@@ -56,7 +56,7 @@ def run_jobs(tissue_hyperparameter):
     command --cluster_mean to be used only when you want take mean across each cluster within a biopsy
     '''
     
-    command = f"python {PROJECT_ROOT}/train.py PGAN -c {PROJECT_ROOT}/config/config_{tissue_hyperparameter['tissue']}.json -n {tissue_hyperparameter['tissue']} --dir {tissue_hyperparameter['outdir']} --dimEmb 64"
+    command = f"python {PROJECT_ROOT}/train.py PGAN -c {PROJECT_ROOT}/config/config_{tissue_hyperparameter['tissue']}.json -n {tissue_hyperparameter['tissue']} --dir {tissue_hyperparameter['outdir']} --dimEmb 64 --np_vis"
     # os.system(command)
     submit_job(command, opts)
 
@@ -91,12 +91,12 @@ tissue_list = [
 #     'Stomach',
 #     'Esophagus_Mucosa',
     # 'Skin_Sun_Exposed_Lower_leg',
-    # 'Thyroid',
+    'Thyroid',
 #     'Osteoarthritis',
 # 'Esophagus_Muscularis',
 # 'Pancreas',
 # 'Artery_Tibial'
-'Stomach'
+# 'Stomach'
 ]
 
 
